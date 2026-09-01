@@ -1,0 +1,697 @@
+{
+  "period": [
+    "2020-01-02",
+    "2026-08-27"
+  ],
+  "buy_hold_cny": 302190.0,
+  "strategies": {
+    "01_dual_strict": {
+      "final_cny": 162980.41,
+      "return_pct": 62.98,
+      "entries": 7,
+      "completed_trades": 7,
+      "profitable_trades": 7,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-07-22",
+          "entry_price": 1851.0,
+          "exit": "2020-08-06",
+          "exit_price": 2049.15,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-12-10",
+          "entry_price": 1834.2,
+          "exit": "2021-01-13",
+          "exit_price": 1852.4,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2023-03-08",
+          "entry_price": 1813.35,
+          "exit": "2023-03-24",
+          "exit_price": 1996.15,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-12-03",
+          "entry_price": 2645.35,
+          "exit": "2025-02-13",
+          "exit_price": 2917.45,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-05-27",
+          "entry_price": 3295.75,
+          "exit": "2025-08-19",
+          "exit_price": 3337.9,
+          "exit_reason": "time_60d"
+        }
+      ]
+    },
+    "02_temperature_average": {
+      "final_cny": 143202.16,
+      "return_pct": 43.2,
+      "entries": 7,
+      "completed_trades": 7,
+      "profitable_trades": 6,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-08-26",
+          "entry_price": 1918.5,
+          "exit": "2020-11-19",
+          "exit_price": 1857.4,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-12-10",
+          "entry_price": 1834.2,
+          "exit": "2021-01-13",
+          "exit_price": 1852.4,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2023-03-08",
+          "entry_price": 1813.35,
+          "exit": "2023-03-24",
+          "exit_price": 1996.15,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-05-27",
+          "entry_price": 3295.75,
+          "exit": "2025-08-19",
+          "exit_price": 3337.9,
+          "exit_reason": "time_60d"
+        }
+      ]
+    },
+    "03_long_environment": {
+      "final_cny": 188377.9,
+      "return_pct": 88.38,
+      "entries": 8,
+      "completed_trades": 8,
+      "profitable_trades": 7,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-08-26",
+          "entry_price": 1918.5,
+          "exit": "2020-11-19",
+          "exit_price": 1857.4,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-02-08",
+          "entry_price": 1880.75,
+          "exit": "2023-05-09",
+          "exit_price": 2025.6,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-05-02",
+          "entry_price": 2300.55,
+          "exit": "2024-05-17",
+          "exit_price": 2831.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-05-27",
+          "entry_price": 3295.75,
+          "exit": "2025-08-19",
+          "exit_price": 3337.9,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "04_momentum_alignment": {
+      "final_cny": 189210.74,
+      "return_pct": 89.21,
+      "entries": 11,
+      "completed_trades": 11,
+      "profitable_trades": 8,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2021-06-11",
+          "entry_price": 1891.95,
+          "exit": "2021-09-03",
+          "exit_price": 1812.05,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2022-03-21",
+          "entry_price": 1925.05,
+          "exit": "2022-05-26",
+          "exit_price": 1845.15,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2022-12-09",
+          "entry_price": 1793.0,
+          "exit": "2023-03-08",
+          "exit_price": 1813.35,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-04-21",
+          "entry_price": 1986.1,
+          "exit": "2023-07-20",
+          "exit_price": 1981.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-11-14",
+          "entry_price": 1946.55,
+          "exit": "2024-02-09",
+          "exit_price": 2031.65,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-05-02",
+          "entry_price": 2300.55,
+          "exit": "2024-05-17",
+          "exit_price": 2831.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-03-04",
+          "entry_price": 2911.6,
+          "exit": "2025-04-11",
+          "exit_price": 3213.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "05_dollar_real_yield": {
+      "final_cny": 144006.32,
+      "return_pct": 44.01,
+      "entries": 12,
+      "completed_trades": 12,
+      "profitable_trades": 7,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-07-22",
+          "entry_price": 1851.0,
+          "exit": "2020-08-06",
+          "exit_price": 2049.15,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-08-26",
+          "entry_price": 1918.5,
+          "exit": "2020-11-19",
+          "exit_price": 1857.4,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-12-10",
+          "entry_price": 1834.2,
+          "exit": "2021-03-10",
+          "exit_price": 1711.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2021-06-11",
+          "entry_price": 1891.95,
+          "exit": "2021-07-14",
+          "exit_price": 1813.05,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2022-12-09",
+          "entry_price": 1793.0,
+          "exit": "2023-02-08",
+          "exit_price": 1880.75,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2023-04-21",
+          "entry_price": 1986.1,
+          "exit": "2023-07-20",
+          "exit_price": 1981.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-11-14",
+          "entry_price": 1946.55,
+          "exit": "2024-02-09",
+          "exit_price": 2031.65,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-15",
+          "exit_price": 2653.25,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2025-03-04",
+          "entry_price": 2911.6,
+          "exit": "2025-04-11",
+          "exit_price": 3213.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2026-05-01",
+          "entry_price": 4568.3,
+          "exit": "2026-06-03",
+          "exit_price": 4441.25,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "06_trend_continuation": {
+      "final_cny": 198236.25,
+      "return_pct": 98.24,
+      "entries": 11,
+      "completed_trades": 11,
+      "profitable_trades": 9,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-08-26",
+          "entry_price": 1918.5,
+          "exit": "2020-11-19",
+          "exit_price": 1857.4,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2022-03-21",
+          "entry_price": 1925.05,
+          "exit": "2022-06-20",
+          "exit_price": 1841.2,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-02-08",
+          "entry_price": 1880.75,
+          "exit": "2023-05-09",
+          "exit_price": 2025.6,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-05-02",
+          "entry_price": 2300.55,
+          "exit": "2024-05-17",
+          "exit_price": 2831.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-06-24",
+          "entry_price": 2327.2,
+          "exit": "2024-09-13",
+          "exit_price": 2571.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2024-10-15",
+          "entry_price": 2653.25,
+          "exit": "2025-01-10",
+          "exit_price": 2679.45,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2025-03-04",
+          "entry_price": 2911.6,
+          "exit": "2025-04-11",
+          "exit_price": 3213.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-05-27",
+          "entry_price": 3295.75,
+          "exit": "2025-08-19",
+          "exit_price": 3337.9,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "07_range_slope": {
+      "final_cny": 143300.09,
+      "return_pct": 43.3,
+      "entries": 9,
+      "completed_trades": 9,
+      "profitable_trades": 5,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2021-01-13",
+          "entry_price": 1852.4,
+          "exit": "2021-03-19",
+          "exit_price": 1737.2,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2021-06-11",
+          "entry_price": 1891.95,
+          "exit": "2021-07-14",
+          "exit_price": 1813.05,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2022-03-21",
+          "entry_price": 1925.05,
+          "exit": "2022-05-26",
+          "exit_price": 1845.15,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2023-04-21",
+          "entry_price": 1986.1,
+          "exit": "2023-07-20",
+          "exit_price": 1981.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-04-10",
+          "entry_price": 3106.65,
+          "exit": "2025-04-22",
+          "exit_price": 3454.7,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "08_mean_reversion": {
+      "final_cny": 105919.52,
+      "return_pct": 5.92,
+      "entries": 2,
+      "completed_trades": 2,
+      "profitable_trades": 1,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2021-07-14",
+          "entry_price": 1813.05,
+          "exit": "2021-10-06",
+          "exit_price": 1748.25,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-12-03",
+          "entry_price": 2645.35,
+          "exit": "2025-02-13",
+          "exit_price": 2917.45,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "09_majority_vote": {
+      "final_cny": 167733.23,
+      "return_pct": 67.73,
+      "entries": 11,
+      "completed_trades": 11,
+      "profitable_trades": 8,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-02-03",
+          "entry_price": 1578.85,
+          "exit": "2020-04-29",
+          "exit_price": 1706.0,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2020-05-11",
+          "entry_price": 1698.8,
+          "exit": "2020-07-23",
+          "exit_price": 1882.35,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2020-12-10",
+          "entry_price": 1834.2,
+          "exit": "2021-03-10",
+          "exit_price": 1711.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2021-06-11",
+          "entry_price": 1891.95,
+          "exit": "2021-07-14",
+          "exit_price": 1813.05,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2022-12-09",
+          "entry_price": 1793.0,
+          "exit": "2023-03-08",
+          "exit_price": 1813.35,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2023-04-21",
+          "entry_price": 1986.1,
+          "exit": "2023-07-20",
+          "exit_price": 1981.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-11-14",
+          "entry_price": 1946.55,
+          "exit": "2024-02-09",
+          "exit_price": 2031.65,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-03-04",
+          "entry_price": 2911.6,
+          "exit": "2025-04-11",
+          "exit_price": 3213.75,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "10_unanimous_selective": {
+      "final_cny": 142955.87,
+      "return_pct": 42.96,
+      "entries": 6,
+      "completed_trades": 6,
+      "profitable_trades": 4,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2020-07-22",
+          "entry_price": 1851.0,
+          "exit": "2020-08-06",
+          "exit_price": 2049.15,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2021-06-11",
+          "entry_price": 1891.95,
+          "exit": "2021-09-03",
+          "exit_price": 1812.05,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2023-04-21",
+          "entry_price": 1986.1,
+          "exit": "2023-07-20",
+          "exit_price": 1981.5,
+          "exit_reason": "time_60d"
+        },
+        {
+          "entry": "2024-09-02",
+          "entry_price": 2502.0,
+          "exit": "2024-10-30",
+          "exit_price": 2783.95,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-04-10",
+          "entry_price": 3106.65,
+          "exit": "2025-04-22",
+          "exit_price": 3454.7,
+          "exit_reason": "profit_10pct"
+        },
+        {
+          "entry": "2025-12-10",
+          "entry_price": 4191.4,
+          "exit": "2026-01-14",
+          "exit_price": 4633.0,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    }
+  }
+}

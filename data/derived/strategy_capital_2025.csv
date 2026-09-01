@@ -1,0 +1,11 @@
+strategy,final_cny,return_pct,entries,completed_trades,profitable_trades,open_position
+07_range_slope,136877.02,36.88,3,3,3,False
+09_majority_vote,135860.41,35.86,3,3,3,False
+05_dollar_real_yield,131817.93,31.82,4,4,3,False
+06_trend_continuation,122827.49,22.83,3,3,3,False
+10_unanimous_selective,122428.68,22.43,2,2,2,False
+04_momentum_alignment,121519.37,21.52,2,2,2,False
+03_long_environment,111502.4,11.5,2,2,2,False
+01_dual_strict,101076.46,1.08,1,1,1,False
+02_temperature_average,101076.46,1.08,1,1,1,False
+08_mean_reversion,100000.0,0.0,0,0,0,False

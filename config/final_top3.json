@@ -1,0 +1,26 @@
+[
+  {
+    "strategy": "10_vol15_target20",
+    "final_cny": 352442.36,
+    "return_pct": 252.44,
+    "max_drawdown_pct": -24.63,
+    "turnover": 14.34,
+    "average_weight": 0.947
+  },
+  {
+    "strategy": "09_vol10_target20",
+    "final_cny": 345863.87,
+    "return_pct": 245.86,
+    "max_drawdown_pct": -24.52,
+    "turnover": 20.6,
+    "average_weight": 0.949
+  },
+  {
+    "strategy": "43_vol20_macro_3_20_x50",
+    "final_cny": 345068.32,
+    "return_pct": 245.07,
+    "max_drawdown_pct": -26.06,
+    "turnover": 25.64,
+    "average_weight": 0.879
+  }
+]

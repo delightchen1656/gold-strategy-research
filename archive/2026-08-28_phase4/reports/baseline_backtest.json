@@ -1,0 +1,31 @@
+{
+  "warning": "Pipeline baseline, not an approved trading model",
+  "period": [
+    "2022-01-04",
+    "2026-08-27"
+  ],
+  "assumptions": {
+    "signal_lag_days": 1,
+    "forecast_horizon_trading_days": 20,
+    "transaction_cost_per_weight_change": 0.001
+  },
+  "strategy": {
+    "total_return": 0.06941574515294424,
+    "annualized_return": 0.014558272931813887,
+    "max_drawdown": -0.09252966894337178,
+    "annualized_volatility": 0.050594588974277994,
+    "calmar": 0.15733626952370877
+  },
+  "buy_and_hold": {
+    "total_return": 1.4059291729149739,
+    "annualized_return": 0.2081279897948134,
+    "max_drawdown": -0.3006485781172048,
+    "annualized_volatility": 0.17722014702680233,
+    "calmar": 0.6922633431303866
+  },
+  "latest": {
+    "date": "2026-08-27",
+    "predicted_20d_return": -0.0012325968297170961,
+    "model_weight": 0.0
+  }
+}

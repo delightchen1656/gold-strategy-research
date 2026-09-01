@@ -1,0 +1,3 @@
+date,london_gold_usd_oz,gold_futures,ratio_to_futures,quality_flag
+2022-07-20,1.0,1699.5,0.0005884083553986466,cross_market_outlier_excluded
+2026-01-02,1386.85,4314.39990234375,0.3214467901426126,cross_market_outlier_excluded

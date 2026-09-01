@@ -1,0 +1,13 @@
+{
+  "name": "03_core75_ma100",
+  "selected_at": "2026-08-28",
+  "basis": "highest 2020-present final capital among archived and phase3 candidates",
+  "metrics": {
+    "strategy": "03_core75_ma100",
+    "final_cny": 280113.59,
+    "return_pct": 180.11,
+    "max_drawdown_pct": -26.69,
+    "turnover": 14.5,
+    "average_gold_weight": 0.925
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "base_currency": "CNY",
+  "model_target": {
+    "name": "Gold London Fixing",
+    "quote": "USD per troy ounce",
+    "history_start": "2017-01-01"
+  },
+  "capital_cny": 100000.0,
+  "primary_fund": {
+    "code": "009505",
+    "name": "富国上海金ETF联接C",
+    "dealing_cutoff": "15:00",
+    "timezone": "Asia/Shanghai",
+    "confirmation": "T+1",
+    "status": "ledger_only_not_used_in_model"
+  },
+  "portfolio": {
+    "allowed_assets": ["cash", "gold_fund"],
+    "min_gold_weight": 0.0,
+    "max_gold_weight": 1.0,
+    "leverage": false,
+    "shorting": false
+  },
+  "risk": {
+    "defensive_drawdown": 0.10,
+    "reduce_drawdown": 0.12,
+    "hard_stop_drawdown": 0.15
+  },
+  "research": {
+    "decision_frequency": "daily",
+    "holding_horizon_trading_days": [10, 30],
+    "benchmark": "buy_and_hold_009505",
+    "require_out_of_sample_test": true
+  }
+}

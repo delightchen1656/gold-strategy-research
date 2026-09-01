@@ -1,0 +1,11 @@
+strategy,final_cny,return_pct,entries,profitable_trades
+07_range_slope,111801.44,11.8,1,1
+09_majority_vote,111801.44,11.8,1,1
+05_dollar_real_yield,108474.83,8.47,2,1
+01_dual_strict,100000.0,0.0,0,0
+02_temperature_average,100000.0,0.0,0,0
+03_long_environment,100000.0,0.0,0,0
+06_trend_continuation,100000.0,0.0,0,0
+04_momentum_alignment,100000.0,0.0,0,0
+08_mean_reversion,100000.0,0.0,0,0
+10_unanimous_selective,100000.0,0.0,0,0

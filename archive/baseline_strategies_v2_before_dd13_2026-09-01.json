@@ -1,0 +1,64 @@
+{
+  "baseline_version": "2.0.0",
+  "replaced_at": "2026-08-28",
+  "selection": "Composite ranking positions 1, 2 and 4",
+  "target": "Gold London Fixing, USD per troy ounce",
+  "evaluation": {
+    "blind_period": ["2025-01-01", "2026-08-27"],
+    "minimum_holding_trading_days": 7,
+    "signal_lag_fixings": 1,
+    "cost_per_weight_change": 0.001,
+    "shorting": false,
+    "leverage": false
+  },
+  "backtest_notional": {
+    "capital_per_strategy_cny": 50000.0,
+    "strategy_count": 3,
+    "note": "Research normalization only; not an actual account balance or position."
+  },
+  "strategies": [
+    {
+      "id": 1,
+      "name": "策略1",
+      "description_6zh": "低波趋势控仓",
+      "research_name": "low_vol_trend",
+      "execution_fund": {"code": "008987", "name": "广发上海金ETF联接C", "benchmark_family": "上海金SHAU"},
+      "rule": "weight = clip(0.10 / annualized_volatility_20d, 0.25, 0.75) when gold > MA200 and annualized_volatility_20d < 0.22, otherwise 0",
+      "composite_score": 82.3,
+      "blind_return_pct": 49.62,
+      "blind_max_drawdown_pct": -7.85,
+      "full_2020_return_pct": 93.70,
+      "full_2020_max_drawdown_pct": -23.51,
+      "current_target_weight": 0.5136
+    },
+    {
+      "id": 2,
+      "name": "策略2",
+      "description_6zh": "宏观三票防守",
+      "research_name": "macro_three_vote",
+      "execution_fund": {"code": "009505", "name": "富国上海金ETF联接C", "benchmark_family": "上海金SHAU"},
+      "rule": "weight = clip(0.12 / annualized_volatility_20d, 0.25, 1.00) only when gold > MA150 and all three votes are favorable: DXY_60d_return < 0, US_10y_real_yield_60d_change < 0, VIX_20d_return <= 0.15; otherwise 0",
+      "composite_score": 78.3,
+      "blind_return_pct": 21.16,
+      "blind_max_drawdown_pct": -2.43,
+      "full_2020_return_pct": 60.34,
+      "full_2020_max_drawdown_pct": -10.94,
+      "current_target_weight": 0.0
+    },
+    {
+      "id": 3,
+      "name": "策略3",
+      "description_6zh": "美元弱势控仓",
+      "research_name": "dollar_weakness",
+      "execution_fund": {"code": "008702", "name": "华夏黄金ETF联接C", "benchmark_family": "国内黄金现货Au99.99"},
+      "rule": "weight = clip(0.12 / annualized_volatility_20d, 0.25, 1.00) when gold > MA150 and DXY_60d_return < 0, otherwise 0",
+      "composite_score": 67.7,
+      "blind_return_pct": 37.32,
+      "blind_max_drawdown_pct": -7.13,
+      "full_2020_return_pct": 90.15,
+      "full_2020_max_drawdown_pct": -12.41,
+      "current_target_weight": 0.6163
+    }
+  ],
+  "replacement_policy": "Do not replace without a frozen scoring rule and an out-of-sample comparison."
+}

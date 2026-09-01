@@ -1,0 +1,29 @@
+{
+  "name": "基准4-DD13",
+  "objective": "maximize full-period return subject to maximum drawdown <= 13%",
+  "period": ["2020-01-02", "2026-08-28"],
+  "rule": {
+    "trend": "gold > MA250",
+    "full_risk_weight": "clip(0.15 / annualized_volatility_20d, 0.25, 1.00)",
+    "three_votes_fraction": 1.0,
+    "two_votes_fraction": 0.55,
+    "one_vote_fraction": 0.30,
+    "zero_votes_fraction": 0.0
+  },
+  "execution": {
+    "signal_lag_fixings": 1,
+    "minimum_holding_trading_days": 7,
+    "cost_per_weight_change": 0.001,
+    "shorting": false,
+    "leverage": false
+  },
+  "result": {
+    "return_pct": 100.45,
+    "max_drawdown_pct": -12.85,
+    "average_weight_pct": 40.22,
+    "days_in_gold_pct": 75.58,
+    "full_weight_days_pct": 15.44,
+    "last_executed_weight_pct": 42.37,
+    "final_cny_from_50000": 100225.0
+  }
+}

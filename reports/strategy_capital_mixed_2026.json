@@ -1,0 +1,132 @@
+{
+  "period": [
+    "2026-04-01",
+    "2026-08-27"
+  ],
+  "start_price": 4719.7,
+  "end_price": 4594.95,
+  "buy_hold_cny": 97356.82,
+  "strategies": {
+    "01_dual_strict": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "02_temperature_average": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "03_long_environment": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "04_momentum_alignment": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "05_dollar_real_yield": {
+      "final_cny": 108474.83,
+      "return_pct": 8.47,
+      "entries": 2,
+      "completed_trades": 2,
+      "profitable_trades": 1,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2026-05-01",
+          "entry_price": 4568.3,
+          "exit": "2026-06-03",
+          "exit_price": 4441.25,
+          "exit_reason": "down_signal"
+        },
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "06_trend_continuation": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "07_range_slope": {
+      "final_cny": 111801.44,
+      "return_pct": 11.8,
+      "entries": 1,
+      "completed_trades": 1,
+      "profitable_trades": 1,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "08_mean_reversion": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    },
+    "09_majority_vote": {
+      "final_cny": 111801.44,
+      "return_pct": 11.8,
+      "entries": 1,
+      "completed_trades": 1,
+      "profitable_trades": 1,
+      "open_position": false,
+      "trades": [
+        {
+          "entry": "2026-07-23",
+          "entry_price": 4090.1,
+          "exit": "2026-08-21",
+          "exit_price": 4581.95,
+          "exit_reason": "profit_10pct"
+        }
+      ]
+    },
+    "10_unanimous_selective": {
+      "final_cny": 100000.0,
+      "return_pct": 0.0,
+      "entries": 0,
+      "completed_trades": 0,
+      "profitable_trades": 0,
+      "open_position": false,
+      "trades": []
+    }
+  }
+}

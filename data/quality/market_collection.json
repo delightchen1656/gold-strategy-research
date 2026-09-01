@@ -1,0 +1,158 @@
+{
+  "collected_at_utc": "2026-08-31T22:20:41.980479+00:00",
+  "series": [
+    {
+      "source": "yahoo",
+      "series": "brent",
+      "symbol": "BZ=F",
+      "rows": 4809,
+      "first": "2007-07-30",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "usd_cny",
+      "symbol": "CNY=X",
+      "rows": 6572,
+      "first": "2001-06-24",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "gold_futures",
+      "symbol": "GC=F",
+      "rows": 6608,
+      "first": "2000-08-30",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "vix",
+      "symbol": "^VIX",
+      "rows": 6956,
+      "first": "2000-01-03",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "dollar_index",
+      "symbol": "DX-Y.NYB",
+      "rows": 8171,
+      "first": "2000-01-03",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "sp500",
+      "symbol": "^GSPC",
+      "rows": 6705,
+      "first": "2000-01-03",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "yahoo",
+      "series": "long_treasury_etf",
+      "symbol": "TLT",
+      "rows": 6061,
+      "first": "2002-07-30",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "fred",
+      "series": "us_10y_nominal_yield",
+      "symbol": "DGS10",
+      "rows": 16150,
+      "first": "1962-01-02",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "us_10y_real_yield",
+      "symbol": "DFII10",
+      "rows": 5919,
+      "first": "2003-01-02",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "us_10y_breakeven_inflation",
+      "symbol": "T10YIE",
+      "rows": 5920,
+      "first": "2003-01-02",
+      "last": "2026-08-31"
+    },
+    {
+      "source": "fred",
+      "series": "fed_funds_effective",
+      "symbol": "DFF",
+      "rows": 26357,
+      "first": "1954-07-01",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "broad_trade_weighted_usd",
+      "symbol": "DTWEXBGS",
+      "rows": 5179,
+      "first": "2006-01-02",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "usd_cny_official",
+      "symbol": "DEXCHUS",
+      "rows": 11397,
+      "first": "1981-01-02",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "brent_spot",
+      "symbol": "DCOILBRENTEU",
+      "rows": 9963,
+      "first": "1987-05-20",
+      "last": "2026-08-25"
+    },
+    {
+      "source": "fred",
+      "series": "vix_close",
+      "symbol": "VIXCLS",
+      "rows": 9262,
+      "first": "1990-01-02",
+      "last": "2026-08-28"
+    },
+    {
+      "source": "fred",
+      "series": "us_cpi",
+      "symbol": "CPIAUCSL",
+      "rows": 954,
+      "first": "1947-01-01",
+      "last": "2026-07-01"
+    },
+    {
+      "source": "fred",
+      "series": "us_unemployment",
+      "symbol": "UNRATE",
+      "rows": 942,
+      "first": "1948-01-01",
+      "last": "2026-07-01"
+    },
+    {
+      "source": "fred",
+      "series": "us_nonfarm_payrolls",
+      "symbol": "PAYEMS",
+      "rows": 1051,
+      "first": "1939-01-01",
+      "last": "2026-07-01"
+    },
+    {
+      "source": "eastmoney",
+      "series": "fund_009505_nav",
+      "symbol": "009505",
+      "rows": 1473,
+      "first": "2020-07-24",
+      "last": "2026-08-31"
+    }
+  ],
+  "errors": []
+}

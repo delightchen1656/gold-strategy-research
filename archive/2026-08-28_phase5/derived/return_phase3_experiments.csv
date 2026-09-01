@@ -1,0 +1,11 @@
+strategy,final_cny,return_pct,max_drawdown_pct,turnover,average_gold_weight
+03_core75_ma100,280113.59,180.11,-26.69,14.5,0.925
+06_macro_defensive_hold,269900.47,169.9,-27.69,43.0,0.926
+08_high_vol_break_defense,261518.61,161.52,-35.31,11.0,0.981
+07_core50_trend_macro,258805.66,158.81,-25.76,32.0,0.838
+04_momentum_or_60_120,245835.19,145.84,-25.76,43.0,0.828
+10_continuous_regime_vote,238628.24,138.63,-26.2,35.0,0.792
+05_graded_momentum,236459.97,136.46,-25.08,40.5,0.746
+09_drawdown_tiered,225746.37,125.75,-28.51,44.0,0.827
+01_ma100_hysteresis,225565.19,125.57,-25.27,17.0,0.754
+02_ma50_200_hysteresis,208352.97,108.35,-30.18,8.0,0.728

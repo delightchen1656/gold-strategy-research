@@ -1,0 +1,44 @@
+{
+  "strategy": "基准4｜宏观三票防守",
+  "source_strategy": "策略2",
+  "period": [
+    "2020-01-02",
+    "2026-08-28"
+  ],
+  "assumptions": {
+    "signal_lag_fixings": 1,
+    "minimum_holding_trading_days": 7,
+    "cost_per_weight_change_pct": 0.1,
+    "shorting": false,
+    "leverage": false
+  },
+  "baseline_4": {
+    "initial_cny": 50000.0,
+    "final_cny": 80172.0,
+    "return_pct": 60.34,
+    "annualized_return_pct": 7.35,
+    "max_drawdown_pct": -10.94,
+    "calmar": 0.672,
+    "sortino": 1.95,
+    "average_gold_weight_pct": 22.21,
+    "days_in_gold_pct": 29.92,
+    "rebalance_days": 305,
+    "total_turnover": 62.85,
+    "last_executed_weight_pct": 0.0
+  },
+  "london_gold_buy_hold": {
+    "initial_cny": 50000.0,
+    "final_cny": 151326.82,
+    "return_pct": 202.65,
+    "annualized_return_pct": 18.11,
+    "max_drawdown_pct": -27.69,
+    "calmar": 0.654,
+    "sortino": 1.341,
+    "average_gold_weight_pct": 100.0,
+    "days_in_gold_pct": 100.0,
+    "rebalance_days": 0,
+    "total_turnover": 0.0,
+    "last_executed_weight_pct": 100.0
+  },
+  "raw_signal_at_end_pct": 0.0
+}

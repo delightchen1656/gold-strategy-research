@@ -1,0 +1,16 @@
+{
+  "as_of": "YYYY-MM-DD",
+  "total_capital_cny": 0,
+  "available_cash_cny": 0,
+  "current_gold_market_value_cny": 0,
+  "unrealized_pnl_cny": 0,
+  "strategy_accounts": [
+    {
+      "strategy_id": 1,
+      "fund_code": "example",
+      "confirmed_principal_cny": 0,
+      "confirmed_shares": 0,
+      "current_market_value_cny": 0
+    }
+  ]
+}

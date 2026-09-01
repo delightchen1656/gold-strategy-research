@@ -1,0 +1,11 @@
+strategy,final_cny,return_pct,trades,wins,win_rate_pct
+06_trend_continuation,198236.25,98.24,11,9,81.82
+04_momentum_alignment,189210.74,89.21,11,8,72.73
+03_long_environment,188377.9,88.38,8,7,87.5
+09_majority_vote,167733.23,67.73,11,8,72.73
+01_dual_strict,162980.41,62.98,7,7,100.0
+05_dollar_real_yield,144006.32,44.01,12,7,58.33
+07_range_slope,143300.09,43.3,9,5,55.56
+02_temperature_average,143202.16,43.2,7,6,85.71
+10_unanimous_selective,142955.87,42.96,6,4,66.67
+08_mean_reversion,105919.52,5.92,2,1,50.0

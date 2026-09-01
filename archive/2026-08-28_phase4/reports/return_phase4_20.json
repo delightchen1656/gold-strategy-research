@@ -1,0 +1,158 @@
+{
+  "period": [
+    "2020-01-02",
+    "2026-08-27"
+  ],
+  "old_champion_cny": 280113.59,
+  "winner": {
+    "strategy": "10_vol_target20",
+    "final_cny": 334919.23,
+    "return_pct": 234.92,
+    "max_drawdown_pct": -26.23,
+    "turnover": 11.58,
+    "average_gold_weight": 0.945
+  },
+  "replace": true,
+  "strategies": {
+    "01_core90_ma100": {
+      "final_cny": 293109.54,
+      "return_pct": 193.11,
+      "max_drawdown_pct": -27.28,
+      "turnover": 6.4,
+      "average_gold_weight": 0.97
+    },
+    "02_core85_ma50": {
+      "final_cny": 294131.33,
+      "return_pct": 194.13,
+      "max_drawdown_pct": -25.78,
+      "turnover": 16.6,
+      "average_gold_weight": 0.941
+    },
+    "03_core90_ma200": {
+      "final_cny": 289666.65,
+      "return_pct": 189.67,
+      "max_drawdown_pct": -27.14,
+      "turnover": 7.0,
+      "average_gold_weight": 0.976
+    },
+    "04_core80_ma_stack": {
+      "final_cny": 289215.31,
+      "return_pct": 189.22,
+      "max_drawdown_pct": -26.46,
+      "turnover": 3.0,
+      "average_gold_weight": 0.944
+    },
+    "05_core75_lowvol_trend": {
+      "final_cny": 298914.89,
+      "return_pct": 198.91,
+      "max_drawdown_pct": -25.43,
+      "turnover": 17.0,
+      "average_gold_weight": 0.912
+    },
+    "06_macro_veto_half": {
+      "final_cny": 291351.42,
+      "return_pct": 191.35,
+      "max_drawdown_pct": -27.69,
+      "turnover": 16.0,
+      "average_gold_weight": 0.943
+    },
+    "07_technical_macro_veto": {
+      "final_cny": 292140.45,
+      "return_pct": 192.14,
+      "max_drawdown_pct": -27.69,
+      "turnover": 20.5,
+      "average_gold_weight": 0.946
+    },
+    "08_ma200_defensive_half": {
+      "final_cny": 244492.65,
+      "return_pct": 144.49,
+      "max_drawdown_pct": -24.97,
+      "turnover": 31.0,
+      "average_gold_weight": 0.881
+    },
+    "09_graded_ma_stack": {
+      "final_cny": 251465.2,
+      "return_pct": 151.47,
+      "max_drawdown_pct": -23.26,
+      "turnover": 44.6,
+      "average_gold_weight": 0.815
+    },
+    "10_vol_target20": {
+      "final_cny": 334919.23,
+      "return_pct": 234.92,
+      "max_drawdown_pct": -26.23,
+      "turnover": 11.58,
+      "average_gold_weight": 0.945
+    },
+    "11_vol_target25": {
+      "final_cny": 316949.65,
+      "return_pct": 216.95,
+      "max_drawdown_pct": -30.39,
+      "turnover": 7.6,
+      "average_gold_weight": 0.967
+    },
+    "12_drawdown_core_tiers": {
+      "final_cny": 253658.57,
+      "return_pct": 153.66,
+      "max_drawdown_pct": -25.4,
+      "turnover": 22.5,
+      "average_gold_weight": 0.866
+    },
+    "13_breakdown_half_reentry": {
+      "final_cny": 269491.61,
+      "return_pct": 169.49,
+      "max_drawdown_pct": -24.99,
+      "turnover": 11.0,
+      "average_gold_weight": 0.909
+    },
+    "14_core50_month_momentum": {
+      "final_cny": 221491.88,
+      "return_pct": 121.49,
+      "max_drawdown_pct": -25.57,
+      "turnover": 78.0,
+      "average_gold_weight": 0.803
+    },
+    "15_core50_twelve_one": {
+      "final_cny": 262493.35,
+      "return_pct": 162.49,
+      "max_drawdown_pct": -27.69,
+      "turnover": 21.0,
+      "average_gold_weight": 0.905
+    },
+    "16_ma_slope_graded": {
+      "final_cny": 283513.88,
+      "return_pct": 183.51,
+      "max_drawdown_pct": -23.34,
+      "turnover": 8.0,
+      "average_gold_weight": 0.854
+    },
+    "17_real_yield_core": {
+      "final_cny": 268952.42,
+      "return_pct": 168.95,
+      "max_drawdown_pct": -23.23,
+      "turnover": 23.75,
+      "average_gold_weight": 0.863
+    },
+    "18_dollar_core": {
+      "final_cny": 276456.66,
+      "return_pct": 176.46,
+      "max_drawdown_pct": -22.33,
+      "turnover": 27.0,
+      "average_gold_weight": 0.863
+    },
+    "19_four_factor_continuous": {
+      "final_cny": 240630.51,
+      "return_pct": 140.63,
+      "max_drawdown_pct": -21.05,
+      "turnover": 39.1,
+      "average_gold_weight": 0.756
+    },
+    "20_adaptive_bad_count": {
+      "final_cny": 259561.05,
+      "return_pct": 159.56,
+      "max_drawdown_pct": -20.94,
+      "turnover": 39.25,
+      "average_gold_weight": 0.781
+    }
+  }
+}

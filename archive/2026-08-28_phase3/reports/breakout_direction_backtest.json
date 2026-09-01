@@ -1,0 +1,40 @@
+{
+  "warning": "Temperature-only baseline; historical news features are not yet backfilled",
+  "threshold": 52,
+  "unresolved_policy": "a directional call without a 10% move in 60 days counts as a loss",
+  "splits": {
+    "train_2020_2023": {
+      "cases": 19,
+      "predictions": 5,
+      "correct": 1,
+      "precision_counting_unresolved_as_loss": 0.2,
+      "coverage": 0.2631578947368421,
+      "big_move_recall": 0.2,
+      "up_predictions": 1,
+      "down_predictions": 4,
+      "abstentions": 14
+    },
+    "validation_2024": {
+      "cases": 5,
+      "predictions": 2,
+      "correct": 2,
+      "precision_counting_unresolved_as_loss": 1.0,
+      "coverage": 0.4,
+      "big_move_recall": 0.6666666666666666,
+      "up_predictions": 2,
+      "down_predictions": 0,
+      "abstentions": 3
+    },
+    "blind_2025_present": {
+      "cases": 7,
+      "predictions": 4,
+      "correct": 2,
+      "precision_counting_unresolved_as_loss": 0.5,
+      "coverage": 0.5714285714285714,
+      "big_move_recall": 0.3333333333333333,
+      "up_predictions": 1,
+      "down_predictions": 3,
+      "abstentions": 3
+    }
+  }
+}

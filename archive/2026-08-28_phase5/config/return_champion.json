@@ -1,0 +1,13 @@
+{
+  "name": "10_vol_target20",
+  "selected_at": "2026-08-28",
+  "phase": 4,
+  "metrics": {
+    "strategy": "10_vol_target20",
+    "final_cny": 334919.23,
+    "return_pct": 234.92,
+    "max_drawdown_pct": -26.23,
+    "turnover": 11.58,
+    "average_gold_weight": 0.945
+  }
+}

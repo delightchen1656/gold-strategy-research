@@ -1,0 +1,28 @@
+# Local/private portfolio data (never publish)
+/private/
+/data/current_portfolio.json
+/data/baseline_portfolios.json
+/data/portfolio_ledger.csv
+/持仓状态和操作流程/
+/outputs/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# Generated/local dependencies
+/node_modules/
+**/__pycache__/
+*.py[cod]
+*.inspect.ndjson
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

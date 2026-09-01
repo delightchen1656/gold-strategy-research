@@ -1,0 +1,20 @@
+{
+  "temperature_range": [0, 100],
+  "long_term": {
+    "meaning": "未来数周至数月的黄金宏观与趋势环境",
+    "event_half_life_days": 45,
+    "components": ["120/250日趋势", "实际利率水平与变化", "美元中期趋势", "人民币汇率", "通胀预期", "中期事件环境"]
+  },
+  "short_term": {
+    "meaning": "未来数日至数周的入场时机",
+    "event_half_life_days": 7,
+    "components": ["5/20日动量", "美元短期变化", "实际利率短期变化", "VIX与原油", "短期事件冲击"]
+  },
+  "allocation_rules": [
+    {"long_min": 60, "short_min": 60, "gold_weight": 1.0},
+    {"long_min": 55, "short_min": 55, "gold_weight": 0.5},
+    {"long_min": 60, "short_min": 50, "gold_weight": 0.25}
+  ],
+  "exit_rule": {"long_below": 48, "short_below": 45, "gold_weight": 0.0},
+  "default_when_not_qualified": {"gold_weight": 0.0, "asset": "cash"}
+}
