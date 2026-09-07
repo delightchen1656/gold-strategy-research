@@ -24,21 +24,21 @@ gold/
 ├─ scripts/                  数据采集、实验和回测脚本
 ├─ docs/                     当前研究方法、基线和排行榜说明
 ├─ reports/                  当前回测及实验结果
-├─ 研究成果/图表/             可直接打开的HTML对比图
-├─ 独立基准/                 从当前策略拆出的独立研究基准
-├─ archive/                  历史研究阶段快照，只读参考
+├─ research/                 独立研究主题、基准和可视化成果
 ├─ tools/                    通用辅助工具
-└─ private/                  本地实盘资料（被Git忽略，不上传）
+└─ private/                  持仓与本地归档（被Git忽略，不上传）
 ```
 
 ## 从哪里开始
 
 - 继续研究策略：先读 [研究方法](docs/methodology.md) 和 [基线策略](docs/baseline_strategies.md)。
 - 查看最终候选：读 [综合前十](docs/composite_top10.md) 和 `reports/` 下对应JSON。
-- 查看图表：打开 [2020至今基线对比](研究成果/图表/新策略123与伦敦金_2020至今折线图.html)。
-- 查看策略2的DD13研究来源：读取 [宏观分层增仓](独立基准/基准4_宏观三票防守/README.md)。
+- 浏览专题研究：从 [研究索引](research/README.md) 开始。
+- 查看图表：打开 [2020至今基线对比](research/strategy-comparisons/图表/新策略123与伦敦金_2020至今折线图.html)。
+- 查看策略2的DD13研究来源：读取 [宏观分层增仓](research/strategy-baselines/基准4_宏观三票防守/README.md)。
 - 发布前检查：阅读 [隐私与发布检查](docs/privacy.md)。
-- 追溯旧实验：查看 [归档说明](archive/README.md)，不要把旧阶段冠军当作当前基线。
+
+历史阶段快照、依赖缓存和实盘资料仅保存在本地 `private/`，不属于公开项目内容。
 
 ## 常用运行入口
 

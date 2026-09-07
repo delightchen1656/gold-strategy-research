@@ -1,9 +1,0 @@
-[
-  {"phase": 2, "name": "trend_low_vol", "final_cny": 278590.09},
-  {"phase": 3, "name": "03_core75_ma100", "final_cny": 280113.59},
-  {"phase": 4, "sequence": 1, "name": "01_core90_ma100", "final_cny": 293109.54},
-  {"phase": 4, "sequence": 2, "name": "02_core85_ma50", "final_cny": 294131.33},
-  {"phase": 4, "sequence": 3, "name": "05_core75_lowvol_trend", "final_cny": 298914.89},
-  {"phase": 4, "sequence": 4, "name": "10_vol_target20", "final_cny": 334919.23}
-]
-

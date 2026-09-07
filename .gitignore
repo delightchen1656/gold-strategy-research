@@ -16,7 +16,7 @@ credentials*.json
 secrets*.json
 
 # Generated/local dependencies
-/node_modules/
+**/node_modules/
 **/__pycache__/
 *.py[cod]
 *.inspect.ndjson
