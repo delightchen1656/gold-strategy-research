@@ -1,0 +1,47 @@
+[
+  {
+    "file": "cot_contracts.json",
+    "url": "https://publicreporting.cftc.gov/resource/72hh-3qpy.json?%24select=distinct+market_and_exchange_names%2Ccftc_contract_market_code%2Ccommodity_name&%24where=commodity_name+in+%28%27GOLD%27%2C%27SILVER%27%29&%24limit=100",
+    "downloaded_at": "2026-09-23T15:06:59.902649+00:00",
+    "bytes": 663,
+    "sha256": "d44042a5d20f3ef25a4fe86048f4bdebc7c1658b3166a1d86b557c4222f02789",
+    "content_type": "application/json;charset=utf-8",
+    "sample": [
+      {
+        "market_and_exchange_names": "GOLD -1 TROY OUNCE  - COINBASE DERIVATIVES, LLC",
+        "cftc_contract_market_code": "088LM1",
+        "commodity_name": "GOLD"
+      },
+      {
+        "market_and_exchange_names": "GOLD - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "088691",
+        "commodity_name": "GOLD"
+      },
+      {
+        "market_and_exchange_names": "MICRO GOLD - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "088695",
+        "commodity_name": "GOLD"
+      },
+      {
+        "market_and_exchange_names": "MICRO SILVER - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "084694",
+        "commodity_name": "SILVER"
+      },
+      {
+        "market_and_exchange_names": "SILVER - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "084691",
+        "commodity_name": "SILVER"
+      }
+    ]
+  },
+  {
+    "file": "lbma_gold.json",
+    "url": "https://api.db.nomics.world/v22/series/LBMA/gold_D?observations=1&limit=20",
+    "error": "HTTP Error 404: NOT FOUND"
+  },
+  {
+    "file": "lbma_silver.json",
+    "url": "https://api.db.nomics.world/v22/series/LBMA/silver_D?observations=1&limit=20",
+    "error": "HTTP Error 404: NOT FOUND"
+  }
+]

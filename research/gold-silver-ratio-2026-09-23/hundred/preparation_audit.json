@@ -1,0 +1,74 @@
+{
+  "daily_rows": 4951,
+  "weekly_rows": 1027,
+  "cot_rows": 1021,
+  "hourly": [
+    {
+      "pair": "GLD_SLV",
+      "calendar_trading_days": 501,
+      "complete_days": 493,
+      "bars_on_complete_days": 3451,
+      "first": "2024-09-23",
+      "last": "2026-09-22",
+      "excluded_dates": [
+        "2024-09-23",
+        "2024-11-29",
+        "2024-12-24",
+        "2025-07-03",
+        "2025-11-28",
+        "2025-12-24",
+        "2026-01-30",
+        "2026-02-02"
+      ],
+      "zero_volume_bars_on_complete_days": 5,
+      "target_valid_next1": 493,
+      "target_valid_next5": 465,
+      "daily_close_crosscheck": [
+        {
+          "metal": "g",
+          "largest_hourly_last_vs_daily_close_gap_pct": 4.312844570162033,
+          "missing_daily_closes": 1
+        },
+        {
+          "metal": "s",
+          "largest_hourly_last_vs_daily_close_gap_pct": 19.93637384517426,
+          "missing_daily_closes": 1
+        }
+      ]
+    },
+    {
+      "pair": "IAU_SIVR",
+      "calendar_trading_days": 501,
+      "complete_days": 493,
+      "bars_on_complete_days": 3451,
+      "first": "2024-09-23",
+      "last": "2026-09-22",
+      "excluded_dates": [
+        "2024-09-23",
+        "2024-11-29",
+        "2024-12-24",
+        "2025-07-03",
+        "2025-11-28",
+        "2025-12-24",
+        "2026-01-30",
+        "2026-02-02"
+      ],
+      "zero_volume_bars_on_complete_days": 3,
+      "target_valid_next1": 493,
+      "target_valid_next5": 465,
+      "daily_close_crosscheck": [
+        {
+          "metal": "g",
+          "largest_hourly_last_vs_daily_close_gap_pct": 4.232456951223562,
+          "missing_daily_closes": 1
+        },
+        {
+          "metal": "s",
+          "largest_hourly_last_vs_daily_close_gap_pct": 19.949499571424532,
+          "missing_daily_closes": 1
+        }
+      ]
+    }
+  ],
+  "last_complete_hourly_date": "2026-09-22"
+}

@@ -1,12 +1,11 @@
-# 专题研究索引
+# 当前研究索引
 
-`research/` 保存与主策略流水线相对独立、但仍有研究价值的专题。核心数据采集与回测入口仍位于项目根目录的 `scripts/`、`config/`、`data/` 和 `reports/`。
+`research/` 只保留仍有当前意义的策略和专题。冻结的旧策略体系已统一迁至根目录 `archive/2026-09-08/`。
 
-| 目录 | 内容 |
-|---|---|
-| `strategy-baselines/` | 从主策略拆出的独立基准、参数优化与权益曲线 |
-| `strategy-comparisons/` | 策略组合与伦敦金的 HTML 对比图 |
-| `usd-policy-and-gold-2018-present/` | 2018 年至今美元政策事件与黄金研究工作簿 |
-| `usd-rates-and-gold-2000/` | 2000 年至今美元利率和黄金价格可视化 |
+| 研究 | 作用 | 权威入口 |
+|---|---|---|
+| `baseline-1/` | 当前唯一可执行策略基线 | [研究结论](baseline-1/研究结论.md) |
+| `gold-event-atlas-2023-present/` | 2023年至今宏观、政策与黄金预期交易图谱 | [完整图谱](gold-event-atlas-2023-present/黄金重大事件图谱_2023年至今.md) |
+| `gold-silver-ratio-2026-09-23/` | 金银比机制、风险预测、资金先后与期限研究 | [专题说明](gold-silver-ratio-2026-09-23/README.md) |
 
-旧阶段的重复快照已移至本地 `private/archive/legacy-project-history/`，依赖缓存已移至 `private/archive/dependencies/`；二者均被 Git 忽略。
+专题结论是研究证据，不自动成为基准1的交易条件。修改当前策略前，应重新运行基准测试并更新 `config/baseline_1.json` 与对应结论。

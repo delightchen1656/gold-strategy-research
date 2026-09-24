@@ -1,0 +1,23 @@
+[
+  {
+    "name": "cot_sample.json",
+    "url": "https://publicreporting.cftc.gov/resource/72hh-3qpy.json?$limit=1",
+    "bytes": 6880,
+    "type": "application/json;charset=utf-8",
+    "sample": "[{\"id\":\"220802001602F\",\"market_and_exchange_names\":\"WHEAT-SRW - CHICAGO BOARD OF TRADE\",\"report_date_as_yyyy_mm_dd\":\"2022-08-02T00:00:00.000\",\"yyyy_report_week_ww\":\"2022 Report Week 31\",\"contract_market_name\":\"WHEAT-SRW\",\"cftc_contract_market_code\":\"001602\",\"cftc_market_code\":\"CBT\",\"cftc_region_code\":\"CHI\",\"cftc_commodity_code\":\"001\",\"commodity_name\":\"WHEAT\",\"open_interest_all\":\"316244\",\"prod_merc_positions_long\":\"37353\",\"prod_merc_positions_short\":\"85943\",\"swap_positions_long_all\":\"76373\",\"swap__positions_short_all\":\"16895\",\"swap__positions_spread_all\":\"14058\",\"m_money_positions_long_all\":\"65114\",\"m_money_positions_short_all\":\"84004\",\"m_money_positions_spread\":\"38692\",\"other_rept_positions_long\":\"30693\",\"other_rept_positions_short\":\"12528\",\"other_rept_positions_spread\":\"25980\",\"tot_rept_positions_long_all\":\"288263\",\"tot_rept_positions_short\":\"278100\",\"nonrept_positions_long_all\":\"27981\",\"nonrept_positions_short_all\":\"38144\",\"open_interest_old\":\"271926\",\"prod_merc_positions_long_1\":\"33447\",\"prod_merc_positions_short_1\":\"74897\",\"swap_positions_long_old\":\"71400\",\"swap__positions_short_"
+  },
+  {
+    "name": "xauusd.csv",
+    "url": "https://stooq.com/q/d/l/?s=xauusd&d1=20060101&d2=20251231&i=d",
+    "bytes": 796,
+    "type": "text/html; charset=utf-8",
+    "sample": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"CD-HplATqNlTjdxC0i_Efg\">\n(async()=>{const c=\"AAAAAGqz6nHGYJoskjpGloTyGX0Q4LcGXrGDas4t5dIOsZEqcnJTWxzal6w\",d=4,t=\"0\".repeat(d),e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\",e.encode(c+n)),x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2,\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\",{method:\"POST\",headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"},body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n,credentials:\"same-origin\"});if(r.ok)location.reload()})();\n</script></body></html>\n"
+  },
+  {
+    "name": "xagusd.csv",
+    "url": "https://stooq.com/q/d/l/?s=xagusd&d1=20060101&d2=20251231&i=d",
+    "bytes": 796,
+    "type": "text/html; charset=utf-8",
+    "sample": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"robots\" content=\"noindex,nofollow\"></head><body><noscript>This site requires JavaScript to verify your browser. Please enable JavaScript and reload.</noscript><script nonce=\"lDjF0Vu8GS7p5YGSGQWaDA\">\n(async()=>{const c=\"AAAAAGqz6nHVltbZOAQ6r3dkzfb6LFSVXrGDatwK9lzqPSBU2i0W4opFj28\",d=4,t=\"0\".repeat(d),e=new TextEncoder;let n=0;while(1){const h=await crypto.subtle.digest(\"SHA-256\",e.encode(c+n)),x=Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2,\"0\")).join(\"\");if(x.startsWith(t))break;n++}const r=await fetch(\"/__verify\",{method:\"POST\",headers:{\"Content-Type\":\"application/x-www-form-urlencoded\"},body:\"c=\"+encodeURIComponent(c)+\"&n=\"+n,credentials:\"same-origin\"});if(r.ok)location.reload()})();\n</script></body></html>\n"
+  }
+]

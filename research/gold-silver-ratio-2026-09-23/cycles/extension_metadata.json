@@ -1,0 +1,62 @@
+[
+  {
+    "file": "extended_GLD.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?period1=1136073600&period2=1790121600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:29:07.094263+00:00",
+    "bytes": 569925,
+    "sha256": "b6bd79ee6b3de8935fd0599513a9c6046e3240de090106e2b64d97af3c3a3765",
+    "symbol": "GLD",
+    "currency": "USD",
+    "exchange": "PCX",
+    "rows": 5212,
+    "events": {}
+  },
+  {
+    "file": "extended_SLV.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SLV?period1=1136073600&period2=1790121600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:29:07.073323+00:00",
+    "bytes": 565518,
+    "sha256": "177c2c68371f39a89ab8ae5bb0e5f269941f072b6b4f37d0d96f0a0fed168e96",
+    "symbol": "SLV",
+    "currency": "USD",
+    "exchange": "PCX",
+    "rows": 5132,
+    "events": {}
+  },
+  {
+    "file": "extended_DX-Y.NYB.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?period1=1136073600&period2=1790121600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:29:07.116420+00:00",
+    "bytes": 570525,
+    "sha256": "d0ad5e4ee08a8978de3dd680ebef12327e31b954bddecf000646ed5db0d34b3b",
+    "symbol": "DX-Y.NYB",
+    "currency": "USD",
+    "exchange": "NYB",
+    "rows": 6310,
+    "events": {}
+  },
+  {
+    "file": "extended_^GSPC.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1136073600&period2=1790121600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:29:08.174115+00:00",
+    "bytes": 557619,
+    "sha256": "1f55c9195588d10bbb5975a1a98ac994418774b876fbfce5eeab7368a05c82aa",
+    "symbol": "^GSPC",
+    "currency": "USD",
+    "exchange": "SNP",
+    "rows": 5212,
+    "events": {}
+  },
+  {
+    "file": "extended_^VIX.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EVIX?period1=1136073600&period2=1790121600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:29:08.083709+00:00",
+    "bytes": 549923,
+    "sha256": "bd970cc16ecf120563343b6e75dd3a79339a1f8816b186120b80e4de8bc9e05c",
+    "symbol": "^VIX",
+    "currency": "USD",
+    "exchange": "CXI",
+    "rows": 5406,
+    "events": {}
+  }
+]

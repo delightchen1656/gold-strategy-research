@@ -1,0 +1,392 @@
+{
+  "cutoff_complete_daily": "2026-09-23",
+  "symbols": {
+    "GLD": {
+      "last_date": "2026-09-23",
+      "last_price": 392.8800048828125,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": -7.1995421209775206
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": 4.123819902617454
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": -2.7621036100608287
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 13.398376312594573
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 402.2770004272461,
+          "distance_pct": -2.335951479814491
+        },
+        "60": {
+          "level": 391.1568339029948,
+          "distance_pct": 0.4405319888249881
+        },
+        "120": {
+          "level": 402.89999923706057,
+          "distance_pct": -2.486968074763496
+        },
+        "200": {
+          "level": 416.37105026245115,
+          "distance_pct": -5.641853669901287
+        }
+      },
+      "volatility": {
+        "20": 0.23953617523059928,
+        "60": 0.23747958412429426,
+        "126": 0.25580150283591063,
+        "252": 0.29515961243860817
+      },
+      "last_20_high_close": 422.6000061035156,
+      "last_20_low_close": 391.739990234375
+    },
+    "SLV": {
+      "last_date": "2026-09-23",
+      "last_price": 58.15999984741211,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": -7.270410211321576
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": 4.36030921431132
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": -6.899313733105295
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 45.54554849830181
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 59.32099990844726,
+          "distance_pct": -1.9571485019250767
+        },
+        "60": {
+          "level": 56.647999954223636,
+          "distance_pct": 2.669114345449608
+        },
+        "120": {
+          "level": 61.56666669845581,
+          "distance_pct": -5.533297535383941
+        },
+        "200": {
+          "level": 65.90535003662109,
+          "distance_pct": -11.752232838313104
+        }
+      },
+      "volatility": {
+        "20": 0.4047420516395406,
+        "60": 0.382073082010131,
+        "126": 0.47598423167185044,
+        "252": 0.6549607807340113
+      },
+      "last_20_high_close": 62.77000045776367,
+      "last_20_low_close": 56.84000015258789
+    },
+    "GC=F": {
+      "last_date": "2026-09-23",
+      "last_price": 4318.39990234375,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": -7.738328157833163
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": 4.07287810231407
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": -2.0171058535477515
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 13.17451470515878
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 4442.379956054688,
+          "distance_pct": -2.790847584794287
+        },
+        "60": {
+          "level": 4302.264990234375,
+          "distance_pct": 0.37503296858747426
+        },
+        "120": {
+          "level": 4419.142486572266,
+          "distance_pct": -2.27968626344649
+        },
+        "200": {
+          "level": 4555.263001708984,
+          "distance_pct": -5.19976781310697
+        }
+      },
+      "volatility": {
+        "20": 0.20417880063168853,
+        "60": 0.2137292318201096,
+        "126": 0.24676904550556517,
+        "252": 0.2903706228289405
+      },
+      "last_20_high_close": 4664.0,
+      "last_20_low_close": 4318.39990234375
+    },
+    "SI=F": {
+      "last_date": "2026-09-23",
+      "last_price": 64.38200378417969,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": -7.318687391873169
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": 3.808454222802804
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": -6.7589676512318615
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 45.687006308683166
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 65.76374969482421,
+          "distance_pct": -2.1010753143738015
+        },
+        "60": {
+          "level": 62.743833223978676,
+          "distance_pct": 2.6108869605610208
+        },
+        "120": {
+          "level": 68.17759138743082,
+          "distance_pct": -5.567206945874725
+        },
+        "200": {
+          "level": 72.59934997558594,
+          "distance_pct": -11.318760008415529
+        }
+      },
+      "volatility": {
+        "20": 0.3449864871587142,
+        "60": 0.3609811428379628,
+        "126": 0.46309763742960713,
+        "252": 0.6923505603897845
+      },
+      "last_20_high_close": 69.42900085449219,
+      "last_20_low_close": 63.236000061035156
+    },
+    "DX-Y.NYB": {
+      "last_date": "2026-09-23",
+      "last_price": 101.0999984741211,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": 2.3279305175308407
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": -0.3056948789995073
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": 2.172816161887825
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 3.948176283722482
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 99.54899940490722,
+          "distance_pct": 1.55802577472961
+        },
+        "60": {
+          "level": 100.12650019327799,
+          "distance_pct": 0.972268359489159
+        },
+        "120": {
+          "level": 99.65866692860921,
+          "distance_pct": 1.4462681369643349
+        },
+        "200": {
+          "level": 99.16900009155273,
+          "distance_pct": 1.9471794419482658
+        }
+      },
+      "volatility": {
+        "20": 0.05207070563140565,
+        "60": 0.04792389048398256,
+        "126": 0.04815402123339134,
+        "252": 0.05251788346937285
+      },
+      "last_20_high_close": 101.0999984741211,
+      "last_20_low_close": 98.7699966430664
+    },
+    "^GSPC": {
+      "last_date": "2026-09-23",
+      "last_price": 7706.02978515625,
+      "returns_pct": {
+        "1": {
+          "start_date": "2026-08-21",
+          "pct": 0.41253767391078444
+        },
+        "3": {
+          "start_date": "2026-06-23",
+          "pct": 4.623877205564253
+        },
+        "6": {
+          "start_date": "2026-03-23",
+          "pct": 17.095119057229134
+        },
+        "12": {
+          "start_date": "2025-09-23",
+          "pct": 15.759688798926641
+        }
+      },
+      "moving_average": {
+        "20": {
+          "level": 7666.066015625,
+          "distance_pct": 0.5213074013424412
+        },
+        "60": {
+          "level": 7605.108170572917,
+          "distance_pct": 1.3270240517266885
+        },
+        "120": {
+          "level": 7434.71318359375,
+          "distance_pct": 3.6493217002804723
+        },
+        "200": {
+          "level": 7192.012006835937,
+          "distance_pct": 7.147065074860048
+        }
+      },
+      "volatility": {
+        "20": 0.10727391214186204,
+        "60": 0.11427620261645866,
+        "126": 0.13576660523245446,
+        "252": 0.12995368884928912
+      },
+      "last_20_high_close": 7764.7001953125,
+      "last_20_low_close": 7551.81005859375
+    }
+  },
+  "failures": [
+    {
+      "file": "DFII10.csv",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10&cosd=2025-08-01&coed=2026-09-23",
+      "fetched_utc": "2026-09-24T11:03:33.060573+00:00",
+      "error": "curl: (28) Operation timed out after 25003 milliseconds with 0 bytes received\r\n"
+    }
+  ],
+  "gvz": {
+    "date": "2026-09-22",
+    "close": 23.59,
+    "past_20_median": 26.545
+  },
+  "real_yield_unavailable": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\22241\\\\Desktop\\\\gold\\\\research\\\\gold-silver-ratio-2026-09-23\\\\outlook-2026-09-24\\\\sources\\\\DFII10.csv'",
+  "relative_return": {
+    "1": 0.07642446225153421,
+    "3": -0.22660848120737986,
+    "6": 4.443801962086713,
+    "12": -22.087362009620183
+  },
+  "ratio_speed": {
+    "date": "2026-09-23",
+    "5day_log_change_pct": -1.6363863005273371,
+    "past_only_z": -0.18360378280930909,
+    "5day_acceleration_log_pp": -4.950259624425368
+  },
+  "quote_anchor": {
+    "gold_usd_oz": 4249.9,
+    "silver_usd_oz": 63.54,
+    "date_time": "2026-09-24 06:18 America/New_York",
+    "source": "https://invest.alexlexington.com/spot-prices",
+    "status": "indicative OTC dealer quote snapshot, not execution price"
+  },
+  "bands": [
+    {
+      "months": 1,
+      "sigma_used": 0.2359,
+      "assumptions": "zero log drift, lognormal increments, unchanged current 30-day annualized implied volatility",
+      "unvalidated_model_central_mass": 0.8,
+      "lower": 3894.727672885365,
+      "upper": 4637.461596029699,
+      "lower_35vol": 3733.746781373479,
+      "upper_35vol": 4837.4062483572925
+    },
+    {
+      "months": 3,
+      "sigma_used": 0.2359,
+      "assumptions": "zero log drift, lognormal increments, unchanged current 30-day annualized implied volatility",
+      "unvalidated_model_central_mass": 0.8,
+      "lower": 3653.6857261645546,
+      "upper": 4943.40547153741,
+      "lower_35vol": 3396.087145291127,
+      "upper_35vol": 5318.370594536577
+    },
+    {
+      "months": 6,
+      "sigma_used": 0.2359,
+      "assumptions": "zero log drift, lognormal increments, unchanged current 30-day annualized implied volatility",
+      "unvalidated_model_central_mass": 0.8,
+      "lower": 3431.9353198579674,
+      "upper": 5262.817718472471,
+      "lower_35vol": 3094.813427443117,
+      "upper_35vol": 5836.103026385739
+    },
+    {
+      "months": 12,
+      "sigma_used": 0.2359,
+      "assumptions": "zero log drift, lognormal increments, unchanged current 30-day annualized implied volatility",
+      "unvalidated_model_central_mass": 0.8,
+      "lower": 3141.1137639894137,
+      "upper": 5750.078273847858,
+      "lower_35vol": 2713.806889200131,
+      "upper_35vol": 6655.466194694309
+    }
+  ],
+  "macro_web_checks": {
+    "real_yield": {
+      "date": "2026-09-22",
+      "percent": 2.63,
+      "source": "https://fred.stlouisfed.org/series/DFII10",
+      "access": "网页，CSV请求超时；未计算20日真实利率变化"
+    },
+    "fed_statement": {
+      "date": "2026-09-16",
+      "change_bp": 25,
+      "target_range_percent": [
+        3.75,
+        4.0
+      ],
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+    },
+    "fed_projection": {
+      "date": "2026-09-16",
+      "2026_median": 4.1,
+      "2027_median": 4.1,
+      "source": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "note": "参与者适当政策路径判断，不是承诺或市场概率。"
+    }
+  }
+}

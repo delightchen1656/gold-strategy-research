@@ -1,93 +1,93 @@
 {
-  "collected_at_utc": "2026-08-31T22:20:41.980479+00:00",
+  "collected_at_utc": "2026-09-07T18:19:29.386373+00:00",
   "series": [
-    {
-      "source": "yahoo",
-      "series": "brent",
-      "symbol": "BZ=F",
-      "rows": 4809,
-      "first": "2007-07-30",
-      "last": "2026-08-31"
-    },
     {
       "source": "yahoo",
       "series": "usd_cny",
       "symbol": "CNY=X",
-      "rows": 6572,
+      "rows": 6576,
       "first": "2001-06-24",
-      "last": "2026-08-31"
+      "last": "2026-09-07"
+    },
+    {
+      "source": "yahoo",
+      "series": "brent",
+      "symbol": "BZ=F",
+      "rows": 4814,
+      "first": "2007-07-30",
+      "last": "2026-09-07"
     },
     {
       "source": "yahoo",
       "series": "gold_futures",
       "symbol": "GC=F",
-      "rows": 6608,
+      "rows": 6613,
       "first": "2000-08-30",
-      "last": "2026-08-31"
-    },
-    {
-      "source": "yahoo",
-      "series": "vix",
-      "symbol": "^VIX",
-      "rows": 6956,
-      "first": "2000-01-03",
-      "last": "2026-08-31"
-    },
-    {
-      "source": "yahoo",
-      "series": "dollar_index",
-      "symbol": "DX-Y.NYB",
-      "rows": 8171,
-      "first": "2000-01-03",
-      "last": "2026-08-31"
-    },
-    {
-      "source": "yahoo",
-      "series": "sp500",
-      "symbol": "^GSPC",
-      "rows": 6705,
-      "first": "2000-01-03",
-      "last": "2026-08-31"
+      "last": "2026-09-07"
     },
     {
       "source": "yahoo",
       "series": "long_treasury_etf",
       "symbol": "TLT",
-      "rows": 6061,
+      "rows": 6065,
       "first": "2002-07-30",
-      "last": "2026-08-31"
+      "last": "2026-09-04"
+    },
+    {
+      "source": "yahoo",
+      "series": "vix",
+      "symbol": "^VIX",
+      "rows": 6961,
+      "first": "2000-01-03",
+      "last": "2026-09-07"
+    },
+    {
+      "source": "yahoo",
+      "series": "sp500",
+      "symbol": "^GSPC",
+      "rows": 6709,
+      "first": "2000-01-03",
+      "last": "2026-09-04"
+    },
+    {
+      "source": "yahoo",
+      "series": "dollar_index",
+      "symbol": "DX-Y.NYB",
+      "rows": 8177,
+      "first": "2000-01-03",
+      "last": "2026-09-07"
     },
     {
       "source": "fred",
       "series": "us_10y_nominal_yield",
       "symbol": "DGS10",
-      "rows": 16150,
+      "rows": 16154,
       "first": "1962-01-02",
-      "last": "2026-08-28"
+      "last": "2026-09-03"
     },
     {
       "source": "fred",
       "series": "us_10y_real_yield",
       "symbol": "DFII10",
-      "rows": 5919,
+      "rows": 5923,
       "first": "2003-01-02",
-      "last": "2026-08-28"
+      "last": "2026-09-03"
     },
     {
       "source": "fred",
       "series": "us_10y_breakeven_inflation",
       "symbol": "T10YIE",
-      "rows": 5920,
+      "rows": 5924,
       "first": "2003-01-02",
-      "last": "2026-08-31"
+      "last": "2026-09-04"
     },
     {
       "source": "fred",
       "series": "fed_funds_effective",
       "symbol": "DFF",
-      "rows": 26357,
+      "rows": 26363,
       "first": "1954-07-01",
-      "last": "2026-08-28"
+      "last": "2026-09-03"
     },
     {
       "source": "fred",
@@ -109,17 +109,17 @@
       "source": "fred",
       "series": "brent_spot",
       "symbol": "DCOILBRENTEU",
-      "rows": 9963,
+      "rows": 9967,
       "first": "1987-05-20",
-      "last": "2026-08-25"
+      "last": "2026-09-01"
     },
     {
       "source": "fred",
       "series": "vix_close",
       "symbol": "VIXCLS",
-      "rows": 9262,
+      "rows": 9266,
       "first": "1990-01-02",
-      "last": "2026-08-28"
+      "last": "2026-09-03"
     },
     {
       "source": "fred",
@@ -133,25 +133,33 @@
       "source": "fred",
       "series": "us_unemployment",
       "symbol": "UNRATE",
-      "rows": 942,
+      "rows": 943,
       "first": "1948-01-01",
-      "last": "2026-07-01"
+      "last": "2026-08-01"
     },
     {
       "source": "fred",
       "series": "us_nonfarm_payrolls",
       "symbol": "PAYEMS",
-      "rows": 1051,
+      "rows": 1052,
       "first": "1939-01-01",
-      "last": "2026-07-01"
+      "last": "2026-08-01"
     },
     {
       "source": "eastmoney",
       "series": "fund_009505_nav",
       "symbol": "009505",
-      "rows": 1473,
+      "rows": 1478,
       "first": "2020-07-24",
-      "last": "2026-08-31"
+      "last": "2026-09-07"
+    },
+    {
+      "source": "eastmoney",
+      "series": "fund_009033_nav",
+      "symbol": "009033",
+      "rows": 1479,
+      "first": "2020-08-05",
+      "last": "2026-09-07"
     }
   ],
   "errors": []

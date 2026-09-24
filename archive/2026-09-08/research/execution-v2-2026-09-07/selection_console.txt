@@ -1,0 +1,7 @@
+evaluated 48/288
+evaluated 96/288
+evaluated 144/288
+evaluated 192/288
+evaluated 240/288
+evaluated 288/288
+Frozen: [(79, {'family': 'trend_trail', 'horizon': 120, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.12, 'frequency': 'monthly', 'band': 0.1, 'cooldown': 10}, np.float64(0.05704255280236481)), (111, {'family': 'ensemble', 'horizon': 60, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.12, 'frequency': 'monthly', 'band': 0.1, 'cooldown': 10}, np.float64(0.044700270412168175)), (223, {'family': 'vol_trend', 'horizon': 120, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.12, 'frequency': 'monthly', 'band': 0.1, 'cooldown': 10}, np.float64(0.04371315716631763)), (159, {'family': 'dual_momentum', 'horizon': 60, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.12, 'frequency': 'monthly', 'band': 0.1, 'cooldown': 10}, np.float64(0.03271253332995716)), (271, {'family': 'pullback', 'horizon': 120, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.12, 'frequency': 'monthly', 'band': 0.1, 'cooldown': 10}, np.float64(0.029543764656511096)), (28, {'family': 'channel', 'horizon': 120, 'exit_days': 20, 'cap': 0.85, 'vol_target': 0.12, 'stop': 0.08, 'frequency': 'weekly', 'band': 0.1, 'cooldown': 10}, np.float64(0.022487866391110112))]

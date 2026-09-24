@@ -1,0 +1,20 @@
+{
+  "units": 100,
+  "unique_questions": 100,
+  "completed": 100,
+  "groups": {
+    "机制与识别": 10,
+    "测量与信息时间": 10,
+    "长期关系与宏观": 15,
+    "情绪与日线风险": 15,
+    "日内风险与报价先后": 15,
+    "基金与因果边界": 15,
+    "外部研究方法审查": 10,
+    "多因子与最终验证": 10
+  },
+  "all_evidence_files_exist": true,
+  "numerical_verification_passed": true,
+  "manifest_preserved": true,
+  "source_records": 16,
+  "note": "Research completion does not imply every hypothesis is established. No claim of exhaustive worldwide literature review or 100 independent replications."
+}

@@ -21,7 +21,6 @@
     "us_unemployment": "UNRATE",
     "us_nonfarm_payrolls": "PAYEMS"
   },
-  "funds": ["009505"],
+  "funds": ["009505", "009033"],
   "history_start": "2000-01-01"
 }
-

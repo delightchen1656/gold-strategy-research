@@ -1,0 +1,16 @@
+{
+  "round1_predictions.csv_prediction_rows": 12285,
+  "round2_price_predictions.csv_prediction_rows": 17632,
+  "round2_fund_predictions.csv_prediction_rows": 21114,
+  "round3_predictions.csv_prediction_rows": 36624,
+  "round3_monthly_predictions.csv_prediction_rows": 5502,
+  "daily_targets_recomputed": 115158,
+  "latest_new_price_date": "2026-09-21",
+  "all_prediction_actuals_and_labels": "PASS",
+  "error_comparisons_recomputed": 576,
+  "cot_balance_rows": 2042,
+  "cot_availability_and_blackouts": "PASS",
+  "independent_forecast_refits": 573,
+  "extension_preserves_pre_2026_features": "PASS",
+  "all_checks": "PASS"
+}

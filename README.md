@@ -1,60 +1,38 @@
-# 黄金市场研究项目
+# 黄金研究项目
 
-本项目以伦敦金为价格基准，研究宏观政策、美元与实际利率、市场风险和地缘事件对黄金中期趋势的影响，并通过历史回测筛选兼顾收益与回撤的策略。公开仓库不包含任何个人持仓、订单、盈亏或账户截图。
+这是一个围绕黄金策略、宏观事件和金银相对价格的可复现研究仓库。当前唯一策略基线是[基准1](research/baseline-1/研究结论.md)；其他专题研究不会自动改变基准策略。
 
-## 当前基线
+## 当前内容
 
-基线版本：3.0（2026-09-01；策略2已由DD13替代）
+| 模块 | 状态 | 入口 |
+|---|---|---|
+| 基准1 | 当前唯一策略 | [研究结论](research/baseline-1/研究结论.md) |
+| 黄金重大事件图谱 | 持续更新的宏观事件研究 | [事件图谱](research/gold-event-atlas-2023-present/黄金重大事件图谱_2023年至今.md) |
+| 金银比研究 | 已完成多轮、100项研究与期限分析 | [专题索引](research/gold-silver-ratio-2026-09-23/README.md) |
+| 2026-09-08以前策略 | 历史资料，不参与当前决策 | [归档说明](archive/2026-09-08/README.md) |
 
-| 策略 | 六字描述 | 实盘映射基金 | 核心逻辑 |
-|---|---|---|---|
-| 策略1 | 低波趋势控仓 | 008987 | 长趋势成立且波动受控时持仓 |
-| 策略2 | 宏观分层增仓 | 009505 | DD13：MA250趋势与三项宏观票分层配置仓位 |
-| 策略3 | 美元弱势控仓 | 008702 | 金价趋势与美元弱势共同确认 |
-
-详细参数见 [基线配置](config/baseline_strategies.json)，策略说明见 [基线策略](docs/baseline_strategies.md)。
+基准1使用120日趋势、40日波动率、12%波动率目标、14%回撤退出和月度检查，并增加90日均线偏离保护。D日伦敦AM定盘形成信号，最早映射到D日之后首个可交易的中国基金净值日，严格排除未来信息。
 
 ## 目录结构
 
 ```text
 gold/
-├─ README.md                  项目入口与目录索引
-├─ config/                   当前策略、数据源和模型配置
-├─ data/                     原始数据、清洗数据、派生结果与匿名示例
-├─ scripts/                  数据采集、实验和回测脚本
-├─ docs/                     当前研究方法、基线和排行榜说明
-├─ reports/                  当前回测及实验结果
-├─ research/                 独立研究主题、基准和可视化成果
-├─ tools/                    通用辅助工具
-└─ private/                  持仓与本地归档（被Git忽略，不上传）
+├─ config/        当前策略与数据源配置
+├─ data/          公共原始数据与质量检查
+├─ scripts/       当前基准及数据更新入口
+├─ docs/          方法、新闻管线与隐私规范
+├─ research/      当前研究成果及其复现材料
+├─ archive/       已冻结的历史研究、脚本和旧配置
+└─ private/       个人持仓与本地资料（Git忽略）
 ```
 
-## 从哪里开始
-
-- 继续研究策略：先读 [研究方法](docs/methodology.md) 和 [基线策略](docs/baseline_strategies.md)。
-- 查看最终候选：读 [综合前十](docs/composite_top10.md) 和 `reports/` 下对应JSON。
-- 浏览专题研究：从 [研究索引](research/README.md) 开始。
-- 查看图表：打开 [2020至今基线对比](research/strategy-comparisons/图表/新策略123与伦敦金_2020至今折线图.html)。
-- 查看策略2的DD13研究来源：读取 [宏观分层增仓](research/strategy-baselines/基准4_宏观三票防守/README.md)。
-- 发布前检查：阅读 [隐私与发布检查](docs/privacy.md)。
-
-历史阶段快照、依赖缓存和实盘资料仅保存在本地 `private/`，不属于公开项目内容。
-
-## 常用运行入口
+## 运行
 
 ```powershell
-python scripts/collect_news.py
+pip install -r requirements.txt
+python scripts/run_baseline_1.py
+python scripts/test_baseline_1.py
 powershell -ExecutionPolicy Bypass -File scripts/update_market_data.ps1
-python scripts/research_min_hold_7d.py
 ```
 
-研究脚本生成结果时，应继续写入 `data/derived/` 和 `reports/`。实盘状态只在被 Git 忽略的 `private/` 中维护；公开数据格式示例见 `data/examples/`。
-
-## 研究边界
-
-- 所有信号必须使用当时可获得的信息，避免未来函数。
-- 免费行情可能延迟或修订，执行前需要核对数据截止时间。
-- 回测计入信号滞后、最低持有期和交易摩擦，但不能保证未来收益。
-- 新闻和政治人物言论只能作为可验证事件变量，不能把未经证实的动机作为事实。
-
-本项目属于研究与决策支持，不构成收益承诺或代客交易。
+更完整的方法约束见[方法与验证规范](docs/methodology.md)，发布前检查见[隐私规范](docs/privacy.md)。本项目只用于研究与决策支持，历史收益和回撤不代表未来表现。

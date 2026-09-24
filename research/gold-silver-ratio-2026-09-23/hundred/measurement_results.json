@@ -1,0 +1,1339 @@
+{
+  "identity": {
+    "n": 4950,
+    "return_max_error": 1.1102230246251565e-16,
+    "rank_gold_silver_ratio": 2,
+    "examples": [
+      {
+        "gold_logreturn": 0.01,
+        "silver_logreturn": -0.01,
+        "ratio_logreturn": 0.02
+      },
+      {
+        "gold_logreturn": -0.01,
+        "silver_logreturn": -0.03,
+        "ratio_logreturn": 0.02
+      }
+    ],
+    "equal_point_change": [
+      {
+        "from": 40,
+        "to": 45,
+        "pct": 12.5,
+        "log": 0.11778303565638346
+      },
+      {
+        "from": 100,
+        "to": 105,
+        "pct": 5,
+        "log": 0.04879016416943204
+      }
+    ]
+  },
+  "residual_equivalence_max_error": 2.0122792321330962e-16,
+  "variance_decomposition": [
+    {
+      "period": "all",
+      "n": 4950,
+      "gold_var": 0.0001252824545803239,
+      "silver_var": 0.00039629921808683166,
+      "minus_2cov": -0.0003531825190025001,
+      "ratio_var": 0.0001683991536646549,
+      "error": -5.421010862427522e-19,
+      "silver_gold_vol_ratio": 1.778551646204837
+    },
+    {
+      "period": "2006_2014",
+      "n": 2184,
+      "gold_var": 0.00017460010277175637,
+      "silver_var": 0.0005234711715312696,
+      "minus_2cov": -0.000492860547400072,
+      "ratio_var": 0.00020521072690295338,
+      "error": -6.505213034913027e-19,
+      "silver_gold_vol_ratio": 1.731506543651705
+    },
+    {
+      "period": "2015_2025",
+      "n": 2766,
+      "gold_var": 8.637379207736906e-05,
+      "silver_var": 0.00029593461272610334,
+      "minus_2cov": -0.00024294836792108394,
+      "ratio_var": 0.00013936003688238803,
+      "error": -4.336808689942018e-19,
+      "silver_gold_vol_ratio": 1.8510020013289106
+    }
+  ],
+  "hedge": {
+    "rolling_beta_quantiles": {
+      "0.05": 0.3296253462625957,
+      "0.5": 0.4732808800875704,
+      "0.95": 0.5820890453368277
+    },
+    "one_to_one_variance": 0.00016827014448632545,
+    "lagged_min_variance_hedge_variance": 4.5543358476559235e-05
+  },
+  "accounting": {
+    "reports": 2042,
+    "long_balance_max_error": 0.0,
+    "short_balance_max_error": 0.0
+  },
+  "denominator": {
+    "g": {
+      "n": 1020,
+      "opposite_signs": 95,
+      "max_decomposition_error": 9.280770596475918e-17
+    },
+    "s": {
+      "n": 1020,
+      "opposite_signs": 68,
+      "max_decomposition_error": 7.28583859910259e-17
+    }
+  },
+  "measurement": {
+    "etf_vs_spot_scale_quantiles": {
+      "0.0": 0.09695253411037671,
+      "0.5": 0.10051737593072996,
+      "1.0": 0.10238588734810332
+    },
+    "ratio_of_means_vs_mean_of_ratios_max_pct": 1.1257883068870767,
+    "ratio_of_means_vs_mean_of_ratios_median_abs_pct": 0.03700553499631498,
+    "futures_etf_daily_corr": 0.8945489470906438,
+    "futures_etf_weekly_corr": 0.9747128742704908
+  },
+  "hourly_measurement": {
+    "GLD_SLV": {
+      "complete_days": 493,
+      "risk": {
+        "g": {
+          "sum_oc_squared_over_sum_intraday_rv": 0.8702356193296655,
+          "fraction_days_oc_squared_less_than_quarter_rv": 0.30831643002028397,
+          "overnight_share_sum_variance": 0.6563706695258561,
+          "median_overnight_share": 0.5207202842396322
+        },
+        "s": {
+          "sum_oc_squared_over_sum_intraday_rv": 0.8601541358835284,
+          "fraction_days_oc_squared_less_than_quarter_rv": 0.3306288032454361,
+          "overnight_share_sum_variance": 0.6462266098048893,
+          "median_overnight_share": 0.5112148491023587
+        }
+      },
+      "by_slot": [
+        {
+          "slot": 570,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 4.958423882323468e-07,
+          "silver_mean_sq_per_minute": 1.7787415927709776e-06
+        },
+        {
+          "slot": 630,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 2.2777759761087303e-07,
+          "silver_mean_sq_per_minute": 1.1028694760783367e-06
+        },
+        {
+          "slot": 690,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 1.4090138811269782e-07,
+          "silver_mean_sq_per_minute": 5.123220544102725e-07
+        },
+        {
+          "slot": 750,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 7.787087743647702e-08,
+          "silver_mean_sq_per_minute": 3.642503045090806e-07
+        },
+        {
+          "slot": 810,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 8.765858358979903e-08,
+          "silver_mean_sq_per_minute": 3.8207952525375563e-07
+        },
+        {
+          "slot": 870,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 1.2014105335063934e-07,
+          "silver_mean_sq_per_minute": 4.547813688975803e-07
+        },
+        {
+          "slot": 930,
+          "minutes": 30,
+          "n": 493,
+          "gold_mean_sq_per_minute": 8.957637767894144e-08,
+          "silver_mean_sq_per_minute": 3.8966983172653377e-07
+        }
+      ],
+      "calm_endpoint_busy_path": {
+        "n": 13,
+        "dates": [
+          "2024-09-25",
+          "2024-12-19",
+          "2025-01-27",
+          "2025-11-19",
+          "2026-02-18",
+          "2026-02-24",
+          "2026-03-06",
+          "2026-03-16",
+          "2026-03-26",
+          "2026-04-07",
+          "2026-05-20",
+          "2026-07-23",
+          "2026-09-09"
+        ],
+        "definition": "bottom 25% |open-close log ratio| and top 25% intraday ratio squared variation; descriptive full-sample thresholds"
+      },
+      "excluded_days_daily_returns": [
+        {
+          "date": "2024-09-23",
+          "valid_bars": 5,
+          "gold_return_pct": NaN,
+          "silver_return_pct": NaN
+        },
+        {
+          "date": "2024-11-29",
+          "valid_bars": 3,
+          "gold_return_pct": 0.8624546377060529,
+          "silver_return_pct": 1.7122014582565583
+        },
+        {
+          "date": "2024-12-24",
+          "valid_bars": 3,
+          "gold_return_pct": 0.19920140860094712,
+          "silver_return_pct": 0.11115482363804569
+        },
+        {
+          "date": "2025-07-03",
+          "valid_bars": 3,
+          "gold_return_pct": -0.682291140359794,
+          "silver_return_pct": 0.8122642281372432
+        },
+        {
+          "date": "2025-11-28",
+          "valid_bars": 3,
+          "gold_return_pct": 1.2424331348639028,
+          "silver_return_pct": 5.8057798967036955
+        },
+        {
+          "date": "2025-12-24",
+          "valid_bars": 3,
+          "gold_return_pct": -0.41340825647866164,
+          "silver_return_pct": 0.5860655525522865
+        },
+        {
+          "date": "2026-01-30",
+          "valid_bars": 1,
+          "gold_return_pct": -10.27424527456004,
+          "silver_return_pct": -28.540302491726866
+        },
+        {
+          "date": "2026-02-02",
+          "valid_bars": 3,
+          "gold_return_pct": -4.004945911975244,
+          "silver_return_pct": -3.976670072790793
+        }
+      ]
+    },
+    "IAU_SIVR": {
+      "complete_days": 493,
+      "risk": {
+        "g": {
+          "sum_oc_squared_over_sum_intraday_rv": 0.8687254650163282,
+          "fraction_days_oc_squared_less_than_quarter_rv": 0.3225152129817444,
+          "overnight_share_sum_variance": 0.6582300097202322,
+          "median_overnight_share": 0.526157388511314
+        },
+        "s": {
+          "sum_oc_squared_over_sum_intraday_rv": 0.8673635504807695,
+          "fraction_days_oc_squared_less_than_quarter_rv": 0.33468559837728196,
+          "overnight_share_sum_variance": 0.6479615956975199,
+          "median_overnight_share": 0.5041088350385668
+        }
+      },
+      "by_slot": [
+        {
+          "slot": 570,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 4.896113932920959e-07,
+          "silver_mean_sq_per_minute": 1.7458721388390743e-06
+        },
+        {
+          "slot": 630,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 2.26705607174273e-07,
+          "silver_mean_sq_per_minute": 1.0941085255176298e-06
+        },
+        {
+          "slot": 690,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 1.409221069249735e-07,
+          "silver_mean_sq_per_minute": 5.245849901986859e-07
+        },
+        {
+          "slot": 750,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 7.806946926107635e-08,
+          "silver_mean_sq_per_minute": 3.7287936924078095e-07
+        },
+        {
+          "slot": 810,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 8.752972487938141e-08,
+          "silver_mean_sq_per_minute": 3.840899675597396e-07
+        },
+        {
+          "slot": 870,
+          "minutes": 60,
+          "n": 493,
+          "gold_mean_sq_per_minute": 1.201429213659382e-07,
+          "silver_mean_sq_per_minute": 4.449979088785142e-07
+        },
+        {
+          "slot": 930,
+          "minutes": 30,
+          "n": 493,
+          "gold_mean_sq_per_minute": 8.578100242183554e-08,
+          "silver_mean_sq_per_minute": 3.798105499380814e-07
+        }
+      ],
+      "calm_endpoint_busy_path": {
+        "n": 15,
+        "dates": [
+          "2024-09-25",
+          "2025-01-27",
+          "2025-02-03",
+          "2025-10-14",
+          "2025-11-19",
+          "2026-02-18",
+          "2026-02-24",
+          "2026-03-06",
+          "2026-03-16",
+          "2026-04-07",
+          "2026-05-04",
+          "2026-05-20",
+          "2026-07-08",
+          "2026-07-23",
+          "2026-09-09"
+        ],
+        "definition": "bottom 25% |open-close log ratio| and top 25% intraday ratio squared variation; descriptive full-sample thresholds"
+      },
+      "excluded_days_daily_returns": [
+        {
+          "date": "2024-09-23",
+          "valid_bars": 5,
+          "gold_return_pct": NaN,
+          "silver_return_pct": NaN
+        },
+        {
+          "date": "2024-11-29",
+          "valid_bars": 3,
+          "gold_return_pct": 0.9441567541753124,
+          "silver_return_pct": 1.8093265897873665
+        },
+        {
+          "date": "2024-12-24",
+          "valid_bars": 3,
+          "gold_return_pct": 0.24355374623473025,
+          "silver_return_pct": 0.10600949630492626
+        },
+        {
+          "date": "2025-07-03",
+          "valid_bars": 3,
+          "gold_return_pct": -0.6949967333153385,
+          "silver_return_pct": 0.7458356769391352
+        },
+        {
+          "date": "2025-11-28",
+          "valid_bars": 3,
+          "gold_return_pct": 1.2366154901993034,
+          "silver_return_pct": 5.749159512325625
+        },
+        {
+          "date": "2025-12-24",
+          "valid_bars": 3,
+          "gold_return_pct": -0.4015162565657365,
+          "silver_return_pct": 0.6022268238656566
+        },
+        {
+          "date": "2026-01-30",
+          "valid_bars": 1,
+          "gold_return_pct": -10.209710325627235,
+          "silver_return_pct": -28.55209919851095
+        },
+        {
+          "date": "2026-02-02",
+          "valid_bars": 3,
+          "gold_return_pct": -3.9802602794800537,
+          "silver_return_pct": -3.914139638347416
+        }
+      ]
+    }
+  },
+  "timing": {
+    "cot_available_feature_rows": 975,
+    "cot_age_days": {
+      "10.0": 934,
+      "11.0": 9,
+      "16.0": 31,
+      "17.0": 1
+    },
+    "cot_asof_weekdays": {
+      "Tuesday": 1007,
+      "Monday": 13,
+      "Wednesday": 1
+    },
+    "macro_lag": "Forecast features use previous available daily observation; explanatory *0 features are contemporaneous."
+  },
+  "decade_ratio": [
+    {
+      "period": "1972_1989",
+      "n": 216,
+      "median": 39.710310655,
+      "q10": 30.645833335,
+      "q90": 69.099264705
+    },
+    {
+      "period": "1990_2006",
+      "n": 204,
+      "median": 70.722222225,
+      "q10": 53.817307693000004,
+      "q90": 87.05227272700002
+    },
+    {
+      "period": "2007_2016",
+      "n": 120,
+      "median": 62.265228425000004,
+      "q10": 49.535526919999995,
+      "q90": 74.72144324700001
+    },
+    {
+      "period": "2017_2025",
+      "n": 108,
+      "median": 82.483130905,
+      "q10": 71.61922277000001,
+      "q90": 89.716955196
+    }
+  ],
+  "long_coefficients": {
+    "1972_1989": {
+      "price_slope": {
+        "target": "lg",
+        "n": 216,
+        "first": "1972-01-01 00:00:00",
+        "last": "1989-12-01 00:00:00",
+        "r2_in_sample": 0.7580098914779057,
+        "condition_number_standardized": 1.0000000000000004,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 5.5393389670763105,
+            "ci95": [
+              5.353458824084117,
+              5.780835880977318
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "ls",
+            "beta_std_x": 0.5531354248225586,
+            "ci95": [
+              0.308807362420916,
+              0.7875120672382913
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 1.7997859032711636,
+            "x_sd": 0.5644049381725632,
+            "vif": 1.0000000000000002,
+            "raw_beta": 0.9800329292183496,
+            "raw_ci95": [
+              0.5471379527981737,
+              1.3952962030915372
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+      },
+      "ratio_ar": {
+        "target": "lq",
+        "n": 215,
+        "first": "1972-02-01 00:00:00",
+        "last": "1989-12-01 00:00:00",
+        "r2_in_sample": 0.9507981493140689,
+        "condition_number_standardized": 1.0000000000000004,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 3.741024583690841,
+            "ci95": [
+              3.7254534329599283,
+              3.749861440408613
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "lag_lq",
+            "beta_std_x": 0.3049233571110767,
+            "ci95": [
+              0.28431970434649245,
+              0.312995360277507
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 3.7369884335981856,
+            "x_sd": 0.31118596453443265,
+            "vif": 0.9999999999999998,
+            "raw_beta": 0.9798750324979294,
+            "raw_ci95": [
+              0.9136649359230099,
+              1.0058145159142424
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals.",
+        "half_life_months": 34.09440364325131,
+        "warning": "Descriptive AR fit to a potentially nonstationary, structurally changing level; interval is not a unit-root test or guaranteed convergence."
+      }
+    },
+    "1990_2006": {
+      "price_slope": {
+        "target": "lg",
+        "n": 204,
+        "first": "1990-01-01 00:00:00",
+        "last": "2006-12-01 00:00:00",
+        "r2_in_sample": 0.5174979320864099,
+        "condition_number_standardized": 1.0000000000000007,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 5.877128043643939,
+            "ci95": [
+              5.735316411301773,
+              5.93270994085966
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "ls",
+            "beta_std_x": 0.14161493148803606,
+            "ci95": [
+              -0.057183260368940045,
+              0.2011385211982382
+            ],
+            "bootstrap_sign_p_approx": 0.19290354822588707,
+            "x_mean": 1.6596494666392918,
+            "x_sd": 0.256466422609522,
+            "vif": 1.0000000000000004,
+            "raw_beta": 0.5521772793768372,
+            "raw_ci95": [
+              -0.2229658751703466,
+              0.7842684401009397
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+      },
+      "ratio_ar": {
+        "target": "lq",
+        "n": 204,
+        "first": "1990-01-01 00:00:00",
+        "last": "2006-12-01 00:00:00",
+        "r2_in_sample": 0.9356815972472347,
+        "condition_number_standardized": 1.0000000000000002,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 4.217478577004648,
+            "ci95": [
+              4.209948811558941,
+              4.223918900143558
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "lag_lq",
+            "beta_std_x": 0.17273785896477706,
+            "ci95": [
+              0.1621574488255611,
+              0.17486136149364287
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 4.219601090603392,
+            "x_sd": 0.17685528014471022,
+            "vif": 0.9999999999999998,
+            "raw_beta": 0.9767186980419011,
+            "raw_ci95": [
+              0.9168934548794768,
+              0.9887257047149746
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals.",
+        "half_life_months": 29.424764097297054,
+        "warning": "Descriptive AR fit to a potentially nonstationary, structurally changing level; interval is not a unit-root test or guaranteed convergence."
+      }
+    },
+    "2007_2016": {
+      "price_slope": {
+        "target": "lg",
+        "n": 120,
+        "first": "2007-01-01 00:00:00",
+        "last": "2016-12-01 00:00:00",
+        "r2_in_sample": 0.744355713935465,
+        "condition_number_standardized": 1.0000000000000002,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 7.064404743080507,
+            "ci95": [
+              7.001292488495403,
+              7.161184271518898
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "ls",
+            "beta_std_x": 0.2282847678880027,
+            "ci95": [
+              0.13729207047496694,
+              0.26366374567595574
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 2.96196169081688,
+            "x_sd": 0.33874390254141407,
+            "vif": 1.0,
+            "raw_beta": 0.6739155042358087,
+            "raw_ci95": [
+              0.4052975402507265,
+              0.7783571710009476
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+      },
+      "ratio_ar": {
+        "target": "lq",
+        "n": 120,
+        "first": "2007-01-01 00:00:00",
+        "last": "2016-12-01 00:00:00",
+        "r2_in_sample": 0.9213338249300824,
+        "condition_number_standardized": 1.0000000000000033,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 4.102443052263628,
+            "ci95": [
+              4.088343142478737,
+              4.114297214300988
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "lag_lq",
+            "beta_std_x": 0.16652812686635055,
+            "ci95": [
+              0.1547166880626772,
+              0.17417732830888238
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 4.099123480528578,
+            "x_sd": 0.17432510798371106,
+            "vif": 1.0000000000000002,
+            "raw_beta": 0.9552733326395584,
+            "raw_ci95": [
+              0.8875180968029799,
+              0.9991522754436355
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals.",
+        "half_life_months": 15.148186242491866,
+        "warning": "Descriptive AR fit to a potentially nonstationary, structurally changing level; interval is not a unit-root test or guaranteed convergence."
+      }
+    },
+    "2017_2025": {
+      "price_slope": {
+        "target": "lg",
+        "n": 108,
+        "first": "2017-01-01 00:00:00",
+        "last": "2025-12-01 00:00:00",
+        "r2_in_sample": 0.9009104625564976,
+        "condition_number_standardized": 1.0000000000000004,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 7.495986463606038,
+            "ci95": [
+              7.429275567480712,
+              7.538914284947221
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "ls",
+            "beta_std_x": 0.29228738853491626,
+            "ci95": [
+              0.12088873648829966,
+              0.3202774884125142
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 3.0912131860406116,
+            "x_sd": 0.3007017203020725,
+            "vif": 1.0,
+            "raw_beta": 0.972017679982996,
+            "raw_ci95": [
+              0.4020220980673468,
+              1.0651002863926975
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+      },
+      "ratio_ar": {
+        "target": "lq",
+        "n": 108,
+        "first": "2017-01-01 00:00:00",
+        "last": "2025-12-01 00:00:00",
+        "r2_in_sample": 0.7855325472775707,
+        "condition_number_standardized": 1.0000000000000022,
+        "block": 24,
+        "bootstrap_B": 2000,
+        "coefficients": [
+          {
+            "factor": "intercept",
+            "beta_std_x": 4.404773277565426,
+            "ci95": [
+              4.398011623990725,
+              4.415546781285186
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": null,
+            "x_sd": null,
+            "vif": null
+          },
+          {
+            "factor": "lag_lq",
+            "beta_std_x": 0.08623732697937507,
+            "ci95": [
+              0.07474422614670644,
+              0.09084515231286282
+            ],
+            "bootstrap_sign_p_approx": 0.0009995002498750624,
+            "x_mean": 4.404956654237104,
+            "x_sd": 0.09700097239060464,
+            "vif": 0.9999999999999998,
+            "raw_beta": 0.8890356957671889,
+            "raw_ci95": [
+              0.7705513079366413,
+              0.9365385735211654
+            ]
+          }
+        ],
+        "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals.",
+        "half_life_months": 5.893212090388919,
+        "warning": "Descriptive AR fit to a potentially nonstationary, structurally changing level; interval is not a unit-root test or guaranteed convergence."
+      }
+    }
+  },
+  "monthly_predictive_results": [
+    {
+      "target": "gold_12",
+      "period": "all",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.027549713892190773,
+      "new_loss": 0.0287984866785957,
+      "change_pct": 4.5327976591397645,
+      "ci95": [
+        -1.4521541067392372,
+        11.654193465754343
+      ],
+      "p_improve": 0.8950262434391402,
+      "holm_p": 1.0,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "gold_12",
+      "period": "all",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.0287984866785957,
+      "new_loss": 0.030542009046104848,
+      "change_pct": 6.054215233486593,
+      "ci95": [
+        -2.5272967139253053,
+        15.598138141106746
+      ],
+      "p_improve": 0.9132716820794802,
+      "holm_p": 1.0,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "gold_12",
+      "period": "before2017",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.02875107398115399,
+      "new_loss": 0.031137513569203846,
+      "change_pct": 8.300349369954452,
+      "ci95": [
+        1.4691907230957575,
+        14.85112474293434
+      ],
+      "p_improve": 0.971007248187953
+    },
+    {
+      "target": "gold_12",
+      "period": "before2017",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.031137513569203846,
+      "new_loss": 0.033562513998468824,
+      "change_pct": 7.788034917673681,
+      "ci95": [
+        -2.0303635861221596,
+        19.173830468423343
+      ],
+      "p_improve": 0.8907773056735816
+    },
+    {
+      "target": "gold_12",
+      "period": "2017plus",
+      "baseline": "base",
+      "model": "level",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.024969951174838197,
+      "new_loss": 0.023775734197710847,
+      "change_pct": -4.782616388656546,
+      "ci95": [
+        -8.377776096059323,
+        1.1220016479491577
+      ],
+      "p_improve": 0.00849787553111722
+    },
+    {
+      "target": "gold_12",
+      "period": "2017plus",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.023775734197710847,
+      "new_loss": 0.024055872095765356,
+      "change_pct": 1.1782513033035125,
+      "ci95": [
+        -9.123507125558467,
+        5.899786459885064
+      ],
+      "p_improve": 0.8612846788302925
+    },
+    {
+      "target": "silver_12",
+      "period": "all",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.0800404759120244,
+      "new_loss": 0.0758137004488444,
+      "change_pct": -5.280797515279412,
+      "ci95": [
+        -10.610706231237486,
+        1.0430903415839567
+      ],
+      "p_improve": 0.02424393901524619,
+      "holm_p": 0.14546363409147714,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "silver_12",
+      "period": "all",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.0758137004488444,
+      "new_loss": 0.0781115702390045,
+      "change_pct": 3.0309426614924195,
+      "ci95": [
+        0.6869931894977893,
+        6.003393255291447
+      ],
+      "p_improve": 0.9897525618595351,
+      "holm_p": 1.0,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "silver_12",
+      "period": "before2017",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.09335987793513519,
+      "new_loss": 0.09064736486970736,
+      "change_pct": -2.9054376734644394,
+      "ci95": [
+        -7.976692148126057,
+        1.5355255037052642
+      ],
+      "p_improve": 0.16795801049737566
+    },
+    {
+      "target": "silver_12",
+      "period": "before2017",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.09064736486970736,
+      "new_loss": 0.09395153714031926,
+      "change_pct": 3.6450836440321988,
+      "ci95": [
+        1.3396409219838297,
+        7.691760333389618
+      ],
+      "p_improve": 0.9965008747813047
+    },
+    {
+      "target": "silver_12",
+      "period": "2017plus",
+      "baseline": "base",
+      "model": "level",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.0514388126202918,
+      "new_loss": 0.04396035790299132,
+      "change_pct": -14.538544605421833,
+      "ci95": [
+        -24.76701129386454,
+        3.2164951216553455
+      ],
+      "p_improve": 0.06448387903024244
+    },
+    {
+      "target": "silver_12",
+      "period": "2017plus",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.04396035790299132,
+      "new_loss": 0.044097325524602236,
+      "change_pct": 0.3115707608959184,
+      "ci95": [
+        -3.584196944438447,
+        2.495753879834394
+      ],
+      "p_improve": 0.844288927768058
+    },
+    {
+      "target": "ratio_12",
+      "period": "all",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.02617872062943037,
+      "new_loss": 0.025748433697971647,
+      "change_pct": -1.643651489122011,
+      "ci95": [
+        -7.567494968650108,
+        5.39829892871663
+      ],
+      "p_improve": 0.4258935266183454,
+      "holm_p": 1.0,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "ratio_12",
+      "period": "all",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 299,
+      "base_loss": 0.025748433697971647,
+      "new_loss": 0.026596484332970544,
+      "change_pct": 3.2936008649943727,
+      "ci95": [
+        -0.40416042574049427,
+        8.386777070368218
+      ],
+      "p_improve": 0.9467633091727068,
+      "holm_p": 1.0,
+      "holm_p_family_n": 6
+    },
+    {
+      "target": "ratio_12",
+      "period": "before2017",
+      "baseline": "base",
+      "model": "level",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.02956152888473883,
+      "new_loss": 0.028610144886627074,
+      "change_pct": -3.218317976114249,
+      "ci95": [
+        -10.348383874471539,
+        1.2506885895174789
+      ],
+      "p_improve": 0.31442139465133717
+    },
+    {
+      "target": "ratio_12",
+      "period": "before2017",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2000-01-31",
+      "last": "2016-12-31",
+      "metric": "MSE",
+      "n": 204,
+      "base_loss": 0.028610144886627074,
+      "new_loss": 0.02927153078714066,
+      "change_pct": 2.3117181095532624,
+      "ci95": [
+        -1.3204196090796985,
+        8.420423522575131
+      ],
+      "p_improve": 0.8962759310172457
+    },
+    {
+      "target": "ratio_12",
+      "period": "2017plus",
+      "baseline": "base",
+      "model": "level",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.018914585007504828,
+      "new_loss": 0.019603285461279985,
+      "change_pct": 3.6411079254548673,
+      "ci95": [
+        -7.580086832309071,
+        30.26695429184402
+      ],
+      "p_improve": 0.799550112471882
+    },
+    {
+      "target": "ratio_12",
+      "period": "2017plus",
+      "baseline": "level",
+      "model": "asymmetric",
+      "first": "2017-01-31",
+      "last": "2024-11-30",
+      "metric": "MSE",
+      "n": 95,
+      "base_loss": 0.019603285461279985,
+      "new_loss": 0.020852174052436823,
+      "change_pct": 6.3708126559888,
+      "ci95": [
+        -1.9663235304896192,
+        12.131030737120248
+      ],
+      "p_improve": 0.8022994251437141
+    }
+  ],
+  "monthly_adjustment_coefficients": {
+    "gold": {
+      "target": "gold_12",
+      "n": 299,
+      "first": "2000-01-31 00:00:00",
+      "last": "2024-11-30 00:00:00",
+      "r2_in_sample": 0.09550350298612564,
+      "condition_number_standardized": 1.9637416373573862,
+      "block": 24,
+      "bootstrap_B": 4000,
+      "coefficients": [
+        {
+          "factor": "intercept",
+          "beta_std_x": 0.10070593615758854,
+          "ci95": [
+            0.03799352002717153,
+            0.1523170354012299
+          ],
+          "bootstrap_sign_p_approx": 0.004498875281179705,
+          "x_mean": null,
+          "x_sd": null,
+          "vif": null
+        },
+        {
+          "factor": "g1",
+          "beta_std_x": -0.006639367455143565,
+          "ci95": [
+            -0.016884314005054545,
+            0.001330260954431165
+          ],
+          "bootstrap_sign_p_approx": 0.08597850537365659,
+          "x_mean": 0.007482425781424039,
+          "x_sd": 0.035871114712935165,
+          "vif": 1.1231785739897109
+        },
+        {
+          "factor": "g12",
+          "beta_std_x": 0.04907233915630018,
+          "ci95": [
+            -0.02196877653480918,
+            0.07709684524198597
+          ],
+          "bootstrap_sign_p_approx": 0.23144213946513373,
+          "x_mean": 0.08518758772306005,
+          "x_sd": 0.13904737005177725,
+          "vif": 1.268453839501847
+        },
+        {
+          "factor": "zpos",
+          "beta_std_x": 0.017377377342988283,
+          "ci95": [
+            -0.031822160661817665,
+            0.07021634233142583
+          ],
+          "bootstrap_sign_p_approx": 0.47738065483629094,
+          "x_mean": 0.581454984537817,
+          "x_sd": 0.6212207336697191,
+          "vif": 1.4107730194212338
+        },
+        {
+          "factor": "zneg",
+          "beta_std_x": -0.013296815485578109,
+          "ci95": [
+            -0.044572879759161146,
+            0.06193666473916661
+          ],
+          "bootstrap_sign_p_approx": 0.9652586853286679,
+          "x_mean": 0.3420198000384268,
+          "x_sd": 0.6117452028729201,
+          "vif": 1.4399168094206307
+        }
+      ],
+      "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+    },
+    "silver": {
+      "target": "silver_12",
+      "n": 299,
+      "first": "2000-01-31 00:00:00",
+      "last": "2024-11-30 00:00:00",
+      "r2_in_sample": 0.19182394722956242,
+      "condition_number_standardized": 2.1371722444836134,
+      "block": 24,
+      "bootstrap_B": 4000,
+      "coefficients": [
+        {
+          "factor": "intercept",
+          "beta_std_x": 0.0829835735437327,
+          "ci95": [
+            -0.017238037700495236,
+            0.17396402641062353
+          ],
+          "bootstrap_sign_p_approx": 0.09847538115471133,
+          "x_mean": null,
+          "x_sd": null,
+          "vif": null
+        },
+        {
+          "factor": "s1",
+          "beta_std_x": -0.02254783048333768,
+          "ci95": [
+            -0.0451781383754417,
+            0.0007453296876710705
+          ],
+          "bootstrap_sign_p_approx": 0.05548612846788303,
+          "x_mean": 0.005981769878253535,
+          "x_sd": 0.06655211647671218,
+          "vif": 1.0925339786443844
+        },
+        {
+          "factor": "s12",
+          "beta_std_x": 0.10338170651490053,
+          "ci95": [
+            -0.004452626128858154,
+            0.18289718662178853
+          ],
+          "bootstrap_sign_p_approx": 0.05998500374906274,
+          "x_mean": 0.06667404528311294,
+          "x_sd": 0.25176823574012797,
+          "vif": 1.5192588616525657
+        },
+        {
+          "factor": "zpos",
+          "beta_std_x": 0.06568341308557588,
+          "ci95": [
+            -0.023843314578349643,
+            0.15673035320906914
+          ],
+          "bootstrap_sign_p_approx": 0.1334666333416646,
+          "x_mean": 0.581454984537817,
+          "x_sd": 0.6212207336697191,
+          "vif": 1.465956280806574
+        },
+        {
+          "factor": "zneg",
+          "beta_std_x": -0.08068122498803047,
+          "ci95": [
+            -0.1661204180733488,
+            0.059153927750978864
+          ],
+          "bootstrap_sign_p_approx": 0.27543114221444637,
+          "x_mean": 0.3420198000384268,
+          "x_sd": 0.6117452028729201,
+          "vif": 1.577434891284782
+        }
+      ],
+      "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+    },
+    "ratio": {
+      "target": "ratio_12",
+      "n": 299,
+      "first": "2000-01-31 00:00:00",
+      "last": "2024-11-30 00:00:00",
+      "r2_in_sample": 0.1742239663846893,
+      "condition_number_standardized": 2.143959116664321,
+      "block": 24,
+      "bootstrap_B": 4000,
+      "coefficients": [
+        {
+          "factor": "intercept",
+          "beta_std_x": 0.01772236261385584,
+          "ci95": [
+            -0.046148016278372,
+            0.06782831947013113
+          ],
+          "bootstrap_sign_p_approx": 0.6153461634591352,
+          "x_mean": null,
+          "x_sd": null,
+          "vif": null
+        },
+        {
+          "factor": "q1",
+          "beta_std_x": -0.015769988164234035,
+          "ci95": [
+            -0.028497454286172858,
+            -0.0031646189583628987
+          ],
+          "bootstrap_sign_p_approx": 0.012496875781054736,
+          "x_mean": 0.001500655903170506,
+          "x_sd": 0.04614645667540829,
+          "vif": 1.064461937850991
+        },
+        {
+          "factor": "q12",
+          "beta_std_x": 0.014407210378902384,
+          "ci95": [
+            -0.028752271203612508,
+            0.08130057400372837
+          ],
+          "bootstrap_sign_p_approx": 0.5213696575856036,
+          "x_mean": 0.018513542439947142,
+          "x_sd": 0.16049251093805694,
+          "vif": 1.497088387100708
+        },
+        {
+          "factor": "zpos",
+          "beta_std_x": -0.033954774682201844,
+          "ci95": [
+            -0.0934934613802385,
+            0.021964634835079433
+          ],
+          "bootstrap_sign_p_approx": 0.20194951262184455,
+          "x_mean": 0.581454984537817,
+          "x_sd": 0.6212207336697191,
+          "vif": 1.4727451828090978
+        },
+        {
+          "factor": "zneg",
+          "beta_std_x": 0.04619396658590269,
+          "ci95": [
+            -0.020501998512286006,
+            0.11300004247057366
+          ],
+          "bootstrap_sign_p_approx": 0.17195701074731318,
+          "x_mean": 0.3420198000384268,
+          "x_sd": 0.6117452028729201,
+          "vif": 1.5919657340122593
+        }
+      ],
+      "note": "Predictors standardized using fixed full-fit sample SD; conditional association, not causal. Percentile moving-block intervals."
+    }
+  }
+}

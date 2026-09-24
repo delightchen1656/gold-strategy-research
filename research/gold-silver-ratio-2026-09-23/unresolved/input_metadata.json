@@ -1,0 +1,82 @@
+[
+  {
+    "file": "GLD_hourly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?range=2y&interval=1h&includePrePost=false",
+    "downloaded_at": "2026-09-23T15:54:37.823723+00:00",
+    "bytes": 351917,
+    "sha256": "096cdd454568a21739aae7016bccedb746c84b1849beeefe7d336b6c7872a7fb",
+    "symbol": "GLD",
+    "rows": 3499,
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "first": "2024-09-23T15:30:00+00:00",
+    "last": "2026-09-23T15:54:35+00:00"
+  },
+  {
+    "file": "SLV_hourly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SLV?range=2y&interval=1h&includePrePost=false",
+    "downloaded_at": "2026-09-23T15:54:37.726830+00:00",
+    "bytes": 355263,
+    "sha256": "7f3cbcb3a380ef0a3b68c70158bc2c892e5aa32108781c5381cb7fa5b5f60b18",
+    "symbol": "SLV",
+    "rows": 3499,
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "first": "2024-09-23T15:30:00+00:00",
+    "last": "2026-09-23T15:54:34+00:00"
+  },
+  {
+    "file": "IAU_hourly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?range=2y&interval=1h&includePrePost=false",
+    "downloaded_at": "2026-09-23T15:54:37.734166+00:00",
+    "bytes": 349276,
+    "sha256": "6e1cd3710292a03ac54111736dd77c69a561ef5134c1f3a223227a06dd2ae1f7",
+    "symbol": "IAU",
+    "rows": 3499,
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "first": "2024-09-23T15:30:00+00:00",
+    "last": "2026-09-23T15:54:34+00:00"
+  },
+  {
+    "file": "SIVR_hourly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SIVR?range=2y&interval=1h&includePrePost=false",
+    "downloaded_at": "2026-09-23T15:54:38.787408+00:00",
+    "bytes": 349593,
+    "sha256": "118d0745ac8c1d07265d152e722e7a0c7e3361d13331c2227a9c4e585fa45bfd",
+    "symbol": "SIVR",
+    "rows": 3499,
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "first": "2024-09-23T15:30:00+00:00",
+    "last": "2026-09-23T15:54:36+00:00"
+  },
+  {
+    "file": "ssrn_latest.html",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7170627",
+    "downloaded_at": "2026-09-23T15:54:38.430974+00:00",
+    "error": "curl: (22) The requested URL returned error: 403\r\n"
+  },
+  {
+    "file": "zenodo_step1.txt",
+    "url": "https://zenodo.org/records/21282855/files/step1_gold.py?download=1",
+    "downloaded_at": "2026-09-23T15:54:41.146671+00:00",
+    "error": "curl: (22) The requested URL returned error: 403\r\n"
+  },
+  {
+    "file": "price_discovery.pdf",
+    "url": "https://www.researchgate.net/profile/Bertrand-Villeneuve/publication/391128136_Gold_standards_for_price_discovery_A_moving_picture/links/680b3974df0e3f544f4949d5/Gold-Standards-for-Price-Discovery-A-Moving-Picture.pdf",
+    "downloaded_at": "2026-09-23T15:54:39.043369+00:00",
+    "error": "curl: (22) The requested URL returned error: 403\r\n"
+  },
+  {
+    "file": "xau_hour_probe.bi5",
+    "url": "https://datafeed.dukascopy.com/datafeed/XAUUSD/2025/00/BID_candles_hour_1.bi5",
+    "error": "HTTP 429; no bulk download attempted"
+  },
+  {
+    "file": "xag_minute_probe.bi5",
+    "url": "https://datafeed.dukascopy.com/datafeed/XAGUSD/2025/00/02/BID_candles_min_1.bi5",
+    "error": "Connection timed out after 25 seconds"
+  }
+]

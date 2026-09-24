@@ -1,0 +1,50 @@
+{
+  "g": {
+    "columns": [
+      "g_mm_net_delta",
+      "g_producer_net_delta",
+      "g_swap_net_delta",
+      "g_other_net_delta"
+    ],
+    "variance_shares": [
+      0.5925893679543455,
+      0.2637630442416927,
+      0.13841840623276647,
+      0.005229181571195355
+    ],
+    "first_loadings": [
+      -0.6378036441753128,
+      0.5301335625476679,
+      0.5548446247307283,
+      0.06566855978797298
+    ],
+    "n": 1020,
+    "unwind_n": 171,
+    "unwind_oi_change_mean": -0.020648744233396486,
+    "other_oi_change_mean": 0.005869340669473488
+  },
+  "s": {
+    "columns": [
+      "s_mm_net_delta",
+      "s_producer_net_delta",
+      "s_swap_net_delta",
+      "s_other_net_delta"
+    ],
+    "variance_shares": [
+      0.6702947651701182,
+      0.20238706157249242,
+      0.1153240213069985,
+      0.011994151950390853
+    ],
+    "first_loadings": [
+      -0.6011335834088473,
+      0.5005747570680094,
+      0.5035425525255594,
+      0.3667536302211416
+    ],
+    "n": 1020,
+    "unwind_n": 185,
+    "unwind_oi_change_mean": -0.0220171766478714,
+    "other_oi_change_mean": 0.006324364469397664
+  }
+}

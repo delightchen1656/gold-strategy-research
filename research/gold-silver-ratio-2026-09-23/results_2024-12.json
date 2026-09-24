@@ -1,0 +1,593 @@
+{
+  "source": "World Bank Pink Sheet, downloaded 2026-09-23; workbook dated 2026-09-02",
+  "data_start": "1960-01-01",
+  "data_end": "2026-08-01",
+  "raw_n": 800,
+  "evaluation_price_cutoff": "2024-12",
+  "signal_start": "1972-01",
+  "oos_start": "2000-01",
+  "method": "Monthly average USD/troy oz prices. One-month gap. Expanding OLS with intercept; no fitting on unavailable target outcomes. Complete outcomes through 2024-12. Period labels indicate fixed requested signal-date windows and may truncate at available outcomes. Exploratory, no formal significance inference or transaction-cost backtest.",
+  "contemporaneous_monthly_return_correlation": 0.7162235546648141,
+  "monthly_volatility_gold": 0.04763924921914076,
+  "monthly_volatility_silver": 0.07855747748023943,
+  "latest_month": {
+    "gold": 4411.0,
+    "silver": 65.4,
+    "ratio": 67.44648318042813
+  },
+  "source_description": [
+    [
+      "   *",
+      "Gold, spot average of daily rates, from June 2025; previously (UK), 99.5% fine, London afternoon fixing, average of daily rates",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Bloomberg Finance L.P.; Kitco.com; International Monetary Fund, International Financial Statistics; London Bullion Market; Metals Week; Platts Metals Week; Shearson Lehman Brothers, Metal Market Weekly Review; Thomson Reuters Datastream; World Bank."
+    ],
+    [
+      "   *",
+      "Silver (UK), 99.9% refined, London afternoon fixing; prior to July 1976 Handy & Harman.  Grade prior to 1962 unrefined silver.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "American Metal Market; Australian Mineral Economics Pty. Ltd.; Bloomberg Finance L.P.; London Bullion Market; Metals Week; Metals Statistics; Platts Metasl Week; The Silver Institute, Silver World Supply & Demand; Thomson Reuters Datastream; World Bank."
+    ]
+  ],
+  "source_mismatch_sheet_gold_silver_rows": [],
+  "descriptive": [
+    {
+      "period": "1972-1979",
+      "n": 96,
+      "mean": 33.65496147315994,
+      "median": 33.29931972789116,
+      "min": 20.22222222222222,
+      "max": 46.15384615384615
+    },
+    {
+      "period": "1980-1989",
+      "n": 120,
+      "mean": 52.661729693819396,
+      "median": 50.626240079365076,
+      "min": 17.352185089974295,
+      "max": 75.71428571428572
+    },
+    {
+      "period": "1990-1999",
+      "n": 120,
+      "mean": 73.63977559114385,
+      "median": 73.90224358974359,
+      "min": 43.6764705882353,
+      "max": 98.37837837837837
+    },
+    {
+      "period": "2000-2009",
+      "n": 120,
+      "mean": 61.50995395211609,
+      "median": 60.50549450549451,
+      "min": 47.368421052631575,
+      "max": 79.22330097087378
+    },
+    {
+      "period": "2010-2019",
+      "n": 120,
+      "mean": 67.49138503395987,
+      "median": 68.9032360071677,
+      "min": 34.683840749414514,
+      "max": 90.6
+    },
+    {
+      "period": "2020-2025",
+      "n": 72,
+      "mean": 83.24827075652355,
+      "median": 83.02943969610637,
+      "min": 66.22710622710622,
+      "max": 111.45695364238411
+    }
+  ],
+  "correlations": [
+    {
+      "period": "1972-1999",
+      "horizon_months": 1,
+      "n": 335,
+      "corr_ratio_gold": -0.14315815051733394,
+      "corr_ratio_relative": 0.12930363074994297,
+      "corr_silver_gold": -0.0887181184319478
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 1,
+      "n": 156,
+      "corr_ratio_gold": 0.11006469132627021,
+      "corr_ratio_relative": 0.23961290317720915,
+      "corr_silver_gold": -0.08476754788246878
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 1,
+      "n": 142,
+      "corr_ratio_gold": 0.3826071412653436,
+      "corr_ratio_relative": 0.3135216113910352,
+      "corr_silver_gold": -0.041021809343587075
+    },
+    {
+      "period": "1972-1999",
+      "horizon_months": 3,
+      "n": 335,
+      "corr_ratio_gold": -0.22128780031397918,
+      "corr_ratio_relative": 0.20244665007812335,
+      "corr_silver_gold": -0.004067174398067396
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 3,
+      "n": 156,
+      "corr_ratio_gold": 0.15967863734774934,
+      "corr_ratio_relative": 0.3437911296768653,
+      "corr_silver_gold": -0.06429351454635289
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 3,
+      "n": 140,
+      "corr_ratio_gold": 0.4998537863262735,
+      "corr_ratio_relative": 0.4222446905853371,
+      "corr_silver_gold": -0.0756904406871673
+    },
+    {
+      "period": "1972-1999",
+      "horizon_months": 12,
+      "n": 335,
+      "corr_ratio_gold": -0.30726503522694965,
+      "corr_ratio_relative": 0.29425948308105065,
+      "corr_silver_gold": 0.1185503883314609
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 12,
+      "n": 156,
+      "corr_ratio_gold": 0.2937606579965522,
+      "corr_ratio_relative": 0.592757872483318,
+      "corr_silver_gold": -0.03961114615173455
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 12,
+      "n": 131,
+      "corr_ratio_gold": 0.6078015813415888,
+      "corr_ratio_relative": 0.6318516773416223,
+      "corr_silver_gold": -0.00804076956027714
+    }
+  ],
+  "oos": [
+    {
+      "period": "2000-2025",
+      "horizon_months": 1,
+      "model": "historical_mean",
+      "n": 298,
+      "mse": 0.001291962680826669,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": 0.004076356851663632,
+      "direction_accuracy": 0.5302013422818792
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 1,
+      "model": "ratio_only",
+      "n": 298,
+      "mse": 0.001330232632685423,
+      "r2_vs_mean": -0.029621561386174777,
+      "r2_vs_gold_own": -0.025424456479797408,
+      "direction_accuracy": 0.4664429530201342
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 1,
+      "model": "gold_own_history",
+      "n": 298,
+      "mse": 0.001297250737759862,
+      "r2_vs_mean": -0.004093041549628751,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.5604026845637584
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 1,
+      "model": "gold_plus_silver",
+      "n": 298,
+      "mse": 0.0013212491546181467,
+      "r2_vs_mean": -0.022668204140957604,
+      "r2_vs_gold_own": -0.018499443600028975,
+      "direction_accuracy": 0.5604026845637584
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 1,
+      "model": "historical_mean",
+      "n": 156,
+      "mse": 0.0015342876601401694,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": 0.0034827414318789884,
+      "direction_accuracy": 0.5769230769230769
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 1,
+      "model": "ratio_only",
+      "n": 156,
+      "mse": 0.0015805818741424958,
+      "r2_vs_mean": -0.03017309935093726,
+      "r2_vs_gold_own": -0.026585272815820682,
+      "direction_accuracy": 0.5256410256410257
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 1,
+      "model": "gold_own_history",
+      "n": 156,
+      "mse": 0.001539649862506909,
+      "r2_vs_mean": -0.0034949133112689434,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.6089743589743589
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 1,
+      "model": "gold_plus_silver",
+      "n": 156,
+      "mse": 0.0015751899695660104,
+      "r2_vs_mean": -0.026658827082076897,
+      "r2_vs_gold_own": -0.02308323984859384,
+      "direction_accuracy": 0.5897435897435898
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 1,
+      "model": "historical_mean",
+      "n": 142,
+      "mse": 0.0010257465063695838,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": 0.005050279539690061,
+      "direction_accuracy": 0.4788732394366197
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 1,
+      "model": "ratio_only",
+      "n": 142,
+      "mse": 0.001055201071648075,
+      "r2_vs_mean": -0.028715247963885027,
+      "r2_vs_gold_own": -0.02351994839492577,
+      "direction_accuracy": 0.4014084507042254
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 1,
+      "model": "gold_own_history",
+      "n": 142,
+      "mse": 0.001030953107756064,
+      "r2_vs_mean": -0.005075914325955555,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.5070422535211268
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 1,
+      "model": "gold_plus_silver",
+      "n": 142,
+      "mse": 0.0010422719212951413,
+      "r2_vs_mean": -0.016110622676206665,
+      "r2_vs_gold_own": -0.010978979988443216,
+      "direction_accuracy": 0.528169014084507
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 3,
+      "model": "historical_mean",
+      "n": 296,
+      "mse": 0.004552357140397034,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": 0.0065684954239141335,
+      "direction_accuracy": 0.6114864864864865
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 3,
+      "model": "ratio_only",
+      "n": 296,
+      "mse": 0.004913025236618204,
+      "r2_vs_mean": -0.07922666985431515,
+      "r2_vs_gold_own": -0.07213777441201086,
+      "direction_accuracy": 0.5168918918918919
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 3,
+      "model": "gold_own_history",
+      "n": 296,
+      "mse": 0.004582456988154007,
+      "r2_vs_mean": -0.006611925828461596,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.6148648648648649
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 3,
+      "model": "gold_plus_silver",
+      "n": 296,
+      "mse": 0.004758149549939342,
+      "r2_vs_mean": -0.04520568206657871,
+      "r2_vs_gold_own": -0.03834025332687552,
+      "direction_accuracy": 0.5878378378378378
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 3,
+      "model": "historical_mean",
+      "n": 156,
+      "mse": 0.004830432337066151,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": 0.02345607147774942,
+      "direction_accuracy": 0.6474358974358975
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 3,
+      "model": "ratio_only",
+      "n": 156,
+      "mse": 0.005252647188995674,
+      "r2_vs_mean": -0.08740725932328508,
+      "r2_vs_gold_own": -0.061900956923174544,
+      "direction_accuracy": 0.5576923076923077
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 3,
+      "model": "gold_own_history",
+      "n": 156,
+      "mse": 0.0049464567808800725,
+      "r2_vs_mean": -0.024019473976192973,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.6474358974358975
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 3,
+      "model": "gold_plus_silver",
+      "n": 156,
+      "mse": 0.005160161914225017,
+      "r2_vs_mean": -0.06826088311571987,
+      "r2_vs_gold_own": -0.04320367948447368,
+      "direction_accuracy": 0.6217948717948718
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 3,
+      "model": "historical_mean",
+      "n": 140,
+      "mse": 0.004242501921251447,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": -0.015716290668164934,
+      "direction_accuracy": 0.5714285714285714
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 3,
+      "model": "ratio_only",
+      "n": 140,
+      "mse": 0.0045345893468261645,
+      "r2_vs_mean": -0.06884791827944725,
+      "r2_vs_gold_own": -0.08564624284318989,
+      "direction_accuracy": 0.4714285714285714
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 3,
+      "model": "gold_own_history",
+      "n": 140,
+      "mse": 0.004176857219116391,
+      "r2_vs_mean": 0.015473110761890285,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.5785714285714286
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 3,
+      "model": "gold_plus_silver",
+      "n": 140,
+      "mse": 0.004310192915449589,
+      "r2_vs_mean": -0.015955442202410408,
+      "r2_vs_gold_own": -0.031922493237967364,
+      "direction_accuracy": 0.55
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 12,
+      "model": "historical_mean",
+      "n": 287,
+      "mse": 0.021849543560931165,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": -0.04214278981185049,
+      "direction_accuracy": 0.7142857142857143
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 12,
+      "model": "ratio_only",
+      "n": 287,
+      "mse": 0.025739899661701066,
+      "r2_vs_mean": -0.17805205357818954,
+      "r2_vs_gold_own": -0.22769845365955388,
+      "direction_accuracy": 0.6097560975609756
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 12,
+      "model": "gold_own_history",
+      "n": 287,
+      "mse": 0.02096597872627023,
+      "r2_vs_mean": 0.040438594618554036,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.710801393728223
+    },
+    {
+      "period": "2000-2025",
+      "horizon_months": 12,
+      "model": "gold_plus_silver",
+      "n": 287,
+      "mse": 0.02428753483677958,
+      "r2_vs_mean": -0.11158087898036229,
+      "r2_vs_gold_own": -0.1584259983221037,
+      "direction_accuracy": 0.6585365853658537
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 12,
+      "model": "historical_mean",
+      "n": 156,
+      "mse": 0.027718586255150883,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": -0.036558820059065855,
+      "direction_accuracy": 0.8205128205128205
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 12,
+      "model": "ratio_only",
+      "n": 156,
+      "mse": 0.03286143973533845,
+      "r2_vs_mean": -0.18553808743517286,
+      "r2_vs_gold_own": -0.22887996104688435,
+      "direction_accuracy": 0.6538461538461539
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 12,
+      "model": "gold_own_history",
+      "n": 156,
+      "mse": 0.026740968017204665,
+      "r2_vs_mean": 0.035269411973150255,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.8205128205128205
+    },
+    {
+      "period": "2000-2012",
+      "horizon_months": 12,
+      "model": "gold_plus_silver",
+      "n": 156,
+      "mse": 0.031387389925160804,
+      "r2_vs_mean": -0.13235897517421735,
+      "r2_vs_gold_own": -0.1737566831898798,
+      "direction_accuracy": 0.7371794871794872
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 12,
+      "model": "historical_mean",
+      "n": 131,
+      "mse": 0.014860454551020665,
+      "r2_vs_mean": 0.0,
+      "r2_vs_gold_own": -0.05476387322267873,
+      "direction_accuracy": 0.5877862595419847
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 12,
+      "model": "ratio_only",
+      "n": 131,
+      "mse": 0.017259287054926777,
+      "r2_vs_mean": -0.16142389828454817,
+      "r2_vs_gold_own": -0.2250279694079924,
+      "direction_accuracy": 0.5572519083969466
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 12,
+      "model": "gold_own_history",
+      "n": 131,
+      "mse": 0.014088892242409378,
+      "r2_vs_mean": 0.05192050525522407,
+      "r2_vs_gold_own": 0.0,
+      "direction_accuracy": 0.5801526717557252
+    },
+    {
+      "period": "2013-2025",
+      "horizon_months": 12,
+      "model": "gold_plus_silver",
+      "n": 131,
+      "mse": 0.015832745571226367,
+      "r2_vs_mean": -0.06542808074056672,
+      "r2_vs_gold_own": -0.123775049082125,
+      "direction_accuracy": 0.5648854961832062
+    }
+  ],
+  "historical_examples": [
+    {
+      "start": "2011-04",
+      "end": "2011-09",
+      "gold_return": 0.1964888588791358,
+      "silver_return": -0.1053864168618267,
+      "ratio_start": 34.683840749414514,
+      "ratio_end": 46.387434554973815
+    },
+    {
+      "start": "2020-03",
+      "end": "2020-08",
+      "gold_return": 0.23680904522613067,
+      "silver_return": 0.8120805369127517,
+      "ratio_start": 106.84563758389261,
+      "ratio_end": 72.92592592592592
+    },
+    {
+      "start": "2008-03",
+      "end": "2008-10",
+      "gold_return": -0.16632231404958675,
+      "silver_return": -0.46113989637305697,
+      "ratio_start": 50.15544041450777,
+      "ratio_end": 77.59615384615384
+    },
+    {
+      "start": "2025-04",
+      "end": "2025-12",
+      "gold_return": 0.33903045369794893,
+      "silver_return": 0.9347826086956519,
+      "ratio_start": 99.93788819875776,
+      "ratio_end": 69.16532905296951
+    }
+  ],
+  "limitations": [
+    "Monthly averages smooth returns and are not tradable prices.",
+    "Historical-vintage publication/revision database unavailable; pseudo out-of-sample only.",
+    "Overlapping 3m/12m targets are dependent; no naive t-tests.",
+    "No USD/rate/industrial controls, no nonlinear or volatility forecast model.",
+    "Model/period choices fixed before the first result, but this is exploratory rather than preregistered research.",
+    "Failure of tested specifications cannot exclude usefulness of all silver-based signals."
+  ]
+}

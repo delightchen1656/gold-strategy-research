@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "counts": {
+    "daily_target_values": 29625,
+    "hourly_target_or_component_values": 23432,
+    "independent_forecast_refits": 696,
+    "max_abs_refit_error": 2.220446049250313e-15,
+    "forecast_clock_rows": 99092,
+    "independent_mse_comparisons": 206,
+    "independent_coefficients": 117,
+    "hourly_lead_clock_rows": 29360
+  },
+  "checks_total": 14861,
+  "failed": [],
+  "hashes": {
+    "cot_panel.csv": "0dd47a1b3dc43824eeafe9c2d0bcc3702036881cccdb4eb366927f68f3f73000",
+    "daily_panel.csv": "4bfb351ea1a936abce06bbeea32313ebcbc024c1dd534468eb447d856867d96b",
+    "daily_predictions.csv": "86ae8c9b69b6b12fa3e238dc5dd7adce837faa98b4d318c2eb59278371df3fd1",
+    "factor_predictions.csv": "7ee07bb3526520d5fb357143b7559427d9079553afa719a68b729384c4c293b9",
+    "fund_predictions.csv": "f23c5dbd919f34d696637a7993c699d1b01b5a391b55f18f68416d586c9e5b77",
+    "hourly_daily_GLD_SLV.csv": "21b5f3b747eb45b63e412aa228b7f3e9e82cf7c973a285a55ecf7c2b1996298d",
+    "hourly_daily_IAU_SIVR.csv": "34ff0f9224482e7db219673c00a8af36fcfeedd9dc32a471c964fcbff0d7c189",
+    "hourly_GLD_SLV.csv": "144ec64c88db5c91ed204d26810ee2d8fd22ee77a63d08658bd1cc728b171240",
+    "hourly_IAU_SIVR.csv": "64d023e5a720ead0acf0141da17815fdf3c8ddd384c0760b3e7a9441dd7d5ebf",
+    "hourly_lead_predictions.csv": "5a26e5619374c516eb18d099e422351086a58a00a8fde6a056efe5ffbfa19392",
+    "hourly_risk_predictions.csv": "342d810b422e03bdf6106fe53117ddd1b7a53ad4ef8818463371ded4fca585f1",
+    "monthly_panel.csv": "dd78923a35b42803469e866417e5cd0e2372e81a89efcd3a48b9c11f6a84bb5c",
+    "monthly_predictions.csv": "f24deacd9769e09386f135cf73b74a4eda0a55a23da3ebd85373b0dd1400071c",
+    "weekly_panel.csv": "ec5dd410947d318283e1b1d39a5f32bc27f14169f617487dc9737cdd2e10bf73"
+  },
+  "limitations": [
+    "No complete historical COT release timestamps or first-release vintages.",
+    "Hourly data miss an extreme crash session and do not cover global 24-hour futures.",
+    "Expanding-window retrospective testing is not a prospective blind trial.",
+    "Bootstrap uncertainty assumes useful local dependence blocks and is approximate under structural breaks."
+  ]
+}

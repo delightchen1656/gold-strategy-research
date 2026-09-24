@@ -1,0 +1,51 @@
+[
+  {
+    "file": "HG_F.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/HG%3DF?period1=1136073600&period2=1767225600&interval=1d",
+    "cached": true,
+    "sha256": "2d9ae1111160aeebbd3ecd7fe084ac28411a06c09b4a309ef79713ea60d21531",
+    "bytes": 538427
+  },
+  {
+    "file": "BZ_F.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/BZ%3DF?period1=1136073600&period2=1767225600&interval=1d",
+    "cached": true,
+    "sha256": "aa23d071dc4eca33789f2e111fed6718a23c623c60b51f961b056cedbab2ccc5",
+    "bytes": 482945
+  },
+  {
+    "file": "GLD_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?range=2y&interval=1d",
+    "downloaded_at": "2026-09-23T16:07:45.850162+00:00",
+    "sha256": "39c3482df52b65180be5cdbee03e8ec3fda8c1b0e441d9693d0866798b4e6ba8",
+    "bytes": 55107
+  },
+  {
+    "file": "SLV_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SLV?range=2y&interval=1d",
+    "downloaded_at": "2026-09-23T16:07:46.204362+00:00",
+    "sha256": "15f990a40a28ef3ab62fd185dec84ea63a4090304a5df7b77222a973288ac822",
+    "bytes": 55685
+  },
+  {
+    "file": "IAU_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?range=2y&interval=1d",
+    "downloaded_at": "2026-09-23T16:07:47.212053+00:00",
+    "sha256": "690ac10d34ebde41f225bf3ce31c32b8126492109f5e5ef0ca5a95e74bb05c8a",
+    "bytes": 54759
+  },
+  {
+    "file": "SIVR_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SIVR?range=2y&interval=1d",
+    "downloaded_at": "2026-09-23T16:07:47.263796+00:00",
+    "sha256": "0f64fb9dbc0dc921efa101b6f1a189dbc842bf3faa54eec7f87d75bf082b1ddf",
+    "bytes": 55109
+  },
+  {
+    "file": "breakeven_snapshot.csv",
+    "source_local": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_breakeven_inflation.csv",
+    "source_series": "FRED T10YIE",
+    "source_url": "https://fred.stlouisfed.org/series/T10YIE",
+    "sha256": "78c6d2825377c005d690e3beef9d79a1bf50c56beeb0166a0f1f9b25c7bbcd2a"
+  }
+]

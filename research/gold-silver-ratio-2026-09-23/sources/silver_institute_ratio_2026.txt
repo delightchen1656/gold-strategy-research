@@ -1,0 +1,734 @@
+PAGE 1
+
+
+PAGE 2
+Table	of	Contents	
+       
+1.    Introduc+on	and	Summary	 	 	 	 	 	 	3	 	
+2.					Historical	Review	 	 							 	 	 	 	 	6	
+3.					The	Gold:Silver	Ra+o	since	1971	 	 	 	 	 13	
+3.1.1.Sta+s+cal	Analysis	 	 	 	 	 	 	 19	
+3.1.2.Drivers	of	Change	in	the	Ra+o	 	 	 	 	 23	
+3.1.2.1.Supply/Demand	 	 	 	 	 	 23	
+3.1.2.2.Exogenous	Factors	 	 	 	 	 	 28	
+4.					Outlook	for	the	Gold:Silver	Ra+o	 	 	 	 	 32	
+ 2
+
+PAGE 3
+1.	Introduc4on	and	Summary	
+“Although	gold	and	silver	are	not	by	nature	money,	money	is	by	nature	gold	and	silver .”	
+This	quote	from	Karl	Marx’s	Das	Kapital	sums	up	the	intertwined	history	of	these	two	precious	metals.	
+Gold	and	silver	are	“by	nature”	money.	They	are	not	just	commodi4es	that	are	produced	and	consumed,	
+like	wheat,	oil	or	copper.	Even	under	ﬁat	currency	regimes	gold	and	silver	remain	monetary	assets	and	
+socie4es	have	oMen	fallen	back	on	them	when	paper	money	systems	have	foundered.	Consequently,	
+ﬂuctua4ons	in	the	gold:silver	ra4o	not	only	derive	from	changes	in	these	metals’	supply	and	demand	but	
+also	are	a	reﬂec4on	of	ﬁnancial	condi4ons	and	investor	sen4ment.	
+A	historical	review	of	the	gold:silver	ra4o	shows	that	from	at	least	3000	BCE	through	to	well	into	the	19th			
+century	it	was	arguably	the	single	most	important	ﬁnancial	indicator .	The	demise	of	formal	bi-metallic	or	
+silver	monetary	standards	in	the	1871-1897	period	(China	being	an	excep4on)	signiﬁcantly	reduced	its	
+proﬁle.	The	ending	of	the	Gold	Standard	and,	later	in	1971,	its	successor	the	Gold	Exchange	Standard,	
+ﬁnally	broke	the	oﬃcial	monetary	link	with	precious	metals.	However,	notwithstanding	this	formal	
+demone4za4on,	the	private	sector	has	never	broken	oﬀ	its	rela4onship	with	gold	and	silver .	Moreover,	in	
+gold’s	case,	in	spite	of	heavy	net	sales	from	1989-2008,	central	banks	have	in	the	era	of	purely	ﬁat	
+currency	maintained	high	gold	holdings	and,	in	aggregate,	even	added	to	bullion	reserves,	such	that	their	
+market	value	currently	exceeds	that	of	central	banks’	US	Treasury	holdings.				
+	
+Besides	the	historical	pedigree	of	these	two	precious	metals	as	monetary	assets,	the	relevance	of	the	
+gold:silver	ra4o	in	the	modern	era	can	also	be	a_ested	to	by	the	strong	correla4on	between	their	prices.	
+ 3
+
+PAGE 4
+Indeed,	as	this	report	details,	the	correla4on	has	grown	and	become	more	stable	over	the	past	20	years,	
+with	a	coeﬃcient	of	0.795	using	daily	log	returns	for	gold	and	silver	prices	between	January	2006	and	
+May	2026.	In	addi4on,	and	most	importantly,	the	gold:silver	ra4o	is	not	a	“random	walk”	but	mean	
+rever4ng	–	a	Johansen	Cointegra4on	Test1	on	the	data	from	January	1970	to	May	2026	generated	a	long-
+run	equilibrium	for	the	ra4o	of	59.65.	Periods	of	disequilibrium	therefore	indicate	over-	or	
+undervalua4on	of	gold	or	silver .	Moreover,	despite	the	massive	inﬂa4on	in	the	price	scales	for	these	
+precious	metals	over	the	past	56	years,	the	core	gold:silver	rela4onship	is	s4ll	bound	to	a	central	axis.		
+Sec4on	3.1.2	of	this	report	contains	a	detailed	analysis	of	the	drivers	of	changes	in	the	gold:silver	ra4o.	
+The	most	important	of	these	are	the	ra4o	of	gold:silver	bullion	stocks	and	the	closely	associated	ra4o	of	
+gold:silver	investment	demand.	The	gold:silver	price	ra4o	is	posi4vely	correlated	with	these	two	ra4os,	
+e.g.,	a	higher	ra4o	of	above-ground	gold	to	silver	bullion	stocks	is	associated	with	a	higher	gold:silver	
+ra4o	and	vice	versa.	(Monetary	demand	for	the	precious	metal	trumps	the	conven4onal	mechanics	of	
+higher	inventories	on	prices	in	pure	commodity	markets.)	Moreover,	a	rise	(or	fall)	in	the	gold:silver	
+bullion	stocks	ra4o	may	not	only	reﬂect	the	rela4ve	strength	of	gold	and	silver	investment	demand	but	
+also	the	level	of	oﬃcial	sector	demand	(or	supply),	which,	eﬀec4vely,	since	the	early	1970s,	is	of	
+relevance	only	to	gold.		
+A	Vector	Error	Correc4on	Model2	showed	that	while	the	gold:silver	rela4onship	is	anchored	to	a	long-run	
+equilibrium	of	59.65,	shorter-run	changes	in	rela4ve	investment	demand	systema4cally	drive	the	ra4o	
+into	and	out	of	disequilibrium.	Sta4s4cal	analysis	shows	that	over	the	January	1980-May	2026	period	the	
+gold:silver	ra4o	is	posi4vely	correlated	with	gold	investment	demand	and	nega4vely	correlated	with	
+silver	investment	demand.	From	1980	to	2000,	the	connec4on	is	stronger	with	silver,	which	saw	a	huge	
+swing	from	accumula4on	by	investors	to	massive	net	dishoarding	over	that	period.	In	contrast,	from	2000	
+onwards,	the	sta4s4cal	rela4onship	is	much	closer	with	gold	investment.			
+While	there	is	a	solid	sta4s4cal	link	between	the	gold:silver	ra4o	and	the	ra4o	of	gold:silver	fabrica4on	
+demand	as	a	percentage	of	total	demand	(a	meaningful	nega4ve	correla4on)	one	can	argue	that	it	is	of	
+lesser	signiﬁcance.	Firstly,	from	a	purely	mathema4cal	perspec4ve,	within	total	demand,	fabrica4on	is	
+simply	a	“residual”	from	the	investment/bullion	demand	referred	to	above.	Secondly,	fabrica4on	demand	
+is	usually	more	of	a	reac4ve	than	proac4ve	component	of	supply/demand,	par4cularly	for	silver,	where	
+its	large	industrial	component	makes	it	less	price	elas4c	in	the	short	term	than	jewelry-dominated	gold.	
+While	over	the	longer	run,	structural	shiMs	in	fabrica4on	demand	(or,	for	that	ma_er,	mine	supply)	have	
+an	impact	on	gold	and	silver	prices	and	vice	versa,	the	record	shows	that	in	the	modern	era,	the	more	
+dominant	inﬂuence	almost	always	comes	from	the	monetary	side.	This	is	enhanced	by	the	fact	that	the	
+silver	market	is	smaller	and	less	liquid	than	the	gold	market,	meaning	that	inﬂows	or	ouilows	of	capital	
+from	silver	generally	produce	far	greater	short-term	changes	in	the	price	with	a	corresponding	impact	on	
+the	gold:silver	ra4o.					
+Given	the	dominant	monetary	inﬂuence,	it	might	be	expected	that	there	would	be	a	strong	correla4on	
+between	the	gold:silver	ra4o	and	economic	indicators.	Analysis	of	the	data	for	January	1970	to	May	2026	
+suggests	otherwise.	The	paradox	is	largely	explained	by	the	propor4onal	co-movement	eﬀect	of	two	
+highly	correlated	precious	metals	that	tend	to	move	in	the	same	direc4on	in	response	to	exogenous	
+economic	s4muli.	It	is	only	when	there	is	either	an	opposite	or	especially	pronounced	reac4on	from	
+either	gold	or	silver	that	there	could	be	a	signiﬁcant	correla4on	with	the	triggering	economic	event.	This	
+helps	explain	why	the	regression	analyses	of	the	ra4o	against	inﬂa4on	and	interest	rates	(nominal	and	
+real)	generate	no	correla4on	not	only	over	the	full	56	years	of	data	analyzed	but	also	within	shorter	4me	
+frames.				
+ 4
+
+PAGE 5
+Similarly,	movements	in	the	US	Dollar	index	do	not	systema4cally	dictate	or	explain	changes	in	the	
+gold:silver	ra4o	over	the	1970-2026	period	as	a	whole.	While	both	gold	and	silver	prices	individually	have	
+strong	nega4ve	correla4ons	with	the	US	dollar,	they	generally	moved	in	the	same	direc4on,	meaning	the	
+gold:silver	ra4o	remained	largely	independent	of	dollar	movements	most	of	the	4me.	A	par4al	excep4on	
+exists	for	the	January	2006-May	2026	period,	where	there	is	a	signiﬁcant	but	weak	0.12	correla4on	
+coeﬃcient.	The	greater	ﬁnancializa4on	of	gold	and	silver	over	the	last	two	decades	may	explain	the	
+emergence	of	this	bond.	It	should	be	noted	in	this	regard	that	2006	saw	the	launch	of	the	ﬁrst	silver	ETF.					
+Finally,	a	common	opinion	is	that	silver’s	far	more	important	industrial	oﬀtake	and	the	growth	of	its	
+share	in	total	demand	have	had	an	impact	on	the	gold:silver	ra4o.	The	evidence	for	this	is	limited.	
+Regression	analysis	for	the	ra4o	against	the	monthly	JP	Morgan	Global	Manufacturing	PMI	for	the	period	
+September	2013	to	May	2026	generates	only	a	weak	nega4ve	correla4on	between	the	two,	with	only	
+very	limited	explanatory	power	for	movements	in	the	gold:silver	ra4o.	Besides	this,	incorpora4ng	the	
+formerly	massive	photographic	oﬀtake	into	the	“industrial”	category	reveals	that	its	share	of	fabrica4on	
+demand	over	2018-2025	(when	the	ra4o	averaged	just	under	83:1)	compared	to	1990-2025	increased	
+only	modestly	and	actually	fell	in	term	of	its	share	of	total	silver	demand.	Nevertheless,	the	percep4on	
+that	silver	has	become	more	of	an	industrial	metal	may	well	have	at	the	margin	aﬀected	investor	
+sen4ment	and	thereby	the	gold:silver	ra4o.			
+The	conclusion	of	this	report	is	that	the	gold:silver	ra4o	is	s4ll	relevant	today.	Gold	and	silver	remain	
+important	global	monetary	assets	even	if	they	are	marginalized	under	the	prevailing	currency	system.	
+Speciﬁcally,	the	ra4o	between	them	contains	important	informa4on	about	the	market	valua4on	of	gold	
+and	silver	and	their	posi4on	rela4ve	to	equilibrium	in	the	modern	era.					
+1. The	Johansen	Cointegra4on	Test	is	a	sta4s4cal	procedure	used	to	determine	if	two	or	more	non-sta4onary	4me	series	share	a	
+stable,	long-term	rela4onship.	It	iden4ﬁes	whether	mul4ple	variables	(like	the	prices	of	gold	and	silver)	move	together	over	
+4me	despite	short-term	ﬂuctua4ons,	preven4ng	the	issue	of	ﬁnding	misleading	or	"spurious"	correla4ons.	
+2.	A	Vector	Error	Correc4on	Model	(VECM)	is	a	sta4s4cal	model	for	variables	that	are	cointegrated	and	es4mates	both	the	
+short-term	dynamics	between	the	variables	and	the	exact	speed	at	which	they	adjust	back	toward	their	long-term	equilibrium	
+following	a	temporary	devia4on.	The	model	is	widely	used	for	pairs	trading	to	predict	how	quickly	a	spread	(like	the	gold:silver	
+ra4o)	will	mean-revert	to	its	historical	baseline.	
+ 5
+
+PAGE 6
+2. Historical	Review  
+The	gold:silver	ra4o	has	been	dubbed	the	“world’s	oldest	exchange	rate.”		While	strictly	speaking	not	the	
+oldest	form	of	money,	these	precious	metals	do	have	a	unique	historical	pedigree	as	units	of	account,	
+stores	of	value,	and	media	of	exchange.	The	earliest	references	to	this	special	rela4onship	between	gold	
+and	silver	date	back	nearly	5,000	years	to	ancient	Egypt.	Here,	a	rela4ve	abundance	of	gold,	ini4ally	from	
+the	Eastern	Desert	and,	especially,	later	the	Nubian	mines,	coupled	with	a	dearth	of	silver	in	the	region,	
+resulted	in	a	gold:silver	ra4o	of	around	2.5:1,	which	prevailed	over	many	centuries	(see	graph	below).	
+AMer	roughly	1100	BCE,	deple4on	of	high-grade	gold	resources	and	Egypt	losing	control	over	Nubia	
+resulted	in	a	sharp	increase	in	the	Egyp4an	gold:silver	ra4o	to	10-15:1.		
+	Archaeological	sources	from	Anatolia,	Mesopotamia,	and	Persia	indicate	much	higher	gold:silver	ra4os	
+between	2500-1100	BCE	than	in	Egypt,	ranging	mostly	from	3-10:1.	By	3000	BCE,	extrac4on	using	
+cupella4on	had	been	developed	in	Anatolia	to	separate	silver	from	base	metals.	The	spread	of	this	
+technology	in	the	ensuing	centuries	allowed	numerous	silver-rich	lead	deposits	to	be	exploited	across	the	
+Near	East,	Anatolia	and,	eventually,	Greece.	Consequently,	silver	established	a	key	role	as	a	“unit	of	
+account,”	par4cularly	in	rela4on	to	the	staple	crop	of	barley	in	Mesopotamia,	with	a	silver:barley	ra4o	at	
+the	center	of	an	early	monetary	system	in	the	Fer4le	Crescent.		
+ 
+The	ﬂow	of	precious	metals	between	the	Near	East	and	Egypt	as	a	result	of	trade	or	tribute	had	some	
+impact	on	the	gold:silver	ra4os	of	these	regions.	Those	parts	of	the	Near	East	that	traded	most	
+ 6
+
+PAGE 7
+intensively	with	Egypt,	such	as	the	Levant,	as	a	result	tended	to	have	lower	ra4os.	Later,	post-1100	BCE,	
+the	reduced	availability	of	Nubian	gold	(referred	to	above)	also	led	to	the	gold:silver	ra4o	rising	across	
+the	Near	East.		
+The	next	major	shock	to	the	gold:silver	ra4o	occurred	around	550	BCE.	Un4l	this	4me	the	purity	of	gold,	
+unlike	silver,	was	highly	variable.	Gold	in	its	na4ve	state	was	usually	naturally	alloyed	with	silver	(forming	
+electrum)	or	copper.	Gold’s	purity	had	to	be	es4mated	based	on	its	malleability	and,	especially,	colour.	
+This	“quality”	issue	had	an	important	impact	on	the	“reported”	gold:silver	ra4o.	The	inven4on	of	salt	
+cementa4on	around	550	BCE	by	the	Lydians	enabled	the	separa4on	of	gold	from	silver	and	the	
+produc4on	of	high-purity	gold.	This	improved	the	economic	u4lity	of	gold	and	allowed	it	to	become	a	far	
+more	widely	used	benchmark	for	value.	Speciﬁcally,	taking	advantage	of	this	development,	the	ﬁrst	coins	
+to	be	minted	in	both	gold	and	silver	were	issued	under	the	reign	of	Croesus.	From	this	point	an	increase	
+in	the	gold:silver	ra4o	occurred,	typically	into	a	10-15:1	range.	The	discovery	of	a	massive	high-grade	
+silver	vein	at	the	Athenian	Laurion	mines	in	483	BCE	and	Alexander’s	huge	min4ng	of	silver	coins	aMer	
+capturing	Persia’s	royal	treasure	in	331	BCE	are	also	thought	to	have	been	factors	in	the	rela4vely	high	
+gold:silver	ra4o	in	Greece,	Anatolia	and	the	Near	East	over	the	following	centuries.		
+The	shiM	higher	in	the	gold:silver	ra4o	in	later	an4quity	is	also	visible	from	Roman	records.	In	333	BCE	the	
+Republic	established	a	formal	ra4o	of	10:1,	based	upon	one	gold	Stater	of	8.6g	to	twenty	Drachmae,	each	
+of	4.3g.	Julius	Caesar	in	46	BCE	established	a	ra4o	of	around	12:1	based	upon	one	Aureus	of	a	li_le	over	
+8g	being	worth	25	Denarii,	each	of	3.9g.	(Some	sources	quote	a	ra4o	of	11.5:1	based	upon	slightly	
+diﬀerent	weights	for	the	two	coins	concerned.)	This	gold:silver	ra4o	remained	the	observable	median	
+through	to	400	CE,	although	the	historical	record	shows	excursions	both	above	and	below	this	level	due	
+to	ﬂuctua4ng	supplies	of	the	precious	metals	and	currency	debasement.		
+In	the	early	Medieval	period,	the	Roman	gold:silver	ra4o	of	12:1	was	broadly	maintained	in	western	
+Europe	but	eventually	increased	from	this	level	in	Byzan4um	and	the	Islamic	poli4es	to	the	east.	In	
+Byzan4um	the	development	of	a	gold	based	monetary	system	centred	on	the	4.45g	gold	Solidus	coin,	
+introduced	by	Constan4ne	in	312	CE,	with	silver	and,	especially	copper	coins	minted	for	more	regular,	
+daily	transac4ons,	saw	eﬀec4ve	gold:silver	ra4os	ﬂuctua4ng	between	14.4:1	and	19:1.	In	697	CE,	the	
+Ummayad	caliphate	established	a	rival	currency,	the	gold	Dinar,	with	a	legal	gold:silver	ra4o	between	it	
+and	the	silver	Dirham	of	10:1,	although	the	implicit	precious	metals	value	ra4o	at	the	incep4on	of	this	
+new	monetary	system	was	actually	7:1.	Over	4me	the	actual	gold:silver	ra4os	ﬂuctuated	and	tended	to	
+increase	as	silver	supplies	became	more	abundant	than	gold	ones.			
+			
+In	Medieval	Europe	gold:silver	ra4os	were	much	of	the	4me	and	in	most	parts	of	the	region	within	a	12:1	
+to	14:1	range,	with	briefer	episodes	in	certain	jurisdic4ons	above	and	below	these	levels.	The	structural	
+shiM	in	demand	for	gold	coins	with	the	introduc4on	by	Florence	of	the	Florin	in	1252	and	the	Vene4an	
+Ducat	in	1284	coupled	with	a	growth	in	trade	saw	the	ra4o	climb	to	as	high	as	15:1	in	Italy	in	the	1320s.	A	
+few	decades	later	the	ra4o	slumped	across	Europe	in	the	wake	of	the	1346-1353	Black	Death,	which	
+prompted	a	major	liquida4on	of	gold	hoards	and	a	collapse	in	trade	ﬁnanced	with	gold	while	labour	
+rates,	paid	in	silver,	shot	up	due	to	the	reduced	workforce.	This	was	a	rela4vely	short-lived	period,	
+however,	as	over	the	next	century	through	to	around	1480	hoarding	by	sovereigns	coupled	with	a	
+collapse	in	the	supply	of	gold	from	local	mines	and	imported	from	Africa	drove	the	ra4o	back	up	to	and	
+then	beyond	12:1.	It	then	dropped	back	for	a	few	decades	as	the	15th	century	shortage	in	Europe	of	gold	
+and	silver	was	ini4ally	resolved	for	gold	by	Portuguese	seaborne	imports	of	the	metal	from	west	Africa.	
+However,	a	larger	and	much	longer-las4ng	structural	change	to	the	gold:silver	ra4o	in	Europe	came	with	
+the	Spanish	invasion	of	the	Americas	and,	especially,	the	massive	increase	in	silver	supply	following	the	
+discovery	of	the	huge	deposit	at	Potosi	in	1545.						
+ 7
+
+PAGE 8
+The	peak	of	the	produc4on	from	what	is	known	as	the	“Cerro	Rico”	was	between	1580	and	1630,	when	
+Potosí	produced	81%	of	the	oﬃcial	silver	of	the	viceroyalty	of	Peru	and	up	to	60%	of	global	produc4on.	In	
+addi4on,	Spain	could	count	on	growing	output	from	its	Mexican	silver	mines,	such	that	even	when	
+produc4on	from	Potosi	began	to	decline,	the	absolute	tonnage	produced	in	Spanish	America	con4nued	
+to	climb	through	to	a	peak	in	the	late	18th	century.	This	wave	of	silver	from	the	Americas	had	a	drama4c	
+eﬀect	on	the	gold:silver	ra4o,	pushing	it	up	from	the	median	11:1	that	had	typically	ruled	in	Europe	from	
+the	Roman	era	and	again	from	at	least	1000	to	1550	CE.	During	the	ﬁrst	half	of	the	17th	century,	the	ra4o	
+had	consolidated	around	the	15:1	level,	where	it	would	stay	un4l	the	beginning	of	the	19th	century.		
+ 
+Why	did	this	huge,	sustained	silver	supply	shock	not	drive	the	gold:silver	ra4o	in	Europe	much	higher?	
+The	answer	largely	lies	with	two	major	developments	on	the	demand	side	for	silver .	First,	aMer	a	period	
+of	acute	shortage	of	precious	metals	to	serve	as	currencies	(to	the	end	of	the	15th	century),	the	increased	
+supply	of	silver	coinage	provided	the	means	for	an	expansion	in	commerce	and	a	far	greater	
+mone4za4on	of	the	economy.	Hundreds	of	millions	of	Spanish	“8	Reales”	silver	pieces	were	minted,	with	
+this	coin	becoming	a	de	facto	global	currency	for	250	years.	Second,	the	growth	in	trade	between	Europe	
+and	Asia,	especially	China,	created	huge	addi4onal	commercial	demand	for	silver .	Speciﬁcally,	much	of	
+the	expansion	in	trade	with	China	was	ﬁnanced	with	silver .	But,	in	addi4on,	China	oﬀered	easy	proﬁts	for	
+European	merchants	who	could	arbitrage	the	much	lower	gold:silver	ra4o	that	existed	in	China.			
+Due	to	its	rela4ve	isola4on	from	more	silver-abundant	parts	of	the	world	and	limited	interna4onal	trade,	
+China	had	long	had	far	lower	gold:silver	ra4os	than	those	typical	in	Europe	or	the	Near	East.	Records	
+ 8
+
+PAGE 9
+show	that	the	gold:silver	ra4o	in	China	was	close	to	3:1	during	the	Han	Dynasty	(206	BC	to	220	CE),	at	a	
+4me	when	in	Rome	it	was	around	11:1.	And,	for	hundreds	of	years	thereaMer	the	ra4o	in	China	
+ﬂuctuated	between	5	to	7:1.	While	an	expansion	of	silver	produc4on	during	the	Song	Dynasty	(960	to	
+1279	CE)	saw	the	ra4o	increase	to	over	10:1,	during	the	succeeding	Yuan	Dynasty	(1271-1368	CE)	the	
+occupa4on	of	Yunnan	led	to	lower	silver	produc4on	and	the	ra4o	dropped	back	to	below	5:1	at	the	end	
+of	the	13th	century.	The	ra4o	brieﬂy	rose	again	under	the	early	Ming	Dynasty,	which	banned	seaborne	
+trade	and	the	use	of	gold	and	silver	for	domes4c	commerce,	at	the	same	4me	aggressively	enforcing	the	
+use	of	paper	currency.	The	impact	was	that	gold	became	rela4vely	scarcer	than	silver	and	the	gold:silver	
+ra4o	increased.	Excessive	increases	in	the	supply	of	paper	currency	eventually	led	to	high	inﬂa4on,	and	
+the	Ming	reversed	course,	opening	the	country	to	foreign	trade	and	the	use	of	silver	again	as	a	domes4c	
+currency.	By	the	middle	of	the	15th	century,	the	gold:silver	ra4o	had	fallen	back	to	around	6:1,	where	it	
+stayed	for	the	next	100	years.	
+At	this	point,	the	addi4onal	supply	of	silver	from	the	Americas	began	to	impact	the	gold:silver	ra4o	in	
+China.	Much	of	this	silver	was	sent	directly	across	the	Paciﬁc	to	the	Philippines	before	being	imported	
+into	China	in	exchange	for	gold,	silk,	and	porcelain.	The	ra4o	in	Europe	was	close	to	double	that	in	China	
+in	the	middle	of	the	16th	century,	oﬀering	a	massive	arbitrage	opportunity.	This	gap	closed	only	slowly	
+due	to	the	gold:silver	ra4o	in	Europe	also	rising	because	of	the	inﬂux	of	silver	from	the	Americas.	
+Moreover,	the	Chinese	government	added	fuel	to	the	ﬁre	through	the	introduc4on	of	the	“Single	Whip	
+Tax ”	in	1581,	which	mandated	that	all	taxes	be	paid	in	the	form	of	silver	bullion.	The	structural	shortage	
+of	silver	in	China	caused	by	this	shiM	in	demand	was	exacerbated	by	supply-side	developments	in	the	
+1630s	and	1640s,	including	the	impact	of	the	ongoing	war	between	Spain	and	the	Netherlands	and	Japan	
+radically	curtailing	its	foreign	trade,	thereby	reducing	silver	ouilows.	A	sustained	rise	in	the	Chinese	
+gold:silver	ra4o	to	converge	with	the	prevailing	European	level	of	15:1	occurred	only	nearly	a	century	
+later,	as	foreign	trade	expanded	and	the	country's	silver	supply	became	increasingly	abundant.	Indeed,	
+the	gold:silver	ra4o	in	China	rose	during	the	ﬁrst	half	of	the	19th	century	to	20:1	in	spite	of	the	substan4al	
+ouilow	of	silver	to	pay	for	opium	and	war	indemni4es.	This	rise	would	seem	counterintui4ve,	but	the	
+explana4on	is	to	be	found	in	the	huge	increase	in	domes4c	gold	hoarding	that	took	place	at	a	4me	of	
+major	poli4cal	and	economic	upheaval	in	China,	plus	the	indirect	eﬀect	of	the	beginnings	of	the	
+European	transi4on	from	a	silver	to	a	gold	monetary	standard.							
+In	Europe,	from	the	mid-sixteenth	century,	a	ra4o	of	approximately	15:1	was	in	place	un4l	well	into	the	
+19th	century.	This	value	came	to	be	enforced	by	laws	in	Britain	(1717),	France	(1726	and	1785),	and	the	
+United	States	(1792).	The	most	important	ﬁnancial	center	during	this	era	was	the	Netherlands,	and	the	
+Bank	of	Amsterdam	maintained	a	de	facto	gold:silver	ra4o	of	14.65:1,	providing	an	anchor	for	a	bi-
+metallic	monetary	system	in	Europe.	Although	the	French	revolu4onary	wars	ended	this	monetary	era,	in	
+their	aMermath,	through	to	1850	France	supported	a	European	silver/bi-metallic	standard	up	un4l	1850	
+through	the	na4onal	Mint	intervening	in	the	precious	metals	markets	to	support	a	strict	ra4o	of	15.5:1.	A	
+massive	growth	in	gold	supply	stemming	from	the	Californian	(1848)	and	then	Australian	(1850)	gold	
+rushes	ended	this	system	but	market	forces	kept	the	gold:silver	ra4o	in	Europe	stable	for	another	20	
+years.			
+It	was	at	this	point	that	in	1871	the	newly	formed	German	Reich	decided	to	shiM	from	a	silver	to	a	gold	
+monetary	standard,	using	French	war	repara4ons	(paid	in	gold)	as	a	basis	for	this	move.	As	Europe´s	pre-
+eminent	economic	power,	Great	Britain,	had	already	been	on	the	gold	standard	since	1821,	this	change	
+by	Germany	decisively	shiMed	the	monetary	balance	in	the	region	away	from	silver	or	bimetallism	to	
+gold.	However,	the	gold:silver	ra4o	ini4ally	did	not	rise	drama4cally,	as	other	countries	a_empted	to	
+maintain	silver-based	monetary	systems.	It	took	the	growth	of	South	African	gold	produc4on	in	the	1890s	
+to	force	the	remaining	holdouts	to	adopt	the	Gold	Standard.	This	paradox	occurred	because	the	
+increased	supply	of	gold	was	readily	absorbed	by	those	central	banks	on	the	Gold	Standard,	with	it	
+ 9
+
+PAGE 10
+underpinning	a	growth	in	the	(gold-backed)	money	supply	and	booming	interna4onal	trade.	Austria-
+Hungary	(1892),	Russia	(1897),	and	Japan	(1897)	all	abandoned	silver .	By	the	end	of	the	century,	with	the	
+excep4on	of	China,	all	the	major	economies	were	on	the	Gold	Standard	and	the	gold:silver	ra4o	had	risen	
+to	an	unprecedented	35:1.	
+ 
+During	World	War	1	the	gold:silver	ra4o	fell	(by	its	end	to	15:1)	due	to	belligerents	suspending	gold	
+conver4bility	and	a	shortage	of	silver	in	the	face	of	higher	demand	for	the	white	metal	and	reduced	
+supply.	Supply	of	silver	at	the	4me	was	constrained	due	to	the	impact	of	the	Mexican	civil	war	on	mine	
+produc4on.	Growth	in	demand	was	par4cularly	driven	by	public	hoarding	of	silver	amid	rising	inﬂa4on	
+and	the	Bri4sh	requirement	to	pay	for	Indian	goods	and	services	in	silver	rather	than	paper	currency.	The	
+Mexican	civil	war	ended	in	December	1920,	and	over	the	rest	of	the	1920s,	the	gold:silver	ra4o	climbed	
+back	to	its	pre-war	level	as	countries	returned	to	the	Gold	Standard	and	ﬁnancial	condi4ons	eventually	
+normalized.				
+ 10
+
+PAGE 11
+	
+The	next	series	of	shocks	to	the	gold	and	silver	markets	saw	the	ra4o	soar	from	38:1	in	1929	to	a	peak	of	
+100:1	in	1940	and	1941.	Ini4ally,	the	shock	came	from	the	Great	Depression	and	an	associated	collapse	in	
+silver	industrial	demand.	Silver,	which	had	averaged	$0.533	in	1929,	fell	to	just	$0.282	in	1932.	Then,	in	
+January	1934,	the	United	States	passed	the	Gold	Reserve	Act,	which	increased	the	oﬃcial	price	of	gold	
+from	$20.67	to	$35.00.	This	was	followed	in	June	1934	by	the	Silver	Purchase	Act,	whereby	the	US	
+pledged	to	purchase	silver	on	the	open	market	with	the	objec4ve	of	having	25%	of	the	value	of	its	
+monetary	reserves	in	silver .	This	policy	ini4ally	pushed	up	the	silver	price	and	drove	down	the	gold:silver	
+ra4o,	it	falling	from	72:1	in	1934	to	54:1	in	1935.	However,	the	second-order	eﬀect	of	this	policy	would	
+be	to	accelerate	the	demone4za4on	of	silver,	as	exis4ng	holders	of	the	metal	cashed	in	at	the	higher	
+prices	and,	especially,	from	the	US	sucking	so	much	silver	out	of	China	that	the	country	was	forced	oﬀ	the	
+Silver	Standard	in	1935.	From	1935	to	1940,	the	silver	price	fell	from	an	annual	average	of	$0.64	to	$0.35.			
+From	its	1940-41	peak,	over	the	following	years,	the	gold:silver	ra4o	was	to	decline	drama4cally.	
+Increased	industrial	demand	caused	by	the	Second	World	War,	coupled	with	an	over	50%	drop	in	silver	
+mine	produc4on,	created	the	condi4ons	for	a	major	fall	in	the	gold:silver	ra4o,	with	the	added	s4mulus	
+to	silver	prices	from	the	liMing	of	war4me	price	controls	in	the	United	States	pushing	it	down	further	to	
+an	average	of	44:1	in	1946.	The	ﬁrst	15	years	aMer	WW2	saw	the	ra4o	se_le	at	around	the	40-mark	
+during	the	1950s.	In	contrast,	from	1960’s	annual	average	of	38:1,	a	combina4on	of	rising	silver	prices	
+and	the	ﬁxed	$35.00/oz	gold	price	resulted	in	the	ra4o	dropping	to	a	low	of	18:1	in	1968.	The	stronger	
+silver	price	in	the	1960s	was	driven	by	a	growing	market	deﬁcit	between	modest	growth	in	mine	supply	
+(through	1967)	and	rapidly	rising	fabrica4on	demand	(which	more	than	doubled	between	1960-65),	the	
+la_er	including	the	min4ng	of	substan4al	amounts	of	silver	circula4ng	coins.	The	annual	average	silver	
+price	jumped	from	$0.91	in	1960	to	$1.29	in	1964.	Importantly,	$1.29/oz	was	the	level	at	which	the	US	
+Treasury	had	established	a	price	ceiling.	Yet,	notwithstanding	huge	sales	from	its	silver	stocks,	it	proved	
+ 11
+
+PAGE 12
+impossible	for	the	United	States	to	maintain	this	price	cap,	and	in	1967,	the	US	Treasury	abandoned	its	
+a_empt	to	control	the	silver	price.	In	the	absence	of	interven4on,	the	market	price	of	silver	soared,	
+peaking	at	an	annual	average	of	$2.14	in	1968	before	ending	the	decade	at	$1.79.	Meanwhile,	gold	prices	
+had	been	maintained	at	the	$35/oz	level	through	to	April	1968,	when	the	post-war	Gold	Exchange	
+Standard	started	to	break	down	and	a	two-4er	market	was	established.	The	free-market	price	increased,	
+which,	combined	with	silver	dropping	from	its	June	peak,	saw	the	gold:silver	ra4o	climb	through	to	the	
+middle	of	1969.	While	for	that	year	as	a	whole	the	ra4o	averaged	22.9:1,	by	December	1969	it	had	fallen	
+to	19.6	due	to	a	slide	in	gold	prices.	And,	the	new	decade	started	on	a	strong	note	for	silver,	with	the	
+ra4o	dropping	to	just	18.5	in	February	1970,	its	lowest	level	since	1919.		
+			
+ 
+ 12
+
+PAGE 13
+3.	The	Gold:Silver	Ra4o	Since	1971	     
+Over	the	past	55	years	the	gold:silver	ra4o	has	seen	a	daily	low	of	16.7:1	(on	January	18,	1980)	and	a	
+daily	high	of	125.7	(on	March	18,	2020).	The	median	ra4o,	basis	monthly	averages,	between	January	
+1971	and	May	2026	has	been	62.9:1.	However,	this	average	tells	us	li_le	about	the	trends	in	the	ra4o	
+over	more	than	ﬁve	decades.	A	closer	inspec4on	of	the	data,	together	with	the	applica4on	of	sta4s4cal	
+tools,	reveals	several	dis4nct	periods	in	the	evolu4on	of	the	gold:silver	ra4o	over	the	period	under	
+review.	These	can	be	summarized	as	follows:	
+•1971-1993:	A	tendency	for	the	ra4o	to	increase	from	a	very	low	level	aMer	the	gold	price	is	freed	
+from	the	oﬃcial	price	of	$35/oz,	punctuated	by	a	temporary	fall	when	the	Hunt	Brothers	a_empt	
+to	corner	the	silver	market	in	1979-80.	ThereaMer,	silver	drops	faster	and	harder	than	gold,	
+causing	the	ra4o	to	increase,	reaching	a	high	of	nearly	100:1	in	February	1991.			
+•1994-2001:	Gold	under	pressure	from	oﬃcial	sales	and	producer	hedging	generally	
+underperforms	silver;	news	of	Warren	Buﬀet´s	purchase	of	129.7	Moz	silver	results	in	the	ra4o	
+plumme4ng	below	40:1	in	February	1998.		
+•2002-2017:	The	ra4o	moves	up	and	down	in	3–5-year	cycles	for	each	leg	but	generally	stays	
+within	a	narrower	range,	much	of	the	4me	between	roughly	60	and	70:1	(average	63),	with	no	
+discernible	longer-term	trend.			
+•2018-2025:	A	ratche4ng	up	of	the	ra4o’s	trading	range	to	around	80	to	90:1	(with	a	Covid-
+induced	spike	to	well	over	100:1).	Ini4ally	and	in	part	because	of	ﬂat	industrial	demand	for	silver	
+during	the	2018-19	slowdown	in	global	manufacturing	but	more	importantly	due	to	rela4vely	
+weaker	investment	demand	for	silver	than	for	gold	and	growth	in	oﬃcial	gold	purchases.	
+•December	2025-May	2026:	The	gold:silver	ra4o	has	moved	lower,	averaging	60.5:1	as	silver	
+investment/specula4on	has	grown.	It	is	too	early	to	determine	whether	this	is	the	beginning	of	a	
+new	trend	and/or	a	reversion	to	the	mean	for	the	ra4o.		
+1971	was	a	watershed	year	for	the	gold:silver	ra4o	because	from	that	date	on	the	gold	price	was	no	
+longer	ﬁxed	by	law	but	set	by	market	forces.	While	the	decision	by	President	Nixon	in	August	1971	to	
+suspend	the	dollar´s	conver4bility	into	gold	marked	the	formal	end	of	the	Gold	Exchange	Standard,	this	
+had	been	foreshadowed	by	the	collapse	of	the	London	Gold	Pool	in	March	1968	and	the	establishment	of	
+a	two-4er	system	for	gold	–	a	private	free	market	and	an	oﬃcial	one	s4ll	using	the	$35/oz	price.	(The	day	
+before	this	collapse,	March	14,	1968,	the	gold:silver	ra4o	dropped	to	16.3:1.)	However,	it	was	only	with	
+President	Nixon´s	ﬁnal	severing	of	the	oﬃcial	dollar:gold	link	that	the	gold	price	could	really	break	free.	It	
+did	so	in	spectacular	fashion.	By	1974,	the	annual	average	price	was	$159/oz.	Although	silver	prices	also	
+rose	over	this	period,	gold´s	explosive	move	saw	the	ra4o	between	the	two	metals	jump	to	an	average	of	
+34:1	in	1974.		
+ 13
+
+PAGE 14
+ 
+The	next	major	development	in	the	rela4onship	between	gold	and	silver	occurred	at	the	end	of	the	
+decade,	speciﬁcally	between	September	1979	and	March	1980.	Both	metals	rose	drama4cally	to	fresh	
+highs	at	a	4me	of	rampant	inﬂa4on,	nega4ve	real	interest	rates	and	US	dollar	weakness.	Silver´s	increase,	
+however,	was	turbocharged	by	the	Hunt	Brothers	and	their	partners	buying,	at	its	peak,	close	to	200	
+million	ounces	of	silver .	The	specula4ve	frenzy	this	triggered	drove	the	price	from	$11	at	the	beginning	of	
+September	1979	to	a	London	peak	of	$49.45	on	January	18,	1980.	Based	on	the	London	a.m.	ﬁx	for	gold	
+of	$825.50	on	the	same	day,	this	resulted	in	a	gold:silver	ra4o	of	16.7:1,	the	lowest	recorded	since	March	
+1968.	In	order	to	defeat	the	Hunts’	a_empt	to	corner	the	silver	market,	US	commodity	exchanges	
+changed	delivery	rules	and	raised	margin	requirements.	This	had	a	drama4c	eﬀect:	the	Hunts’	inability	to	
+meet	a	$100	million	margin	call	triggered	a	50%	fall	in	the	silver	price	on	March	27,	1980.	The	gold:silver	
+ra4o	had	already	moved	up	since	its	January	low,	but	now	it	soared,	returning	to	a	monthly	average	of	
+34.5:1	in	April	and	40.6:1	in	May.	
+ 14
+
+PAGE 15
+ 
+Over	the	remainder	of	the	decade	and	through	to	the	1990s	the	gold:silver	ra4o	reﬂected	the	vola4lity	of	
+both	metals	in	what	was	a	general	downtrend	from	their	previous	highs.	Silver´s	decline,	though,	was	
+more	pronounced	and	quicker,	the	gold:silver	ra4o	therefore	tending	to	be	high	and	over	double	its	
+1970s	average	of	32:1	through	to	the	late	1990s.	In	February	1991,	the	silver	price	fell	decisively	below	
+$4/oz,	and	the	ra4o	spiked	to	a	monthly	average	of	97.3:1,	its	highest	level	in	nearly	50	years.	
+(Signiﬁcantly,	on	a	daily	basis,	the	ra4o	got	very	close	to	but	did	not	quite	reach	100.0:1	that	month.)	The	
+ra4o	subsequently	ﬂuctuated	mainly	between	80:1-90:1	through	to	December	1993,	when	silver´s	
+sustained	recovery	above	the	$5	level	pushed	it	down	to	a	range	of	65:1-80:1	for	an	extended	period.	In	
+the	ﬁnal	years	of	the	decade	gold´s	slump	below	$300/oz	on	a	combina4on	of	central	bank	selling	and	
+producer	hedging	saw	several	months	when	the	gold:silver	ra4o	fell	well	below	the	50:1	mark.		
+In	the	early	2000s,	the	ra4o	increased	again	to	reach	the	upper	70s,	as	in	the	wake	of	September	1999’s	
+Central	Bank	Gold	Agreement,	gold	recovered	and	then,	in	2002,	bounded	above	the	$300	level,	while	
+silver	traded	once	again	below	$5/oz.	Then,	from	late	2003	to	the	Fall	of	2008,	silver	not	only	caught	up	
+with	gold	but	outperformed	the	yellow	metal.	The	mul4-year	bullion	dishoarding	from	the	private	and	
+government	sectors	came	to	an	end,	and	industrial	demand	for	silver	grew	strongly.	In	both	2006	and	
+2007	the	gold:silver	ra4o	dipped	for	a	while	below	the	50:1	mark.	The	collapse	of	Lehman	Brothers	in	
+September	2008	and	the	ini4a4on	of	the	Global	Financial	Crisis	marked	a	turning	point	for	the	ra4o.	Gold	
+prices	soared,	but	silver	was	ini4ally	dragged	down	by	the	slump	in	GDP	growth	and	industrial	
+produc4on,	its	price	only	recovering	slowly	as	eventually	it	too	saw	a	rise	in	investment	demand.	The	
+gold:silver	ra4o	spiked	to	79:1	in	December	2008.		
+ 15
+
+PAGE 16
+A	year	later,	however,	the	tables	had	turned.	By	the	fourth	quarter	of	2009,	silver	prices	had	rebounded	
+strongly	on	the	back	of	a	wave	of	investment,	which	more	than	compensated	for	the	slump	that	year	in	
+industrial	demand.	The	gold:silver	ra4o	ended	the	year	at	65:1.	Silver	investment	remained	excep4onally	
+strong	over	2010-2012,	but	this	was	also	a	4me	of	very	elevated	gold	bullion	demand	from	investors,	as	
+well	as	central	banks.	The	rela4ve	strength	of	gold	and	silver	bullion	demand	and	their	impact	on	prices	
+for	the	metals	were	key	determinants	of	the	ra4o’s	level	during	this	4me.	Silver’s	greater	a_rac4on	to	
+speculators	eventually	saw	it	outperform	gold,	and	in	the	fourth	quarter	of	2010	the	ra4o	fell	below	60:1,	
+a	level	above	which	it	would	not	trade	un4l	2013.	In	the	mean4me,	the	ra4o	dropped	further,	with	it	
+moving	into	the	40s	and	then,	during	silver’s	spike	in	March	and	April	2011,	spending	several	weeks	in	
+the	30s,	registering	a	low	of	31.7:1	on	April	28,	2011.		
+The	ra4o	had	climbed	back	to	above	the	60:1	level	in	2013	where	it	stayed	un4l	the	fourth	quarter	of	
+2014	when	it	moved	up	and	broke	through	70:1.	The	following	year	saw	a	further	rise	to	a	peak	of	77:1	
+during	December .	The	ra4o	fell	back	in	the	ﬁrst	half	of	2016	before	rising	again	in	the	second	half	and	
+then	over	much	of	2017.	These	changes	ﬁ_ed	within	the	pa_ern	seen	since	the	end	of	1996	for	the	
+(monthly	average)	gold:silver	ra4o,	namely	cyclical	movements	within	a	range	of	roughly	50:1	to	80:1,	
+with	three	excep4onal	spikes	to	the	downside	in	February	1998,	December	2006,	and	April	2011.	A	break	
+from	this	pa_ern	occurred	in	September	2018	when	the	ra4o	punched	higher,	registering	an	average	of	
+84:1	that	month.	The	break	was	conﬁrmed	during	the	fourth	quarter	of	2018	and	more	so	in	2019	when	
+the	ra4o	traded	at	4mes	above	90:1.	Ini4ally,	the	move	higher	in	the	ra4o	was	caused	by	silver	prices	
+falling	more	sharply	than	gold	ones	in	response	to	mul4ple	Fed	rate	hikes	and	a	stronger	US	dollar .	
+However,	in	2019,	the	driver	appears	to	have	been	the	powerful	surge	in	gold	investment	demand	(up	
+19%	in	volume	year-on-year)	compared	to	silver	investment	staying	at	the	same	level	as	in	2018.			
+The	ﬁrst	half	of	2020	saw	extreme	vola4lity	in	the	gold:silver	ra4o.	From	a	star4ng	point	a	li_le	below	
+90:1	in	the	space	of	three	weeks,	it	shot	up	to	an	all-4me	peak	of	125.7	on	March	18.	(Note:	Basis	the	
+London	a.m.	gold	ﬁx	and	silver	ﬁx	the	high	was	123.3	on	March	19)	The	trigger	for	this	was	the	impact	of	
+the	COVID-19	pandemic	on	global	ﬁnancial	markets.	It	is	instruc4ve	to	review	the	data	for	gold,	silver,	
+and	other	asset	prices	over	this	period.	On	February	24,	gold	and	silver	both	registered	cyclical	price	
+peaks	of	$1,675	and	$18.88,	respec4vely,	genera4ng	a	ra4o	of	88.7:1.	By	March	18,	the	gold	price	had	
+fallen	by	11%	compared	to	silver’s	37%	decline.	Over	the	same	period,	the	DXY	dollar	index	was	up	by	
+just	under	2%,	the	S&P	500	had	dropped	by	26%,	copper	fell	17%,	and	WTI	oil	was	down	a	huge	60%.	It	
+can	be	seen	from	this	that	silver	responded	to	the	ini4al	COVID-19	impact	more	like	a	commodity	driven	
+by	economic	concerns	than	as	a	safe-haven	ﬁnancial	asset,	like	gold.	(One	might	even	argue	that	a	good	
+part	of	gold’s	ini4al	11%	fall	was	caused	by	short-term	liquidity	factors.)	Data	from	the	futures	market	
+does	not	quite	ﬁt	the	period	between	peaks	and	troughs	in	precious	metal	prices,	but	the	managed	
+money	gross	long	posi4ons	on	Comex	between	February	25	and	March	17	fell	by	57%	for	silver,	
+compared	to	37%	for	gold.	The	ouilow	of	specula4ve	capital	from	silver	was	therefore	propor4onally	far	
+greater .	It	is	also	noteworthy	that	silver’s	recovery	from	its	mid-March	low	point	took	far	longer	than	did	
+gold’s.	The	silver	price	only	broke	its	February	24	high	in	mid-July,	gold	taking	out	its	equivalent	in	early	
+April.	This	pa_ern	of	silver	responding	more	violently	to	exogenous	shocks	is	quite	typical,	as	is	its	
+tendency	to	react	ﬁrst	as	a	commodity	and	only	later	as	a	ﬁnancial	asset,	partly	in	response	to	earlier	
+moves	in	gold.				
+ 16
+
+PAGE 17
+	
+Silver’s	recovery	from	the	ini4al	Covid	shock	gathered	pace	over	the	July	2020	to	May	2021	period,	
+outperforming	gold,	with	the	ra4o	between	the	metals	averaging	67.5:1	in	the	ﬁrst	half	of	2021.	The	very	
+strong	year-on-year	rebound	in	industrial	fabrica4on	must	have	played	a	part,	as	would	have	
+excep4onally	high	levels	of	silver	bar	and	coin	demand.	In	contrast,	while	gold	investment	was	historically	
+high	in	2021,	it	was	well	down	year-on-year	compared	to	2020’s	excep4onal	ﬁgure.	While	the	ra4o	crept	
+higher	during	the	second	half	of	2021	and	the	ﬁrst	few	months	of	2022,	it	remained	below	80:1.	A	major	
+breakout	above	this	threshold	occurred	in	May	2022,	and	from	that	point,	the	gold:silver	ra4o	trended	
+strongly	upward,	peaking	three	years	later	above	the	100:1	level.	This	move	was	almost	certainly	driven	
+by	the	impact	on	the	gold	price	of	a	major	jump	in	central	bank	gold	purchases	in	the	wake	of	Russia's	
+a_ack	on	Ukraine.	In	addi4on,	net	global	silver	investment	more	than	halved	in	2022,	fell	by	48%	year-on-
+year	in	2023,	and	remained	at	a	similarly	low	level	in	2024.	Conversely,	a	pickup	in	silver	investment	
+demand	in	2025	from	the	end	of	May	onwards	drove	the	ra4o	down	to	around	the	80:1	mark	in	October .		
+A	more	pronounced	shiM	in	the	gold:silver	ra4o	occurred	from	December	to	January	2026.	The	decisive	
+break	of	the	previous	all-4me	high	in	November,	silver	consolida4ng	above	the	$50	level,	and	gold	
+rela4vely	becalmed	set	the	scene	for	a	remarkable	specula4vely	driven	run	in	the	silver	price.	Measured	
+from	end-November	to	end-December	2025	silver	gained	33.5%,	gold	eking	out	just	a	3.6%	rise	over	the	
+same	period.	The	gold:silver	ra4o	ended	the	year	a	li_le	below	the	60:1	mark.	January	saw	an	even	more	
+powerful	move	in	silver:	from	end-December	to	its	peak	of	$118.45	(basis	the	London	ﬁx)	on	January	29,	
+the	price	rose	by	64.5%.	Gold	at	this	point	was	also	seeing	a	major	increase	in	specula4ve	interest,	it	too	
+peaking	on	January	29	at	$5,501.7	(basis	the	London	a.m.	ﬁx),	up	27.7%	from	the	end	of	December .	In	
+the	mean4me,	the	gold:silver	ra4o	had	reached	its	low	point	of	45.6:1	on	January	27,	2026.		
+ 17
+
+PAGE 18
+	
+The	collapse	of	the	bubble	in	these	precious	metals	prices	has	not	surprisingly	hit	silver	hardest.	By	the	
+end	of	May,	silver	had	fallen	by	36%	from	its	January	peak,	while	gold’s	decline	was	18%.	This	diﬀerence	
+in	performance	drove	the	gold:silver	ra4o	higher,	ending	May	at	59.7:1.	The	average	ra4o	from	February	
+to	May	2026	was	similar	at	62:1	but	s4ll	signiﬁcantly	lower	than	the	levels	of	over	80:1	prevailing	prior	to	
+the	specula4ve	frenzy	in	silver	and	later	gold.		
+ 18
+
+PAGE 19
+3.1.1.	Sta4s4cal	Analysis	
+As	discussed	in	Chapter	2	of	this	report,	the	gold:silver	ra4o	has	an	excep4onally	long	history.	The	close	
+rela4onship	between	the	two	precious	metals	has	been	grounded	in	both	custom	and	law.	But	to	what	
+extent	do	the	data	support	the	assumed	link	between	gold	and	silver	prices	in	the	modern	era?			
+To	test	this	hypothesis,	a	correla4on	analysis	was	conducted	using	rolling	52-week	log-returns	of	weekly	
+average	spot	prices	for	both	metals	from	January	1976	to	May	2026.	The	results	show	a	strong	
+correla4on	between	gold	and	silver	prices.	The	mean	average	across	the	2,633	data	points	was	0.725,	
+with	a	median	value	of	0.750.	Over	the	50-year	period,	the	correla4on	value	has	been	quite	vola4le,	
+par4cularly	from	the	mid-1980s	to	the	end	of	the	1990s,	when	the	rela4onship	between	the	two	metals	
+also	tended	to	weaken.	This	may	have	owed	something	to	the	substan4al	shiMs	in	the	supply/demand	for	
+both	precious	metals	during	this	period.	The	silver	market	is	shiMing	from	net	investment	to	large-scale	
+dishoarding,	and	the	gold	market	has	to	digest	a	big	jump	in	supply	from	central	banks'	sales	and	
+producer	hedging	in	the	1990s.	It	is	noteworthy	that	since	then,	the	correla4on	between	the	two	metals	
+has	tended	to	rise.	The	data	show	that	the	rela4onship	has	become	stronger	and	more	stable	over	the	
+past	20	years,	with	the	median	correla4on	coeﬃcient	for	2005-2026	jumping	to	0.812.					
+ 
+A	similar	exercise	was	conducted	basis	a	rolling	annual	correla4on	using	log-returns	in	daily	spot	prices	
+for	the	period	January	2005	to	May	2026.	This	conﬁrmed	the	stronger	correla4on	over	the	last	20	years	
+alluded	to	above.	The	median	and	mean	average	values	for	the	period	were	both	0.795.	Noteworthy	in	
+ 19
+
+PAGE 20
+the	data	is	the	much-reduced	correla4on	between	gold	and	silver	from	June	2025	through	to	January	
+2026,	when	silver	prices	moved	from	the	mid-30s	to	a	peak	of	$114/oz.		
+ 
+Analysis	of	the	weekly	and	daily	price	data,	therefore,	proves	a	high	degree	of	correla4on	between	gold	
+and	silver	prices.	However,	this	simply	conﬁrms	that	individual	gold	and	silver	prices	generally	move	up	
+and	down	together .	It	does	not	in	itself	prove	that	the	gold:silver	price	ra4o	is	a	measure	of	rela4ve	
+performance.	If	it	is	not	cointegrated,	the	ra4o	can	behave	exactly	like	a	random	walk,	even	while	daily/
+weekly/monthly	gold	and	silver	prices	move	in	near-perfect	lockstep.	Therefore,	a	cointegra4on	analysis	
+was	performed	on	the	data	to	determine	whether	there	is	indeed	a	long-term	rela4onship	between	gold	
+and	silver	price	levels.			
+ 20
+
+PAGE 21
+ 
+Monthly	average	gold	and	silver	price	data	from	January	1970	to	May	2026	(spanning	677	months)	were	
+used	in	a	Johansen	Cointegra4on	Test.	The	trace	test	result	of	62.0482	was	vastly	higher	than	the	cri4cal	
+value	of	15.4943	and	conﬁrmed	a	very	robust	long-term	cointegra4ng	rela4onship.	The	cointegra4ng	
+vector	sets	a	baseline	structural	formula	for	the	long-run	equilibrium	of	59.65.	This	is	the	equilibrium	
+level	from	which	the	gold:silver	ra4o	deviates	to	which	it	returns.	The	correc4ons	from	disequilibrium	
+are	ac4vely	driven	by	gold.	Gold	does	far	more	than	silver	does	to	pull	the	pair	back	to	equilibrium.	In	
+fact,	silver	barely	adjusts	its	path	to	accommodate	gold’s	mispricing.	In	terms	of	pace	of	adjustment,	the	
+test	indicates	that	the	bi-direc4onal	market	structure	corrects	devia4ons	down	to	half	their	size	in	the	
+space	of	17.3	months.			
+The	above	graph	shows	the	percentage	devia4on	of	the	gold:silver	ra4o	from	its	long-run	equilibrium	
+over	the	January	1970	to	May	2026	period.	Of	note	are	several	extended	periods	more	than	20%	below	
+or	above	equilibrium.	Most	noteworthy	are,	ﬁrst,	the	undervalua4on	in	the	1970s	(with	gold	s4ll	shaking	
+oﬀ	the	legacy	of	the	ﬁxed	$35	price	and	a	4me	of	rela4vely	high	silver	prices,	peaking	in	January	1980	
+due	to	the	Hunt	Brothers’	squeeze)	and,	second,	overvalua4on	during	much	of	the	2018-2025	period	
+(due	to	much	stronger	gold	prices	arising	from	higher	investor	and	central	bank	demand).				
+The	graph	below	shows	the	intersec4on	of	the	average	gold	and	silver	price	for	each	month	against	the	
+long-run	equilibrium	for	the	period	January	1970	to	May	2026.	This	illustrates	that	despite	massive	shiMs	
+in	price	scales,	the	core	rela4onship	between	gold	and	silver	has	remained	bound	to	a	central	axis.		
+ 21
+
+PAGE 22
+ 
+ 22
+
+PAGE 23
+3.1.2.	Drivers	of	Change	in	the	Ra4o	 	 	
+This	sec4on	seeks	to	iden4fy	the	principal	drivers	of	changes	in	the	gold:silver	ra4o.	In	3.1.2.1,	the	
+analysis	covers	possible	endogenous	supply	and	demand	drivers,	while	in	3.1.2.2,	poten4al	exogenous	
+factors,	such	as	the	dollar	exchange	rate,	inﬂa4on,	and	interest	rates,	are	analyzed.		
+3.1.2.1.	Supply	/	Demand		
+According	to	the	US	Geological	Survey	the	poten4ally	recoverable	underground	reserves	of	silver	are	9	
+4mes	greater	than	those	of	gold.	The	ra4o	of	historical	mine	produc4on	of	the	two	precious	metals	is	a	
+similar	8.3:1,	basis,	through	to	2025,	58.6	billion	ounces	of	silver	and	7.1	billion	ounces	gold.	Meanwhile,	
+considering	far	greater,	prac4cally	irrecoverable	losses	of	silver	than	of	gold,	the	ra4o	of	above-ground	
+stocks	at	end-2025	stood	at	2.87:1.	The	ﬁrst	two	of	these	three	measures	were	of	great	importance	in	
+an4quity	but,	over	4me,	have	become	irrelevant	in	the	modern,	globalized	economy	based	on	ﬁat	
+money.		
+ 
+The	above-ground	stocks	of	gold	and	silver	and	the	addi4ons	to	these	from	ongoing	mine	produc4on	
+could,	on	the	other	hand,	be	relevant	for	the	gold:silver	ra4o	as	they	can	indicate	rela4ve	scarcity	or	
+abundance	of	either	metal.	The	data	show	that	the	ra4o	of	silver:gold	above-ground	stocks	fell	from	
+about	3.1:1	in	1970	to	a	low	point	of	2.4:1	in	the	mid-2000s	before	rising	over	the	last	16	years	to	just	
+under	2.9:1	in	2025.	Counterintui4vely,	over	1970-1993,	the	reduc4on	in	this	stocks	ra4o	coincided	with	
+a	generally	rising	gold:silver	ra4o.	From	1994-2011	the	gold:silver	ra4o	was	vola4le	but	tended	to	fall	
+ 23
+
+PAGE 24
+while	the	above-ground	stocks	ra4o	dropped	slightly.	Since	2011,	the	gold:silver	ra4o	has	risen,	as	has	
+the	above-ground	stocks	ra4o.	Regression	analysis	of	the	data	shows	a	weak	rela4onship	for	the	overall	
+1970-2025	period.	The	rela4onship	is	much	stronger	for	the	separate	periods	1970-1993	and	1994-2025,	
+with	a	nega4ve	coeﬃcient	in	the	ﬁrst	period	ﬂipping	to	a	posi4ve	one	in	the	second.	In	par4cular,	the	
+earlier	period,	the	conclusion	is	that	the	fall	in	the	stocks	ra4o	was	completely	overwhelmed	by	other	
+factors.	Likewise,	the	rise	in	the	above-ground	stocks	ra4o	from	2.62	in	1994	to	2.87	in	2025	is	unlikely	to	
+have	had	a	major	inﬂuence	on	the	gold:silver	ra4o	over	the	period.		
+Looking	at	the	bullion	subset	of	above-ground	stocks,	the	ra4o	of	silver:gold	dropped	from	3.76	in	1970	
+to	2.78	in	2025.	Silver	bullion	became	rela4vely	scarcer	to	gold.	However,	over	the	same	period	the	
+gold:silver	ra4o	tended	to	rise.	This	deﬁes	the	simple	logic	that	the	abundance	or	scarcity	of	
+commodi4es	drives	their	rela4ve	prices.	Yet	it	makes	sense	in	the	context	of	bullion,	which	is	more	of	a	
+monetary	asset	and,	especially,	considering	the	years	of	net	dishoarding	of	silver	bullion	stocks,	mainly	
+by	investors	but	also	by	governments,	from	1970-1978	and	1990-2000.	By	contrast,	gold	bullion	stocks	
+rose	in	the	1970s	and	their	decline	from	1991	to	2000,	driven	en4rely	by	central	banks,	was	
+propor4onally	lower	than	for	silver .	(From	1990-2000	silver	bullion	stocks	dropped	by	14.9%	compared	
+to	gold’s	4.1%.)		
+ 
+Curiously,	from	2000	to	2025,	while	silver	bullion	stocks	have	increased	propor4onally	less	than	gold's	
+(70%	versus	80%),	the	diﬀerence	is	not,	in	itself,	suﬃcient	to	explain	the	rise	in the	gold:silver	ra4o	over	
+that	25-year	period.	Yet	reviewing	that	period	in	detail	reveals	that	while	gold	and	silver	bullion	stocks	
+rose	in	tandem	from	2001-2015,	over	the	past	decade	the	trend	has	weakened	for	silver	but	grown	
+ 24
+
+PAGE 25
+stronger	for	gold.	It	is	probable	that	this	reﬂects	an	increasing	amount	of	gold	bullion	demand	from	
+ins4tu4onal	rather	than	retail	buyers.	Certainly,	this	supposi4on	is	true	considering	central	bank	ac4vity	
+in	precious	metals,	which	is	almost	exclusively	in	gold.		
+ 
+Arguably,	the	swing	from	net	central	bank	gold	sales	to	purchases	since	2010,	and	especially	the	liM	in	
+their	buying	since	2022,	has	had	a	par4cularly	strong	impact	on	the	gold	price	and,	hence,	on	the	
+gold:silver	ra4o.	This	has	occurred	not	only	through	the	direct	impact	of	these	purchases	on	the	gold	
+supply/demand	balance	but	also	indirectly	through	the	signal	they	have	sent	to	investors,	whose	own	
+demand	has	undoubtedly	risen	further	as	a	result.	Notably,	this	posi4ve	price	dynamic	is	wholly	absent	
+from	the	silver	market,	where	oﬃcial	sector	ac4vity	in	the	last	15	years	has	consisted	of	trivial	levels	of	
+annual	sales.		
+As	indicated	above	in	the	analysis	of	the	change	in	gold	and	silver	bullion	stocks,	trends	in	gold	and	silver	
+investment	demand	have	at	4mes	diﬀered.	Although	it	dropped	to	a	very	low	level	in	1991-2000,	gold	
+investment	demand	never	turned	net	nega4ve,	unlike	silver,	which	saw	several	years	of	massive	net	
+sales	by	legacy	investors.	And	aMer	recovering	in	the	2000s	through	to	the	middle	of	the	last	decade,	net	
+silver	investment	demand	has	since	waned,	while	it	has	tended	to	increase	in	gold’s	case.		
+ 25
+
+PAGE 26
+ 
+Mul4ple	linear	regression	analysis	of	annual	net	investment	demand	for	gold	and	silver	against	the	
+gold:silver	ra4o	for	the	1980-2025	period	shows	a	meaningful	sta4s4cal	correla4on,	with	an	adjusted	R-	
+Squared	of	0.366.	As	expected,	the	gold-to-silver	ra4o	is	posi4vely	correlated	with	gold	investment	
+demand	and	nega4vely	correlated	with	silver	investment	demand.	(For	an	example	of	the	la_er:	By	early	
+1998,	Berkshire	Hathaway’s	massive	silver	purchases	at	a	4me	of	weak	gold	investment	demand	had	
+resulted	in	a	precipitous	fall	in	the	gold:silver	ra4o.)	The	analysis	shows	that	gold’s	rela4onship	is	
+sta4s4cally	stronger	but	that	both	metals	investment	is	highly	deﬁni4ve	for	the	pair’s	price	ra4o	for	the	
+period.	However,	introducing	a	break	in	the	series	at	2000/2001,	when	a	structural	change	happened	in	
+gold	and	silver	investment	demand,	is	illumina4ng.	This	shows	that	while	for	the	overall	1980-2025	
+period	gold	investment	was	of	somewhat	greater	sta4s4cal	signiﬁcance,	for	the	1980-2000	period	it	is	
+silver	investment	or	disinvestment	that	explains	nearly	all	the	movement	in	the	gold:silver	ra4o.	It	is	in	
+the	2001-2025	period	that	gold	investment	is	the	far	more	powerful	inﬂuence	on	the	metals’	price	ra4o.	
+This	is	in	line	with	the	major	upward	shiM	in	gold	investment	demand	over	the	last	25	years.		
+Fabrica4on	demand	is	generally	more	of	a	reac4ve	than	a	proac4ve	component	of	supply/demand,	
+par4cularly	for	silver,	where	its	large	industrial	component	makes	it	less	price-elas4c	in	the	short	term	
+than	jewelry-dominated	gold.	Over	the	longer	run,	however,	structural	shiMs	in	demand	will	have	an	
+impact	on	the	price	and	vice	versa.	This	is	expected	to	impact	the	gold-to-silver	ra4o.	To	test	this	
+hypothesis,	regression	analysis	was	made	using	two	diﬀerent	compara4ve	measures	of	annual	gold	and	
+silver	fabrica4on	demand.	The	ﬁrst	is	to	derive	a	silver:gold	ra4o	from	the	annual	volume	of	metal	used	
+in	fabrica4on,	excluding	all	coins	and	bars.	The	second	is	to	calculate	the	percentage	share	of	annual	
+total	demand	represented	by	fabrica4on,	excluding	all	coins	and	bars,	and	to	derive	an	annual	silver:gold	
+ 26
+
+PAGE 27
+ra4o	from	this	data.	The	results	are	shown	in	the	graph	“Ra4os	of	Silver:Gold	Fabrica4on	1980-2025” .	
+Except	for	the	1980s,	when	the	volume	measure	drops	from	a	far	higher	star4ng	point,	the	two	data	sets	
+are	quite	closely	aligned.	The	increase	in	both	measures	over	the	last	ten	years	is	noteworthy	and 
+coincides	with	a	general	increase	in	the	gold:silver	ra4o.	This	is	not	surprising,	given	the	corresponding	
+fall	in	the	investment-to-bullion	demand	ra4o	over	the	same	period	discussed	earlier	in	this	Report.		
+ 
+Sta4s4cal	analysis	of	the	rela4onship	between	the	gold:silver	ra4o	and	these	fabrica4on	ra4o	measures	
+supports	the	above	conclusions.	Speciﬁcally,	it	shows	that	both	for	the	full	period	and	for	2001-2025,	
+using	the	ra4o	of	the	percentage	share	of	demand	is	sta4s4cally	far	more	signiﬁcant	than	the	volume	
+ra4o.	In	par4cular,	during	the	modern	era	the	gold:silver	ra4o	is	quite	highly	correlated	to	the	ra4o	of	
+fabrica4on’s	share	of	demand	(an	adjusted	R-Squared	of	0.422	and	a	very	low	P	sta4s4c).	The	corollary	
+of	silver	fabrica4on	taking	an	increasing	share	of	total	demand	compared	to	gold	is	a	rela4ve	(to	gold)	
+fall	in	the	share	of	investment	demand	in	total	silver	demand.				
+ 27
+
+PAGE 28
+3.1.2.2.	Exogenous	Factors	
+Exogenous	factors	that	may	aﬀect	the	gold:silver	ra4o	include	the	dollar	exchange	rate,	interest	rates,	
+inﬂa4on	and	global	manufacturing	output.	Each	of	these	is	addressed	in	turn	in	this	sec4on	of	the	
+Report.		
+The	dollar	exchange	rate	is	likely	to	be	relevant	to	the	gold:silver	ra4o	because	commodi4es	are	usually	
+priced	in	dollars	and	because	gold,	especially,	is	a	proven	alterna4ve	to	the	US	dollar .	To	test	this	
+hypothesis	a	regression	analysis	using	log	returns	for	the	gold:silver	ra4o	against	the	Narrow	Real	US	
+Dollar	Index	was	performed	for	the	January	1970	to	May	2026	period	and	various	other	shorter	4me	
+periods.				
+This	analysis	showed	that	over	the	full	1970-2026	period,	ﬂuctua4ons	in	the	US	Dollar	index	do	not	
+systema4cally	dictate	or	explain	changes	in	the	gold:silver	ra4o.	While	both	gold	and	silver	prices	
+individually	have	strong	nega4ve	correla4ons	with	the	US	dollar,	they	generally	moved	in	the	same	
+direc4on,	meaning	the	gold:silver	ra4o	remained	largely	independent	of	dollar	movements	for	most	of	
+the	4me.	The	excep4on	to	this	has	been	the	period	from	January	2006	to	May	2026,	during	which	the	
+regression	analysis	yields	a	sta4s4cally	signiﬁcant	result	and	a	valid	but	s4ll	weak	correla4on	between	
+the	ra4o	and	the	dollar	index,	with	an	Adjusted	R-Squared	of	0.118.	It	is	notable	that	2006	marked	the	
+ﬁrz	year	of	the	silver	ETF ,	and	the	laz	20	years	have	seen	a	growing	ﬁnancializa4on	of	the	gold	and	
+silver	markets.		
+       
+ 
+The	explana4on	for	why	the	gold:silver	ra4o	may	rise	under	condi4ons	of	a	zronger	dollar,	and	vice	
+versa,	is	moz	likely	explained	by	silver’s	higher	price	vola4lity,	less	liquid	market,	and	its	rela4ve	la{	of	
+ 28
+
+PAGE 29
+safe-haven	demand	compared	to	gold.	It	would	seem	that	as	the	more	vola4le	and	specula4ve	of	the	
+pair,	silver	has	zronger	reac4ons	both	to	the	upside	and	downside	under	condi4ons	of	a	weaker	or	
+zronger	dollar,	respec4vely.	That	said,	while	the	rela4onship	between	the	gold:silver	ra4o	and	the	dollar	
+index	has	become	za4s4cally	signiﬁcant,	the	zrength	of	the	rela4onship	remains	low,	with	only	12%	of	
+the	ra4o's	monthly	variance	explained	by	|anges	in	the	dollar	index.							
+The	graph	of	the	gold:silver	ra4o	againz	the	10-Year	US	Treasury	Yield	and	the	Real	10-Year	Treasury	
+Yield	suggezs	a	superﬁcial,	very	long-run	rela4onship	from	the	1980s,	with	a	general	rise	in	the	former	
+and	a	downward	trend	in	the	la_er .	However,	the	regression	analysis	condu}ed	for	these	series	shows	
+only	a	very	weak	correla4on	between	the	ra4o	and	interez	rates	for	both	longer	and	shorter	run	4me	
+series.	The	conclusion	is	that	the	visual	pi}ure	simply	describes	a	zru}ural	coincidence,	not	a	true	
+transac4onal	rela4onship	between	the	gold:silver	ra4o	and	interez	rates.		
+	
+Regression	analysis	of	the	gold:silver	ra4o	against	OECD	inﬂa4on	for	the	period	January	1971	to	May	
+2026	shows	no	sta4s4cally	signiﬁcant	rela4onship.	The	results	were	the	same	when	making	the	
+regression	analysis	over	two	shorter	4me	periods,	namely	January	1971	to	December	1996	and	January	
+1997	to	May	2026.	To	the	extent	that	changes	in	inﬂa4on	aﬀect	investment	demand	for	precious	metals,	
+ 29
+
+PAGE 30
+it	is	likely	that	the	lack	of	correla4on	with	the	gold:silver	ra4o	stems	from	gold	and	silver	rising	or	falling	
+in	tandem	during	these	episodes,	so	the	ra4o	between	them	changes	li_le.		
+	
+Industrial	demand	for	silver	is	far	more	important	than	it	is	for	gold.	And,	in	silver’s	case,	it	has	been	
+growing	as	a	share	of	fabrica4on	demand	for	the	metal.	For	instance,	industrial	uses	accounted	for	41%	
+of	fabrica4on	(excluding	coins)	in	1990,	but	at	least	63%	in	2025.	This	suggests	the	health	of	global	
+manufacturing	should	have	some	bearing	on	silver	and,	by	extension,	on	the	gold:silver	ra4o.	To	
+inves4gate	this	a	regression	analysis	was	performed	for	the	monthly	gold:silver	ra4o	against	the	monthly	
+JP	Morgan	Global	Manufacturing	PMI	for	the	period	September	2013	to	May	2026.	The	results	of	this	
+analysis	were	sta4s4cally	signiﬁcant	and	prove	that	a	posi4ve	change	in	the	global	manufacturing	PMI	is	
+associated	with	a	decrease	in	the	gold:silver	ra4o	(nega4ve	correla4on).	Conversely,	a	falling	PMI	
+(indica4ng	a	contrac4on	in	manufacturing)	drives	the	ra4o	up.	Nevertheless,	with	an	adjusted	R-Squared	
+of	just	0.058,	the	JP	Morgan	Manufacturing	PMI	only	partly	explains	movements	in	the	gold:silver	ra4o.			
+ 30
+
+PAGE 31
+	
+ 31
+
+PAGE 32
+4.		Outlook	for	the	Gold:Silver	Ra4o	
+The	gold:silver	ra4o	ended	May	2026	at	60:1,	rising	during	the	following	month	to	end	June	at	70:1.	
+With	the	ra4o	over	the	space	of	just	one	month	capable	of	moving	so	much,	it	is	a	challenge	to	forecast	
+it	in	the	short	term,	let	alone	predict	a	longer-term	outlook.	That	said,	past	trends	in	the	gold:silver	ra4o	
+that	are	analyzed	in	some	detail	in	this	Report	oﬀer	some	guidance.		
+Firstly,	while	the	ra4o	is	vola4le	over	the	short	term,	it	tends	to	move	in	longer-term	up	or	down	cycles,	
+which,	in	the	modern	era,	typically	last	several	years.	It	is	probable	that	January	2026’s	low	for	the	ra4o	
+marked	the	bo_om	of	one,	admi_edly	rather	short,	downward	cycle.		
+Secondly,	the	cointegra4on	analysis	is	described	in	sec4on	3.1.1.	of	this	report	supports	the	mean	
+reversion	hypothesis.	The	equilibrium	level	for	the	gold:silver	ra4o	according	to	the	Johansen	
+Cointegra4on	Test	on	the	monthly	data	from	January	1970	to	May	2026	is	59.65:1.	In	the	past,	episodes	
+of	fundamental	disequilbrium	(deﬁned	as	>	20%	above	or	below	equilibrium)	have	from	1980	through	to	
+2020	always	been	followed	not	only	by	mean	reversion	but	also	by	the	ra4o	falling	through	or	rising	
+above	the	20%	threshold	at	the	other	end	of	the	spectrum.	That	this	did	not	happen	in	January	2026	
+may	be	signiﬁcant.	
+Thirdly,	it	is	possible	that	there	has	been	a	regime	shiM	since	2022	that	will	produce	something	akin	to	
+the	mirror	image	of	the	regime	in	place	from	1970-1979,	although	in	this	case	it	could	be	longer-las4ng.	
+In	the	1970s,	according	to	the	above-cited	model,	more	4me	was	spent	in	disequilibrium	than	in	
+equilibrium.	This	was	due	to	the	systema4c	overvalua4on	of	silver	rela4ve	to	gold,	itself	a	legacy	of	the	
+4me	the	yellow	metal	took	to	adjust	to	decades	of	a	controlled	oﬃcial	price.	It	is	conceivable	that	since	
+2022,	a	similar	role	is	being	played	for	gold	via	the	large-scale	central	bank	purchases	since	that	date.	
+This	demand	is	mostly	price-insensi4ve	and	guarantees	gold	a	higher	ﬂoor .	If	this	theory	is	correct,	it	
+would	be	logical	to	expect	extended	periods	of	disequilibrium	caused	by	gold	overvalua4on.		
+Finally,	notwithstanding	the	strong	probability	of	a	regime	shiM	having	taken	place,	the	tendency	for	the	
+gold:silver	ra4o	cyclically	to	rise	above	and	fall	below	its	long-run	equilibrium	has	not	changed.	
+Therefore,	even	if	in	future	the	outcomes	will	be	skewed	higher	by	the	structural	change	supported	by	
+heavy	oﬃcial	sector	gold	demand,	dips	well	below	equilibrium	will	also	occur .		
+	
+ 32

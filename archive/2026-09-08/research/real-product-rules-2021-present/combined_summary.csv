@@ -1,0 +1,4 @@
+strategy,initial_cny,final_cny,return_pct,annualized_return_pct,average_weight_pct,latest_weight_pct
+策略1 价格通道突破,100000.0,163731.34,63.73,9.1,36.53,55.0
+策略2 波动率调整动量,100000.0,149188.78,49.19,7.32,37.58,35.0
+策略3 宏观状态,100000.0,177604.87,77.6,10.68,41.62,60.0

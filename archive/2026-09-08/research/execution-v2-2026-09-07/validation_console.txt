@@ -1,0 +1,368 @@
+{
+  "selected_ids": [
+    223,
+    159,
+    271
+  ],
+  "candidates": [
+    {
+      "id": 79,
+      "spec": {
+        "family": "trend_trail",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 92.31166425625194,
+          "cagr_pct": 12.237195836914449,
+          "max_drawdown_pct": -19.057797114920806,
+          "average_weight_pct": 50.022547381432695,
+          "max_weight_pct": 92.09721534117844,
+          "final_cny": 96155.83212812597,
+          "fees_cny": 3404.8505,
+          "trade_days": 14
+        },
+        "fund": {
+          "return_pct": 82.11109963796255,
+          "cagr_pct": 11.162517630336154,
+          "max_drawdown_pct": -21.75767122931287,
+          "average_weight_pct": 50.56702797335835,
+          "max_weight_pct": 92.77715281285246,
+          "final_cny": 91055.54981898128,
+          "fees_cny": 6672.330585018726,
+          "trade_days": 14
+        }
+      }
+    },
+    {
+      "id": 111,
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 80.3623663505828,
+          "cagr_pct": 10.973327272407364,
+          "max_drawdown_pct": -19.17944785199186,
+          "average_weight_pct": 47.97059491348044,
+          "max_weight_pct": 91.4516811086631,
+          "final_cny": 90181.1831752914,
+          "fees_cny": 4028.02075,
+          "trade_days": 26
+        },
+        "fund": {
+          "return_pct": 69.80082044862226,
+          "cagr_pct": 9.797466235495843,
+          "max_drawdown_pct": -22.640397911268295,
+          "average_weight_pct": 48.30568892730716,
+          "max_weight_pct": 91.68905898249837,
+          "final_cny": 84900.41022431113,
+          "fees_cny": 7220.665958688869,
+          "trade_days": 26
+        }
+      }
+    },
+    {
+      "id": 223,
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": true,
+      "full": {
+        "cmb": {
+          "return_pct": 75.94199773864003,
+          "cagr_pct": 10.488276603656121,
+          "max_drawdown_pct": -9.293087042076653,
+          "average_weight_pct": 40.305044812608614,
+          "max_weight_pct": 86.42429162726319,
+          "final_cny": 87970.99886932001,
+          "fees_cny": 3615.3809999999994,
+          "trade_days": 41
+        },
+        "fund": {
+          "return_pct": 67.89696027567369,
+          "cagr_pct": 9.579127232631857,
+          "max_drawdown_pct": -11.11975675112743,
+          "average_weight_pct": 40.40049796506375,
+          "max_weight_pct": 86.88177214887328,
+          "final_cny": 83948.48013783684,
+          "fees_cny": 6337.4865091631555,
+          "trade_days": 41
+        }
+      }
+    },
+    {
+      "id": 159,
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": true,
+      "full": {
+        "cmb": {
+          "return_pct": 62.13178933380434,
+          "cagr_pct": 8.905292448449131,
+          "max_drawdown_pct": -9.844455138254682,
+          "average_weight_pct": 40.93230746595617,
+          "max_weight_pct": 86.28536758023978,
+          "final_cny": 81065.89466690217,
+          "fees_cny": 3577.11,
+          "trade_days": 49
+        },
+        "fund": {
+          "return_pct": 55.99254284738677,
+          "cagr_pct": 8.165683907394694,
+          "max_drawdown_pct": -11.119758454328277,
+          "average_weight_pct": 41.00900818894781,
+          "max_weight_pct": 86.95167991091236,
+          "final_cny": 77996.27142369338,
+          "fees_cny": 5860.871866306659,
+          "trade_days": 49
+        }
+      }
+    },
+    {
+      "id": 271,
+      "spec": {
+        "family": "pullback",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": true,
+      "full": {
+        "cmb": {
+          "return_pct": 41.944691858031604,
+          "cagr_pct": 6.378604291968992,
+          "max_drawdown_pct": -9.422154094229052,
+          "average_weight_pct": 30.496923990200948,
+          "max_weight_pct": 86.08141711735678,
+          "final_cny": 70972.3459290158,
+          "fees_cny": 3063.892,
+          "trade_days": 22
+        },
+        "fund": {
+          "return_pct": 38.843063554051916,
+          "cagr_pct": 5.964512500165076,
+          "max_drawdown_pct": -10.736057574567571,
+          "average_weight_pct": 30.86499237978131,
+          "max_weight_pct": 86.91157599069271,
+          "final_cny": 69421.53177702596,
+          "fees_cny": 4872.961873974062,
+          "trade_days": 22
+        }
+      }
+    },
+    {
+      "id": 28,
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 53.98427583718044,
+          "cagr_pct": 7.918539425633542,
+          "max_drawdown_pct": -13.38693562846187,
+          "average_weight_pct": 21.04191336890074,
+          "max_weight_pct": 88.2733491137469,
+          "final_cny": 76992.13791859022,
+          "fees_cny": 3756.4125,
+          "trade_days": 18
+        },
+        "fund": {
+          "return_pct": 40.77226117034303,
+          "cagr_pct": 6.222959738853295,
+          "max_drawdown_pct": -16.371041380546114,
+          "average_weight_pct": 21.304673812058233,
+          "max_weight_pct": 89.07584813536059,
+          "final_cny": 70386.13058517152,
+          "fees_cny": 6695.417742828475,
+          "trade_days": 18
+        }
+      }
+    }
+  ],
+  "baseline": [
+    {
+      "family": "legacy_channel",
+      "cap": 0.55,
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 81.27725181120202,
+          "cagr_pct": 11.072493538027306,
+          "max_drawdown_pct": -17.740214032883518,
+          "average_weight_pct": 37.562652821967355,
+          "max_weight_pct": 76.23146443474388,
+          "final_cny": 90638.62590560102,
+          "fees_cny": 1039.7275,
+          "trade_days": 6
+        },
+        "fund": {
+          "return_pct": 69.4696995074582,
+          "cagr_pct": 9.759637843143153,
+          "max_drawdown_pct": -18.243921277234087,
+          "average_weight_pct": 40.45535685018757,
+          "max_weight_pct": 76.10981732949168,
+          "final_cny": 84734.8497537291,
+          "fees_cny": 2361.052315270921,
+          "trade_days": 9
+        }
+      }
+    },
+    {
+      "family": "legacy_momentum",
+      "cap": 0.6,
+      "ok": true,
+      "full": {
+        "cmb": {
+          "return_pct": 47.45654949889595,
+          "cagr_pct": 7.096440454481678,
+          "max_drawdown_pct": -12.47160482037396,
+          "average_weight_pct": 37.620672057235666,
+          "max_weight_pct": 68.93337566186847,
+          "final_cny": 73728.27474944797,
+          "fees_cny": 2076.34,
+          "trade_days": 33
+        },
+        "fund": {
+          "return_pct": 47.270143659842525,
+          "cagr_pct": 7.072527877805168,
+          "max_drawdown_pct": -10.285253260215887,
+          "average_weight_pct": 38.134276361655836,
+          "max_weight_pct": 65.5799291998441,
+          "final_cny": 73635.07182992126,
+          "fees_cny": 3124.932042078747,
+          "trade_days": 35
+        }
+      }
+    },
+    {
+      "family": "legacy_macro",
+      "cap": 0.6,
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 79.66387242420296,
+          "cagr_pct": 10.897336890695186,
+          "max_drawdown_pct": -18.566553668036434,
+          "average_weight_pct": 41.61743514861644,
+          "max_weight_pct": 79.78232804841926,
+          "final_cny": 89831.93621210149,
+          "fees_cny": 1488.3825,
+          "trade_days": 8
+        },
+        "fund": {
+          "return_pct": 71.334237745005,
+          "cagr_pct": 9.971861083389522,
+          "max_drawdown_pct": -19.117462103882744,
+          "average_weight_pct": 44.87709023887493,
+          "max_weight_pct": 79.75404664487715,
+          "final_cny": 85667.1188725025,
+          "fees_cny": 2990.0744334975134,
+          "trade_days": 11
+        }
+      }
+    },
+    {
+      "family": "hold",
+      "cap": 1,
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 136.48009177084091,
+          "cagr_pct": 16.409295734309694,
+          "max_drawdown_pct": -29.358157667182994,
+          "average_weight_pct": 99.99993489079768,
+          "max_weight_pct": 99.99997339430627,
+          "final_cny": 118240.04588542046,
+          "fees_cny": 306.38375,
+          "trade_days": 1
+        },
+        "fund": {
+          "return_pct": 127.1444217376847,
+          "cagr_pct": 15.584508176632195,
+          "max_drawdown_pct": -30.039914882386796,
+          "average_weight_pct": 99.99998511084753,
+          "max_weight_pct": 99.99999376690972,
+          "final_cny": 113572.21086884235,
+          "fees_cny": 738.9162561576304,
+          "trade_days": 1
+        }
+      }
+    },
+    {
+      "family": "hold",
+      "cap": 0.6,
+      "ok": false,
+      "full": {
+        "cmb": {
+          "return_pct": 81.88805506250453,
+          "cagr_pct": 11.138470543580837,
+          "max_drawdown_pct": -24.042283083013483,
+          "average_weight_pct": 65.70888479668385,
+          "max_weight_pct": 81.89300213913661,
+          "final_cny": 90944.02753125227,
+          "fees_cny": 183.83025,
+          "trade_days": 1
+        },
+        "fund": {
+          "return_pct": 77.43095924999999,
+          "cagr_pct": 10.652771242517666,
+          "max_drawdown_pct": -24.637820987832004,
+          "average_weight_pct": 66.34665381143985,
+          "max_weight_pct": 82.01694162116343,
+          "final_cny": 88715.47962499999,
+          "fees_cny": 449.99999999999636,
+          "trade_days": 1
+        }
+      }
+    }
+  ]
+}

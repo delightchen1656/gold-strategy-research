@@ -1,0 +1,188 @@
+[
+  {
+    "file": "cot_gold_silver.json",
+    "url": "https://publicreporting.cftc.gov/resource/72hh-3qpy.json?%24select=report_date_as_yyyy_mm_dd%2Cmarket_and_exchange_names%2Ccftc_contract_market_code%2Ccontract_units%2Cfutonly_or_combined%2Copen_interest_all%2Cm_money_positions_long_all%2Cm_money_positions_short_all%2Cm_money_positions_spread%2Ctot_rept_positions_long_all%2Ctot_rept_positions_short%2Cnonrept_positions_long_all%2Cnonrept_positions_short_all&%24where=cftc_contract_market_code+in+%28%27088691%27%2C%27084691%27%29+AND+report_date_as_yyyy_mm_dd+%3C+%272026-01-01T00%3A00%3A00%27&%24order=report_date_as_yyyy_mm_dd%2Ccftc_contract_market_code&%24limit=5000",
+    "downloaded_at": "2026-09-23T15:07:30.163676+00:00",
+    "bytes": 1077339,
+    "sha256": "cebf1b0cfaa64b73a732ffc9d6155ee1947bce4664653b0c3bfdf696083fb630",
+    "rows": 2042,
+    "first": [
+      {
+        "report_date_as_yyyy_mm_dd": "2006-06-13T00:00:00.000",
+        "market_and_exchange_names": "SILVER - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "084691",
+        "contract_units": "(CONTRACTS OF 5,000 TROY OUNCES)",
+        "futonly_or_combined": "FutOnly",
+        "open_interest_all": "112993",
+        "m_money_positions_long_all": "22510",
+        "m_money_positions_short_all": "5526",
+        "m_money_positions_spread": "9483",
+        "tot_rept_positions_long_all": "83880",
+        "tot_rept_positions_short": "103290",
+        "nonrept_positions_long_all": "29113",
+        "nonrept_positions_short_all": "9703"
+      }
+    ],
+    "last": [
+      {
+        "report_date_as_yyyy_mm_dd": "2025-12-30T00:00:00.000",
+        "market_and_exchange_names": "GOLD - COMMODITY EXCHANGE INC.",
+        "cftc_contract_market_code": "088691",
+        "contract_units": "(CONTRACTS OF 100 TROY OUNCES)",
+        "futonly_or_combined": "FutOnly",
+        "open_interest_all": "481866",
+        "m_money_positions_long_all": "148642",
+        "m_money_positions_short_all": "22602",
+        "m_money_positions_spread": "44374",
+        "tot_rept_positions_long_all": "421649",
+        "tot_rept_positions_short": "465722",
+        "nonrept_positions_long_all": "60217",
+        "nonrept_positions_short_all": "16144"
+      }
+    ]
+  },
+  {
+    "file": "yahoo_GLD.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:07:28.452040+00:00",
+    "bytes": 550606,
+    "sha256": "14776e698dd73300c2a79af32d38f4d50c767bf2dfa769d2d30c1a1fd850eb65",
+    "meta": {
+      "currency": "USD",
+      "symbol": "GLD",
+      "exchangeName": "PCX",
+      "fullExchangeName": "NYSEArca",
+      "instrumentType": "ETF",
+      "firstTradeDate": 1100788200,
+      "regularMarketTime": 1790176047,
+      "hasPrePostMarketData": true,
+      "gmtoffset": -14400,
+      "timezone": "EDT",
+      "exchangeTimezoneName": "America/New_York",
+      "regularMarketPrice": 393.36,
+      "regularMarketChangePercent": -1.677,
+      "fulldayPrice": 393.36,
+      "fulldayChange": -6.71,
+      "fulldayChangePercent": -1.677,
+      "fiftyTwoWeekHigh": 509.7,
+      "fiftyTwoWeekLow": 342.14,
+      "regularMarketDayHigh": 395.5,
+      "regularMarketDayLow": 392.15,
+      "regularMarketVolume": 3009733,
+      "longName": "SPDR Gold Shares",
+      "shortName": "SPDR Gold Shares",
+      "chartPreviousClose": 51.58,
+      "priceHint": 2,
+      "currentTradingPeriod": {
+        "pre": {
+          "timezone": "EDT",
+          "start": 1790150400,
+          "end": 1790170200,
+          "gmtoffset": -14400
+        },
+        "regular": {
+          "timezone": "EDT",
+          "start": 1790170200,
+          "end": 1790193600,
+          "gmtoffset": -14400
+        },
+        "post": {
+          "timezone": "EDT",
+          "start": 1790193600,
+          "end": 1790208000,
+          "gmtoffset": -14400
+        }
+      },
+      "dataGranularity": "1d",
+      "range": "",
+      "validRanges": [
+        "1d",
+        "5d",
+        "1mo",
+        "3mo",
+        "6mo",
+        "1y",
+        "2y",
+        "5y",
+        "10y",
+        "ytd",
+        "max"
+      ]
+    },
+    "rows": 5031,
+    "first": 1136298600,
+    "last": 1767191400
+  },
+  {
+    "file": "yahoo_SLV.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SLV?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:07:28.445985+00:00",
+    "bytes": 546049,
+    "sha256": "05b0cf59064a786c756de388922272d932dde86db37a1d759869f986de80b7d9",
+    "meta": {
+      "currency": "USD",
+      "symbol": "SLV",
+      "exchangeName": "PCX",
+      "fullExchangeName": "NYSEArca",
+      "instrumentType": "ETF",
+      "firstTradeDate": 1146231000,
+      "regularMarketTime": 1790176047,
+      "hasPrePostMarketData": true,
+      "gmtoffset": -14400,
+      "timezone": "EDT",
+      "exchangeTimezoneName": "America/New_York",
+      "regularMarketPrice": 58.48,
+      "regularMarketChangePercent": -3.705,
+      "fulldayPrice": 58.48,
+      "fulldayChange": -2.25,
+      "fulldayChangePercent": -3.705,
+      "fiftyTwoWeekHigh": 109.83,
+      "fiftyTwoWeekLow": 39.64,
+      "regularMarketDayHigh": 59.03,
+      "regularMarketDayLow": 58.12,
+      "regularMarketVolume": 7744014,
+      "longName": "iShares Silver Trust",
+      "shortName": "iShares Silver Trust",
+      "chartPreviousClose": 12.9,
+      "priceHint": 2,
+      "currentTradingPeriod": {
+        "pre": {
+          "timezone": "EDT",
+          "start": 1790150400,
+          "end": 1790170200,
+          "gmtoffset": -14400
+        },
+        "regular": {
+          "timezone": "EDT",
+          "start": 1790170200,
+          "end": 1790193600,
+          "gmtoffset": -14400
+        },
+        "post": {
+          "timezone": "EDT",
+          "start": 1790193600,
+          "end": 1790208000,
+          "gmtoffset": -14400
+        }
+      },
+      "dataGranularity": "1d",
+      "range": "",
+      "validRanges": [
+        "1d",
+        "5d",
+        "1mo",
+        "3mo",
+        "6mo",
+        "1y",
+        "2y",
+        "5y",
+        "10y",
+        "ytd",
+        "max"
+      ]
+    },
+    "rows": 4951,
+    "first": 1146231000,
+    "last": 1767191400
+  }
+]

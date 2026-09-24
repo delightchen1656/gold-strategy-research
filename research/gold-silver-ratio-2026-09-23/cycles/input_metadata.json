@@ -1,0 +1,79 @@
+[
+  {
+    "file": "cot_full_2025.json",
+    "url": "https://publicreporting.cftc.gov/resource/72hh-3qpy.json?%24select=report_date_as_yyyy_mm_dd%2Cmarket_and_exchange_names%2Ccftc_contract_market_code%2Ccontract_units%2Cfutonly_or_combined%2Copen_interest_all%2Cm_money_positions_long_all%2Cm_money_positions_short_all%2Cm_money_positions_spread%2Cprod_merc_positions_long%2Cprod_merc_positions_short%2Cswap_positions_long_all%2Cswap__positions_short_all%2Cswap__positions_spread_all%2Cother_rept_positions_long%2Cother_rept_positions_short%2Cother_rept_positions_spread%2Ctot_rept_positions_long_all%2Ctot_rept_positions_short%2Cnonrept_positions_long_all%2Cnonrept_positions_short_all&%24where=cftc_contract_market_code+in+%28%27088691%27%2C%27084691%27%29+AND+report_date_as_yyyy_mm_dd+%3C+%272026-01-01T00%3A00%3A00%27&%24order=report_date_as_yyyy_mm_dd%2Ccftc_contract_market_code&%24limit=5000",
+    "downloaded_at": "2026-09-23T15:21:10.180267+00:00",
+    "bytes": 1665833,
+    "sha256": "dee837825f8f323fdd2a0ee2c80e685c16ca8ac7aa6922c1ff2d37a6b3cd3435",
+    "rows": 2042,
+    "first_date": "2006-06-13T00:00:00.000",
+    "last_date": "2025-12-30T00:00:00.000"
+  },
+  {
+    "file": "gvz.csv",
+    "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/GVZ_History.csv",
+    "downloaded_at": "2026-09-23T15:21:07.441700+00:00",
+    "bytes": 89745,
+    "sha256": "102c7a3ba143303bfcaff722f5e2f99e649100c636c7f2b0652de48c1d54b0d0",
+    "rows": 4276,
+    "columns": [
+      "DATE",
+      "GVZ"
+    ]
+  },
+  {
+    "file": "cftc_announcements.html",
+    "url": "https://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalSpecialAnnouncements/index.htm",
+    "downloaded_at": "2026-09-23T15:21:06.464513+00:00",
+    "bytes": 125398,
+    "sha256": "29134b75985771cb4f7dae6278e28952207d29b48266d33a339fd8b2446aee1b"
+  },
+  {
+    "file": "yahoo_IAU_2025.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:21:06.160265+00:00",
+    "bytes": 551451,
+    "sha256": "5fe035381b5500ddfbff5fbb98c56130f7e3bf15b53f5fc52e2cf4ef7e0ba02e",
+    "symbol": "IAU",
+    "currency": "USD",
+    "exchange": "PCX",
+    "rows": 5031,
+    "events": {}
+  },
+  {
+    "file": "yahoo_SIVR_2025.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SIVR?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:21:07.741223+00:00",
+    "bytes": 448472,
+    "sha256": "e9d84b5665a19df073c9aa2f8c7eea5c3851fa868b5b0326ea95c29a861e64f4",
+    "symbol": "SIVR",
+    "currency": "USD",
+    "exchange": "PCX",
+    "rows": 4136,
+    "events": {}
+  },
+  {
+    "file": "yahoo_GC_F_2025.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:21:08.256269+00:00",
+    "bytes": 468406,
+    "sha256": "98a22819b0f37905a21ac9a782b3db7c0bb2953354bb7360f6dec350ff83aaba",
+    "symbol": "GC=F",
+    "currency": "USD",
+    "exchange": "CMX",
+    "rows": 5048,
+    "events": {}
+  },
+  {
+    "file": "yahoo_SI_F_2025.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SI%3DF?period1=1136073600&period2=1767225600&interval=1d&events=history",
+    "downloaded_at": "2026-09-23T15:21:09.520264+00:00",
+    "bytes": 532357,
+    "sha256": "c23f66e7529b38416ffd286113448d1716bfe3228301e292e1a7e74274bea729",
+    "symbol": "SI=F",
+    "currency": "USD",
+    "exchange": "CMX",
+    "rows": 5048,
+    "events": {}
+  }
+]

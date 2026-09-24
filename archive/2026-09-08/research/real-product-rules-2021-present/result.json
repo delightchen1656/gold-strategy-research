@@ -1,0 +1,259 @@
+{
+  "period": "2021-present",
+  "execution": {
+    "signal": "LBMA Gold Price AM month-end signal",
+    "both_paths": "first eligible product trading date strictly after signal date",
+    "fund_confirmation": "confirmation date does not change NAV attribution date",
+    "fund_redemption": "no artificial lock; FIFO fee by actual calendar holding days",
+    "cmb": "public mid-price proxy with ask=mid+2.5 and bid=mid-2.5 CNY/g"
+  },
+  "fees": {
+    "fund_purchase_effective_drag": 0.01477832512315258,
+    "fund_redemption": {
+      "under_7_days": 0.015,
+      "7_to_under_30_days": 0.005,
+      "30_days_or_more": 0
+    }
+  },
+  "results": [
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-03",
+      "final_cny": 83909.65,
+      "return_pct": 67.82,
+      "annualized_return_pct": 9.58,
+      "max_drawdown_pct": -13.17,
+      "average_weight_pct": 36.5,
+      "rebalance_days": 9,
+      "latest_weight_pct": 55.0,
+      "strategy": "策略1 价格通道突破",
+      "path": "招商银行积存金代理"
+    },
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-04",
+      "final_cny": 79821.69,
+      "return_pct": 59.64,
+      "annualized_return_pct": 8.61,
+      "max_drawdown_pct": -13.47,
+      "average_weight_pct": 36.57,
+      "rebalance_days": 9,
+      "latest_weight_pct": 55.0,
+      "strategy": "策略1 价格通道突破",
+      "path": "建信上海金ETF联接A"
+    },
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-03",
+      "final_cny": 74736.54,
+      "return_pct": 49.47,
+      "annualized_return_pct": 7.36,
+      "max_drawdown_pct": -9.28,
+      "average_weight_pct": 37.66,
+      "rebalance_days": 34,
+      "latest_weight_pct": 35.0,
+      "strategy": "策略2 波动率调整动量",
+      "path": "招商银行积存金代理"
+    },
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-04",
+      "final_cny": 74452.24,
+      "return_pct": 48.9,
+      "annualized_return_pct": 7.28,
+      "max_drawdown_pct": -9.09,
+      "average_weight_pct": 37.5,
+      "rebalance_days": 34,
+      "latest_weight_pct": 35.0,
+      "strategy": "策略2 波动率调整动量",
+      "path": "建信上海金ETF联接A"
+    },
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-03",
+      "final_cny": 90535.92,
+      "return_pct": 81.07,
+      "annualized_return_pct": 11.06,
+      "max_drawdown_pct": -14.33,
+      "average_weight_pct": 41.59,
+      "rebalance_days": 9,
+      "latest_weight_pct": 60.0,
+      "strategy": "策略3 宏观状态",
+      "path": "招商银行积存金代理"
+    },
+    {
+      "start": "2021-01-04",
+      "end": "2026-09-04",
+      "final_cny": 87068.95,
+      "return_pct": 74.14,
+      "annualized_return_pct": 10.29,
+      "max_drawdown_pct": -14.66,
+      "average_weight_pct": 41.64,
+      "rebalance_days": 9,
+      "latest_weight_pct": 60.0,
+      "strategy": "策略3 宏观状态",
+      "path": "建信上海金ETF联接A"
+    }
+  ],
+  "combined": [
+    {
+      "strategy": "策略1 价格通道突破",
+      "initial_cny": 100000.0,
+      "final_cny": 163731.34,
+      "return_pct": 63.73,
+      "annualized_return_pct": 9.1,
+      "average_weight_pct": 36.53,
+      "latest_weight_pct": 55.0
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "initial_cny": 100000.0,
+      "final_cny": 149188.78,
+      "return_pct": 49.19,
+      "annualized_return_pct": 7.32,
+      "average_weight_pct": 37.58,
+      "latest_weight_pct": 35.0
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "initial_cny": 100000.0,
+      "final_cny": 177604.87,
+      "return_pct": 77.6,
+      "annualized_return_pct": 10.68,
+      "average_weight_pct": 41.62,
+      "latest_weight_pct": 60.0
+    }
+  ],
+  "splits": [
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "招商银行积存金代理",
+      "split": "训练期 2021-2023",
+      "return_pct": 5.82,
+      "max_drawdown_pct": -4.7
+    },
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "招商银行积存金代理",
+      "split": "验证期 2024",
+      "return_pct": 16.51,
+      "max_drawdown_pct": -10.41
+    },
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "招商银行积存金代理",
+      "split": "盲测期 2025-2026",
+      "return_pct": 35.12,
+      "max_drawdown_pct": -13.17
+    },
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "建信上海金ETF联接A",
+      "split": "训练期 2021-2023",
+      "return_pct": 4.19,
+      "max_drawdown_pct": -4.84
+    },
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "建信上海金ETF联接A",
+      "split": "验证期 2024",
+      "return_pct": 14.07,
+      "max_drawdown_pct": -3.79
+    },
+    {
+      "strategy": "策略1 价格通道突破",
+      "path": "建信上海金ETF联接A",
+      "split": "盲测期 2025-2026",
+      "return_pct": 33.45,
+      "max_drawdown_pct": -13.47
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "招商银行积存金代理",
+      "split": "训练期 2021-2023",
+      "return_pct": -1.95,
+      "max_drawdown_pct": -8.44
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "招商银行积存金代理",
+      "split": "验证期 2024",
+      "return_pct": 14.41,
+      "max_drawdown_pct": -9.28
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "招商银行积存金代理",
+      "split": "盲测期 2025-2026",
+      "return_pct": 32.25,
+      "max_drawdown_pct": -8.6
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "建信上海金ETF联接A",
+      "split": "训练期 2021-2023",
+      "return_pct": -0.65,
+      "max_drawdown_pct": -6.92
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "建信上海金ETF联接A",
+      "split": "验证期 2024",
+      "return_pct": 12.73,
+      "max_drawdown_pct": -4.13
+    },
+    {
+      "strategy": "策略2 波动率调整动量",
+      "path": "建信上海金ETF联接A",
+      "split": "盲测期 2025-2026",
+      "return_pct": 32.08,
+      "max_drawdown_pct": -9.09
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "招商银行积存金代理",
+      "split": "训练期 2021-2023",
+      "return_pct": 9.74,
+      "max_drawdown_pct": -5.12
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "招商银行积存金代理",
+      "split": "验证期 2024",
+      "return_pct": 18.01,
+      "max_drawdown_pct": -11.33
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "招商银行积存金代理",
+      "split": "盲测期 2025-2026",
+      "return_pct": 38.7,
+      "max_drawdown_pct": -14.33
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "建信上海金ETF联接A",
+      "split": "训练期 2021-2023",
+      "return_pct": 9.51,
+      "max_drawdown_pct": -5.28
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "建信上海金ETF联接A",
+      "split": "验证期 2024",
+      "return_pct": 15.42,
+      "max_drawdown_pct": -4.13
+    },
+    {
+      "strategy": "策略3 宏观状态",
+      "path": "建信上海金ETF联接A",
+      "split": "盲测期 2025-2026",
+      "return_pct": 36.81,
+      "max_drawdown_pct": -14.66
+    }
+  ],
+  "limitations": [
+    "Historical CMB client quotes and intraday executable prices are unavailable, so CMB remains a proxy rather than a literal fill reconstruction.",
+    "Daily target-weight accounting approximates cash/share rounding and ignores minimum order size."
+  ]
+}

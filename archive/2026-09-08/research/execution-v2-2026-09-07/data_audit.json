@@ -1,0 +1,20 @@
+{
+  "cutoff": "2026-09-04",
+  "gold_source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+  "rejected_new_source_rows": {
+    "2026-01-02": 1386.85
+  },
+  "nav_dividends_or_splits": 0,
+  "fx_source": "https://query1.finance.yahoo.com/v8/finance/chart/CNY%3DX?period1=1483228800&period2=1788825600&interval=1d&events=history",
+  "fx_timezone": "Europe/London",
+  "fx_forward_filled_dates": [],
+  "known_old_exclusions": [
+    "2022-07-20",
+    "2026-01-02"
+  ],
+  "hashes": {
+    "research\\execution-v2-2026-09-07\\inputs\\gold.csv": "a5904f9a40fbd41bd3ddde42804aaab1c2966cdb069815dd8a0ec82fdb9d272f",
+    "research\\execution-v2-2026-09-07\\inputs\\products.csv": "707563dc5db06a88e9ae34d366f69edc6d390f8aa03d3a89c3b5fb08ceeaeb4c",
+    "data\\raw\\funds\\009033_nav.csv": "30da59a257ea5bf2f91ff67c5feba17897f46e282aa810a9fad974d219ebf274"
+  }
+}

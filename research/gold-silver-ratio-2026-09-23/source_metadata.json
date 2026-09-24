@@ -1,0 +1,14 @@
+{
+  "worldbank_monthly.xlsx": {
+    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+    "bytes": 586735,
+    "sha256": "9fdcfa8a2aed9a1bb545a10c1a5ce036c6a0acd4766f450424ca800b4b5a0225",
+    "retrieved_date": "2026-09-23"
+  },
+  "silver_institute_ratio_2026.pdf": {
+    "url": "https://silverinstitute.org/wp-content/uploads/2026/07/Is-the-Gold-Silver-Ratio-Relevant-Today.pdf",
+    "bytes": 2582187,
+    "sha256": "9c3d38efaef763a917153547a88eb69704fe979eff9281acbed396f433a8bed0",
+    "retrieved_date": "2026-09-23"
+  }
+}

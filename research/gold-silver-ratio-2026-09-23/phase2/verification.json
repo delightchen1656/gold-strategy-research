@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "independently_checked_risk_windows": 1023,
+  "independently_recomputed_mse_comparisons": 129,
+  "training_label_date_checks": "passed",
+  "COT_target_alignment": "passed",
+  "all_finite": "passed"
+}

@@ -1,0 +1,5 @@
+{
+  "file": "gvz_fred_2025.csv",
+  "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=GVZCLS&cosd=2006-01-01&coed=2025-12-31",
+  "error": "curl: (28) Operation timed out after 40015 milliseconds with 0 bytes received\r\n"
+}

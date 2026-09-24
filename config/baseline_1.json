@@ -1,0 +1,23 @@
+{
+  "name": "基准1",
+  "status": "sole_current_baseline",
+  "signal": {
+    "trend_horizon_days": 120,
+    "volatility_window_days": 40,
+    "volatility_target": 0.12,
+    "maximum_position": 1.0,
+    "drawdown_exit": 0.14,
+    "cooldown_observations": 5,
+    "review_frequency": "monthly",
+    "rebalance_band": 0.05,
+    "profit_lock_ma_days": 90,
+    "profit_lock_extension": 1.20,
+    "profit_lock_position": 0.0
+  },
+  "constraints": {
+    "phase_max_drawdown": 0.15,
+    "phase_average_position": 0.70,
+    "leverage": false,
+    "shorting": false
+  }
+}

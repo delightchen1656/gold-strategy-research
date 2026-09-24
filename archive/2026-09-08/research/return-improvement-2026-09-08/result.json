@@ -1,0 +1,5028 @@
+{
+  "method": "1,152 predefined strategy-A parameter rows; rank on 2021-2024 only; 2025+ is a constraint veto only",
+  "constraints": "Each product and each stage: max drawdown <15%, average realised weight <=70%",
+  "total_candidates": 1152,
+  "pre2025_eligible": 876,
+  "shortlist_checked": 200,
+  "survivors": 126,
+  "selected": {
+    "spec": {
+      "family": "vol_trend",
+      "horizon": 120,
+      "exit_days": 20,
+      "cap": 1.0,
+      "vol_target": 0.14,
+      "stop": 0.14,
+      "frequency": "monthly",
+      "band": 0.05,
+      "cooldown": 5
+    },
+    "pre2025_score": 0.07620717682528322,
+    "pre2025": {
+      "cmb": {
+        "full": {
+          "return_pct": 34.147794056881196,
+          "cagr_pct": 7.642419216710583,
+          "max_drawdown_pct": -12.387619704665841,
+          "average_weight_pct": 52.04070554791262,
+          "max_weight_pct": 99.99997566464282,
+          "final_cny": 67073.8970284406,
+          "fees_cny": 2939.7129999999997,
+          "trade_days": 21
+        },
+        "splits": {
+          "2021—2023": {
+            "return_pct": 7.658851072289541,
+            "cagr_pct": 2.501391148828014,
+            "max_drawdown_pct": -8.297124896049457,
+            "average_weight_pct": 47.47206954831075,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 53829.42553614477,
+            "fees_cny": 2326.03025,
+            "trade_days": 16
+          },
+          "2024": {
+            "return_pct": 24.60451948052571,
+            "cagr_pct": 24.623294758428816,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 65.74661354671821,
+            "max_weight_pct": 99.99993317062312,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 613.6827499999999,
+            "trade_days": 5
+          },
+          "2025—2026-09-04": {}
+        }
+      },
+      "fund": {
+        "full": {
+          "return_pct": 43.62162456350072,
+          "cagr_pct": 9.49968384925306,
+          "max_drawdown_pct": -6.80870681688277,
+          "average_weight_pct": 51.92739149445463,
+          "max_weight_pct": 99.99999278198489,
+          "final_cny": 71810.81228175036,
+          "fees_cny": 429.0065002496317,
+          "trade_days": 21
+        },
+        "splits": {
+          "2021—2023": {
+            "return_pct": 14.96451998143986,
+            "cagr_pct": 4.779383250238478,
+            "max_drawdown_pct": -5.599364856994504,
+            "average_weight_pct": 47.3585727602169,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 57482.259990719926,
+            "fees_cny": 329.03781328008836,
+            "trade_days": 16
+          },
+          "2024": {
+            "return_pct": 24.926911873930614,
+            "cagr_pct": 24.945956865215567,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 65.63384769716781,
+            "max_weight_pct": 99.99998651462538,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 99.96868696954334,
+            "trade_days": 5
+          },
+          "2025—2026-09-04": {}
+        }
+      }
+    },
+    "all_stages_eligible": true,
+    "full": {
+      "cmb": {
+        "full": {
+          "return_pct": 114.24225292167658,
+          "cagr_pct": 14.397409528547577,
+          "max_drawdown_pct": -12.387619704665841,
+          "average_weight_pct": 52.5562442507535,
+          "max_weight_pct": 99.99999176808318,
+          "final_cny": 107121.12646083829,
+          "fees_cny": 3767.6789999999996,
+          "trade_days": 32
+        },
+        "splits": {
+          "2021—2023": {
+            "return_pct": 7.658851072289541,
+            "cagr_pct": 2.501391148828014,
+            "max_drawdown_pct": -8.297124896049457,
+            "average_weight_pct": 47.47206954831075,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 53829.42553614477,
+            "fees_cny": 2326.03025,
+            "trade_days": 16
+          },
+          "2024": {
+            "return_pct": 24.60451948052571,
+            "cagr_pct": 24.623294758428816,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 65.74661354671821,
+            "max_weight_pct": 99.99993317062312,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 613.6827499999999,
+            "trade_days": 5
+          },
+          "2025—2026-09-04": {
+            "return_pct": 59.7061319031708,
+            "cagr_pct": 32.29508727528243,
+            "max_drawdown_pct": -12.317759358662672,
+            "average_weight_pct": 53.78745707424579,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 827.9659999999999,
+            "trade_days": 11
+          }
+        }
+      },
+      "fund": {
+        "full": {
+          "return_pct": 125.33149365036738,
+          "cagr_pct": 15.421112845321638,
+          "max_drawdown_pct": -14.50733991201093,
+          "average_weight_pct": 52.478671808372646,
+          "max_weight_pct": 99.99999278198489,
+          "final_cny": 112665.74682518368,
+          "fees_cny": 900.070581816306,
+          "trade_days": 32
+        },
+        "splits": {
+          "2021—2023": {
+            "return_pct": 14.96451998143986,
+            "cagr_pct": 4.779383250238478,
+            "max_drawdown_pct": -5.599364856994504,
+            "average_weight_pct": 47.3585727602169,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 57482.259990719926,
+            "fees_cny": 329.03781328008836,
+            "trade_days": 16
+          },
+          "2024": {
+            "return_pct": 24.926911873930614,
+            "cagr_pct": 24.945956865215567,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 65.63384769716781,
+            "max_weight_pct": 99.99998651462538,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 99.96868696954334,
+            "trade_days": 5
+          },
+          "2025—2026-09-04": {
+            "return_pct": 56.89245566968193,
+            "cagr_pct": 30.89680767203491,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 53.79524297576405,
+            "max_weight_pct": 99.99998386690405,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 471.0640815666743,
+            "trade_days": 11
+          }
+        }
+      }
+    }
+  },
+  "top_pre2025": [
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.0816344442797714,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 36.87433907421227,
+            "cagr_pct": 8.186749448473352,
+            "max_drawdown_pct": -13.706477258104455,
+            "average_weight_pct": 54.38499023969576,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 68437.16953710614,
+            "fees_cny": 2874.9655000000002,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 46.03435170358659,
+            "cagr_pct": 9.957948640969416,
+            "max_drawdown_pct": -6.808706256836339,
+            "average_weight_pct": 54.26143091717629,
+            "max_weight_pct": 99.99999761631119,
+            "final_cny": 73017.17585179329,
+            "fees_cny": 423.8518622067031,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 122.6156129456287,
+            "cagr_pct": 15.174299007319213,
+            "max_drawdown_pct": -13.764509303746642,
+            "average_weight_pct": 55.20244022630685,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 111307.80647281435,
+            "fees_cny": 3731.5164999999997,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.642329052583136,
+              "cagr_pct": 33.74373021432482,
+              "max_drawdown_pct": -13.764509303746642,
+              "average_weight_pct": 57.15467950637066,
+              "max_weight_pct": 99.99998775268007,
+              "final_cny": 111307.80647281435,
+              "fees_cny": 856.5509999999999,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 132.68708637904413,
+            "cagr_pct": 16.07748303841239,
+            "max_drawdown_pct": -16.10562142452373,
+            "average_weight_pct": 55.117481031886165,
+            "max_weight_pct": 99.99999898503015,
+            "final_cny": 116343.54318952207,
+            "fees_cny": 968.927425477966,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.337226936399915,
+              "cagr_pct": 32.11232457862905,
+              "max_drawdown_pct": -16.10562142452373,
+              "average_weight_pct": 57.16190538446112,
+              "max_weight_pct": 99.99999898503015,
+              "final_cny": 116343.54318952207,
+              "fees_cny": 545.0755632712629,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.0816344442797714,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 36.87433907421227,
+            "cagr_pct": 8.186749448473352,
+            "max_drawdown_pct": -13.706477258104455,
+            "average_weight_pct": 54.38499023969576,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 68437.16953710614,
+            "fees_cny": 2874.9655000000002,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 46.03435170358659,
+            "cagr_pct": 9.957948640969416,
+            "max_drawdown_pct": -6.808706256836339,
+            "average_weight_pct": 54.26143091717629,
+            "max_weight_pct": 99.99999761631119,
+            "final_cny": 73017.17585179329,
+            "fees_cny": 423.8518622067031,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 122.6156129456287,
+            "cagr_pct": 15.174299007319213,
+            "max_drawdown_pct": -13.764509303746642,
+            "average_weight_pct": 55.20244022630685,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 111307.80647281435,
+            "fees_cny": 3731.5164999999997,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.642329052583136,
+              "cagr_pct": 33.74373021432482,
+              "max_drawdown_pct": -13.764509303746642,
+              "average_weight_pct": 57.15467950637066,
+              "max_weight_pct": 99.99998775268007,
+              "final_cny": 111307.80647281435,
+              "fees_cny": 856.5509999999999,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 132.68708637904413,
+            "cagr_pct": 16.07748303841239,
+            "max_drawdown_pct": -16.10562142452373,
+            "average_weight_pct": 55.117481031886165,
+            "max_weight_pct": 99.99999898503015,
+            "final_cny": 116343.54318952207,
+            "fees_cny": 968.927425477966,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.337226936399915,
+              "cagr_pct": 32.11232457862905,
+              "max_drawdown_pct": -16.10562142452373,
+              "average_weight_pct": 57.16190538446112,
+              "max_weight_pct": 99.99999898503015,
+              "final_cny": 116343.54318952207,
+              "fees_cny": 545.0755632712629,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.0816344442797714,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 36.87433907421227,
+            "cagr_pct": 8.186749448473352,
+            "max_drawdown_pct": -13.706477258104455,
+            "average_weight_pct": 54.38499023969576,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 68437.16953710614,
+            "fees_cny": 2874.9655000000002,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 46.03435170358659,
+            "cagr_pct": 9.957948640969416,
+            "max_drawdown_pct": -6.808706256836339,
+            "average_weight_pct": 54.26143091717629,
+            "max_weight_pct": 99.99999761631119,
+            "final_cny": 73017.17585179329,
+            "fees_cny": 423.8518622067031,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 122.6156129456287,
+            "cagr_pct": 15.174299007319213,
+            "max_drawdown_pct": -13.764509303746642,
+            "average_weight_pct": 55.20244022630685,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 111307.80647281435,
+            "fees_cny": 3731.5164999999997,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.642329052583136,
+              "cagr_pct": 33.74373021432482,
+              "max_drawdown_pct": -13.764509303746642,
+              "average_weight_pct": 57.15467950637066,
+              "max_weight_pct": 99.99998775268007,
+              "final_cny": 111307.80647281435,
+              "fees_cny": 856.5509999999999,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 132.68708637904413,
+            "cagr_pct": 16.07748303841239,
+            "max_drawdown_pct": -16.10562142452373,
+            "average_weight_pct": 55.117481031886165,
+            "max_weight_pct": 99.99999898503015,
+            "final_cny": 116343.54318952207,
+            "fees_cny": 968.927425477966,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.337226936399915,
+              "cagr_pct": 32.11232457862905,
+              "max_drawdown_pct": -16.10562142452373,
+              "average_weight_pct": 57.16190538446112,
+              "max_weight_pct": 99.99999898503015,
+              "final_cny": 116343.54318952207,
+              "fees_cny": 545.0755632712629,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.0816344442797714,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 36.87433907421227,
+            "cagr_pct": 8.186749448473352,
+            "max_drawdown_pct": -13.706477258104455,
+            "average_weight_pct": 54.38499023969576,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 68437.16953710614,
+            "fees_cny": 2874.9655000000002,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 46.03435170358659,
+            "cagr_pct": 9.957948640969416,
+            "max_drawdown_pct": -6.808706256836339,
+            "average_weight_pct": 54.26143091717629,
+            "max_weight_pct": 99.99999761631119,
+            "final_cny": 73017.17585179329,
+            "fees_cny": 423.8518622067031,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 122.6156129456287,
+            "cagr_pct": 15.174299007319213,
+            "max_drawdown_pct": -13.764509303746642,
+            "average_weight_pct": 55.20244022630685,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 111307.80647281435,
+            "fees_cny": 3731.5164999999997,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.642329052583136,
+              "cagr_pct": 33.74373021432482,
+              "max_drawdown_pct": -13.764509303746642,
+              "average_weight_pct": 57.15467950637066,
+              "max_weight_pct": 99.99998775268007,
+              "final_cny": 111307.80647281435,
+              "fees_cny": 856.5509999999999,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 132.68708637904413,
+            "cagr_pct": 16.07748303841239,
+            "max_drawdown_pct": -16.10562142452373,
+            "average_weight_pct": 55.117481031886165,
+            "max_weight_pct": 99.99999898503015,
+            "final_cny": 116343.54318952207,
+            "fees_cny": 968.927425477966,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.337226936399915,
+              "cagr_pct": 32.11232457862905,
+              "max_drawdown_pct": -16.10562142452373,
+              "average_weight_pct": 57.16190538446112,
+              "max_weight_pct": 99.99999898503015,
+              "final_cny": 116343.54318952207,
+              "fees_cny": 545.0755632712629,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07802072248342307,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 35.05430644710095,
+            "cagr_pct": 7.824308758136955,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 51.832272261741174,
+            "max_weight_pct": 95.75040293254423,
+            "final_cny": 67527.15322355047,
+            "fees_cny": 2719.442,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.68578938626262,
+            "cagr_pct": 9.511945474019878,
+            "max_drawdown_pct": -6.508927766088524,
+            "average_weight_pct": 51.76740099662573,
+            "max_weight_pct": 95.84771055734578,
+            "final_cny": 71842.89469313131,
+            "fees_cny": 401.8594208687018,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 116.20648420834239,
+            "cagr_pct": 14.581868601923077,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 52.67897708522396,
+            "max_weight_pct": 96.10199079312942,
+            "final_cny": 108103.2421041712,
+            "fees_cny": 3450.1805000000004,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 60.088552446883824,
+              "cagr_pct": 32.484366698404244,
+              "max_drawdown_pct": -12.77673781453499,
+              "average_weight_pct": 54.7010829535907,
+              "max_weight_pct": 96.10199079312942,
+              "final_cny": 108103.2421041712,
+              "fees_cny": 730.7384999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.68363719970787,
+            "cagr_pct": 15.452935291645154,
+            "max_drawdown_pct": -15.314920137938792,
+            "average_weight_pct": 52.63463069314047,
+            "max_weight_pct": 96.09999112970249,
+            "final_cny": 112841.81859985394,
+            "fees_cny": 843.3667851460411,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 57.06747213046584,
+              "cagr_pct": 30.98407617338177,
+              "max_drawdown_pct": -15.314920137938792,
+              "average_weight_pct": 54.70575419439923,
+              "max_weight_pct": 96.09999112970249,
+              "final_cny": 112841.81859985394,
+              "fees_cny": 441.5073642773394,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07802072248342307,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 35.05430644710095,
+            "cagr_pct": 7.824308758136955,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 51.832272261741174,
+            "max_weight_pct": 95.75040293254423,
+            "final_cny": 67527.15322355047,
+            "fees_cny": 2719.442,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.68578938626262,
+            "cagr_pct": 9.511945474019878,
+            "max_drawdown_pct": -6.508927766088524,
+            "average_weight_pct": 51.76740099662573,
+            "max_weight_pct": 95.84771055734578,
+            "final_cny": 71842.89469313131,
+            "fees_cny": 401.8594208687018,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 116.20648420834239,
+            "cagr_pct": 14.581868601923077,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 52.67897708522396,
+            "max_weight_pct": 96.10199079312942,
+            "final_cny": 108103.2421041712,
+            "fees_cny": 3450.1805000000004,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 60.088552446883824,
+              "cagr_pct": 32.484366698404244,
+              "max_drawdown_pct": -12.77673781453499,
+              "average_weight_pct": 54.7010829535907,
+              "max_weight_pct": 96.10199079312942,
+              "final_cny": 108103.2421041712,
+              "fees_cny": 730.7384999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.68363719970787,
+            "cagr_pct": 15.452935291645154,
+            "max_drawdown_pct": -15.314920137938792,
+            "average_weight_pct": 52.63463069314047,
+            "max_weight_pct": 96.09999112970249,
+            "final_cny": 112841.81859985394,
+            "fees_cny": 843.3667851460411,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 57.06747213046584,
+              "cagr_pct": 30.98407617338177,
+              "max_drawdown_pct": -15.314920137938792,
+              "average_weight_pct": 54.70575419439923,
+              "max_weight_pct": 96.09999112970249,
+              "final_cny": 112841.81859985394,
+              "fees_cny": 441.5073642773394,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07802072248342307,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 35.05430644710095,
+            "cagr_pct": 7.824308758136955,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 51.832272261741174,
+            "max_weight_pct": 95.75040293254423,
+            "final_cny": 67527.15322355047,
+            "fees_cny": 2719.442,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.68578938626262,
+            "cagr_pct": 9.511945474019878,
+            "max_drawdown_pct": -6.508927766088524,
+            "average_weight_pct": 51.76740099662573,
+            "max_weight_pct": 95.84771055734578,
+            "final_cny": 71842.89469313131,
+            "fees_cny": 401.8594208687018,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 116.20648420834239,
+            "cagr_pct": 14.581868601923077,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 52.67897708522396,
+            "max_weight_pct": 96.10199079312942,
+            "final_cny": 108103.2421041712,
+            "fees_cny": 3450.1805000000004,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 60.088552446883824,
+              "cagr_pct": 32.484366698404244,
+              "max_drawdown_pct": -12.77673781453499,
+              "average_weight_pct": 54.7010829535907,
+              "max_weight_pct": 96.10199079312942,
+              "final_cny": 108103.2421041712,
+              "fees_cny": 730.7384999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.68363719970787,
+            "cagr_pct": 15.452935291645154,
+            "max_drawdown_pct": -15.314920137938792,
+            "average_weight_pct": 52.63463069314047,
+            "max_weight_pct": 96.09999112970249,
+            "final_cny": 112841.81859985394,
+            "fees_cny": 843.3667851460411,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 57.06747213046584,
+              "cagr_pct": 30.98407617338177,
+              "max_drawdown_pct": -15.314920137938792,
+              "average_weight_pct": 54.70575419439923,
+              "max_weight_pct": 96.09999112970249,
+              "final_cny": 112841.81859985394,
+              "fees_cny": 441.5073642773394,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07802072248342307,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 35.05430644710095,
+            "cagr_pct": 7.824308758136955,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 51.832272261741174,
+            "max_weight_pct": 95.75040293254423,
+            "final_cny": 67527.15322355047,
+            "fees_cny": 2719.442,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.68578938626262,
+            "cagr_pct": 9.511945474019878,
+            "max_drawdown_pct": -6.508927766088524,
+            "average_weight_pct": 51.76740099662573,
+            "max_weight_pct": 95.84771055734578,
+            "final_cny": 71842.89469313131,
+            "fees_cny": 401.8594208687018,
+            "trade_days": 16
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 116.20648420834239,
+            "cagr_pct": 14.581868601923077,
+            "max_drawdown_pct": -13.635607937299465,
+            "average_weight_pct": 52.67897708522396,
+            "max_weight_pct": 96.10199079312942,
+            "final_cny": 108103.2421041712,
+            "fees_cny": 3450.1805000000004,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.77052754560943,
+              "cagr_pct": 2.854524133157521,
+              "max_drawdown_pct": -7.895106974173183,
+              "average_weight_pct": 47.40226668373169,
+              "max_weight_pct": 95.50933701100622,
+              "final_cny": 54385.26377280471,
+              "fees_cny": 2168.1890000000003,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.164430838556218,
+              "cagr_pct": 24.18283886175141,
+              "max_drawdown_pct": -13.635607937299465,
+              "average_weight_pct": 65.12228899576962,
+              "max_weight_pct": 95.75040293254423,
+              "final_cny": 67527.15322355047,
+              "fees_cny": 551.253,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 60.088552446883824,
+              "cagr_pct": 32.484366698404244,
+              "max_drawdown_pct": -12.77673781453499,
+              "average_weight_pct": 54.7010829535907,
+              "max_weight_pct": 96.10199079312942,
+              "final_cny": 108103.2421041712,
+              "fees_cny": 730.7384999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.68363719970787,
+            "cagr_pct": 15.452935291645154,
+            "max_drawdown_pct": -15.314920137938792,
+            "average_weight_pct": 52.63463069314047,
+            "max_weight_pct": 96.09999112970249,
+            "final_cny": 112841.81859985394,
+            "fees_cny": 843.3667851460411,
+            "trade_days": 27
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 15.46743630388816,
+              "cagr_pct": 4.932612750212817,
+              "max_drawdown_pct": -5.428890803337449,
+              "average_weight_pct": 47.31542033377684,
+              "max_weight_pct": 95.64691121636677,
+              "final_cny": 57733.718151944086,
+              "fees_cny": 306.3592960559208,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 24.438364603600583,
+              "cagr_pct": 24.457001099577514,
+              "max_drawdown_pct": -6.508927766088524,
+              "average_weight_pct": 65.12334298517246,
+              "max_weight_pct": 95.84771055734578,
+              "final_cny": 71842.89469313131,
+              "fees_cny": 95.500124812781,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 57.06747213046584,
+              "cagr_pct": 30.98407617338177,
+              "max_drawdown_pct": -15.314920137938792,
+              "average_weight_pct": 54.70575419439923,
+              "max_weight_pct": 96.09999112970249,
+              "final_cny": 112841.81859985394,
+              "fees_cny": 441.5073642773394,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07620717682528322,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 34.147794056881196,
+            "cagr_pct": 7.642419216710583,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.04070554791262,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 2939.7129999999997,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.62162456350072,
+            "cagr_pct": 9.49968384925306,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 51.92739149445463,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 429.0065002496317,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07620717682528322,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 34.147794056881196,
+            "cagr_pct": 7.642419216710583,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.04070554791262,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 2939.7129999999997,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.62162456350072,
+            "cagr_pct": 9.49968384925306,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 51.92739149445463,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 429.0065002496317,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07620717682528322,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 34.147794056881196,
+            "cagr_pct": 7.642419216710583,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.04070554791262,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 2939.7129999999997,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.62162456350072,
+            "cagr_pct": 9.49968384925306,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 51.92739149445463,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 429.0065002496317,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07620717682528322,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 34.147794056881196,
+            "cagr_pct": 7.642419216710583,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.04070554791262,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 67073.8970284406,
+            "fees_cny": 2939.7129999999997,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 43.62162456350072,
+            "cagr_pct": 9.49968384925306,
+            "max_drawdown_pct": -6.80870681688277,
+            "average_weight_pct": 51.92739149445463,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 71810.81228175036,
+            "fees_cny": 429.0065002496317,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07512887772744725,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 33.610967339236694,
+            "cagr_pct": 7.53427161960909,
+            "max_drawdown_pct": -13.94710250581327,
+            "average_weight_pct": 56.21612009657099,
+            "max_weight_pct": 99.9999820455783,
+            "final_cny": 66805.48366961835,
+            "fees_cny": 2986.355,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 6.935444998477425,
+              "cagr_pct": 2.270290689522958,
+              "max_drawdown_pct": -10.944675678076798,
+              "average_weight_pct": 51.95125251075756,
+              "max_weight_pct": 99.99996286987403,
+              "final_cny": 53467.72249923871,
+              "fees_cny": 2361.9394999999995,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 24.945444741113754,
+              "cagr_pct": 24.96450525433913,
+              "max_drawdown_pct": -13.94710250581327,
+              "average_weight_pct": 69.01072285401128,
+              "max_weight_pct": 99.9999820455783,
+              "final_cny": 66805.48366961835,
+              "fees_cny": 624.4155,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 40.6862564584618,
+            "cagr_pct": 8.934305692409627,
+            "max_drawdown_pct": -9.286029472960678,
+            "average_weight_pct": 56.21178806425755,
+            "max_weight_pct": 99.99999581657616,
+            "final_cny": 70343.1282292309,
+            "fees_cny": 478.25127676912695,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 12.537730818672488,
+              "cagr_pct": 4.033649068413125,
+              "max_drawdown_pct": -9.286029472960678,
+              "average_weight_pct": 51.9500672634244,
+              "max_weight_pct": 99.99999511392555,
+              "final_cny": 56268.86540933624,
+              "fees_cny": 369.1600136637772,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 25.01252285346318,
+              "cagr_pct": 25.03163956276273,
+              "max_drawdown_pct": -6.808706281220022,
+              "average_weight_pct": 68.99695046675703,
+              "max_weight_pct": 99.99999581657616,
+              "final_cny": 70343.1282292309,
+              "fees_cny": 109.09126310534975,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 120.08079865460802,
+            "cagr_pct": 14.941692811642948,
+            "max_drawdown_pct": -13.94710250581327,
+            "average_weight_pct": 56.77524833631672,
+            "max_weight_pct": 99.99998917179947,
+            "final_cny": 110040.39932730401,
+            "fees_cny": 3913.0859999999993,
+            "trade_days": 60
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 6.935444998477425,
+              "cagr_pct": 2.270290689522958,
+              "max_drawdown_pct": -10.944675678076798,
+              "average_weight_pct": 51.95125251075756,
+              "max_weight_pct": 99.99996286987403,
+              "final_cny": 53467.72249923871,
+              "fees_cny": 2361.9394999999995,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 24.945444741113754,
+              "cagr_pct": 24.96450525433913,
+              "max_drawdown_pct": -13.94710250581327,
+              "average_weight_pct": 69.01072285401128,
+              "max_weight_pct": 99.9999820455783,
+              "final_cny": 66805.48366961835,
+              "fees_cny": 624.4155,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {
+              "return_pct": 64.71761490643611,
+              "cagr_pct": 34.76128439354509,
+              "max_drawdown_pct": -12.826373255386747,
+              "average_weight_pct": 58.11056197030403,
+              "max_weight_pct": 99.99998917179947,
+              "final_cny": 110040.39932730401,
+              "fees_cny": 926.731,
+              "trade_days": 25
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 129.77390852863167,
+            "cagr_pct": 15.81960017980193,
+            "max_drawdown_pct": -15.815554659905995,
+            "average_weight_pct": 56.7710534325164,
+            "max_weight_pct": 99.99999715957621,
+            "final_cny": 114886.95426431583,
+            "fees_cny": 981.0807286841748,
+            "trade_days": 60
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 12.537730818672488,
+              "cagr_pct": 4.033649068413125,
+              "max_drawdown_pct": -9.286029472960678,
+              "average_weight_pct": 51.9500672634244,
+              "max_weight_pct": 99.99999511392555,
+              "final_cny": 56268.86540933624,
+              "fees_cny": 369.1600136637772,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 25.01252285346318,
+              "cagr_pct": 25.03163956276273,
+              "max_drawdown_pct": -6.808706281220022,
+              "average_weight_pct": 68.99695046675703,
+              "max_weight_pct": 99.99999581657616,
+              "final_cny": 70343.1282292309,
+              "fees_cny": 109.09126310534975,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {
+              "return_pct": 63.3236353804562,
+              "cagr_pct": 34.078361070433935,
+              "max_drawdown_pct": -15.815554659905995,
+              "average_weight_pct": 58.10669455769476,
+              "max_weight_pct": 99.99999715957621,
+              "final_cny": 114886.95426431583,
+              "fees_cny": 502.8294519150478,
+              "trade_days": 25
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07512887772744725,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 33.610967339236694,
+            "cagr_pct": 7.53427161960909,
+            "max_drawdown_pct": -13.94710250581327,
+            "average_weight_pct": 56.21612009657099,
+            "max_weight_pct": 99.9999820455783,
+            "final_cny": 66805.48366961835,
+            "fees_cny": 2986.355,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 6.935444998477425,
+              "cagr_pct": 2.270290689522958,
+              "max_drawdown_pct": -10.944675678076798,
+              "average_weight_pct": 51.95125251075756,
+              "max_weight_pct": 99.99996286987403,
+              "final_cny": 53467.72249923871,
+              "fees_cny": 2361.9394999999995,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 24.945444741113754,
+              "cagr_pct": 24.96450525433913,
+              "max_drawdown_pct": -13.94710250581327,
+              "average_weight_pct": 69.01072285401128,
+              "max_weight_pct": 99.9999820455783,
+              "final_cny": 66805.48366961835,
+              "fees_cny": 624.4155,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 40.6862564584618,
+            "cagr_pct": 8.934305692409627,
+            "max_drawdown_pct": -9.286029472960678,
+            "average_weight_pct": 56.21178806425755,
+            "max_weight_pct": 99.99999581657616,
+            "final_cny": 70343.1282292309,
+            "fees_cny": 478.25127676912695,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 12.537730818672488,
+              "cagr_pct": 4.033649068413125,
+              "max_drawdown_pct": -9.286029472960678,
+              "average_weight_pct": 51.9500672634244,
+              "max_weight_pct": 99.99999511392555,
+              "final_cny": 56268.86540933624,
+              "fees_cny": 369.1600136637772,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 25.01252285346318,
+              "cagr_pct": 25.03163956276273,
+              "max_drawdown_pct": -6.808706281220022,
+              "average_weight_pct": 68.99695046675703,
+              "max_weight_pct": 99.99999581657616,
+              "final_cny": 70343.1282292309,
+              "fees_cny": 109.09126310534975,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 120.08079865460802,
+            "cagr_pct": 14.941692811642948,
+            "max_drawdown_pct": -13.94710250581327,
+            "average_weight_pct": 56.77524833631672,
+            "max_weight_pct": 99.99998917179947,
+            "final_cny": 110040.39932730401,
+            "fees_cny": 3913.0859999999993,
+            "trade_days": 60
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 6.935444998477425,
+              "cagr_pct": 2.270290689522958,
+              "max_drawdown_pct": -10.944675678076798,
+              "average_weight_pct": 51.95125251075756,
+              "max_weight_pct": 99.99996286987403,
+              "final_cny": 53467.72249923871,
+              "fees_cny": 2361.9394999999995,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 24.945444741113754,
+              "cagr_pct": 24.96450525433913,
+              "max_drawdown_pct": -13.94710250581327,
+              "average_weight_pct": 69.01072285401128,
+              "max_weight_pct": 99.9999820455783,
+              "final_cny": 66805.48366961835,
+              "fees_cny": 624.4155,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {
+              "return_pct": 64.71761490643611,
+              "cagr_pct": 34.76128439354509,
+              "max_drawdown_pct": -12.826373255386747,
+              "average_weight_pct": 58.11056197030403,
+              "max_weight_pct": 99.99998917179947,
+              "final_cny": 110040.39932730401,
+              "fees_cny": 926.731,
+              "trade_days": 25
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 129.77390852863167,
+            "cagr_pct": 15.81960017980193,
+            "max_drawdown_pct": -15.815554659905995,
+            "average_weight_pct": 56.7710534325164,
+            "max_weight_pct": 99.99999715957621,
+            "final_cny": 114886.95426431583,
+            "fees_cny": 981.0807286841748,
+            "trade_days": 60
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 12.537730818672488,
+              "cagr_pct": 4.033649068413125,
+              "max_drawdown_pct": -9.286029472960678,
+              "average_weight_pct": 51.9500672634244,
+              "max_weight_pct": 99.99999511392555,
+              "final_cny": 56268.86540933624,
+              "fees_cny": 369.1600136637772,
+              "trade_days": 23
+            },
+            "2024": {
+              "return_pct": 25.01252285346318,
+              "cagr_pct": 25.03163956276273,
+              "max_drawdown_pct": -6.808706281220022,
+              "average_weight_pct": 68.99695046675703,
+              "max_weight_pct": 99.99999581657616,
+              "final_cny": 70343.1282292309,
+              "fees_cny": 109.09126310534975,
+              "trade_days": 12
+            },
+            "2025—2026-09-04": {
+              "return_pct": 63.3236353804562,
+              "cagr_pct": 34.078361070433935,
+              "max_drawdown_pct": -15.815554659905995,
+              "average_weight_pct": 58.10669455769476,
+              "max_weight_pct": 99.99999715957621,
+              "final_cny": 114886.95426431583,
+              "fees_cny": 502.8294519150478,
+              "trade_days": 25
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07348404240044859,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.79519827366089,
+            "cagr_pct": 7.369304060958348,
+            "max_drawdown_pct": -13.706481953665206,
+            "average_weight_pct": 56.1213028654161,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 66397.59913683044,
+            "fees_cny": 3287.1265000000003,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 38.672745609784,
+            "cagr_pct": 8.541353532649465,
+            "max_drawdown_pct": -9.8829469356162,
+            "average_weight_pct": 56.00509919277864,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 69336.372804892,
+            "fees_cny": 677.4489711079981,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 121.06173206648974,
+            "cagr_pct": 15.031968149691966,
+            "max_drawdown_pct": -13.926183006074988,
+            "average_weight_pct": 56.579426106972534,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 110530.86603324488,
+            "fees_cny": 4320.6095000000005,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 66.46816672612779,
+              "cagr_pct": 35.615612078233625,
+              "max_drawdown_pct": -13.926183006074988,
+              "average_weight_pct": 57.673518959043435,
+              "max_weight_pct": 99.99993462317788,
+              "final_cny": 110530.86603324488,
+              "fees_cny": 1033.4830000000002,
+              "trade_days": 13
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.36364477349116,
+            "cagr_pct": 15.424019970496715,
+            "max_drawdown_pct": -16.105618615652574,
+            "average_weight_pct": 56.499741305481685,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 112681.82238674557,
+            "fees_cny": 1311.0496692544161,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.514734804234436,
+              "cagr_pct": 33.6809983063234,
+              "max_drawdown_pct": -16.105618615652574,
+              "average_weight_pct": 57.68104875891504,
+              "max_weight_pct": 99.99999082578923,
+              "final_cny": 112681.82238674557,
+              "fees_cny": 633.6006981464182,
+              "trade_days": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07348404240044859,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.79519827366089,
+            "cagr_pct": 7.369304060958348,
+            "max_drawdown_pct": -13.706481953665206,
+            "average_weight_pct": 56.1213028654161,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 66397.59913683044,
+            "fees_cny": 3287.1265000000003,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 38.672745609784,
+            "cagr_pct": 8.541353532649465,
+            "max_drawdown_pct": -9.8829469356162,
+            "average_weight_pct": 56.00509919277864,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 69336.372804892,
+            "fees_cny": 677.4489711079981,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 121.06173206648974,
+            "cagr_pct": 15.031968149691966,
+            "max_drawdown_pct": -13.926183006074988,
+            "average_weight_pct": 56.579426106972534,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 110530.86603324488,
+            "fees_cny": 4320.6095000000005,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 66.46816672612779,
+              "cagr_pct": 35.615612078233625,
+              "max_drawdown_pct": -13.926183006074988,
+              "average_weight_pct": 57.673518959043435,
+              "max_weight_pct": 99.99993462317788,
+              "final_cny": 110530.86603324488,
+              "fees_cny": 1033.4830000000002,
+              "trade_days": 13
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.36364477349116,
+            "cagr_pct": 15.424019970496715,
+            "max_drawdown_pct": -16.105618615652574,
+            "average_weight_pct": 56.499741305481685,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 112681.82238674557,
+            "fees_cny": 1311.0496692544161,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.514734804234436,
+              "cagr_pct": 33.6809983063234,
+              "max_drawdown_pct": -16.105618615652574,
+              "average_weight_pct": 57.68104875891504,
+              "max_weight_pct": 99.99999082578923,
+              "final_cny": 112681.82238674557,
+              "fees_cny": 633.6006981464182,
+              "trade_days": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.07348404240044859,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.79519827366089,
+            "cagr_pct": 7.369304060958348,
+            "max_drawdown_pct": -13.706481953665206,
+            "average_weight_pct": 56.1213028654161,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 66397.59913683044,
+            "fees_cny": 3287.1265000000003,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 38.672745609784,
+            "cagr_pct": 8.541353532649465,
+            "max_drawdown_pct": -9.8829469356162,
+            "average_weight_pct": 56.00509919277864,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 69336.372804892,
+            "fees_cny": 677.4489711079981,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 121.06173206648974,
+            "cagr_pct": 15.031968149691966,
+            "max_drawdown_pct": -13.926183006074988,
+            "average_weight_pct": 56.579426106972534,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 110530.86603324488,
+            "fees_cny": 4320.6095000000005,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 66.46816672612779,
+              "cagr_pct": 35.615612078233625,
+              "max_drawdown_pct": -13.926183006074988,
+              "average_weight_pct": 57.673518959043435,
+              "max_weight_pct": 99.99993462317788,
+              "final_cny": 110530.86603324488,
+              "fees_cny": 1033.4830000000002,
+              "trade_days": 13
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.36364477349116,
+            "cagr_pct": 15.424019970496715,
+            "max_drawdown_pct": -16.105618615652574,
+            "average_weight_pct": 56.499741305481685,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 112681.82238674557,
+            "fees_cny": 1311.0496692544161,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.514734804234436,
+              "cagr_pct": 33.6809983063234,
+              "max_drawdown_pct": -16.105618615652574,
+              "average_weight_pct": 57.68104875891504,
+              "max_weight_pct": 99.99999082578923,
+              "final_cny": 112681.82238674557,
+              "fees_cny": 633.6006981464182,
+              "trade_days": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.07348404240044859,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.79519827366089,
+            "cagr_pct": 7.369304060958348,
+            "max_drawdown_pct": -13.706481953665206,
+            "average_weight_pct": 56.1213028654161,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 66397.59913683044,
+            "fees_cny": 3287.1265000000003,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 38.672745609784,
+            "cagr_pct": 8.541353532649465,
+            "max_drawdown_pct": -9.8829469356162,
+            "average_weight_pct": 56.00509919277864,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 69336.372804892,
+            "fees_cny": 677.4489711079981,
+            "trade_days": 18
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": false,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 121.06173206648974,
+            "cagr_pct": 15.031968149691966,
+            "max_drawdown_pct": -13.926183006074988,
+            "average_weight_pct": 56.579426106972534,
+            "max_weight_pct": 99.99997608869613,
+            "final_cny": 110530.86603324488,
+            "fees_cny": 4320.6095000000005,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.972344257825091,
+              "cagr_pct": 1.9609973647541912,
+              "max_drawdown_pct": -12.73097907396874,
+              "average_weight_pct": 52.224913954440176,
+              "max_weight_pct": 99.99997608869613,
+              "final_cny": 52986.17212891254,
+              "fees_cny": 2708.13325,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.31118302958102,
+              "cagr_pct": 25.330550246912708,
+              "max_drawdown_pct": -13.706481953665206,
+              "average_weight_pct": 67.8104695983439,
+              "max_weight_pct": 99.99993710016967,
+              "final_cny": 66397.59913683044,
+              "fees_cny": 578.99325,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 66.46816672612779,
+              "cagr_pct": 35.615612078233625,
+              "max_drawdown_pct": -13.926183006074988,
+              "average_weight_pct": 57.673518959043435,
+              "max_weight_pct": 99.99993462317788,
+              "final_cny": 110530.86603324488,
+              "fees_cny": 1033.4830000000002,
+              "trade_days": 13
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.36364477349116,
+            "cagr_pct": 15.424019970496715,
+            "max_drawdown_pct": -16.105618615652574,
+            "average_weight_pct": 56.499741305481685,
+            "max_weight_pct": 99.99999850949821,
+            "final_cny": 112681.82238674557,
+            "fees_cny": 1311.0496692544161,
+            "trade_days": 31
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.446144284321225,
+              "cagr_pct": 3.3822887654733513,
+              "max_drawdown_pct": -9.8829469356162,
+              "average_weight_pct": 52.10296937297305,
+              "max_weight_pct": 99.99999850949821,
+              "final_cny": 55223.072142160614,
+              "fees_cny": 580.9118168393937,
+              "trade_days": 14
+            },
+            "2024": {
+              "return_pct": 25.556891558657856,
+              "cagr_pct": 25.576465235524015,
+              "max_drawdown_pct": -6.808706531607623,
+              "average_weight_pct": 67.71148865219538,
+              "max_weight_pct": 99.99999344667141,
+              "final_cny": 69336.372804892,
+              "fees_cny": 96.53715426860435,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.514734804234436,
+              "cagr_pct": 33.6809983063234,
+              "max_drawdown_pct": -16.105618615652574,
+              "average_weight_pct": 57.68104875891504,
+              "max_weight_pct": 99.99999082578923,
+              "final_cny": 112681.82238674557,
+              "fees_cny": 633.6006981464182,
+              "trade_days": 13
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "pre2025_score": 0.0730219513021737,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.5666942018709,
+            "cagr_pct": 7.322959096325921,
+            "max_drawdown_pct": -12.315646323242502,
+            "average_weight_pct": 49.636032715160496,
+            "max_weight_pct": 95.5132383192695,
+            "final_cny": 66283.34710093545,
+            "fees_cny": 2800.7220000000007,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.352666817726772,
+              "cagr_pct": 2.4037035084094827,
+              "max_drawdown_pct": -7.8948630478820725,
+              "average_weight_pct": 45.319529984143216,
+              "max_weight_pct": 95.39943905094002,
+              "final_cny": 53676.333408863386,
+              "fees_cny": 2217.839,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.48709923243437,
+              "cagr_pct": 23.504944111903004,
+              "max_drawdown_pct": -12.315646323242502,
+              "average_weight_pct": 62.58554090821231,
+              "max_weight_pct": 95.5132383192695,
+              "final_cny": 66283.34710093545,
+              "fees_cny": 582.883,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 41.559356027494744,
+            "cagr_pct": 9.103388763146892,
+            "max_drawdown_pct": -6.5089279831678,
+            "average_weight_pct": 49.572869986037496,
+            "max_weight_pct": 95.60337801171815,
+            "final_cny": 70779.67801374737,
+            "fees_cny": 407.50449825263786,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.330289654833738,
+              "cagr_pct": 4.585507677776457,
+              "max_drawdown_pct": -5.327376248000004,
+              "average_weight_pct": 45.241329256571234,
+              "max_weight_pct": 95.44829905593511,
+              "final_cny": 57165.14482741687,
+              "fees_cny": 313.43694458313985,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.816143958758683,
+              "cagr_pct": 23.834262093754543,
+              "max_drawdown_pct": -6.5089279831678,
+              "average_weight_pct": 62.56749217443628,
+              "max_weight_pct": 95.60337801171815,
+              "final_cny": 70779.67801374737,
+              "fees_cny": 94.06755366949801,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 107.40122037210381,
+            "cagr_pct": 13.743907593989778,
+            "max_drawdown_pct": -12.315646323242502,
+            "average_weight_pct": 49.981489129510834,
+            "max_weight_pct": 96.0925254211906,
+            "final_cny": 103700.6101860519,
+            "fees_cny": 3572.8559999999998,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.352666817726772,
+              "cagr_pct": 2.4037035084094827,
+              "max_drawdown_pct": -7.8948630478820725,
+              "average_weight_pct": 45.319529984143216,
+              "max_weight_pct": 95.39943905094002,
+              "final_cny": 53676.333408863386,
+              "fees_cny": 2217.839,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.48709923243437,
+              "cagr_pct": 23.504944111903004,
+              "max_drawdown_pct": -12.315646323242502,
+              "average_weight_pct": 62.58554090821231,
+              "max_weight_pct": 95.5132383192695,
+              "final_cny": 66283.34710093545,
+              "fees_cny": 582.883,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.45047319070642,
+              "cagr_pct": 30.676247364260977,
+              "max_drawdown_pct": -11.302931301569197,
+              "average_weight_pct": 50.806510345109224,
+              "max_weight_pct": 96.0925254211906,
+              "final_cny": 103700.6101860519,
+              "fees_cny": 772.134,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 117.80563877049555,
+            "cagr_pct": 14.731027339109449,
+            "max_drawdown_pct": -13.682492677498859,
+            "average_weight_pct": 49.94057615176788,
+            "max_weight_pct": 96.10625143235299,
+            "final_cny": 108902.81938524777,
+            "fees_cny": 828.4239097522485,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.330289654833738,
+              "cagr_pct": 4.585507677776457,
+              "max_drawdown_pct": -5.327376248000004,
+              "average_weight_pct": 45.241329256571234,
+              "max_weight_pct": 95.44829905593511,
+              "final_cny": 57165.14482741687,
+              "fees_cny": 313.43694458313985,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.816143958758683,
+              "cagr_pct": 23.834262093754543,
+              "max_drawdown_pct": -6.5089279831678,
+              "average_weight_pct": 62.56749217443628,
+              "max_weight_pct": 95.60337801171815,
+              "final_cny": 70779.67801374737,
+              "fees_cny": 94.06755366949801,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 53.86170499969756,
+              "cagr_pct": 29.37931900386164,
+              "max_drawdown_pct": -13.682492677498859,
+              "average_weight_pct": 50.81873436574805,
+              "max_weight_pct": 96.10625143235299,
+              "final_cny": 108902.81938524777,
+              "fees_cny": 420.91941149961065,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "pre2025_score": 0.0730219513021737,
+      "pre2025": {
+        "cmb": {
+          "full": {
+            "return_pct": 32.5666942018709,
+            "cagr_pct": 7.322959096325921,
+            "max_drawdown_pct": -12.315646323242502,
+            "average_weight_pct": 49.636032715160496,
+            "max_weight_pct": 95.5132383192695,
+            "final_cny": 66283.34710093545,
+            "fees_cny": 2800.7220000000007,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.352666817726772,
+              "cagr_pct": 2.4037035084094827,
+              "max_drawdown_pct": -7.8948630478820725,
+              "average_weight_pct": 45.319529984143216,
+              "max_weight_pct": 95.39943905094002,
+              "final_cny": 53676.333408863386,
+              "fees_cny": 2217.839,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.48709923243437,
+              "cagr_pct": 23.504944111903004,
+              "max_drawdown_pct": -12.315646323242502,
+              "average_weight_pct": 62.58554090821231,
+              "max_weight_pct": 95.5132383192695,
+              "final_cny": 66283.34710093545,
+              "fees_cny": 582.883,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 41.559356027494744,
+            "cagr_pct": 9.103388763146892,
+            "max_drawdown_pct": -6.5089279831678,
+            "average_weight_pct": 49.572869986037496,
+            "max_weight_pct": 95.60337801171815,
+            "final_cny": 70779.67801374737,
+            "fees_cny": 407.50449825263786,
+            "trade_days": 21
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.330289654833738,
+              "cagr_pct": 4.585507677776457,
+              "max_drawdown_pct": -5.327376248000004,
+              "average_weight_pct": 45.241329256571234,
+              "max_weight_pct": 95.44829905593511,
+              "final_cny": 57165.14482741687,
+              "fees_cny": 313.43694458313985,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.816143958758683,
+              "cagr_pct": 23.834262093754543,
+              "max_drawdown_pct": -6.5089279831678,
+              "average_weight_pct": 62.56749217443628,
+              "max_weight_pct": 95.60337801171815,
+              "final_cny": 70779.67801374737,
+              "fees_cny": 94.06755366949801,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {}
+          }
+        }
+      },
+      "all_stages_eligible": true,
+      "full": {
+        "cmb": {
+          "full": {
+            "return_pct": 107.40122037210381,
+            "cagr_pct": 13.743907593989778,
+            "max_drawdown_pct": -12.315646323242502,
+            "average_weight_pct": 49.981489129510834,
+            "max_weight_pct": 96.0925254211906,
+            "final_cny": 103700.6101860519,
+            "fees_cny": 3572.8559999999998,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.352666817726772,
+              "cagr_pct": 2.4037035084094827,
+              "max_drawdown_pct": -7.8948630478820725,
+              "average_weight_pct": 45.319529984143216,
+              "max_weight_pct": 95.39943905094002,
+              "final_cny": 53676.333408863386,
+              "fees_cny": 2217.839,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.48709923243437,
+              "cagr_pct": 23.504944111903004,
+              "max_drawdown_pct": -12.315646323242502,
+              "average_weight_pct": 62.58554090821231,
+              "max_weight_pct": 95.5132383192695,
+              "final_cny": 66283.34710093545,
+              "fees_cny": 582.883,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.45047319070642,
+              "cagr_pct": 30.676247364260977,
+              "max_drawdown_pct": -11.302931301569197,
+              "average_weight_pct": 50.806510345109224,
+              "max_weight_pct": 96.0925254211906,
+              "final_cny": 103700.6101860519,
+              "fees_cny": 772.134,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 117.80563877049555,
+            "cagr_pct": 14.731027339109449,
+            "max_drawdown_pct": -13.682492677498859,
+            "average_weight_pct": 49.94057615176788,
+            "max_weight_pct": 96.10625143235299,
+            "final_cny": 108902.81938524777,
+            "fees_cny": 828.4239097522485,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.330289654833738,
+              "cagr_pct": 4.585507677776457,
+              "max_drawdown_pct": -5.327376248000004,
+              "average_weight_pct": 45.241329256571234,
+              "max_weight_pct": 95.44829905593511,
+              "final_cny": 57165.14482741687,
+              "fees_cny": 313.43694458313985,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.816143958758683,
+              "cagr_pct": 23.834262093754543,
+              "max_drawdown_pct": -6.5089279831678,
+              "average_weight_pct": 62.56749217443628,
+              "max_weight_pct": 95.60337801171815,
+              "final_cny": 70779.67801374737,
+              "fees_cny": 94.06755366949801,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 53.86170499969756,
+              "cagr_pct": 29.37931900386164,
+              "max_drawdown_pct": -13.682492677498859,
+              "average_weight_pct": 50.81873436574805,
+              "max_weight_pct": 96.10625143235299,
+              "final_cny": 108902.81938524777,
+              "fees_cny": 420.91941149961065,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    }
+  ],
+  "stress": {
+    "one_extra_session_delay": {
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 120.07678390680776,
+            "cagr_pct": 14.941322654017707,
+            "max_drawdown_pct": -12.766805667059788,
+            "average_weight_pct": 52.41159853191293,
+            "max_weight_pct": 99.99998277593158,
+            "final_cny": 110038.39195340387,
+            "fees_cny": 3880.3729999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 12.234405297882,
+              "cagr_pct": 3.9396897514119456,
+              "max_drawdown_pct": -7.151469231529017,
+              "average_weight_pct": 47.07444300889904,
+              "max_weight_pct": 99.99997337696806,
+              "final_cny": 56117.202648941005,
+              "fees_cny": 2377.306,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.434187033049803,
+              "cagr_pct": 24.452820041643243,
+              "max_drawdown_pct": -12.766805667059788,
+              "average_weight_pct": 65.73073156141176,
+              "max_weight_pct": 99.99996843680334,
+              "final_cny": 69828.98490189883,
+              "fees_cny": 639.2612499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 57.582688776006606,
+              "cagr_pct": 31.240752018634723,
+              "max_drawdown_pct": -12.743078274241238,
+              "average_weight_pct": 54.01906057149256,
+              "max_weight_pct": 99.99998277593158,
+              "final_cny": 110038.39195340387,
+              "fees_cny": 863.8057499999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 131.0538942663344,
+            "cagr_pct": 15.93323785348144,
+            "max_drawdown_pct": -14.488752222553348,
+            "average_weight_pct": 52.4763134197096,
+            "max_weight_pct": 99.99999593917921,
+            "final_cny": 115526.9471331672,
+            "fees_cny": 935.5486768328097,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 17.414421248621426,
+              "cagr_pct": 5.521672255332533,
+              "max_drawdown_pct": -5.457764001341436,
+              "average_weight_pct": 47.21925768786341,
+              "max_weight_pct": 99.99999257593451,
+              "final_cny": 58707.21062431071,
+              "fees_cny": 357.4520686892955,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.086354871447856,
+              "cagr_pct": 24.104697851687405,
+              "max_drawdown_pct": -6.808706248785812,
+              "average_weight_pct": 65.7062083235888,
+              "max_weight_pct": 99.99999333283486,
+              "final_cny": 72847.63771041053,
+              "fees_cny": 100.83339990014792,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 58.58708774115462,
+              "cagr_pct": 31.740165306596047,
+              "max_drawdown_pct": -14.488752222553348,
+              "average_weight_pct": 53.993584099987814,
+              "max_weight_pct": 99.99999593917921,
+              "final_cny": 115526.9471331672,
+              "fees_cny": 477.26320824336636,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "cmb_double_spread": {
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 100.89488646268889,
+            "cagr_pct": 13.105696297291814,
+            "max_drawdown_pct": -13.052294412825304,
+            "average_weight_pct": 52.56190829216225,
+            "max_weight_pct": 99.99997707532144,
+            "final_cny": 100447.44323134444,
+            "fees_cny": 7265.562,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 2.8008232154383528,
+              "cagr_pct": 0.9290706755087141,
+              "max_drawdown_pct": -9.29693918462685,
+              "average_weight_pct": 47.474429647895825,
+              "max_weight_pct": 99.99997707532144,
+              "final_cny": 51400.41160771918,
+              "fees_cny": 4541.0965,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.39969153153081,
+              "cagr_pct": 23.417463924154426,
+              "max_drawdown_pct": -13.052294412825304,
+              "average_weight_pct": 65.7584431720969,
+              "max_weight_pct": 99.99996944137033,
+              "final_cny": 63427.94936986262,
+              "fees_cny": 1166.4295,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 58.36463929428468,
+              "cagr_pct": 31.629668088431863,
+              "max_drawdown_pct": -12.598357282755723,
+              "average_weight_pct": 53.79535781512562,
+              "max_weight_pct": 99.99994408850172,
+              "final_cny": 100447.44323134444,
+              "fees_cny": 1558.036,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "cmb_double_spread_plus_delay": {
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 103.71354276338991,
+            "cagr_pct": 13.384239551807253,
+            "max_drawdown_pct": -13.587493378577143,
+            "average_weight_pct": 52.41866345538183,
+            "max_weight_pct": 99.99999707692555,
+            "final_cny": 101856.77138169495,
+            "fees_cny": 8247.262041606102,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 6.363183714355891,
+              "cagr_pct": 2.0867373547836188,
+              "max_drawdown_pct": -8.340252624024247,
+              "average_weight_pct": 47.077234969327854,
+              "max_weight_pct": 99.99999707692555,
+              "final_cny": 53181.59185717795,
+              "fees_cny": 4997.999583133627,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 22.947647274573523,
+              "cagr_pct": 22.965045466755928,
+              "max_drawdown_pct": -13.587493378577143,
+              "average_weight_pct": 65.7450091890227,
+              "max_weight_pct": 99.99997102541097,
+              "final_cny": 65385.515971566456,
+              "fees_cny": 1339.8847821797717,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 55.77879881836276,
+              "cagr_pct": 30.340584635476752,
+              "max_drawdown_pct": -13.139820511556909,
+              "average_weight_pct": 54.02947267665606,
+              "max_weight_pct": 99.99997248901323,
+              "final_cny": 101856.77138169495,
+              "fees_cny": 1909.3776762927037,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 131.0538942663344,
+            "cagr_pct": 15.93323785348144,
+            "max_drawdown_pct": -14.488752222553348,
+            "average_weight_pct": 52.4763134197096,
+            "max_weight_pct": 99.99999593917921,
+            "final_cny": 115526.9471331672,
+            "fees_cny": 935.5486768328097,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 17.414421248621426,
+              "cagr_pct": 5.521672255332533,
+              "max_drawdown_pct": -5.457764001341436,
+              "average_weight_pct": 47.21925768786341,
+              "max_weight_pct": 99.99999257593451,
+              "final_cny": 58707.21062431071,
+              "fees_cny": 357.4520686892955,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.086354871447856,
+              "cagr_pct": 24.104697851687405,
+              "max_drawdown_pct": -6.808706248785812,
+              "average_weight_pct": 65.7062083235888,
+              "max_weight_pct": 99.99999333283486,
+              "final_cny": 72847.63771041053,
+              "fees_cny": 100.83339990014792,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 58.58708774115462,
+              "cagr_pct": 31.740165306596047,
+              "max_drawdown_pct": -14.488752222553348,
+              "average_weight_pct": 53.993584099987814,
+              "max_weight_pct": 99.99999593917921,
+              "final_cny": 115526.9471331672,
+              "fees_cny": 477.26320824336636,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "fund_standard_1_5pct_purchase_fee": {
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 106.77522073169547,
+            "cagr_pct": 13.68322543518412,
+            "max_drawdown_pct": -14.538997799986031,
+            "average_weight_pct": 52.50209657726387,
+            "max_weight_pct": 99.99999276058033,
+            "final_cny": 103387.61036584774,
+            "fees_cny": 5991.291780152278,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 8.62579100384242,
+              "cagr_pct": 2.8086837601475567,
+              "max_drawdown_pct": -7.563935102137931,
+              "average_weight_pct": 47.39034101909822,
+              "max_weight_pct": 99.99999164484,
+              "final_cny": 54312.89550192121,
+              "fees_cny": 3174.3981280787993,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.26532097249967,
+              "cagr_pct": 23.282982014957177,
+              "max_drawdown_pct": -6.808705963704609,
+              "average_weight_pct": 65.63384227524298,
+              "max_weight_pct": 99.9999769870566,
+              "final_cny": 66948.96496990151,
+              "fees_cny": 932.004532019695,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 54.42749624632446,
+              "cagr_pct": 29.663515567972066,
+              "max_drawdown_pct": -14.538997799986031,
+              "average_weight_pct": 53.81771229543054,
+              "max_weight_pct": 99.99999276058033,
+              "final_cny": 103387.61036584774,
+              "fees_cny": 1884.889120053784,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "fund_t7_settlement": {
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    }
+  },
+  "parameter_neighbours": {
+    "horizon_90": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 113.78880597611123,
+            "cagr_pct": 14.354629008303977,
+            "max_drawdown_pct": -12.470406312802806,
+            "average_weight_pct": 53.773267649898834,
+            "max_weight_pct": 99.99998907119866,
+            "final_cny": 106894.40298805562,
+            "fees_cny": 4297.294,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.134537554034391,
+              "cagr_pct": 1.6904169431451121,
+              "max_drawdown_pct": -12.159372226997922,
+              "average_weight_pct": 49.504993640409644,
+              "max_weight_pct": 99.99996867941641,
+              "final_cny": 52567.26877701719,
+              "fees_cny": 2707.3355,
+              "trade_days": 18
+            },
+            "2024": {
+              "return_pct": 24.604525529922896,
+              "cagr_pct": 24.623300812881578,
+              "max_drawdown_pct": -12.38761521913917,
+              "average_weight_pct": 65.74663072922431,
+              "max_weight_pct": 99.99998907119866,
+              "final_cny": 65501.19584364157,
+              "fees_cny": 599.2940000000001,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 63.19458234506756,
+              "cagr_pct": 34.015018464732535,
+              "max_drawdown_pct": -12.470406312802806,
+              "average_weight_pct": 54.26969154336696,
+              "max_weight_pct": 99.99997066110518,
+              "final_cny": 106894.40298805562,
+              "fees_cny": 990.6645000000001,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 118.84229997777646,
+            "cagr_pct": 14.827239261886449,
+            "max_drawdown_pct": -14.507339702198463,
+            "average_weight_pct": 53.702217877213855,
+            "max_weight_pct": 99.99999486153119,
+            "final_cny": 109421.14998888822,
+            "fees_cny": 1206.5690041117198,
+            "trade_days": 35
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.623748643235697,
+              "cagr_pct": 3.123931562220128,
+              "max_drawdown_pct": -9.50391604971509,
+              "average_weight_pct": 49.40372434080365,
+              "max_weight_pct": 99.99999486153119,
+              "final_cny": 54811.87432161785,
+              "fees_cny": 557.3180303821304,
+              "trade_days": 18
+            },
+            "2024": {
+              "return_pct": 24.926911449274392,
+              "cagr_pct": 24.945956440203698,
+              "max_drawdown_pct": -6.808706708484424,
+              "average_weight_pct": 65.63384715154716,
+              "max_weight_pct": 99.99998492257058,
+              "final_cny": 68474.7816974551,
+              "fees_cny": 95.32455816275615,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.79773469355205,
+              "cagr_pct": 32.3404427544179,
+              "max_drawdown_pct": -14.507339702198463,
+              "average_weight_pct": 54.277686856034634,
+              "max_weight_pct": 99.99999123457839,
+              "final_cny": 109421.14998888822,
+              "fees_cny": 553.9264155668333,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    "horizon_150": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 150,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 102.23981431254545,
+            "cagr_pct": 13.239002521161991,
+            "max_drawdown_pct": -12.387616619812047,
+            "average_weight_pct": 52.29860475828839,
+            "max_weight_pct": 99.99995950300172,
+            "final_cny": 101119.90715627272,
+            "fees_cny": 4030.2214999999997,
+            "trade_days": 33
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 1.6275430349238063,
+              "cagr_pct": 0.5419531098661334,
+              "max_drawdown_pct": -11.214323693807204,
+              "average_weight_pct": 46.98472477938188,
+              "max_weight_pct": 99.99995950300172,
+              "final_cny": 50813.7715174619,
+              "fees_cny": 2669.3379999999997,
+              "trade_days": 17
+            },
+            "2024": {
+              "return_pct": 24.604515021581253,
+              "cagr_pct": 24.62329029575796,
+              "max_drawdown_pct": -12.387616619812047,
+              "average_weight_pct": 65.74659993068049,
+              "max_weight_pct": 99.99991420370074,
+              "final_cny": 63316.253563507795,
+              "fees_cny": 579.3027500000001,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.70608092730394,
+              "cagr_pct": 32.29506203258345,
+              "max_drawdown_pct": -12.317759061178958,
+              "average_weight_pct": 53.78743934730945,
+              "max_weight_pct": 99.99995392987574,
+              "final_cny": 101119.90715627272,
+              "fees_cny": 781.5807500000001,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 117.31465135274779,
+            "cagr_pct": 14.685327432253281,
+            "max_drawdown_pct": -14.507337700309552,
+            "average_weight_pct": 52.22642649445473,
+            "max_weight_pct": 99.99998843706969,
+            "final_cny": 108657.3256763739,
+            "fees_cny": 1106.6942806260877,
+            "trade_days": 33
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 10.87431327857673,
+              "cagr_pct": 3.5162925683315027,
+              "max_drawdown_pct": -8.47543700557517,
+              "average_weight_pct": 46.881417646650966,
+              "max_weight_pct": 99.99998843706969,
+              "final_cny": 55437.15663928837,
+              "fees_cny": 555.9778107116362,
+              "trade_days": 17
+            },
+            "2024": {
+              "return_pct": 24.926911313141908,
+              "cagr_pct": 24.945956303957217,
+              "max_drawdown_pct": -6.808706579624424,
+              "average_weight_pct": 65.63384619553597,
+              "max_weight_pct": 99.99998449869449,
+              "final_cny": 69255.92750929134,
+              "fees_cny": 96.41200199700688,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245611763194,
+              "cagr_pct": 30.896807895446422,
+              "max_drawdown_pct": -14.507337700309552,
+              "average_weight_pct": 53.7952433560916,
+              "max_weight_pct": 99.99998525877272,
+              "final_cny": 108657.3256763739,
+              "fees_cny": 454.3044679174445,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "cap_95pct": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.95,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 107.40122037210381,
+            "cagr_pct": 13.743907593989778,
+            "max_drawdown_pct": -12.315646323242502,
+            "average_weight_pct": 49.981489129510834,
+            "max_weight_pct": 96.0925254211906,
+            "final_cny": 103700.6101860519,
+            "fees_cny": 3572.8559999999998,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.352666817726772,
+              "cagr_pct": 2.4037035084094827,
+              "max_drawdown_pct": -7.8948630478820725,
+              "average_weight_pct": 45.319529984143216,
+              "max_weight_pct": 95.39943905094002,
+              "final_cny": 53676.333408863386,
+              "fees_cny": 2217.839,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.48709923243437,
+              "cagr_pct": 23.504944111903004,
+              "max_drawdown_pct": -12.315646323242502,
+              "average_weight_pct": 62.58554090821231,
+              "max_weight_pct": 95.5132383192695,
+              "final_cny": 66283.34710093545,
+              "fees_cny": 582.883,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.45047319070642,
+              "cagr_pct": 30.676247364260977,
+              "max_drawdown_pct": -11.302931301569197,
+              "average_weight_pct": 50.806510345109224,
+              "max_weight_pct": 96.0925254211906,
+              "final_cny": 103700.6101860519,
+              "fees_cny": 772.134,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 117.80563877049555,
+            "cagr_pct": 14.731027339109449,
+            "max_drawdown_pct": -13.682492677498859,
+            "average_weight_pct": 49.94057615176788,
+            "max_weight_pct": 96.10625143235299,
+            "final_cny": 108902.81938524777,
+            "fees_cny": 828.4239097522485,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.330289654833738,
+              "cagr_pct": 4.585507677776457,
+              "max_drawdown_pct": -5.327376248000004,
+              "average_weight_pct": 45.241329256571234,
+              "max_weight_pct": 95.44829905593511,
+              "final_cny": 57165.14482741687,
+              "fees_cny": 313.43694458313985,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 23.816143958758683,
+              "cagr_pct": 23.834262093754543,
+              "max_drawdown_pct": -6.5089279831678,
+              "average_weight_pct": 62.56749217443628,
+              "max_weight_pct": 95.60337801171815,
+              "final_cny": 70779.67801374737,
+              "fees_cny": 94.06755366949801,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 53.86170499969756,
+              "cagr_pct": 29.37931900386164,
+              "max_drawdown_pct": -13.682492677498859,
+              "average_weight_pct": 50.81873436574805,
+              "max_weight_pct": 96.10625143235299,
+              "final_cny": 108902.81938524777,
+              "fees_cny": 420.91941149961065,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "vol_target_12pct": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 100.57968439157712,
+            "cagr_pct": 13.074347915677675,
+            "max_drawdown_pct": -10.879337091239172,
+            "average_weight_pct": 48.34452827266952,
+            "max_weight_pct": 99.99998623326512,
+            "final_cny": 100289.84219578856,
+            "fees_cny": 3854.4089999999997,
+            "trade_days": 40
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 5.289775111121076,
+              "cagr_pct": 1.7406608875766283,
+              "max_drawdown_pct": -8.297126837305523,
+              "average_weight_pct": 43.83879870841738,
+              "max_weight_pct": 99.99998623326512,
+              "final_cny": 52644.88755556054,
+              "fees_cny": 2336.6817499999997,
+              "trade_days": 17
+            },
+            "2024": {
+              "return_pct": 23.05673375470254,
+              "cagr_pct": 23.074222144102443,
+              "max_drawdown_pct": -10.879337091239172,
+              "average_weight_pct": 61.27536768294074,
+              "max_weight_pct": 99.99998607833128,
+              "final_cny": 64783.07911470867,
+              "fees_cny": 704.5342499999999,
+              "trade_days": 9
+            },
+            "2025—2026-09-04": {
+              "return_pct": 54.80869937998711,
+              "cagr_pct": 29.854757551183432,
+              "max_drawdown_pct": -10.822294567330282,
+              "average_weight_pct": 48.6946090482074,
+              "max_weight_pct": 99.99992373212369,
+              "final_cny": 100289.84219578856,
+              "fees_cny": 813.193,
+              "trade_days": 14
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 112.97018443043623,
+            "cagr_pct": 14.27720646302153,
+            "max_drawdown_pct": -12.83981321697949,
+            "average_weight_pct": 48.277500045502286,
+            "max_weight_pct": 99.99999190080395,
+            "final_cny": 106485.09221521812,
+            "fees_cny": 871.4166967818912,
+            "trade_days": 40
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 13.01629752557465,
+              "cagr_pct": 4.181549817991614,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 43.7460368059401,
+              "max_weight_pct": 99.99998861160225,
+              "final_cny": 56508.14876278732,
+              "fees_cny": 331.01785821269686,
+              "trade_days": 17
+            },
+            "2024": {
+              "return_pct": 23.717865669218252,
+              "cagr_pct": 23.735902126055052,
+              "max_drawdown_pct": -6.808706497906791,
+              "average_weight_pct": 61.15889391857628,
+              "max_weight_pct": 99.999985706786,
+              "final_cny": 69910.67557850723,
+              "fees_cny": 110.39781328008257,
+              "trade_days": 9
+            },
+            "2025—2026-09-04": {
+              "return_pct": 52.31592504872751,
+              "cagr_pct": 28.60072382674872,
+              "max_drawdown_pct": -12.83981321697949,
+              "average_weight_pct": 48.70319535381643,
+              "max_weight_pct": 99.99999190080395,
+              "final_cny": 106485.09221521812,
+              "fees_cny": 430.00102528911185,
+              "trade_days": 14
+            }
+          }
+        }
+      }
+    },
+    "vol_target_16pct": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.16,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": false,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 122.6156129456287,
+            "cagr_pct": 15.174299007319213,
+            "max_drawdown_pct": -13.764509303746642,
+            "average_weight_pct": 55.20244022630685,
+            "max_weight_pct": 99.999990497974,
+            "final_cny": 111307.80647281435,
+            "fees_cny": 3731.5164999999997,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 9.227551909660692,
+              "cagr_pct": 2.9990052339495588,
+              "max_drawdown_pct": -8.297124041216097,
+              "average_weight_pct": 49.90982693601623,
+              "max_weight_pct": 99.99997855763942,
+              "final_cny": 54613.775954830344,
+              "fees_cny": 2278.18675,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.311184477903105,
+              "cagr_pct": 25.330551696450797,
+              "max_drawdown_pct": -13.706477258104455,
+              "average_weight_pct": 67.81048015073435,
+              "max_weight_pct": 99.999990497974,
+              "final_cny": 68437.16953710614,
+              "fees_cny": 596.77875,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 62.642329052583136,
+              "cagr_pct": 33.74373021432482,
+              "max_drawdown_pct": -13.764509303746642,
+              "average_weight_pct": 57.15467950637066,
+              "max_weight_pct": 99.99998775268007,
+              "final_cny": 111307.80647281435,
+              "fees_cny": 856.5509999999999,
+              "trade_days": 12
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 132.68708637904413,
+            "cagr_pct": 16.07748303841239,
+            "max_drawdown_pct": -16.10562142452373,
+            "average_weight_pct": 55.117481031886165,
+            "max_weight_pct": 99.99999898503015,
+            "final_cny": 116343.54318952207,
+            "fees_cny": 968.927425477966,
+            "trade_days": 28
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 16.309310525760324,
+              "cagr_pct": 5.188126007093241,
+              "max_drawdown_pct": -5.680452736756614,
+              "average_weight_pct": 49.77808006862648,
+              "max_weight_pct": 99.99999761631119,
+              "final_cny": 58154.65526288016,
+              "fees_cny": 322.18992011983664,
+              "trade_days": 12
+            },
+            "2024": {
+              "return_pct": 25.556888819526378,
+              "cagr_pct": 25.576462494089114,
+              "max_drawdown_pct": -6.808706256836339,
+              "average_weight_pct": 67.71148346282571,
+              "max_weight_pct": 99.99998157106911,
+              "final_cny": 73017.17585179329,
+              "fees_cny": 101.66194208686647,
+              "trade_days": 4
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.337226936399915,
+              "cagr_pct": 32.11232457862905,
+              "max_drawdown_pct": -16.10562142452373,
+              "average_weight_pct": 57.16190538446112,
+              "max_weight_pct": 99.99999898503015,
+              "final_cny": 116343.54318952207,
+              "fees_cny": 545.0755632712629,
+              "trade_days": 12
+            }
+          }
+        }
+      }
+    },
+    "stop_12pct": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.12,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 105.27759632082604,
+            "cagr_pct": 13.537434867515286,
+            "max_drawdown_pct": -12.366176093287729,
+            "average_weight_pct": 51.344490396488276,
+            "max_weight_pct": 99.99997566464282,
+            "final_cny": 102638.79816041302,
+            "fees_cny": 4266.2964999999995,
+            "trade_days": 34
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 19.39063123052471,
+              "cagr_pct": 19.405125032692204,
+              "max_drawdown_pct": -12.366176093287729,
+              "average_weight_pct": 58.87006210787259,
+              "max_weight_pct": 99.99994251763324,
+              "final_cny": 64267.29093536851,
+              "fees_cny": 1146.94625,
+              "trade_days": 7
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.706122144830196,
+              "cagr_pct": 32.295082443057765,
+              "max_drawdown_pct": -12.317756558917726,
+              "average_weight_pct": 53.787440943060815,
+              "max_weight_pct": 99.99994022591271,
+              "final_cny": 102638.79816041302,
+              "fees_cny": 793.32,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 113.25708755416896,
+            "cagr_pct": 14.304368670415425,
+            "max_drawdown_pct": -14.50733919577315,
+            "average_weight_pct": 51.26703301337007,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 106628.54377708447,
+            "fees_cny": 1971.6224589155509,
+            "trade_days": 34
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 18.232694170513962,
+              "cagr_pct": 18.246258059067742,
+              "max_drawdown_pct": -6.808706684059085,
+              "average_weight_pct": 58.757922204449564,
+              "max_weight_pct": 99.99999057793205,
+              "final_cny": 67962.8246571276,
+              "fees_cny": 1196.7625325923325,
+              "trade_days": 7
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245453676388,
+              "cagr_pct": 30.896807107001003,
+              "max_drawdown_pct": -14.50733919577315,
+              "average_weight_pct": 53.79524296697286,
+              "max_weight_pct": 99.99998983023282,
+              "final_cny": 106628.54377708447,
+              "fees_cny": 445.8221130431301,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "band_10pct": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.1,
+        "cooldown": 5
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    },
+    "cooldown_10_days": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.14,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 10
+      },
+      "eligible_all_stages": true,
+      "results": {
+        "cmb": {
+          "full": {
+            "return_pct": 114.24225292167658,
+            "cagr_pct": 14.397409528547577,
+            "max_drawdown_pct": -12.387619704665841,
+            "average_weight_pct": 52.5562442507535,
+            "max_weight_pct": 99.99999176808318,
+            "final_cny": 107121.12646083829,
+            "fees_cny": 3767.6789999999996,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 7.658851072289541,
+              "cagr_pct": 2.501391148828014,
+              "max_drawdown_pct": -8.297124896049457,
+              "average_weight_pct": 47.47206954831075,
+              "max_weight_pct": 99.99997566464282,
+              "final_cny": 53829.42553614477,
+              "fees_cny": 2326.03025,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.60451948052571,
+              "cagr_pct": 24.623294758428816,
+              "max_drawdown_pct": -12.387619704665841,
+              "average_weight_pct": 65.74661354671821,
+              "max_weight_pct": 99.99993317062312,
+              "final_cny": 67073.8970284406,
+              "fees_cny": 613.6827499999999,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 59.7061319031708,
+              "cagr_pct": 32.29508727528243,
+              "max_drawdown_pct": -12.317759358662672,
+              "average_weight_pct": 53.78745707424579,
+              "max_weight_pct": 99.99999176808318,
+              "final_cny": 107121.12646083829,
+              "fees_cny": 827.9659999999999,
+              "trade_days": 11
+            }
+          }
+        },
+        "fund": {
+          "full": {
+            "return_pct": 125.33149365036738,
+            "cagr_pct": 15.421112845321638,
+            "max_drawdown_pct": -14.50733991201093,
+            "average_weight_pct": 52.478671808372646,
+            "max_weight_pct": 99.99999278198489,
+            "final_cny": 112665.74682518368,
+            "fees_cny": 900.070581816306,
+            "trade_days": 32
+          },
+          "splits": {
+            "2021—2023": {
+              "return_pct": 14.96451998143986,
+              "cagr_pct": 4.779383250238478,
+              "max_drawdown_pct": -5.599364856994504,
+              "average_weight_pct": 47.3585727602169,
+              "max_weight_pct": 99.99999278198489,
+              "final_cny": 57482.259990719926,
+              "fees_cny": 329.03781328008836,
+              "trade_days": 16
+            },
+            "2024": {
+              "return_pct": 24.926911873930614,
+              "cagr_pct": 24.945956865215567,
+              "max_drawdown_pct": -6.80870681688277,
+              "average_weight_pct": 65.63384769716781,
+              "max_weight_pct": 99.99998651462538,
+              "final_cny": 71810.81228175036,
+              "fees_cny": 99.96868696954334,
+              "trade_days": 5
+            },
+            "2025—2026-09-04": {
+              "return_pct": 56.89245566968193,
+              "cagr_pct": 30.89680767203491,
+              "max_drawdown_pct": -14.50733991201093,
+              "average_weight_pct": 53.79524297576405,
+              "max_weight_pct": 99.99998386690405,
+              "final_cny": 112665.74682518368,
+              "fees_cny": 471.0640815666743,
+              "trade_days": 11
+            }
+          }
+        }
+      }
+    }
+  }
+}

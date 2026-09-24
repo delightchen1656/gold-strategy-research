@@ -1,0 +1,57 @@
+[
+  {
+    "file": "GLD.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:07.232578+00:00",
+    "bytes": 55064,
+    "sha256": "ed20006bd1fbbaa07e4203dc87bc09c957d3efcb033fa17b74198f7e7fd4129a"
+  },
+  {
+    "file": "SLV.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SLV?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:07.268549+00:00",
+    "bytes": 55627,
+    "sha256": "29fed7656045e771519182a9e0e82469205f14cd638d70f8e108f78bba2f5107"
+  },
+  {
+    "file": "GC_F.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GC%3DF?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:07.203540+00:00",
+    "bytes": 46913,
+    "sha256": "c50518689a5d20d5c6c241c1c7d303b6ed1cecf4769ce3f78da6885da2d1b271"
+  },
+  {
+    "file": "SI_F.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SI%3DF?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:07.837254+00:00",
+    "bytes": 53298,
+    "sha256": "b29843522c0fc59acb726682e586ef47cc1fc443c8874e621ce98fb364dbb110"
+  },
+  {
+    "file": "DX-Y.NYB.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/DX-Y.NYB?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:08.024640+00:00",
+    "bytes": 56707,
+    "sha256": "d54a0e21a31fca49a5f13b257f467158b577e0cb7f49aca239bb83985a66ddab"
+  },
+  {
+    "file": "GSPC.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=2y&interval=1d",
+    "fetched_utc": "2026-09-24T11:03:08.060181+00:00",
+    "bytes": 51591,
+    "sha256": "bf3b318ca7aa143e21ecec051f19e279e87533bca6678313de9474891a9e5213"
+  },
+  {
+    "file": "gvz.csv",
+    "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/GVZ_History.csv",
+    "fetched_utc": "2026-09-24T11:03:09.315399+00:00",
+    "bytes": 89745,
+    "sha256": "102c7a3ba143303bfcaff722f5e2f99e649100c636c7f2b0652de48c1d54b0d0"
+  },
+  {
+    "file": "DFII10.csv",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10&cosd=2025-08-01&coed=2026-09-23",
+    "fetched_utc": "2026-09-24T11:03:33.060573+00:00",
+    "error": "curl: (28) Operation timed out after 25003 milliseconds with 0 bytes received\r\n"
+  }
+]
