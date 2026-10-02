@@ -1,0 +1,11 @@
+{
+  "economic_tests_passed": 8,
+  "historical_replay_matches": true,
+  "all_phase_constraints_passed": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "data_cutoff": "2026-09-30",
+  "signal_date": "2026-10-01",
+  "notify": true,
+  "reason": "Five-session execution stress raises fund drawdown to 13.86%, near 15% limit."
+}

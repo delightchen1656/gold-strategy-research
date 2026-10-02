@@ -7,7 +7,9 @@
 | 模块 | 状态 | 入口 |
 |---|---|---|
 | 基准1 | 当前唯一策略 | [研究结论](research/baseline-1/研究结论.md) |
+| 基准1每日复核 | 连续更新的压力测试 | [每日研究日志](research/baseline-1/每日研究日志.md) |
 | 黄金重大事件图谱 | 持续更新的宏观事件研究 | [事件图谱](research/gold-event-atlas-2023-present/黄金重大事件图谱_2023年至今.md) |
+| 美联储利率背景 | 2000年至今的事件研究辅助资料 | [资料说明](research/fed-rates-2000-present/README.md) |
 | 金银比研究 | 已完成多轮、100项研究与期限分析 | [专题索引](research/gold-silver-ratio-2026-09-23/README.md) |
 | 2026-09-08以前策略 | 历史资料，不参与当前决策 | [归档说明](archive/2026-09-08/README.md) |
 
@@ -35,4 +37,4 @@ python scripts/test_baseline_1.py
 powershell -ExecutionPolicy Bypass -File scripts/update_market_data.ps1
 ```
 
-更完整的方法约束见[方法与验证规范](docs/methodology.md)，发布前检查见[隐私规范](docs/privacy.md)。本项目只用于研究与决策支持，历史收益和回撤不代表未来表现。
+更完整的方法约束见[方法与验证规范](docs/methodology.md)，每日流程见[每日研究规范](docs/daily_research.md)，发布前检查见[隐私规范](docs/privacy.md)。本项目只用于研究与决策支持，历史收益和回撤不代表未来表现。

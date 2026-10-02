@@ -1,0 +1,8 @@
+{
+  "economic_tests_passed": 8,
+  "unchanged_cmb_control": true,
+  "all_phase_constraints_passed": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "notify": false
+}

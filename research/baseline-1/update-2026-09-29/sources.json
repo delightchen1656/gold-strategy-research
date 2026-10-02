@@ -1,0 +1,20 @@
+[
+  {
+    "source": "gold",
+    "url": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+    "bytes": 19385,
+    "fetched_at": "2026-09-29T02:10:37.639318+00:00"
+  },
+  {
+    "source": "fund",
+    "url": "https://api.fund.eastmoney.com/f10/lsjz?fundCode=009033&pageIndex=1&pageSize=100",
+    "bytes": 4494,
+    "fetched_at": "2026-09-29T02:10:35.730638+00:00"
+  },
+  {
+    "source": "fx",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/CNY%3DX?period1=1788739200&period2=1790640000&interval=1d&events=history",
+    "bytes": 3014,
+    "fetched_at": "2026-09-29T02:10:36.100682+00:00"
+  }
+]

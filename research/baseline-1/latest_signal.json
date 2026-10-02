@@ -1,18 +1,15 @@
 {
-  "checked_at": "2026-09-24T09:31:00+08:00",
+  "checked_at": "2026-10-02T10:01:36.818917+08:00",
   "strategy": "基准1",
-  "signal_date": "2026-09-23",
-  "gold_am_usd_oz": 4316.4,
+  "signal_date": "2026-10-01",
+  "gold_am_usd_oz": 4159.85,
   "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
-  "input": "data/raw/market/london_gold_fixing.csv",
-  "earliest_fund_nav_date": "2026-09-24",
   "target_weight": 0.0,
   "trend_state": 0.0,
-  "ma120": 4381.008333333333,
-  "annualized_volatility40": 0.2348956452154224,
+  "ma120": 4354.966583333333,
   "notes": [
-    "Signal recomputed with run_baseline_1.overlay_signal; historical performance not refreshed.",
-    "2026-09-07 AM corrected from 4404.14 to 4404.15 to match Westmetall.",
-    "Existing account balances carried forward from local records; no broker balance or transaction confirmation obtained."
-  ]
+    "Signal uses observations strictly before today. No account balance or orders accessed.",
+    "Fund execution requires the next eligible Chinese dealing day; no same-day London fix execution."
+  ],
+  "report": "research\\baseline-1\\update-2026-10-02\\summary.json"
 }

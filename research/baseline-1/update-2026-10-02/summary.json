@@ -1,0 +1,37 @@
+{
+  "window_start": "2021-10-02",
+  "cutoff": "2026-09-30",
+  "latest_signal_date": "2026-10-01",
+  "target_weight": 0.0,
+  "results": {
+    "fund": {
+      "return_pct": 150.49562067700268,
+      "cagr_pct": 20.187254845912793,
+      "max_drawdown_pct": -8.518624935823782,
+      "average_weight_pct": 52.55843507255465,
+      "max_weight_pct": 99.99998861160225,
+      "final_cny": 119745.71514042665,
+      "fees_cny": 3490.736438076093,
+      "trade_days": 46,
+      "latest_actual_weight_pct": 0.0
+    },
+    "cmb": {
+      "return_pct": 133.50165336737865,
+      "cagr_pct": 18.508323139718353,
+      "max_drawdown_pct": -10.807366558412868,
+      "average_weight_pct": 52.525629802296066,
+      "max_weight_pct": 99.99998623326512,
+      "final_cny": 109868.27010159228,
+      "fees_cny": 4866.6295,
+      "trade_days": 46,
+      "latest_actual_weight_pct": 0.0
+    }
+  },
+  "historical_replay_matches": true,
+  "notes": [
+    "Frozen history retained; later observations appended.",
+    "Actual simulated holdings, not user account holdings.",
+    "CMB price proxy uses model halfspread of CNY 2.5 per gram.",
+    "No fabricated NAVs beyond source cutoff."
+  ]
+}
