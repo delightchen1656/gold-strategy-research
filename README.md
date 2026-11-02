@@ -1,40 +1,60 @@
 # 黄金研究项目
 
-这是一个围绕黄金策略、宏观事件和金银相对价格的可复现研究仓库。当前唯一策略基线是[基准1](research/baseline-1/研究结论.md)；其他专题研究不会自动改变基准策略。
+本仓库分为两套冻结策略、正式维护代码、研究与报告、历史归档四部分。策略研发目前暂停；不自动搜索参数、不自动替换基准，也不执行真实交易。
 
-## 当前内容
+## 正式策略
 
-| 模块 | 状态 | 入口 |
-|---|---|---|
-| 基准1 | 当前唯一策略 | [研究结论](research/baseline-1/研究结论.md) |
-| 基准1每日复核 | 连续更新的压力测试 | [每日研究日志](research/baseline-1/每日研究日志.md) |
-| 黄金重大事件图谱 | 持续更新的宏观事件研究 | [事件图谱](research/gold-event-atlas-2023-present/黄金重大事件图谱_2023年至今.md) |
-| 美联储利率背景 | 2000年至今的事件研究辅助资料 | [资料说明](research/fed-rates-2000-present/README.md) |
-| 金银比研究 | 已完成多轮、100项研究与期限分析 | [专题索引](research/gold-silver-ratio-2026-09-23/README.md) |
-| 2026-09-08以前策略 | 历史资料，不参与当前决策 | [归档说明](archive/2026-09-08/README.md) |
+基准1和基准2的规则、运行环境、过程记录与保留结果继续独立放在根目录，不生成 ZIP。
 
-基准1使用120日趋势、40日波动率、12%波动率目标、14%回撤退出和月度检查，并增加90日均线偏离保护。D日伦敦AM定盘形成信号，最早映射到D日之后首个可交易的中国基金净值日，严格排除未来信息。
+| 策略 | 定位 | 独立入口 | 配置 |
+|---|---|---|---|
+| 基准1 | 每日默认冻结基准 | [基准1说明](基准1/README.md) | [baseline_1.json](config/baseline_1.json) |
+| 基准2 | 正式登记的比较基准 | [基准2说明](基准2/README.md) | [baseline_2.json](config/baseline_2.json) |
+
+两个目录均可独立运行，互不读取对方文件。附带运行环境属于本机分发内容，不作为研究源码；策略配置副本必须与 `config/` 中的权威配置保持一致。
 
 ## 目录结构
 
 ```text
 gold/
-├─ config/        当前策略与数据源配置
-├─ data/          公共原始数据与质量检查
-├─ scripts/       当前基准及数据更新入口
-├─ docs/          方法、新闻管线与隐私规范
-├─ research/      当前研究成果及其复现材料
-├─ archive/       已冻结的历史研究、脚本和旧配置
-└─ private/       个人持仓与本地资料（Git忽略）
+├─ 基准1/          基准1独立运行、过程记录与保留结果
+├─ 基准2/          基准2独立运行、过程记录与保留结果
+├─ config/         两套冻结策略及公共数据源配置
+├─ scripts/
+│  ├─ core/        冻结信号和执行核心
+│  ├─ daily/       正式日更入口
+│  ├─ data/        公共数据采集
+│  ├─ reporting/   当前报告与图表工具
+│  └─ validation/  正式行为测试
+├─ research/       研究记录、数据快照和专题报告（路径保留）
+├─ reports/        汇总报告（路径保留）
+├─ docs/           项目架构、方法和隐私规范
+├─ archive/        冻结历史，只用于审计追溯
+└─ private/        个人持仓与本地资料，Git忽略
 ```
 
-## 运行
+完整边界见[项目架构](docs/architecture.md)。
+
+## 正式命令
 
 ```powershell
-pip install -r requirements.txt
-python scripts/run_baseline_1.py
-python scripts/test_baseline_1.py
+python scripts/daily/update_active_baseline.py YYYY-MM-DD
+python scripts/daily/daily_web_candles.py YYYY-MM-DD
+python scripts/validation/test_baseline_signal.py
 powershell -ExecutionPolicy Bypass -File scripts/update_market_data.ps1
 ```
 
-更完整的方法约束见[方法与验证规范](docs/methodology.md)，每日流程见[每日研究规范](docs/daily_research.md)，发布前检查见[隐私规范](docs/privacy.md)。本项目只用于研究与决策支持，历史收益和回撤不代表未来表现。
+基准1仍是每日默认；基准2用于独立比较，登记它不表示自动切换。完整日线信号采用已完成的 Europe/London 日线，个人交易计划不得进入公开研究。
+
+## 研究与报告入口
+
+| 模块 | 权威入口 |
+|---|---|
+| 黄金重大事件与完整宏观研究 | [黄金重大事件图谱](research/gold-event-atlas-2023-present/黄金重大事件图谱_2023年至今.md) |
+| 黄金宏观检查规则 | [研究规则](research/gold-macro-monitor/研究规则.md) |
+| 机构预测与实绩 | [综合报告](research/gold-event-atlas-2023-present/机构黄金预测与实绩综合报告.md) |
+| 基准日度研究记录 | [每日研究日志](research/baseline-1/每日研究日志.md) |
+| 基准1与基准2汇总 | [多区间及年度报告](reports/基准1与基准2_多区间及年度回测报告_截至2026-10-29.md) |
+| 金银比专题 | [专题索引](research/gold-silver-ratio-2026-09-23/README.md) |
+
+阶段报告、失败实验和旧脚本只在 `archive/` 中追溯，不是当前入口。历史区间已经被观察，不能称为全新样本外验证。

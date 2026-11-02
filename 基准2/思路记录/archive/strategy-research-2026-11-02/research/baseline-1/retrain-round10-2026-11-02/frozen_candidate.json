@@ -1,0 +1,16 @@
+{
+  "parameters": {
+    "fast": 20,
+    "slow": 110,
+    "breakout": 90,
+    "stop": 0.08,
+    "cooldown": 5,
+    "buffer": 0.02,
+    "exit_buffer": 0.02,
+    "confirm": 1,
+    "recovery": 0
+  },
+  "id": 472,
+  "selected_using": "2009-03-15 through 2020-12-31 only",
+  "baseline_unchanged": true
+}

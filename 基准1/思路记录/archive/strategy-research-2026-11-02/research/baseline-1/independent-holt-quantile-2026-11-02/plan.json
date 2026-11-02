@@ -1,0 +1,698 @@
+{
+  "time": "2026-11-01T17:55:09.790825+00:00",
+  "modules": [
+    {
+      "method": "holt",
+      "alpha": 0.03
+    },
+    {
+      "method": "holt",
+      "alpha": 0.06
+    },
+    {
+      "method": "holt",
+      "alpha": 0.12
+    },
+    {
+      "method": "quantile",
+      "n": 60
+    },
+    {
+      "method": "quantile",
+      "n": 120
+    },
+    {
+      "method": "quantile",
+      "n": 240
+    },
+    {
+      "method": "risk_momentum",
+      "n": 60
+    },
+    {
+      "method": "risk_momentum",
+      "n": 120
+    },
+    {
+      "method": "risk_momentum",
+      "n": 240
+    }
+  ],
+  "combinations": [
+    {
+      "members": [
+        0
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        8
+      ],
+      "mode": "majority"
+    }
+  ],
+  "count": 90,
+  "cost": 0.003,
+  "primary": "Training return >= baseline return +10 percentage points; DD <= baseline. Also report relative return +10% and terminal-wealth +10% separately.",
+  "execution": "Long/cash, next observed open, cost .003, no interest/leverage/terminal liquidation. Each module has fixed 10% price trailing stop and 5-bar cooldown; no shared stop in unions. Holt forecast20, beta=alpha/10, warmup120. Quantile .8/.2 shifted one bar. Risk momentum logreturn less roundtrip cost divided by downside RMS times sqrt(n), entry>1 exit<0. No baseline signals in ensemble.",
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "code_sha256": "19cd11e34049fbd5aabdc3a112518ddf9c68daa9170083efe78dce612a883729",
+  "search_limit": "One fixed batch; no follow-up parameter additions. Repeated prior research causes selection bias; internal folds are diagnostics, not unseen OOS."
+}

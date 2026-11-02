@@ -1,0 +1,6 @@
+{
+  "gold_daily.csv": "https://www.goldprice.com/gold-price-history.csv",
+  "DFEDTAR.csv": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTAR&cosd=1999-03-10&coed=2003-09-21",
+  "DFEDTARU.csv": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTARU&cosd=2025-10-30&coed=2026-10-30",
+  "DFEDTARL.csv": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTARL&cosd=2025-10-30&coed=2026-10-30"
+}

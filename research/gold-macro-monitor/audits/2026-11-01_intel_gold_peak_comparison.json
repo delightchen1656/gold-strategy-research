@@ -1,0 +1,56 @@
+{
+  "rows": [
+    {
+      "label": "历史预警日",
+      "date": "2000-09-21",
+      "price": 269.5,
+      "peak": 325.5,
+      "peak_date": "1999-10-05",
+      "calendar_days": 352,
+      "drawdown_pct": -17.204301075268813,
+      "price_gap": -56.0,
+      "basis": "伦敦PM定盘"
+    },
+    {
+      "label": "历史下一交易日",
+      "date": "2000-09-22",
+      "price": 273.95,
+      "peak": 325.5,
+      "peak_date": "1999-10-05",
+      "calendar_days": 353,
+      "drawdown_pct": -15.837173579109065,
+      "price_gap": -51.55000000000001,
+      "basis": "伦敦PM定盘"
+    },
+    {
+      "label": "本次事件日",
+      "date": "2026-10-30",
+      "price": 3874.4,
+      "peak": 5596.805,
+      "peak_date": "2026-01-28",
+      "calendar_days": 275,
+      "drawdown_pct": -30.77479025980001,
+      "price_gap": -1722.4050000000002,
+      "basis": "Kitco尾盘买价对本地HistData盘中高点"
+    },
+    {
+      "label": "今天周日",
+      "date": "2026-11-01",
+      "price": 3874.4,
+      "peak": 5596.805,
+      "peak_date": "2026-01-28",
+      "calendar_days": 277,
+      "drawdown_pct": -30.77479025980001,
+      "price_gap": -1722.4050000000002,
+      "basis": "沿用10-30报价；只增加日历天"
+    }
+  ],
+  "limitation": "Historical PM fixes versus current spot/intraday-high mix; descriptive approximation, not uniform-frequency backtest.",
+  "historical_sources": [
+    "https://sdbullion.com/gold-prices-1999",
+    "https://sdbullion.com/gold-prices-2000",
+    "https://www.lbma.org.uk/alchemist/issue-18/gold-rollercoaster"
+  ],
+  "current_source": "https://www.kitco.com/price/precious-metals",
+  "local_snapshot": "../quant/K线数据/黄金/snapshots/20261030T130928Z/MANIFEST.json"
+}

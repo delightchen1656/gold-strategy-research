@@ -1,0 +1,63 @@
+{
+  "research_date_beijing": "2026-11-02",
+  "series": {
+    "SOFR": {
+      "source": "https://fred.stlouisfed.org/series/SOFR",
+      "download_url": "https://fred.stlouisfed.org/graph/?g=1&cosd=2026-08-01&coed=2026-11-02&id=SOFR",
+      "note": "Saved CSV observations; publication time unavailable unless separately documented in report. Download URL here is a reproducible graph query, not HTTP request log.",
+      "last_observation": "2026-10-29",
+      "last_value": 3.94,
+      "sha256": "ae588b62bdfee3d58f3ce82f3c1542c27615ab8b9d866606601df6e15613fbad"
+    },
+    "IORB": {
+      "source": "https://fred.stlouisfed.org/series/IORB",
+      "download_url": "https://fred.stlouisfed.org/graph/?g=1&cosd=2026-08-01&coed=2026-11-02&id=IORB",
+      "note": "Saved CSV observations; publication time unavailable unless separately documented in report. Download URL here is a reproducible graph query, not HTTP request log.",
+      "last_observation": "2026-11-02",
+      "last_value": 3.9,
+      "sha256": "022eb953bd9b60be94afd86ec3a32093e39794858ae93c4f39c1a4836ab37511"
+    },
+    "BAMLH0A0HYM2": {
+      "source": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "download_url": "https://fred.stlouisfed.org/graph/?g=1&cosd=2026-08-01&coed=2026-11-02&id=BAMLH0A0HYM2",
+      "note": "Saved CSV observations; publication time unavailable unless separately documented in report. Download URL here is a reproducible graph query, not HTTP request log.",
+      "last_observation": "2026-10-29",
+      "last_value": 3.26,
+      "sha256": "c6b75cd33896074762920eab21897d988e0758e40d9f7ea3273e61a755eca45b"
+    },
+    "NFCI": {
+      "source": "https://fred.stlouisfed.org/series/NFCI",
+      "download_url": "https://fred.stlouisfed.org/graph/?g=1&cosd=2026-08-01&coed=2026-11-02&id=NFCI",
+      "note": "Saved CSV observations; publication time unavailable unless separately documented in report. Download URL here is a reproducible graph query, not HTTP request log.",
+      "last_observation": "2026-10-23",
+      "last_value": -0.487,
+      "sha256": "b010b44ff81c410ffbc740e2db85e1de0b1a18c28e4847155f9007f774d0b5af"
+    },
+    "STLFSI4": {
+      "source": "https://fred.stlouisfed.org/series/STLFSI4",
+      "download_url": "https://fred.stlouisfed.org/graph/?g=1&cosd=2026-08-01&coed=2026-11-02&id=STLFSI4",
+      "note": "Saved CSV observations; publication time unavailable unless separately documented in report. Download URL here is a reproducible graph query, not HTTP request log.",
+      "last_observation": "2026-10-23",
+      "last_value": -0.5837,
+      "sha256": "27e10ff3a3abccdf14be7bf2481f704518e5936147dad12c0710d9f33889acf3"
+    }
+  },
+  "repo": {
+    "date": "2026-10-29",
+    "spread_bp": 4.0,
+    "last_20_valid_min_bp": -3.0,
+    "last_20_valid_max_bp": 5.0
+  },
+  "hy": {
+    "last_five_bp": {
+      "2026-10-23": 338.0,
+      "2026-10-26": 330.0,
+      "2026-10-27": 318.0,
+      "2026-10-28": 314.0,
+      "2026-10-29": 326.0
+    },
+    "last_five_all_ge_500": false,
+    "last_20_valid_max_bp": 340.0
+  },
+  "limits": "Current supplementary diagnostics, not a historical five-condition backtest; no new thresholds or crisis probabilities fitted. Negative FCF is not insolvency. Employment v2 is user assumption."
+}

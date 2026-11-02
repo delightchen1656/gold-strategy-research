@@ -1,0 +1,326 @@
+{
+  "start": "2009-03-15",
+  "end": "2020-12-31",
+  "count": 2220,
+  "cost": 0.003,
+  "selected": {
+    "id": 1789,
+    "parameters": {
+      "method": "quadratic",
+      "n": 90,
+      "threshold": 0.05,
+      "r2": 0.5,
+      "stop": 0.08,
+      "review": "weekly",
+      "mode": "previous_union"
+    },
+    "trades": 38,
+    "return_pct": 199.91204440303187,
+    "cagr_pct": 9.756973876214303,
+    "max_drawdown_pct": 22.016046630525345,
+    "average_weight_pct": 71.2130356065178
+  },
+  "raw_highest_return": {
+    "id": 1789,
+    "parameters": {
+      "method": "quadratic",
+      "n": 90,
+      "threshold": 0.05,
+      "r2": 0.5,
+      "stop": 0.08,
+      "review": "weekly",
+      "mode": "previous_union"
+    },
+    "trades": 38,
+    "return_pct": 199.91204440303187,
+    "cagr_pct": 9.756973876214303,
+    "max_drawdown_pct": 22.016046630525345,
+    "average_weight_pct": 71.2130356065178
+  },
+  "baseline": {
+    "id": 2220,
+    "parameters": "baseline",
+    "trades": 24,
+    "return_pct": 145.69194181226348,
+    "cagr_pct": 7.917349330877066,
+    "max_drawdown_pct": 26.488680041711177,
+    "average_weight_pct": 59.535304767652384
+  },
+  "previous_candidate": {
+    "id": 2221,
+    "parameters": "previous_candidate",
+    "trades": 30,
+    "return_pct": 160.57972188634704,
+    "cagr_pct": 8.456847352293728,
+    "max_drawdown_pct": 25.075060959270623,
+    "average_weight_pct": 61.013880506940254
+  },
+  "hold": {
+    "id": 2222,
+    "parameters": "hold",
+    "trades": 1,
+    "return_pct": 103.5543541492562,
+    "cagr_pct": 6.209930088113014,
+    "max_drawdown_pct": 44.570017844641086,
+    "average_weight_pct": 100.0
+  },
+  "beat_baseline_count": 207,
+  "family_best": {
+    "kama": {
+      "id": 174,
+      "parameters": {
+        "method": "kama",
+        "n": 10,
+        "slow": 60,
+        "fast": 2,
+        "buffer": 0.02,
+        "stop": 0.12,
+        "review": "daily",
+        "mode": "previous_union"
+      },
+      "trades": 39,
+      "return_pct": 175.98299297217213,
+      "cagr_pct": 8.986108517604642,
+      "max_drawdown_pct": 29.11636152361701,
+      "average_weight_pct": 75.40736270368134
+    },
+    "kalman": {
+      "id": 1229,
+      "parameters": {
+        "method": "kalman",
+        "q": 0.01,
+        "threshold": 1.0,
+        "stop": 0.08,
+        "review": "weekly",
+        "mode": "previous_union"
+      },
+      "trades": 39,
+      "return_pct": 191.21242699933077,
+      "cagr_pct": 9.483455366517912,
+      "max_drawdown_pct": 23.851761771477687,
+      "average_weight_pct": 73.1744115872058
+    },
+    "quadratic": {
+      "id": 1789,
+      "parameters": {
+        "method": "quadratic",
+        "n": 90,
+        "threshold": 0.05,
+        "r2": 0.5,
+        "stop": 0.08,
+        "review": "weekly",
+        "mode": "previous_union"
+      },
+      "trades": 38,
+      "return_pct": 199.91204440303187,
+      "cagr_pct": 9.756973876214303,
+      "max_drawdown_pct": 22.016046630525345,
+      "average_weight_pct": 71.2130356065178
+    }
+  },
+  "phases": {
+    "2009-2012": {
+      "candidate": {
+        "return_pct": 83.10449290159735,
+        "cagr_pct": 17.267769914421116,
+        "max_drawdown_pct": 14.292098591621228,
+        "average_weight_pct": 74.29643527204503
+      },
+      "baseline": {
+        "return_pct": 73.54943977978392,
+        "cagr_pct": 15.624339368890737,
+        "max_drawdown_pct": 15.306603219930736,
+        "average_weight_pct": 72.04502814258912
+      },
+      "previous_candidate": {
+        "return_pct": 73.54943977978392,
+        "cagr_pct": 15.624339368890737,
+        "max_drawdown_pct": 15.306603219930736,
+        "average_weight_pct": 72.04502814258912
+      },
+      "hold": {
+        "return_pct": 79.64072498511352,
+        "cagr_pct": 16.679480433778405,
+        "max_drawdown_pct": 18.976380854121377,
+        "average_weight_pct": 100.0
+      }
+    },
+    "2013-2016": {
+      "candidate": {
+        "return_pct": -0.663405565564612,
+        "cagr_pct": -0.1663793814336012,
+        "max_drawdown_pct": 16.123566097370322,
+        "average_weight_pct": 51.82222222222222
+      },
+      "baseline": {
+        "return_pct": -8.280543945000641,
+        "cagr_pct": -2.139159880730357,
+        "max_drawdown_pct": 17.259182192368904,
+        "average_weight_pct": 27.02222222222222
+      },
+      "previous_candidate": {
+        "return_pct": -2.7227748126910423,
+        "cagr_pct": -0.6882258010523223,
+        "max_drawdown_pct": 15.88943459975648,
+        "average_weight_pct": 31.377777777777776
+      },
+      "hold": {
+        "return_pct": -31.271381235260755,
+        "cagr_pct": -8.954912714569474,
+        "max_drawdown_pct": 37.78463138241932,
+        "average_weight_pct": 100.0
+      }
+    },
+    "2017-2020": {
+      "candidate": {
+        "return_pct": 64.88670501762562,
+        "cagr_pct": 13.307660185562998,
+        "max_drawdown_pct": 15.148378132057239,
+        "average_weight_pct": 87.71148708815673
+      },
+      "baseline": {
+        "return_pct": 54.34985512490837,
+        "cagr_pct": 11.453656791136035,
+        "max_drawdown_pct": 15.148378132057216,
+        "average_weight_pct": 80.23152270703473
+      },
+      "previous_candidate": {
+        "return_pct": 54.34985512490835,
+        "cagr_pct": 11.453656791136035,
+        "max_drawdown_pct": 15.148378132057228,
+        "average_weight_pct": 80.23152270703473
+      },
+      "hold": {
+        "return_pct": 64.86861193394545,
+        "cagr_pct": 13.304553860138114,
+        "max_drawdown_pct": 14.206710399509792,
+        "average_weight_pct": 100.0
+      }
+    }
+  },
+  "double_cost": {
+    "candidate": {
+      "return_pct": 167.598267037224,
+      "cagr_pct": 8.701461945241174,
+      "max_drawdown_pct": 26.996915516121454,
+      "average_weight_pct": 71.2130356065178
+    },
+    "baseline": {
+      "return_pct": 128.62359702075295,
+      "cagr_pct": 7.260717389605187,
+      "max_drawdown_pct": 28.661312825685215,
+      "average_weight_pct": 59.535304767652384
+    },
+    "previous_candidate": {
+      "return_pct": 138.15148396374144,
+      "cagr_pct": 7.632582499064888,
+      "max_drawdown_pct": 27.724439456196915,
+      "average_weight_pct": 61.013880506940254
+    },
+    "hold": {
+      "return_pct": 102.94733321242937,
+      "cagr_pct": 6.1830459870506616,
+      "max_drawdown_pct": 44.570017844641086,
+      "average_weight_pct": 100.0
+    }
+  },
+  "extra_bar_delay": {
+    "candidate": {
+      "return_pct": 165.8938062534888,
+      "cagr_pct": 8.642601706029795,
+      "max_drawdown_pct": 27.56337089221651,
+      "average_weight_pct": 71.2130356065178
+    },
+    "baseline": {
+      "return_pct": 114.56088823604276,
+      "cagr_pct": 6.685083035431516,
+      "max_drawdown_pct": 32.914966039140715,
+      "average_weight_pct": 59.535304767652384
+    },
+    "previous_candidate": {
+      "return_pct": 132.30268168481584,
+      "cagr_pct": 7.405960598748673,
+      "max_drawdown_pct": 31.959257176389787,
+      "average_weight_pct": 61.013880506940254
+    },
+    "hold": {
+      "return_pct": 104.32364498126394,
+      "cagr_pct": 6.2438956711937,
+      "max_drawdown_pct": 44.570017844641086,
+      "average_weight_pct": 99.96982498491249
+    }
+  },
+  "internal_walk_forward": [
+    {
+      "fit_end": "2012-12-31",
+      "test": "2013-2016",
+      "selected_id": 386,
+      "results": {
+        "candidate": {
+          "return_pct": -25.665316058446173,
+          "cagr_pct": -7.156023694416902,
+          "max_drawdown_pct": 37.69015106765361,
+          "average_weight_pct": 55.822222222222216
+        },
+        "baseline": {
+          "return_pct": -8.552149439006884,
+          "cagr_pct": -2.213237094827769,
+          "max_drawdown_pct": 17.259182192368904,
+          "average_weight_pct": 27.02222222222222
+        },
+        "previous_candidate": {
+          "return_pct": -3.0108383265731287,
+          "cagr_pct": -0.7624002667896868,
+          "max_drawdown_pct": 15.889434599756491,
+          "average_weight_pct": 31.377777777777776
+        },
+        "hold": {
+          "return_pct": -31.47490479781623,
+          "cagr_pct": -9.02833205182917,
+          "max_drawdown_pct": 37.78463138241932,
+          "average_weight_pct": 100.0
+        }
+      }
+    },
+    {
+      "fit_end": "2016-12-31",
+      "test": "2017-2020",
+      "selected_id": 1789,
+      "results": {
+        "candidate": {
+          "return_pct": 64.88670501762559,
+          "cagr_pct": 13.336772093287298,
+          "max_drawdown_pct": 15.148378132057228,
+          "average_weight_pct": 87.71148708815673
+        },
+        "baseline": {
+          "return_pct": 54.34985512490837,
+          "cagr_pct": 11.478510599393154,
+          "max_drawdown_pct": 15.148378132057216,
+          "average_weight_pct": 80.23152270703473
+        },
+        "previous_candidate": {
+          "return_pct": 54.34985512490837,
+          "cagr_pct": 11.478510599393154,
+          "max_drawdown_pct": 15.148378132057216,
+          "average_weight_pct": 80.23152270703473
+        },
+        "hold": {
+          "return_pct": 64.44691146649217,
+          "cagr_pct": 13.261018430014238,
+          "max_drawdown_pct": 14.206710399509792,
+          "average_weight_pct": 100.0
+        }
+      }
+    }
+  ],
+  "neighbours": {
+    "count": 14,
+    "beat_baseline_count": 9,
+    "median_return_pct": 165.13353252526753
+  },
+  "causal_checks_passed": true,
+  "formal_baseline_unchanged": true,
+  "post2020_not_loaded": true,
+  "caveat": "Inner folds are not clean unseen validation: strategy families and embedded baseline previously selected using the development period."
+}

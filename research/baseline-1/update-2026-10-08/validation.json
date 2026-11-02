@@ -1,0 +1,9 @@
+{
+  "historical_replay_matches": true,
+  "early_proxy_future_perturbation_passed": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "candidate_extended_risk_check_failed": true,
+  "baseline_extended_drawdown_failed": true,
+  "notify": true
+}

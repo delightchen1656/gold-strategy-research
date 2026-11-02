@@ -1,0 +1,30 @@
+{
+  "attempted_grid_rows": 2943,
+  "includes_repeated_baseline_and_equivalent_rules": true,
+  "training_start": "2009-03-15",
+  "training_end": "2020-12-31",
+  "candidate": {
+    "id": 472,
+    "parameters": {
+      "fast": 20,
+      "slow": 110,
+      "breakout": 90,
+      "stop": 0.08,
+      "cooldown": 5,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "confirm": 1,
+      "recovery": 0
+    },
+    "trades": 24,
+    "return_pct": 164.16531651468665,
+    "cagr_pct": 8.582557946614955,
+    "max_drawdown_pct": 23.55293140370136,
+    "average_weight_pct": 59.83705491852746
+  },
+  "formal_baseline_changed": false,
+  "decision": "Do not promote: small in-sample gain, disappears under one-bar delay; no immediate grid neighbours beat baseline. Later history not consulted in this search.",
+  "rounds_8_9": "No improvement",
+  "round_10": "One grid row beats baseline",
+  "validation_scope": "Internal training folds, cost stress and causal replay only. No external-period test for this marginal candidate."
+}

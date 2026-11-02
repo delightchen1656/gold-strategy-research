@@ -1,0 +1,3827 @@
+{
+  "configs": [
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 10,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 20,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 504,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 1,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "logistic",
+      "horizon": 60,
+      "window": 1008,
+      "penalty": 10,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 20,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 504,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.55,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.65,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.08,
+      "mode": "blend"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "union"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "agreement"
+    },
+    {
+      "method": "naive_bayes",
+      "horizon": 60,
+      "window": 1008,
+      "threshold": 0.75,
+      "stop": 0.12,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 60,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 120,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 10,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 1.5,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": 0.0,
+      "stop": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.06,
+      "mode": "blend"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "union"
+    },
+    {
+      "method": "reversal",
+      "trend": 200,
+      "window": 20,
+      "threshold": 2.0,
+      "exit_z": -0.5,
+      "stop": 0.1,
+      "mode": "blend"
+    }
+  ],
+  "count": 432,
+  "cost": 0.003,
+  "train_only": true,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "gate": "Training total return strictly above current baseline AND maxDD <= baseline; only passing winner advances to stress and prefix/chronological diagnostics.",
+  "fitting": "Monthly expanding/rolling causal classification. Only labels whose horizon ends <= fit date; training-only scaling. Positive class clears roundtrip cost. No post2020 data.",
+  "rules": "No leverage; no shorts; next-open execution; no parameter additions after results. All failures retained. Classification output is not a calibrated profit guarantee."
+}

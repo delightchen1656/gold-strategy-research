@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "parameters": [
+    {
+      "method": "ma_plus_breakout",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "breakout": 90,
+      "entry_mode": "either",
+      "stop": 0.08,
+      "cooldown": 5,
+      "reentry_filter": "none"
+    }
+  ],
+  "train_only": false,
+  "validation_only": true,
+  "frozen_parameter_sha256": "69725aaf4e1242d961905427dcda1bc56333f5a0b209a33ec40f01ced04c2480",
+  "cost": 0.0005,
+  "no_leverage": true,
+  "no_short": true,
+  "input_hash": "02ff79f71a2f4c9e6305ea9859ca11bb078436569b92b8e4605f2c9758ba4350"
+}

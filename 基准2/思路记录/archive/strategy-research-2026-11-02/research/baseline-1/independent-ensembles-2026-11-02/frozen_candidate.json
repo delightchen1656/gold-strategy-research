@@ -1,0 +1,132 @@
+{
+  "combination": {
+    "members": [
+      11,
+      16
+    ],
+    "mode": "union"
+  },
+  "modules": [
+    {
+      "method": "quadratic",
+      "n": 60,
+      "threshold": 0.05,
+      "r2": 0.3
+    },
+    {
+      "method": "quadratic",
+      "n": 60,
+      "threshold": 0.05,
+      "r2": 0.5
+    },
+    {
+      "method": "quadratic",
+      "n": 90,
+      "threshold": 0.05,
+      "r2": 0.3
+    },
+    {
+      "method": "quadratic",
+      "n": 90,
+      "threshold": 0.05,
+      "r2": 0.5
+    },
+    {
+      "method": "quadratic",
+      "n": 120,
+      "threshold": 0.05,
+      "r2": 0.3
+    },
+    {
+      "method": "quadratic",
+      "n": 120,
+      "threshold": 0.05,
+      "r2": 0.5
+    },
+    {
+      "method": "quadratic",
+      "n": 180,
+      "threshold": 0.05,
+      "r2": 0.3
+    },
+    {
+      "method": "quadratic",
+      "n": 180,
+      "threshold": 0.05,
+      "r2": 0.5
+    },
+    {
+      "method": "linear",
+      "n": 90
+    },
+    {
+      "method": "linear",
+      "n": 120
+    },
+    {
+      "method": "linear",
+      "n": 180
+    },
+    {
+      "method": "linear",
+      "n": 240
+    },
+    {
+      "method": "bayes",
+      "n": 120
+    },
+    {
+      "method": "bayes",
+      "n": 252
+    },
+    {
+      "method": "bayes",
+      "n": 360
+    },
+    {
+      "method": "kalman",
+      "q": 0.0001,
+      "threshold": 1.0
+    },
+    {
+      "method": "kalman",
+      "q": 0.001,
+      "threshold": 1.0
+    },
+    {
+      "method": "kalman",
+      "q": 0.01,
+      "threshold": 1.0
+    },
+    {
+      "method": "kama",
+      "n": 10,
+      "slow": 60,
+      "fast": 2,
+      "buffer": 0.01
+    },
+    {
+      "method": "kama",
+      "n": 10,
+      "slow": 120,
+      "fast": 2,
+      "buffer": 0.01
+    },
+    {
+      "method": "kama",
+      "n": 20,
+      "slow": 60,
+      "fast": 2,
+      "buffer": 0.01
+    },
+    {
+      "method": "kama",
+      "n": 20,
+      "slow": 120,
+      "fast": 2,
+      "buffer": 0.01
+    }
+  ],
+  "passed": true,
+  "independent": true
+}

@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "method": "atr_trend",
+    "atr_window": 20,
+    "multiple": 5.0,
+    "mode": "agreement"
+  },
+  "id": 40,
+  "selected_using": "2009-03-15 through 2016-12-31",
+  "fit_qualified": false,
+  "formal_baseline_unchanged": true
+}

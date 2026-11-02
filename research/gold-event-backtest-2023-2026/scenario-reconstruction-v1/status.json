@@ -1,0 +1,26 @@
+{
+  "full_2020_2026_backtest_complete": false,
+  "full_original_framework_reconstruction_complete": false,
+  "reconstructed_events": 14,
+  "scenario_sets": 28,
+  "mature_horizons": 26,
+  "pending_horizons": 2,
+  "other_candidates_pending": 349,
+  "original_module_sha256": "87fea0f1e279e17185b45c6d6475eddc814af88ba8f32ea61a5a0e72d6389d0b",
+  "forecast_sha256": "5bfe0225b2e0a34c38688df96d8ca3ebc7779ed0880a19ae4445d91e896e7dc7",
+  "method_mapping": {
+    "event_facts": "official Fed statements; selected simultaneous SEP updates",
+    "expectations": "separate market consensus from previous official projections; missing consensus flagged",
+    "pricing_in": "strictly prior price trend and range only; not proof of what was priced",
+    "cross_market": "lagged dollar, yields, oil, VIX, stocks; stale values excluded; historical vintages not certified",
+    "analogs": "two earlier policy mechanisms per event; not selected by later gold outcomes",
+    "scenario_tree": "per-event analyst zones and weights, month and year-end separate",
+    "outcomes": "fixed-horizon daily observations saved separately; no confidence calibration claim"
+  },
+  "remaining": [
+    "reconstruct other candidate events from original release facts",
+    "complete consensus and point-in-time cross-market archives",
+    "complete next-event boundaries including press conferences",
+    "independent forward/blinded validation; current analyst has seen historical outcomes"
+  ]
+}

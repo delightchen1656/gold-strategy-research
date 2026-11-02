@@ -1,0 +1,16 @@
+{
+  "historical_replay_matches": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "fund_control_unchanged": true,
+  "signal_spec_equal": true,
+  "baseline_daily_equal_previous_run": true,
+  "notify": false,
+  "gold_date": "2026-10-09",
+  "fund_date": "2026-10-09",
+  "fx_raw_latest_date": "2026-10-12",
+  "common_cutoff": "2026-10-09",
+  "target_weight": 0.0,
+  "baseline_config_sha256": "cd3b58dbc6d5d423633e4ab6342ce75475d2c315f54aca5681938ae9f6c2be4b",
+  "result": "Original three stages still pass with additional CMB slippage; not new out-of-sample evidence."
+}

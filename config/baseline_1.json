@@ -1,23 +1,32 @@
 {
   "name": "基准1",
-  "status": "sole_current_baseline",
+  "version": "2026-10-30-spot-breakout",
+  "status": "daily_default_frozen_baseline",
   "signal": {
-    "trend_horizon_days": 120,
-    "volatility_window_days": 40,
-    "volatility_target": 0.12,
-    "maximum_position": 1.0,
-    "drawdown_exit": 0.14,
-    "cooldown_observations": 5,
-    "review_frequency": "monthly",
-    "rebalance_band": 0.05,
-    "profit_lock_ma_days": 90,
-    "profit_lock_extension": 1.20,
-    "profit_lock_position": 0.0
+    "method": "ma_plus_breakout",
+    "slow": 120,
+    "fast": 20,
+    "buffer": 0.02,
+    "exit_buffer": 0.02,
+    "breakout": 90,
+    "entry_mode": "either",
+    "stop": 0.08,
+    "cooldown": 5,
+    "reentry_filter": "none"
   },
+  "data_root": "../quant/K线数据/黄金",
+  "price_basis": "completed Europe/London daily close; includes Sunday short sessions",
+  "execution": "Signal from completed London day D; spot research next observed open, China fund earliest eligible NAV date strictly after D",
   "constraints": {
-    "phase_max_drawdown": 0.15,
-    "phase_average_position": 0.70,
     "leverage": false,
-    "shorting": false
-  }
+    "shorting": false,
+    "maximum_position": 1.0,
+    "phase_max_drawdown": null,
+    "phase_average_position": null
+  },
+  "research_cost_per_side": 0.003,
+  "selection_period": "2009-03-15 through 2020-12-31",
+  "validation": "基准1/verification-2012-2021/summary.json",
+  "previous_version_archive": "archive/baseline1-before-2026-10-30",
+  "daily_command": "python scripts/daily/update_active_baseline.py YYYY-MM-DD"
 }

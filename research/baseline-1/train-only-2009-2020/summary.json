@@ -1,0 +1,224 @@
+{
+  "start": "2009-03-15",
+  "end": "2020-12-31",
+  "count": 672,
+  "outperform_count": 4,
+  "best": {
+    "id": 523,
+    "parameters": {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    "return_pct": 137.1807072242241,
+    "cagr_pct": 7.595323168798651,
+    "max_drawdown_pct": -28.402632635573642,
+    "average_weight_pct": 58.20760410380205,
+    "trades": 24.0
+  },
+  "hold": {
+    "id": 673,
+    "parameters": "hold",
+    "return_pct": 104.06298571884452,
+    "cagr_pct": 6.232400222655765,
+    "max_drawdown_pct": -44.57001784464107,
+    "average_weight_pct": 100.0,
+    "trades": 1.0
+  },
+  "baseline": {
+    "id": 672,
+    "parameters": "baseline",
+    "return_pct": 63.06453721611616,
+    "cagr_pct": 4.231871908202867,
+    "max_drawdown_pct": -34.449490373418904,
+    "average_weight_pct": 51.83888722323668,
+    "trades": 71.0
+  },
+  "top10": [
+    {
+      "id": 523,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 120,
+        "fast": 20,
+        "buffer": 0.02,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 137.1807072242241,
+      "cagr_pct": 7.595323168798651,
+      "max_drawdown_pct": -28.402632635573642,
+      "average_weight_pct": 58.20760410380205,
+      "trades": 24.0
+    },
+    {
+      "id": 511,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 120,
+        "fast": 10,
+        "buffer": 0.02,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 114.24184400284601,
+      "cagr_pct": 6.671627113110623,
+      "max_drawdown_pct": -24.97868969667274,
+      "average_weight_pct": 56.84972842486421,
+      "trades": 28.0
+    },
+    {
+      "id": 469,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 90,
+        "fast": 20,
+        "buffer": 0,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 111.40331877791563,
+      "cagr_pct": 6.551096139693668,
+      "max_drawdown_pct": -25.86810637506187,
+      "average_weight_pct": 54.345202172601084,
+      "trades": 58.0
+    },
+    {
+      "id": 553,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 180,
+        "fast": 10,
+        "buffer": 0,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 104.80414211739952,
+      "cagr_pct": 6.265051155618773,
+      "max_drawdown_pct": -25.132965020708433,
+      "average_weight_pct": 57.392878696439354,
+      "trades": 41.0
+    },
+    {
+      "id": 526,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 120,
+        "fast": 20,
+        "buffer": 0.04,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 102.05187439095886,
+      "cagr_pct": 6.143252713446512,
+      "max_drawdown_pct": -29.220097421749557,
+      "average_weight_pct": 56.15570307785154,
+      "trades": 22.0
+    },
+    {
+      "id": 637,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 300,
+        "fast": 5,
+        "buffer": 0,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 101.07599173970998,
+      "cagr_pct": 6.0997012621447855,
+      "max_drawdown_pct": -25.531307451394724,
+      "average_weight_pct": 53.10802655401328,
+      "trades": 45.0
+    },
+    {
+      "id": 529,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 180,
+        "fast": 1,
+        "buffer": 0,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 100.71317893716802,
+      "cagr_pct": 6.083460397736995,
+      "max_drawdown_pct": -26.991515400041166,
+      "average_weight_pct": 56.397103198551605,
+      "trades": 73.0
+    },
+    {
+      "id": 622,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 240,
+        "fast": 20,
+        "buffer": 0.04,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 100.01334297795003,
+      "cagr_pct": 6.052057066258176,
+      "max_drawdown_pct": -24.42456291611045,
+      "average_weight_pct": 49.54737477368739,
+      "trades": 20.0
+    },
+    {
+      "id": 514,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 120,
+        "fast": 10,
+        "buffer": 0.04,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 100.00794969134023,
+      "cagr_pct": 6.051814666200994,
+      "max_drawdown_pct": -27.537107887232025,
+      "average_weight_pct": 55.52202776101388,
+      "trades": 20.0
+    },
+    {
+      "id": 481,
+      "parameters": {
+        "method": "daily_ma",
+        "slow": 120,
+        "fast": 1,
+        "buffer": 0,
+        "trailing_stop": 0.08,
+        "cooldown": 5
+      },
+      "return_pct": 99.48802516091158,
+      "cagr_pct": 6.0284186417380425,
+      "max_drawdown_pct": -23.51890854495623,
+      "average_weight_pct": 54.82800241400121,
+      "trades": 100.0
+    }
+  ],
+  "triple_cost": {
+    "best": {
+      "return_pct": 131.55612907281653,
+      "cagr_pct": 7.376659234090144,
+      "max_drawdown_pct": -29.04418957577303,
+      "average_weight_pct": 58.20760410380205,
+      "trades": 24.0
+    },
+    "hold": {
+      "return_pct": 103.85922836915023,
+      "cagr_pct": 6.223404867904159,
+      "max_drawdown_pct": -44.570017844641086,
+      "average_weight_pct": 100.0,
+      "trades": 1.0
+    }
+  },
+  "limitations": [
+    "Training winner only, no post-2020 evaluation",
+    "USD spot close signal, next observed open; assumed 5bp cost",
+    "Includes Sunday short sessions; no cash interest",
+    "Many parameter trials imply selection bias"
+  ]
+}

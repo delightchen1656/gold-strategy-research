@@ -1,0 +1,28 @@
+{
+  "asof": "2026-10-22",
+  "observed_through": "2026-10-21",
+  "last_am": 4123.25,
+  "ma120": 4288.9495,
+  "static_trend_entry": 4374.7284899999995,
+  "next_observation_trend_entry": 4373.069026727181,
+  "constant_future_am_scenario_min_price": 4353.704468884129,
+  "scenario_observation_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-11-02"
+  ],
+  "scenario_target_at_min_plus_1": 0.6000000000000001,
+  "scenarios": {
+    "4300": 0.0,
+    "4350": 0.0,
+    "4375": 0.55,
+    "4400": 0.55,
+    "4450": 0.5
+  },
+  "note": "Hypothetical constant AM prices on weekdays through November 2; not forecast or guaranteed trading calendar. Signal mapped to November 3; parameters unchanged."
+}

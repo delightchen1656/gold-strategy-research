@@ -1,0 +1,431 @@
+{
+  "configs": [
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 60,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 4.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 6.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.0,
+      "mode": "blend"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "standalone"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "agreement"
+    },
+    {
+      "method": "cusum",
+      "vol_window": 120,
+      "threshold": 8.0,
+      "drift": 0.1,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 3.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 3.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 3.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 5.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 5.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 5.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 7.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 7.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 20,
+      "multiple": 7.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 3.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 3.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 3.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 5.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 5.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 5.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 7.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 7.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 40,
+      "multiple": 7.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 3.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 3.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 3.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 5.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 5.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 5.0,
+      "mode": "blend"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 7.0,
+      "mode": "standalone"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 7.0,
+      "mode": "agreement"
+    },
+    {
+      "method": "atr_trend",
+      "atr_window": 60,
+      "multiple": 7.0,
+      "mode": "blend"
+    }
+  ],
+  "count": 63,
+  "cost": 0.003,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "fit_end": "2016-12-31",
+  "internal_test": "2017-01-01 through 2020-12-31",
+  "selection": "Fit-period highest return among candidates with return above baseline AND maxDD below baseline. If none qualify, highest-return candidate is retained only for diagnosis.",
+  "acceptance": "Selected candidate must also beat baseline return and maxDD in internal test, at base cost and double cost, before further validation. No grid expansion after test.",
+  "method_notes": [
+    "CUSUM accumulates signed log returns normalized by strictly prior rolling volatility, switching at fixed thresholds.",
+    "ATR trend uses causal high/low midpoint and trailing ATR bands; only real next-open prices execute.",
+    "All new modules wait 120 observations; mode standalone, baseline agreement, or fixed half-allocation. No fitted polynomial, no leverage."
+  ],
+  "caveat": "2017-2020 is a chronological check within repeatedly seen development data, not pristine unseen OOS. No post2020 access."
+}

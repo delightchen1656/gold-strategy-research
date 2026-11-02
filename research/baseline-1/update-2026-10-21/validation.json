@@ -1,0 +1,12 @@
+{
+  "notify": false,
+  "target_changed": false,
+  "target_weight": 0,
+  "common_cutoff": "2026-10-20",
+  "future_perturbation_check_passed": true,
+  "same_costs": true,
+  "candidate_promoted": false,
+  "validated_compliance": false,
+  "early_candidate_2019_average_weight_pct": 74.75512801121424,
+  "candidate_status": "lower_return_and_annual_exposure_limit_not_universal"
+}

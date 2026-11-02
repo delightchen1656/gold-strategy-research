@@ -1,0 +1,9178 @@
+{
+  "count": 1074,
+  "parameters": [
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 20,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 40,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 60,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 90,
+      "exit": 60,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 10,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 20,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 40,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 100,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "breakout",
+      "entry": 120,
+      "exit": 60,
+      "trend": 200,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 10,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 20,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 80,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 120,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 180,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.01,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "ema_trend",
+      "fast": 40,
+      "slow": 240,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 80,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 120,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 3,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 5,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 20,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 40,
+      "atr": 8,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 4,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 6,
+      "cooldown": 5
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 0
+    },
+    {
+      "method": "pullback_recovery",
+      "trend": 200,
+      "recovery": 10,
+      "exit": 60,
+      "atr": 8,
+      "cooldown": 5
+    }
+  ],
+  "train_only": true,
+  "cost": 0.0005,
+  "no_leverage": true,
+  "no_short": true,
+  "input_hash": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7"
+}

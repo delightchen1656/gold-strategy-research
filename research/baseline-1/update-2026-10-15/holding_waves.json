@@ -1,0 +1,230 @@
+{
+  "source": "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-15",
+  "definition": "Actual positive holdings until actual holdings return to zero; net equity change includes costs and pending redemption receivables. Return denominator is total portfolio equity before first buy, not cumulative purchases.",
+  "products": {
+    "fund": [
+      {
+        "buy_date": "2021-06-02",
+        "starting_equity": 50000.0,
+        "sell_date": "2021-07-02",
+        "ending_equity": 47803.5164115028,
+        "net_pnl": -2196.483588497198,
+        "return_pct": -4.392967176994396,
+        "cost": 74.8876684973,
+        "trade_days": 2,
+        "calendar_days": 30
+      },
+      {
+        "buy_date": "2021-12-02",
+        "starting_equity": 47803.5164115028,
+        "sell_date": "2022-06-02",
+        "ending_equity": 51303.3474335407,
+        "net_pnl": 3499.831022037899,
+        "return_pct": 7.321283630916629,
+        "cost": 78.97869196220002,
+        "trade_days": 6,
+        "calendar_days": 182
+      },
+      {
+        "buy_date": "2022-12-02",
+        "starting_equity": 51303.3474335407,
+        "sell_date": "2023-09-04",
+        "ending_equity": 56205.8253781028,
+        "net_pnl": 4902.4779445621025,
+        "return_pct": 9.555863681045107,
+        "cost": 92.9690414379,
+        "trade_days": 8,
+        "calendar_days": 276
+      },
+      {
+        "buy_date": "2023-11-02",
+        "starting_equity": 56205.8253781028,
+        "sell_date": "2024-05-20",
+        "ending_equity": 65590.1083134114,
+        "net_pnl": 9384.282935308598,
+        "return_pct": 16.69628169710077,
+        "cost": 96.91620569150001,
+        "trade_days": 7,
+        "calendar_days": 200
+      },
+      {
+        "buy_date": "2024-05-21",
+        "starting_equity": 65590.1083134114,
+        "sell_date": "2024-05-23",
+        "ending_equity": 64141.7492242039,
+        "net_pnl": -1448.3590892075008,
+        "return_pct": -2.208197434721038,
+        "cost": 637.1741692075001,
+        "trade_days": 2,
+        "calendar_days": 2
+      },
+      {
+        "buy_date": "2024-09-03",
+        "starting_equity": 64141.7492242039,
+        "sell_date": "2025-04-23",
+        "ending_equity": 85144.1394844371,
+        "net_pnl": 21002.390260233195,
+        "return_pct": 32.743712970503054,
+        "cost": 126.9974887669,
+        "trade_days": 6,
+        "calendar_days": 232
+      },
+      {
+        "buy_date": "2025-04-24",
+        "starting_equity": 85144.1394844371,
+        "sell_date": "2025-10-17",
+        "ending_equity": 105487.3563970736,
+        "net_pnl": 20343.216912636504,
+        "return_pct": 23.892680149001798,
+        "cost": 354.4052743634,
+        "trade_days": 8,
+        "calendar_days": 176
+      },
+      {
+        "buy_date": "2025-10-23",
+        "starting_equity": 105487.3563970736,
+        "sell_date": "2026-01-27",
+        "ending_equity": 116478.5882155676,
+        "net_pnl": 10991.231818493994,
+        "return_pct": 10.419477929772928,
+        "cost": 493.503880506,
+        "trade_days": 5,
+        "calendar_days": 96
+      },
+      {
+        "buy_date": "2026-02-02",
+        "starting_equity": 116478.5882155676,
+        "sell_date": "2026-02-04",
+        "ending_equity": 124440.6203934178,
+        "net_pnl": 7962.032177850211,
+        "return_pct": 6.835618717420262,
+        "cost": 1389.5056171499,
+        "trade_days": 2,
+        "calendar_days": 2
+      },
+      {
+        "buy_date": "2026-03-03",
+        "starting_equity": 124440.6203934178,
+        "sell_date": "2026-03-20",
+        "ending_equity": 119745.7151404266,
+        "net_pnl": -4694.9052529912005,
+        "return_pct": -3.772807655690163,
+        "cost": 220.2860689911,
+        "trade_days": 2,
+        "calendar_days": 17
+      }
+    ],
+    "cmb": [
+      {
+        "buy_date": "2021-06-02",
+        "starting_equity": 50000.0,
+        "sell_date": "2021-07-02",
+        "ending_equity": 47052.4591655596,
+        "net_pnl": -2947.5408344403986,
+        "return_pct": -5.895081668880797,
+        "cost": 638.6785,
+        "trade_days": 2,
+        "calendar_days": 30
+      },
+      {
+        "buy_date": "2021-12-02",
+        "starting_equity": 47052.4591655596,
+        "sell_date": "2022-06-06",
+        "ending_equity": 50213.3731180455,
+        "net_pnl": 3160.9139524858983,
+        "return_pct": 6.717850689512001,
+        "cost": 699.9639999999999,
+        "trade_days": 6,
+        "calendar_days": 186
+      },
+      {
+        "buy_date": "2022-12-02",
+        "starting_equity": 50213.3731180455,
+        "sell_date": "2023-09-04",
+        "ending_equity": 52482.4734986811,
+        "net_pnl": 2269.100380635602,
+        "return_pct": 4.518916455385749,
+        "cost": 718.7555,
+        "trade_days": 8,
+        "calendar_days": 276
+      },
+      {
+        "buy_date": "2023-11-02",
+        "starting_equity": 52482.4734986811,
+        "sell_date": "2024-05-20",
+        "ending_equity": 61356.5823425624,
+        "net_pnl": 8874.108843881295,
+        "return_pct": 16.90870923624494,
+        "cost": 640.6835,
+        "trade_days": 7,
+        "calendar_days": 200
+      },
+      {
+        "buy_date": "2024-05-21",
+        "starting_equity": 61356.5823425624,
+        "sell_date": "2024-05-22",
+        "ending_equity": 61017.9011999667,
+        "net_pnl": -338.6811425956985,
+        "return_pct": -0.5519882784617862,
+        "cost": 326.09,
+        "trade_days": 2,
+        "calendar_days": 1
+      },
+      {
+        "buy_date": "2024-09-03",
+        "starting_equity": 61017.9011999667,
+        "sell_date": "2025-04-23",
+        "ending_equity": 80386.2064315841,
+        "net_pnl": 19368.3052316174,
+        "return_pct": 31.742004970220066,
+        "cost": 674.882,
+        "trade_days": 6,
+        "calendar_days": 232
+      },
+      {
+        "buy_date": "2025-04-24",
+        "starting_equity": 80386.2064315841,
+        "sell_date": "2025-10-17",
+        "ending_equity": 100591.1424967694,
+        "net_pnl": 20204.936065185306,
+        "return_pct": 25.134829670537478,
+        "cost": 742.3040000000001,
+        "trade_days": 8,
+        "calendar_days": 176
+      },
+      {
+        "buy_date": "2025-10-23",
+        "starting_equity": 100591.1424967694,
+        "sell_date": "2026-01-27",
+        "ending_equity": 110676.0661327779,
+        "net_pnl": 10084.92363600849,
+        "return_pct": 10.025657712688151,
+        "cost": 574.9395000000001,
+        "trade_days": 5,
+        "calendar_days": 96
+      },
+      {
+        "buy_date": "2026-02-02",
+        "starting_equity": 110676.0661327779,
+        "sell_date": "2026-02-03",
+        "ending_equity": 113930.9339350669,
+        "net_pnl": 3254.867802289009,
+        "return_pct": 2.9408958196834982,
+        "cost": 342.698,
+        "trade_days": 2,
+        "calendar_days": 1
+      },
+      {
+        "buy_date": "2026-03-03",
+        "starting_equity": 113930.9339350669,
+        "sell_date": "2026-03-20",
+        "ending_equity": 109868.2701015923,
+        "net_pnl": -4062.6638334746094,
+        "return_pct": -3.5659005795476575,
+        "cost": 146.313,
+        "trade_days": 2,
+        "calendar_days": 17
+      }
+    ]
+  }
+}

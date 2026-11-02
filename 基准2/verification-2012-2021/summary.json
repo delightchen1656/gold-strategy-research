@@ -1,0 +1,31 @@
+{
+  "strategy": "基准2",
+  "start": "2012-01-02",
+  "end": "2021-12-31",
+  "warmup_bars": 2605,
+  "cost_per_side": 0.003,
+  "results": {
+    "strategy": {
+      "return_pct": 58.35351168714353,
+      "cagr_pct": 4.705855973426121,
+      "max_drawdown_pct": 20.906920728749235,
+      "average_weight_pct": 66.98717948717949,
+      "excess_return_pp": 42.09281368806117,
+      "excess_cagr_pp": 3.1871716034078457
+    },
+    "london_hold": {
+      "return_pct": 16.260697999082364,
+      "cagr_pct": 1.518684370018275,
+      "max_drawdown_pct": 41.17798210235842,
+      "average_weight_pct": 100.0,
+      "excess_return_pp": 0.0,
+      "excess_cagr_pp": 0.0
+    }
+  },
+  "source": "C:\\Users\\22241\\Desktop\\quant\\K线数据\\黄金\\snapshots\\20261101T162434468258Z\\daily.parquet",
+  "source_sha256": "6a7a642d5cb84df7e659e11502d9bd04bc6efb443ccc3b13314ac380b17829f6",
+  "config_sha256": "030be5c2667fca59cbd4a3ae285d784c63d6d2f9a087558893e0b350726225c0",
+  "signal_date": "2026-10-29",
+  "target_weight": 0.0,
+  "note": "Spot simulation, next observed open. History previously viewed; no product execution claim."
+}

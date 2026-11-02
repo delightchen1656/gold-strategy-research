@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-31T10:30:58.144886+08:00",
+  "rule": "v1",
+  "snapshot": "C:\\Users\\22241\\Desktop\\quant\\hushen_kline_viewer\\gold_data\\snapshots\\20261030T130928Z\\MANIFEST.json",
+  "manifest_sha256": "e8a779a4e91a5859e4ded0e00ccc4aaa8765034fc04490f65e2ff2e3d35bd7c3",
+  "data_sha256": "51d4b31795cc7f84183732ae117aa94360bb9855d52963c9ce1ce70d3cd2fd00",
+  "gold": {
+    "date": "2026-10-29",
+    "close": 4007.8554,
+    "low": 4005.055,
+    "high": 4069.12,
+    "status": "未满足（最新收盘低于4100，当前无有效回调确认）",
+    "stale": true
+  },
+  "macro": {
+    "DFII10": {
+      "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10&cosd=2026-08-01&coed=2026-10-30",
+      "sha256": "18afdfb068dfda421818fd63b024a942e466afad6078afaa7888d994602456cd",
+      "n": 62,
+      "date": "2026-10-29",
+      "value": 2.63,
+      "last5mean": 2.652,
+      "previous5mean": 2.742,
+      "last20mean": 2.7915,
+      "consecutive_new_observations": 0,
+      "status": "未满足",
+      "last3_tests": [
+        {
+          "date": "2026-10-27",
+          "meets": false
+        },
+        {
+          "date": "2026-10-28",
+          "meets": false
+        },
+        {
+          "date": "2026-10-29",
+          "meets": false
+        }
+      ],
+      "fred_updated": "2026-10-30 15:16 CDT / 2026-10-31 04:16 北京时间"
+    },
+    "DTWEXBGS": {
+      "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS&cosd=2026-08-01&coed=2026-10-30",
+      "sha256": "bda94a6fdad3881b2eea9550cbf67658c0423e1ddc04acbf2a6010f6c6dc10f0",
+      "n": 58,
+      "date": "2026-10-23",
+      "value": 121.3202,
+      "last5mean": 121.29126,
+      "previous5mean": 121.60467999999999,
+      "last20mean": 121.277425,
+      "consecutive_new_observations": 0,
+      "status": "未满足",
+      "last3_tests": [
+        {
+          "date": "2026-10-21",
+          "meets": false
+        },
+        {
+          "date": "2026-10-22",
+          "meets": false
+        },
+        {
+          "date": "2026-10-23",
+          "meets": false
+        }
+      ],
+      "fred_updated": "2026-10-26 15:16 CDT / 2026-10-27 04:16 北京时间"
+    }
+  },
+  "overall": "未确认；本地金价缺10月30日，不能评价最新完整日线"
+}

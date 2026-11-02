@@ -1,0 +1,698 @@
+{
+  "time": "2026-11-01T18:04:07.844963+00:00",
+  "modules": [
+    {
+      "method": "hmm",
+      "stay": 0.95
+    },
+    {
+      "method": "hmm",
+      "stay": 0.98
+    },
+    {
+      "method": "hmm",
+      "stay": 0.995
+    },
+    {
+      "method": "rank_trend",
+      "n": 60
+    },
+    {
+      "method": "rank_trend",
+      "n": 120
+    },
+    {
+      "method": "rank_trend",
+      "n": 240
+    },
+    {
+      "method": "sequential",
+      "decay": 0.95
+    },
+    {
+      "method": "sequential",
+      "decay": 0.98
+    },
+    {
+      "method": "sequential",
+      "decay": 0.995
+    }
+  ],
+  "combinations": [
+    {
+      "members": [
+        0
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        0,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        1,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        1,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        3
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        3
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        4
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        4
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        5
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        5
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        2,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        2,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        3,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        3,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        4,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        4,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        6
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        6
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        7
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        7
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        5,
+        8
+      ],
+      "mode": "union"
+    },
+    {
+      "members": [
+        5,
+        8
+      ],
+      "mode": "blend"
+    },
+    {
+      "members": [
+        0,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        0,
+        5,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        1,
+        5,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        3,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        4,
+        8
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        6
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        7
+      ],
+      "mode": "majority"
+    },
+    {
+      "members": [
+        2,
+        5,
+        8
+      ],
+      "mode": "majority"
+    }
+  ],
+  "count": 90,
+  "cost": 0.003,
+  "primary": "Training return >= baseline return +10 percentage points; DD < baseline. Also report relative return +10% and terminal-wealth +10% separately.",
+  "execution": "Long/cash; next observed open; cost .003; no interest/leverage/terminal liquidation. Fixed 10% trailing stop and cooldown5 per module. HMM forward-only fixed Gaussian normalized means [-.25,0,.25], unit SD, posterior bull>.65 enter bear>.5 exit, previous-bar EW60 volatility. Rank correlation>.6 enter <0 exit. Decayed likelihood ratio bounds +/-log(9). No probabilities claimed calibrated. Union has no shared stop.",
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "code_sha256": "641c6822834b858e1920f58ab61af2950549d170aebc2d383b618b0a3a4dbee7",
+  "search_limit": "One fixed batch; no follow-up parameter additions. Repeated prior research causes selection bias; internal folds are diagnostics, not unseen OOS."
+}

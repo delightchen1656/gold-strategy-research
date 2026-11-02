@@ -1,0 +1,20 @@
+{
+  "historical_replay_matches": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "notify": true,
+  "reason": "Rolling 12-month exposure exceeds 70% in 14 of 57 overlapping windows for both products; fixed three phases still pass.",
+  "gold_date": "2026-10-12",
+  "fund_date": "2026-10-12",
+  "fx_raw_latest_date": "2026-10-13",
+  "common_cutoff": "2026-10-09",
+  "target_weight": 0.0,
+  "baseline_config_sha256": "cd3b58dbc6d5d423633e4ab6342ce75475d2c315f54aca5681938ae9f6c2be4b",
+  "fx_usable_date": "2026-10-09",
+  "missing_fx_dates": [
+    "2026-10-12"
+  ],
+  "data_limitation": "FX daily bar absent for October 12; October 13 intraday excluded; common valuation remains October 9.",
+  "manual_refresh": "2026-10-13 10:02 Asia/Shanghai",
+  "fx_crosscheck": "Second Yahoo endpoint and 1mo query also lacks October 12 daily bar; raw response saved."
+}

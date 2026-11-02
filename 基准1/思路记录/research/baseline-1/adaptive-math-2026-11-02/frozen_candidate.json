@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "method": "quadratic",
+    "n": 90,
+    "threshold": 0.05,
+    "r2": 0.5,
+    "stop": 0.08,
+    "review": "weekly",
+    "mode": "previous_union"
+  },
+  "base_parameters": {
+    "method": "ma_plus_breakout",
+    "slow": 120,
+    "fast": 20,
+    "buffer": 0.02,
+    "exit_buffer": 0.02,
+    "breakout": 90,
+    "entry_mode": "either",
+    "stop": 0.08,
+    "cooldown": 5,
+    "reentry_filter": "none"
+  },
+  "previous_parameters": {
+    "method": "regression_trend",
+    "horizon": 120,
+    "r2": 0.1,
+    "slope": 0.05,
+    "stop": 0.08,
+    "mode": "union"
+  },
+  "training_only": true
+}

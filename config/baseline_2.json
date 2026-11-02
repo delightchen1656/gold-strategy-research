@@ -1,0 +1,44 @@
+{
+  "name": "基准2",
+  "version": "2026-11-02-historical-enhancement",
+  "status": "user_registered_comparison_baseline",
+  "definition": "Frozen baseline1 OR linear120 regression OR quadratic90 weekly module; any module on -> 100%, all off -> cash.",
+  "components": {
+    "parameters": {
+      "method": "quadratic",
+      "n": 90,
+      "threshold": 0.05,
+      "r2": 0.5,
+      "stop": 0.08,
+      "review": "weekly",
+      "mode": "previous_union"
+    },
+    "base_parameters": {
+      "method": "ma_plus_breakout",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "exit_buffer": 0.02,
+      "breakout": 90,
+      "entry_mode": "either",
+      "stop": 0.08,
+      "cooldown": 5,
+      "reentry_filter": "none"
+    },
+    "previous_parameters": {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08,
+      "mode": "union"
+    },
+    "training_only": true
+  },
+  "research_cost_per_side": 0.003,
+  "source": "research\\baseline-1\\adaptive-math-2026-11-02\\frozen_candidate.json",
+  "source_sha256": "e55d1265e0d6df86fc06b31686e25a8fa4fcbd1d71378d42e1bfc46f6cfb20d3",
+  "execution": "Completed daily close signals, next observed open in spot simulation; not fund or bank execution.",
+  "validation": "2009-2020 development; external history previously inspected; not pristine OOS.",
+  "daily_default": "Baseline1 remains daily default; registration does not switch live execution."
+}

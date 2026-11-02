@@ -1,0 +1,8 @@
+{
+  "training_only": "2009-03-15 to 2020-12-31",
+  "new_trials": 648,
+  "baseline_unchanged": true,
+  "decision": "No replacement: all new families have lower training return than active baseline.",
+  "round6": "train-only-round6-2009-2020/summary.json",
+  "round7": "train-only-round7-2009-2020/summary.json"
+}

@@ -1,0 +1,30 @@
+{
+  "checked_on": "2026-10-03",
+  "checks": [
+    {
+      "event_id": "employment-2023-10-06",
+      "source_url": "https://www.bls.gov/news.release/archives/empsit_10062023.htm",
+      "verified_facts": {
+        "published_at": "2023-10-06T08:30:00-04:00",
+        "payroll_change_first_release_persons": 336000,
+        "unemployment_rate_percent": 3.8,
+        "average_hourly_earnings_monthly_percent": 0.2,
+        "next_scheduled_release": "2023-11-03T08:30:00-04:00"
+      },
+      "status": "archived_release_facts_read",
+      "not_yet_verified": ["事前市场共识的完整原文与发布时间", "本次预测前的连续行情与事件边界分钟", "下一事件首次可靠公开时刻"]
+    },
+    {
+      "event_id": "employment-2023-10-06",
+      "source_url": "https://finance.yahoo.com/news/wrapup-1-moderate-us-job-040001936.html",
+      "status": "search_lead_only_full_page_unavailable",
+      "note": "搜索发现Reuters事前预览及170000预期线索，但全文打开失败；不将搜索摘要直接升级为原文版本已核实。"
+    },
+    {
+      "event_id": "conflict-2023-10-07",
+      "source_url": "https://apnews.com/article/11fb98655c256d54ecb5329284fc37d2",
+      "status": "updated_body_not_first_version",
+      "note": "检索时间显示事件日早间，正文同时含夜间和次日进展，存在版本混用风险，禁止整体倒填到早间。"
+    }
+  ]
+}

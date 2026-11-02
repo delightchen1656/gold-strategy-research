@@ -1,0 +1,11 @@
+{
+  "parameters": {
+    "method": "regression_trend",
+    "horizon": 180,
+    "r2": 0.3,
+    "slope": 0.1,
+    "stop": 0.08
+  },
+  "id": 219,
+  "training_only": true
+}

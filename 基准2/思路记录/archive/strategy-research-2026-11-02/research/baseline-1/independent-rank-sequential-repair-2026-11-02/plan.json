@@ -1,0 +1,248 @@
+{
+  "time": "2026-11-01T18:09:49.706853+00:00",
+  "candidates": [
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.0,
+      "reentry": "breakout20",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "breakout20",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "breakout20",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.0,
+      "reentry": "breakout20",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 0.5,
+      "reentry": "breakout20",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "level",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "fresh_edge",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "fresh_edge",
+      "stop": 0.1
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "breakout20",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "confirm3",
+      "disagreement_weight": 1.0,
+      "reentry": "breakout20",
+      "stop": 0.1
+    }
+  ],
+  "ablation_controls": [
+    {
+      "confirmation": "none",
+      "disagreement_weight": 1.0,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "level",
+      "stop": 0.08
+    },
+    {
+      "confirmation": "none",
+      "disagreement_weight": 0.5,
+      "reentry": "breakout20",
+      "stop": 0.08
+    }
+  ],
+  "count": 36,
+  "fixed_models": "Rank120 enter rho>.6 exit rho<0. Sequential decay .995, previous-bar EW60 volatility, bounds +/-log9. Settings unchanged. Shared price-peak stop replaces constituent stops. Three-bar entry confirmation does not trigger exits.",
+  "gate": "Return >= baseline+10pp AND maxDD below BOTH old independent ensemble and baseline.",
+  "execution": "Long/cash, next observed open, single-side cost .003, five-observation cooldown. Global stop tracks price peak across exposure changes; not guaranteed account-DD cap. No cash interest or terminal liquidation.",
+  "scope": "Only isolated 2009-2020 data loaded. External-period findings motivated these hypotheses, so chronological diagnostics are not pristine OOS. No grid expansion after outcomes.",
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "code_sha256": "29d7e1e0f333f0f90b5fa75e9e6386791e05abd8227099071013ab9244a6f8e0"
+}

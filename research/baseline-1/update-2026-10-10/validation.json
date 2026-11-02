@@ -1,0 +1,16 @@
+{
+  "historical_replay_matches": true,
+  "early_future_perturbation_passed": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "candidate_status": "lower_return_early_drawdown_still_above_15_not_adopted",
+  "notify": false,
+  "gold_date": "2026-10-09",
+  "fund_date": "2026-10-09",
+  "common_cutoff": "2026-10-09",
+  "target_weight": 0.0,
+  "collection_note": "Actual run after 17:05 Asia/Shanghai, not 10:00; sources.json records fetch timestamps.",
+  "fx_raw_latest_date": "2026-10-10",
+  "fx_usable_date": "2026-10-09",
+  "fx_note": "Raw includes current-day quote dated October 10; excluded by date < asof rule."
+}

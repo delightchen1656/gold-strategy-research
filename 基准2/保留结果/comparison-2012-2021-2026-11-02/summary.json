@@ -1,0 +1,45 @@
+{
+  "cost_per_side": 0.003,
+  "windows": {
+    "2012_2021": {
+      "requested_start": "2012-01-01",
+      "requested_end": "2021-12-31",
+      "start": "2012-01-02",
+      "end": "2021-12-31",
+      "warmup_bars": 2605,
+      "results": {
+        "baseline_1": {
+          "return_pct": 23.35451806300579,
+          "cagr_pct": 2.1219857828980615,
+          "max_drawdown_pct": 24.79116862437919,
+          "average_weight_pct": 51.103988603988604,
+          "excess_return_pp": 7.0938200639234275,
+          "excess_cagr_pp": 0.6033014128797864,
+          "trade_events": 21
+        },
+        "baseline_2": {
+          "return_pct": 58.35351168714353,
+          "cagr_pct": 4.705855973426121,
+          "max_drawdown_pct": 20.906920728749235,
+          "average_weight_pct": 66.98717948717949,
+          "excess_return_pp": 42.09281368806117,
+          "excess_cagr_pp": 3.1871716034078457,
+          "trade_events": 37
+        },
+        "london_hold": {
+          "return_pct": 16.260697999082364,
+          "cagr_pct": 1.518684370018275,
+          "max_drawdown_pct": 41.17798210235842,
+          "average_weight_pct": 100.0,
+          "excess_return_pp": 0.0,
+          "excess_cagr_pp": 0.0,
+          "trade_events": 1
+        }
+      }
+    }
+  },
+  "source": "C:\\Users\\22241\\Desktop\\quant\\K线数据\\黄金\\snapshots\\20261101T162434468258Z\\daily.parquet",
+  "source_sha256": "6a7a642d5cb84df7e659e11502d9bd04bc6efb443ccc3b13314ac380b17829f6",
+  "parameters_unchanged": true,
+  "methodology": "Prior history warmup; initial cash1; next bar open; no terminal liquidation; previously inspected history."
+}

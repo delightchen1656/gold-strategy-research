@@ -1,0 +1,178 @@
+{
+  "as_of": "2026-10-03T10:35:25+08:00",
+  "full_backtest_complete": false,
+  "latest_reconstruction": {
+    "directory": "scenario-reconstruction-v1",
+    "events": 14,
+    "scenario_sets": 28,
+    "mature_horizons": 26,
+    "pending_horizons": 2,
+    "role": "partial_structured_subjective_reconstruction",
+    "strict_blind_backtest": false,
+    "full_original_framework": false,
+    "other_candidates_pending": 349,
+    "display": "scenario-reconstruction-v1/区间与置信度.html"
+  },
+  "scope": "independent_backtest_no_live_module_writes",
+  "original_module_reconstruction_complete": false,
+  "engine_role": "simplified_comparator_not_original_module",
+  "historical_bls_candidates": 153,
+  "by_category": {
+    "employment_jolts": 36,
+    "employment": 36,
+    "inflation_ppi": 34,
+    "inflation_cpi": 35,
+    "employment_cost": 12
+  },
+  "shock_candidates": 3,
+  "certified_event_forecasts": 0,
+  "parse_errors": 0,
+  "prices": {
+    "status": "boundary_minutes_and_independent_audit_pending",
+    "bars_raw": 14664,
+    "zero_volume_bars": 4728,
+    "volume_metadata_missing": 0,
+    "months_ok": 20,
+    "months_missing": [
+      {
+        "year": 2023,
+        "month": 2,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2023,
+        "month": 7,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2023,
+        "month": 8,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "error": "curl: (28) Connection timed out after 12002 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "error": "curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "error": "curl: (28) Connection timed out after 12004 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "error": "curl: (28) Connection timed out after 12003 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "error": "curl: (28) Connection timed out after 12002 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "error": "curl: (28) Connection timed out after 12004 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "error": "curl: (28) Connection timed out after 12005 milliseconds\r\n"
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "error": "curl: (28) Connection timed out after 12007 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "error": "curl: (28) Connection timed out after 12002 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "error": "curl: (28) Connection timed out after 12009 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "error": "curl: (28) Connection timed out after 12012 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "error": "curl: (28) Connection timed out after 12008 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "error": "curl: (28) Connection timed out after 12008 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "error": "curl: (28) Connection timed out after 12011 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "error": "curl: (28) Connection timed out after 12009 milliseconds\r\n"
+      },
+      {
+        "year": 2025,
+        "month": 11,
+        "error": "curl: (28) Connection timed out after 12002 milliseconds\r\n"
+      },
+      {
+        "year": 2026,
+        "month": 1,
+        "error": "curl: (28) Connection timed out after 12002 milliseconds\r\n"
+      },
+      {
+        "year": 2026,
+        "month": 2,
+        "error": "curl: (28) Connection timed out after 12010 milliseconds\r\n"
+      },
+      {
+        "year": 2026,
+        "month": 5,
+        "error": "curl: (28) Connection timed out after 12003 milliseconds\r\n"
+      },
+      {
+        "year": 2026,
+        "month": 8,
+        "error": "curl: (28) Connection timed out after 12001 milliseconds\r\n"
+      },
+      {
+        "year": 2026,
+        "month": 10,
+        "error": "curl: (28) Connection timed out after 12001 milliseconds\r\n"
+      }
+    ],
+    "first_bar": "2023-01-01T00:00:00+00:00",
+    "last_bar": "2026-10-01T00:00:00+00:00"
+  },
+  "remaining": [
+    "建立原重大事件分析框架的冻结版本与可复现重建对应表，不以简化对照模型替代",
+    "补齐FOMC及记者会、BEA、ISM、零售、初请、重要讲话和突发事件全集",
+    "核实实际首发时间和原始版本，补齐事前共识及可用时间",
+    "补齐报价缺月和事件边界分钟，剔除停市填充并审计尺度、时区与覆盖",
+    "盲化事件评分并冻结预测，再进行独立事件间核验与分类汇总"
+  ]
+}

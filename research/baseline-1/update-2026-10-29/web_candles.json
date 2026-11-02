@@ -1,0 +1,36 @@
+{
+  "source": "https://www.investing.com/currencies/xau-usd-historical-data",
+  "retrieved_beijing": "2026-10-29T09:56:13.103126+08:00",
+  "source_timezone": "not established; source session dates preserved",
+  "provisional_date": "2026-10-29",
+  "ohlc": {
+    "Open": 4054.99,
+    "High": 4055.82,
+    "Low": 4036.49,
+    "Price": 4038.59
+  },
+  "latest_row_change_pct": -0.7146615007153967,
+  "quote_timestamp": null,
+  "previous_session": "2026-10-28",
+  "previous_ohlc": {
+    "Open": 4059.62,
+    "High": 4082.79,
+    "Low": 4024.36,
+    "Price": 4067.66
+  },
+  "market_closed": false,
+  "latest_completed": false,
+  "window": "30 source trading sessions, including latest provisional session",
+  "session_count": 28,
+  "cached_same_source_snapshots": [
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-23\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-24\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-25\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-26\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-27\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-28\\investing_history.raw"
+  ],
+  "note": "Latest row solid only when page reports Closed; otherwise provisional. Retrieval time is not quote time. No mixed-source candles.",
+  "volume_available_sessions": 0,
+  "volume_note": "Source-reported volume only; missing values are not zero. No futures or tick-volume substitution."
+}

@@ -1,0 +1,69 @@
+{
+  "created_at": "2026-11-01T17:23:50.625445+00:00",
+  "specs": {
+    "candidate_2": {
+      "name": "稳健分块趋势",
+      "architecture": "baseline OR robust block-median trend",
+      "window": 120,
+      "blocks": 6,
+      "block_size": 20,
+      "entry_positive_pairs": 12,
+      "exit_positive_pairs": 7,
+      "annual_log_slope": 0.05,
+      "stop": 0.08,
+      "cooldown": 5
+    },
+    "candidate_3": {
+      "name": "跌后恢复状态机",
+      "architecture": "baseline OR completed drawdown-recovery episode",
+      "peak_window": 120,
+      "arm_drawdown": 0.1,
+      "rebound": 0.06,
+      "recovery_fraction": 0.5,
+      "stop": 0.08,
+      "maximum_bars": 120,
+      "cooldown": 5
+    },
+    "candidate_4": {
+      "name": "在线专家分配",
+      "architecture": "monthly exponential weights of baseline / hold / cash",
+      "lookback": 252,
+      "learning_rate": 4.0,
+      "minimum_expert_weight": 0.1,
+      "expert_cost": 0.003
+    },
+    "candidate_5": {
+      "name": "贝叶斯净收益判断",
+      "architecture": "baseline OR Bayesian positive net-return evidence",
+      "window": 252,
+      "horizon": 20,
+      "prior_mean": 0.0,
+      "prior_effective_observations": 20,
+      "entry_probability": 0.9,
+      "exit_probability": 0.5,
+      "stop": 0.08,
+      "cooldown": 5
+    }
+  },
+  "baseline": {
+    "method": "ma_plus_breakout",
+    "slow": 120,
+    "fast": 20,
+    "buffer": 0.02,
+    "exit_buffer": 0.02,
+    "breakout": 90,
+    "entry_mode": "either",
+    "stop": 0.08,
+    "cooldown": 5,
+    "reentry_filter": "none"
+  },
+  "cost_per_side": 0.003,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "script_sha256": "cd8241d1941e4491def8b0dd876e6ca37040c0805688faf61d5a3f5a8d8a27f0",
+  "train_start": "2009-03-15",
+  "train_end": "2020-12-31",
+  "versions_per_architecture": 1,
+  "gate": "return strictly greater than baseline AND max drawdown no greater than baseline; failures stop",
+  "execution": "Previous completed bar signal, next observed open; long/cash; no interest, leverage, FX, or terminal liquidation; same simulator for all",
+  "limitation": "Design informed by earlier searches; no grid in this batch does not remove accumulated selection bias. Not pristine OOS. No data after 2020 loaded."
+}

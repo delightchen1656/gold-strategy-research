@@ -1,0 +1,51 @@
+{
+  "strategy": "基准1",
+  "version": "2026-10-30-spot-breakout",
+  "signal_date": "2026-10-29",
+  "checked_at": "2026-10-31T10:04:20.027195+08:00",
+  "source": "C:\\Users\\22241\\Desktop\\quant\\hushen_kline_viewer\\gold_data\\snapshots\\20261030T130928Z\\daily.parquet",
+  "source_sha256": "51d4b31795cc7f84183732ae117aa94360bb9855d52963c9ce1ce70d3cd2fd00",
+  "price_basis": "completed Europe/London daily close; includes Sunday short sessions",
+  "close": 4007.8554,
+  "target_weight": 0.0,
+  "ma20": 4110.186845000001,
+  "ma120": 4253.149599166666,
+  "last_exit_signal_date": "2026-05-14",
+  "next_bar_ma_entry_threshold": 9547.852124096384,
+  "next_bar_breakout_entry_threshold": 4656.625,
+  "constant_future_close_entry_thresholds": {
+    "1": 4656.63,
+    "5": 4656.63,
+    "10": 4621.3,
+    "20": 4317.15
+  },
+  "scenario_note": "Hypothetical equal future closes; observation counts, not calendar days. Strictly exceed thresholds; not forecasts.",
+  "products_note": "Fund/bank positions must be recomputed with their calendars and costs; do not reuse old baseline holdings.",
+  "products": {
+    "positions": {
+      "fund": {
+        "valuation_date": "2026-10-29",
+        "simulated_actual_weight_pct": 0.0
+      },
+      "cmb": {
+        "valuation_date": "2026-10-29",
+        "simulated_actual_weight_pct": 0.0
+      }
+    },
+    "cmb_carried_valuation_no_trade_dates": [
+      "2021-04-02",
+      "2021-12-24",
+      "2022-04-15",
+      "2022-12-31",
+      "2023-04-07",
+      "2023-12-31",
+      "2024-03-29",
+      "2024-06-30",
+      "2025-04-18",
+      "2025-04-21",
+      "2025-12-25",
+      "2026-04-03"
+    ],
+    "note": "Fund actual NAV/fees; CMB CNY spot valuation proxy with 2.5 CNY/g halfspread, not bank quotes. No personal accounts. Strict prior London session signal."
+  }
+}

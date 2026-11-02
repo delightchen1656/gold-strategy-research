@@ -1,0 +1,50 @@
+{
+  "combination": {
+    "members": [
+      1,
+      5
+    ],
+    "mode": "union",
+    "shock_pause": false
+  },
+  "modules": [
+    {
+      "method": "haar",
+      "n": 20
+    },
+    {
+      "method": "haar",
+      "n": 60
+    },
+    {
+      "method": "haar",
+      "n": 120
+    },
+    {
+      "method": "huber_drift",
+      "n": 60
+    },
+    {
+      "method": "huber_drift",
+      "n": 120
+    },
+    {
+      "method": "huber_drift",
+      "n": 240
+    },
+    {
+      "method": "rls",
+      "forget": 0.97
+    },
+    {
+      "method": "rls",
+      "forget": 0.99
+    },
+    {
+      "method": "rls",
+      "forget": 0.995
+    }
+  ],
+  "passed": false,
+  "independent": true
+}

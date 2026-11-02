@@ -1,0 +1,8 @@
+{
+  "historical_replay_matches": true,
+  "early_future_perturbation_passed": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "candidate_status": "lower_risk_lower_return_not_adopted",
+  "notify": false
+}

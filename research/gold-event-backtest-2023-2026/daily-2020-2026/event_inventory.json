@@ -1,0 +1,3037 @@
+{
+  "complete": false,
+  "events": [
+    {
+      "date": "2020-01-10",
+      "title": "Employment Situation for December 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-01-14",
+      "title": "Consumer Price Index for December 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-01-15",
+      "title": "Producer Price Index for December 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-01-17",
+      "title": "Job Openings and Labor Turnover Survey for November 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-01-31",
+      "title": "Employment Cost Index for Fourth Quarter 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-02-07",
+      "title": "Employment Situation for January 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-02-11",
+      "title": "Job Openings and Labor Turnover Survey for December 2019",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-02-13",
+      "title": "Consumer Price Index for January 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-02-19",
+      "title": "Producer Price Index for January 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2020-03-03",
+      "date": "2020-03-03",
+      "time_et": "10:00",
+      "title": "紧急降息50基点",
+      "timing_class": "unscheduled_unknown",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm",
+      "facts": "疫情风险上升，目标利率降至1%—1.25%。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2020-03-06",
+      "title": "Employment Situation for February 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-03-11",
+      "title": "Consumer Price Index for February 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-03-12",
+      "title": "Producer Price Index for February 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2020-03-15",
+      "date": "2020-03-15",
+      "time_et": "17:00",
+      "title": "紧急降息至零附近并扩大购债",
+      "timing_class": "unscheduled_unknown",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+      "facts": "目标利率降至0%—0.25%，宣布至少5000亿美元国债及2000亿美元机构MBS购买。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2020-03-17",
+      "title": "Job Openings and Labor Turnover Survey for January 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "id": "fed-2020-03-23",
+      "date": "2020-03-23",
+      "time_et": "08:00",
+      "title": "按市场需要购买国债和MBS",
+      "timing_class": "unscheduled_unknown",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm",
+      "facts": "按支持市场运作需要购买国债和机构MBS，并纳入机构商业MBS。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2020-04-03",
+      "title": "Employment Situation for March 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-04-07",
+      "title": "Job Openings and Labor Turnover Survey for February 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-04-09",
+      "title": "Producer Price Index for March 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-04-10",
+      "title": "Consumer Price Index for March 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-04-30",
+      "title": "Employment Cost Index for First Quarter 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-05-08",
+      "title": "Employment Situation for April 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-05-12",
+      "title": "Consumer Price Index for April 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-05-13",
+      "title": "Producer Price Index for April 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-05-15",
+      "title": "Job Openings and Labor Turnover Survey for March 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-06-05",
+      "title": "Employment Situation for May 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-06-09",
+      "title": "Job Openings and Labor Turnover Survey for April 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-06-10",
+      "title": "Consumer Price Index for May 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-06-11",
+      "title": "Producer Price Index for May 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-07-02",
+      "title": "Employment Situation for June 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-07-07",
+      "title": "Job Openings and Labor Turnover Survey for May 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-07-10",
+      "title": "Producer Price Index for June 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-07-14",
+      "title": "Consumer Price Index for June 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-07-31",
+      "title": "Employment Cost Index for Second Quarter 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-08-07",
+      "title": "Employment Situation for July 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-08-10",
+      "title": "Job Openings and Labor Turnover Survey for June 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-08-11",
+      "title": "Producer Price Index for July 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-08-12",
+      "title": "Consumer Price Index for July 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-09-04",
+      "title": "Employment Situation for August 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-09-09",
+      "title": "Job Openings and Labor Turnover Survey for July 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-09-10",
+      "title": "Producer Price Index for August 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-09-11",
+      "title": "Consumer Price Index for August 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-10-02",
+      "title": "Employment Situation for September 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-10-06",
+      "title": "Job Openings and Labor Turnover Survey for August 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-10-13",
+      "title": "Consumer Price Index for September 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-10-14",
+      "title": "Producer Price Index for September 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-10-30",
+      "title": "Employment Cost Index for Third Quarter 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-11-06",
+      "title": "Employment Situation for October 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-11-10",
+      "title": "Job Openings and Labor Turnover Survey for September 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2020-11-12",
+      "title": "Consumer Price Index for October 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2020-11-13",
+      "title": "Producer Price Index for October 2020",
+      "source_url": "https://www.bls.gov/schedule/2020/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-01-08",
+      "title": "Employment Situation for December 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-01-12",
+      "title": "Job Openings and Labor Turnover Survey for November 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-01-13",
+      "title": "Consumer Price Index for December 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-01-15",
+      "title": "Producer Price Index for December 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-01-29",
+      "title": "Employment Cost Index for Fourth Quarter 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-02-05",
+      "title": "Employment Situation for January 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-02-09",
+      "title": "Job Openings and Labor Turnover Survey for December 2020",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-02-10",
+      "title": "Consumer Price Index for January 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-02-17",
+      "title": "Producer Price Index for January 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-03-05",
+      "title": "Employment Situation for February 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-03-10",
+      "title": "Consumer Price Index for February 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-03-11",
+      "title": "Job Openings and Labor Turnover Survey for January 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-03-12",
+      "title": "Producer Price Index for February 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-04-02",
+      "title": "Employment Situation for March 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-04-06",
+      "title": "Job Openings and Labor Turnover Survey for February 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-04-09",
+      "title": "Producer Price Index for March 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-04-13",
+      "title": "Consumer Price Index for March 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-04-30",
+      "title": "Employment Cost Index for First Quarter 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-05-07",
+      "title": "Employment Situation for April 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-05-11",
+      "title": "Job Openings and Labor Turnover Survey for March 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-05-12",
+      "title": "Consumer Price Index for April 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-05-13",
+      "title": "Producer Price Index for April 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-06-04",
+      "title": "Employment Situation for May 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-06-08",
+      "title": "Job Openings and Labor Turnover Survey for April 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-06-10",
+      "title": "Consumer Price Index for May 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-06-15",
+      "title": "Producer Price Index for May 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-07-02",
+      "title": "Employment Situation for June 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-07-07",
+      "title": "Job Openings and Labor Turnover Survey for May 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-07-13",
+      "title": "Consumer Price Index for June 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-07-14",
+      "title": "Producer Price Index for June 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-07-30",
+      "title": "Employment Cost Index for Second Quarter 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-08-06",
+      "title": "Employment Situation for July 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-08-09",
+      "title": "Job Openings and Labor Turnover Survey for June 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-08-11",
+      "title": "Consumer Price Index for July 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-08-12",
+      "title": "Producer Price Index for July 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-09-03",
+      "title": "Employment Situation for August 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-09-08",
+      "title": "Job Openings and Labor Turnover Survey for July 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-09-10",
+      "title": "Producer Price Index for August 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-09-14",
+      "title": "Consumer Price Index for August 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-10-08",
+      "title": "Employment Situation for September 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-10-12",
+      "title": "Job Openings and Labor Turnover Survey for August 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-10-13",
+      "title": "Consumer Price Index for September 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-10-14",
+      "title": "Producer Price Index for September 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-10-29",
+      "title": "Employment Cost Index for Third Quarter 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2021-11-03",
+      "date": "2021-11-03",
+      "time_et": "14:00",
+      "title": "开始缩减购债",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm",
+      "facts": "维持0%—0.25%，国债和机构MBS月度净购买分别减少100亿和50亿美元。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2021-11-05",
+      "title": "Employment Situation for October 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-11-09",
+      "title": "Producer Price Index for October 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-11-10",
+      "title": "Consumer Price Index for October 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-11-12",
+      "title": "Job Openings and Labor Turnover Survey for September 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-12-03",
+      "title": "Employment Situation for November 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-12-08",
+      "title": "Job Openings and Labor Turnover Survey for October 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2021-12-10",
+      "title": "Consumer Price Index for November 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2021-12-14",
+      "title": "Producer Price Index for November 2021",
+      "source_url": "https://www.bls.gov/schedule/2021/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2021-12-15",
+      "date": "2021-12-15",
+      "time_et": "14:00",
+      "title": "加快缩减购债",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm",
+      "facts": "维持0%—0.25%，国债和机构MBS月度净购买分别减少200亿和100亿美元。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2022-01-04",
+      "title": "Job Openings and Labor Turnover Survey for November 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-01-07",
+      "title": "Employment Situation for December 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-01-12",
+      "title": "Consumer Price Index for December 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-01-13",
+      "title": "Producer Price Index for December 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-01-28",
+      "title": "Employment Cost Index for Fourth Quarter 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-02-01",
+      "title": "Job Openings and Labor Turnover Survey for December 2021",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-02-04",
+      "title": "Employment Situation for January 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-02-10",
+      "title": "Consumer Price Index for January 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-02-15",
+      "title": "Producer Price Index for January 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-03-04",
+      "title": "Employment Situation for February 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-03-09",
+      "title": "Job Openings and Labor Turnover Survey for January 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-03-10",
+      "title": "Consumer Price Index for February 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-03-15",
+      "title": "Producer Price Index for February 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2022-03-16",
+      "date": "2022-03-16",
+      "time_et": "14:00",
+      "title": "提高目标利率至0.25%—0.50%",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2022-03-29",
+      "title": "Job Openings and Labor Turnover Survey for February 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-04-01",
+      "title": "Employment Situation for March 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-04-12",
+      "title": "Consumer Price Index for March 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-04-13",
+      "title": "Producer Price Index for March 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-04-29",
+      "title": "Employment Cost Index for First Quarter 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-05-03",
+      "title": "Job Openings and Labor Turnover Survey for March 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-05-06",
+      "title": "Employment Situation for April 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-05-11",
+      "title": "Consumer Price Index for April 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-05-12",
+      "title": "Producer Price Index for April 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-06-01",
+      "title": "Job Openings and Labor Turnover Survey for April 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-06-03",
+      "title": "Employment Situation for May 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-06-10",
+      "title": "Consumer Price Index for May 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-06-14",
+      "title": "Producer Price Index for May 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2022-06-15",
+      "date": "2022-06-15",
+      "time_et": "14:00",
+      "title": "提高目标利率至1.50%—1.75%",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2022-07-06",
+      "title": "Job Openings and Labor Turnover Survey for May 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-07-08",
+      "title": "Employment Situation for June 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-07-13",
+      "title": "Consumer Price Index for June 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-07-14",
+      "title": "Producer Price Index for June 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-07-29",
+      "title": "Employment Cost Index for Second Quarter 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-08-02",
+      "title": "Job Openings and Labor Turnover Survey for June 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-08-05",
+      "title": "Employment Situation for July 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-08-10",
+      "title": "Consumer Price Index for July 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-08-11",
+      "title": "Producer Price Index for July 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-08-30",
+      "title": "Job Openings and Labor Turnover Survey for July 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-09-02",
+      "title": "Employment Situation for August 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-09-13",
+      "title": "Consumer Price Index for August 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-09-14",
+      "title": "Producer Price Index for August 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2022-09-21",
+      "date": "2022-09-21",
+      "time_et": "14:00",
+      "title": "提高目标利率至3.00%—3.25%",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2022-10-04",
+      "title": "Job Openings and Labor Turnover Survey for August 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-10-07",
+      "title": "Employment Situation for September 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-10-12",
+      "title": "Producer Price Index for September 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-10-13",
+      "title": "Consumer Price Index for September 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-10-28",
+      "title": "Employment Cost Index for Third Quarter 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-11-01",
+      "title": "Job Openings and Labor Turnover Survey for September 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-11-04",
+      "title": "Employment Situation for October 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-11-10",
+      "title": "Consumer Price Index for October 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-11-15",
+      "title": "Producer Price Index for October 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2022-11-30",
+      "title": "Job Openings and Labor Turnover Survey for October 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2022-12-02",
+      "title": "Employment Situation for November 2022",
+      "source_url": "https://www.bls.gov/schedule/2022/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-01-04",
+      "title": "Job Openings and Labor Turnover Survey for November 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-01-06",
+      "title": "Employment Situation for December 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-01-12",
+      "title": "Consumer Price Index for December 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-01-18",
+      "title": "Producer Price Index for December 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-01-31",
+      "title": "Employment Cost Index for Fourth Quarter 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-02-01",
+      "title": "Job Openings and Labor Turnover Survey for December 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-02-03",
+      "title": "Employment Situation for January 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-02-14",
+      "title": "Consumer Price Index for January 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-02-16",
+      "title": "Producer Price Index for January 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-03-08",
+      "title": "Job Openings and Labor Turnover Survey for January 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-03-10",
+      "title": "Employment Situation for February 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-03-14",
+      "title": "Consumer Price Index for February 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-03-15",
+      "title": "Producer Price Index for February 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-03-21",
+      "title": "Employment Situation of Veterans for Annual 2022",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-04-04",
+      "title": "Job Openings and Labor Turnover Survey for February 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-04-07",
+      "title": "Employment Situation for March 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-04-12",
+      "title": "Consumer Price Index for March 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-04-13",
+      "title": "Producer Price Index for March 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-04-28",
+      "title": "Employment Cost Index for First Quarter 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-05-02",
+      "title": "Job Openings and Labor Turnover Survey for March 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "id": "fed-2023-05-03",
+      "date": "2023-05-03",
+      "time_et": "14:00",
+      "title": "提高目标利率至5.00%—5.25%",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm",
+      "facts": "提高目标利率，将继续监测新信息及其政策含义。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2023-05-05",
+      "title": "Employment Situation for April 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-05-10",
+      "title": "Consumer Price Index for April 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-05-11",
+      "title": "Producer Price Index for April 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-05-31",
+      "title": "Job Openings and Labor Turnover Survey for April 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-06-02",
+      "title": "Employment Situation for May 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-06-13",
+      "title": "Consumer Price Index for May 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-06-14",
+      "title": "Producer Price Index for May 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-07-06",
+      "title": "Job Openings and Labor Turnover Survey for May 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-07-07",
+      "title": "Employment Situation for June 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-07-12",
+      "title": "Consumer Price Index for June 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Producer Price Index for June 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-07-28",
+      "title": "Employment Cost Index for Second Quarter 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-08-01",
+      "title": "Job Openings and Labor Turnover Survey for June 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-08-04",
+      "title": "Employment Situation for July 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-08-10",
+      "title": "Consumer Price Index for July 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-08-11",
+      "title": "Producer Price Index for July 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-08-29",
+      "title": "Job Openings and Labor Turnover Survey for July 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-09-01",
+      "title": "Employment Situation for August 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-09-13",
+      "title": "Consumer Price Index for August 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-09-14",
+      "title": "Producer Price Index for August 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-10-03",
+      "title": "Job Openings and Labor Turnover Survey for August 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-10-06",
+      "title": "Employment Situation for September 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "conflict-2023-10-07",
+      "date": "2023-10-07",
+      "title": "哈马斯袭击以色列",
+      "category": "war_conflict",
+      "timing_class": "unknown",
+      "schedule_status": "unscheduled",
+      "importance": "high",
+      "source_url": "https://apnews.com/article/11fb98655c256d54ecb5329284fc37d2",
+      "evidence_status": "first_version_and_warning_history_pending",
+      "note": "事件存在的线索已找到，但该页面正文包含后续进展，不能按最早网页时间整体倒填；首次公开时点与当时预警范围需独立核验。",
+      "status": "待核首发时间与事前预警；不生成预测"
+    },
+    {
+      "date": "2023-10-11",
+      "title": "Producer Price Index for September 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-10-12",
+      "title": "Consumer Price Index for September 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-10-31",
+      "title": "Employment Cost Index for Third Quarter 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-11-01",
+      "title": "Job Openings and Labor Turnover Survey for September 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-11-03",
+      "title": "Employment Situation for October 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-11-14",
+      "title": "Consumer Price Index for October 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-11-15",
+      "title": "Producer Price Index for October 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-12-05",
+      "title": "Job Openings and Labor Turnover Survey for October 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2023-12-08",
+      "title": "Employment Situation for November 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-12-12",
+      "title": "Consumer Price Index for November 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2023-12-13",
+      "title": "Producer Price Index for November 2023",
+      "source_url": "https://www.bls.gov/schedule/2023/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2023-12-13",
+      "date": "2023-12-13",
+      "time_et": "14:00",
+      "title": "维持5.25%—5.50%",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+      "facts": "维持目标利率。未将未单独核验的点阵图或记者会内容纳入本次输入。",
+      "mechanism_tilt": 0,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2024-01-03",
+      "title": "Job Openings and Labor Turnover Survey for November 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-01-05",
+      "title": "Employment Situation for December 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-01-11",
+      "title": "Consumer Price Index for December 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-01-12",
+      "title": "Producer Price Index for December 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-01-30",
+      "title": "Job Openings and Labor Turnover Survey for December 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-01-31",
+      "title": "Employment Cost Index for Fourth Quarter 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-02-02",
+      "title": "Employment Situation for January 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-02-13",
+      "title": "Consumer Price Index for January 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-02-16",
+      "title": "Producer Price Index for January 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-03-06",
+      "title": "Job Openings and Labor Turnover Survey for January 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-03-08",
+      "title": "Employment Situation for February 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-03-12",
+      "title": "Consumer Price Index for February 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-03-14",
+      "title": "Producer Price Index for February 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-03-20",
+      "title": "Employment Situation of Veterans for Annual 2023",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-04-02",
+      "title": "Job Openings and Labor Turnover Survey for February 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-04-05",
+      "title": "Employment Situation for March 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-04-10",
+      "title": "Consumer Price Index for March 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-04-11",
+      "title": "Producer Price Index for March 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "conflict-2024-04-13",
+      "date": "2024-04-13",
+      "title": "伊朗对以色列直接发射无人机与导弹",
+      "category": "war_conflict",
+      "timing_class": "unknown",
+      "schedule_status": "unscheduled",
+      "importance": "high",
+      "source_url": "https://www.investing.com/news/world-news/sirens-blasts-sound-across-israel-after-iran-launches-retaliatory-attack-3377350",
+      "warning_source_url": "https://www.yahoo.com/news/israel-calls-off-school-trips-174350049.html",
+      "evidence_status": "first_version_and_warning_history_pending",
+      "note": "有袭击前戒备报道线索，不能简单标成毫无预警；正文版本及时间核验后再定为unscheduled_warned。",
+      "status": "待核首发时间与事前预警；不生成预测"
+    },
+    {
+      "date": "2024-04-30",
+      "title": "Employment Cost Index for First Quarter 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-05-01",
+      "title": "Job Openings and Labor Turnover Survey for March 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-05-03",
+      "title": "Employment Situation for April 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-05-14",
+      "title": "Producer Price Index for April 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-05-15",
+      "title": "Consumer Price Index for April 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-06-04",
+      "title": "Job Openings and Labor Turnover Survey for April 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-06-07",
+      "title": "Employment Situation for May 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-06-12",
+      "title": "Consumer Price Index for May 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-06-13",
+      "title": "Producer Price Index for May 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-07-02",
+      "title": "Job Openings and Labor Turnover Survey for May 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-07-05",
+      "title": "Employment Situation for June 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-07-11",
+      "title": "Consumer Price Index for June 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-07-12",
+      "title": "Producer Price Index for June 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-07-30",
+      "title": "Job Openings and Labor Turnover Survey for June 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-07-31",
+      "title": "Employment Cost Index for Second Quarter 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-08-02",
+      "title": "Employment Situation for July 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-08-13",
+      "title": "Producer Price Index for July 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-08-14",
+      "title": "Consumer Price Index for July 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-09-04",
+      "title": "Job Openings and Labor Turnover Survey for July 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-09-06",
+      "title": "Employment Situation for August 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-09-11",
+      "title": "Consumer Price Index for August 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-09-12",
+      "title": "Producer Price Index for August 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2024-09-18",
+      "date": "2024-09-18",
+      "time_et": "14:00",
+      "title": "降息50基点",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+      "facts": "目标利率下调50基点至4.75%—5.00%。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2024-10-01",
+      "title": "Job Openings and Labor Turnover Survey for August 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-10-04",
+      "title": "Employment Situation for September 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-10-10",
+      "title": "Consumer Price Index for September 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-10-11",
+      "title": "Producer Price Index for September 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-10-29",
+      "title": "Job Openings and Labor Turnover Survey for September 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-10-31",
+      "title": "Employment Cost Index for Third Quarter 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-11-01",
+      "title": "Employment Situation for October 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-11-13",
+      "title": "Consumer Price Index for October 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-11-14",
+      "title": "Producer Price Index for October 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-12-03",
+      "title": "Job Openings and Labor Turnover Survey for October 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2024-12-06",
+      "title": "Employment Situation for November 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2024-12-11",
+      "title": "Consumer Price Index for November 2024",
+      "source_url": "https://www.bls.gov/schedule/2024/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2024-12-18",
+      "date": "2024-12-18",
+      "time_et": "14:00",
+      "title": "降息25基点",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+      "facts": "目标利率下调25基点至4.25%—4.50%。未把后来金价下跌倒填成偏鹰信号。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2025-01-07",
+      "title": "Job Openings and Labor Turnover Survey for November 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-01-10",
+      "title": "Employment Situation for December 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-01-14",
+      "title": "Producer Price Index for December 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-01-15",
+      "title": "Consumer Price Index for December 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-01-31",
+      "title": "Employment Cost Index for Fourth Quarter 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-02-04",
+      "title": "Job Openings and Labor Turnover Survey for December 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-02-07",
+      "title": "Employment Situation for January 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-02-12",
+      "title": "Consumer Price Index for January 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-02-13",
+      "title": "Producer Price Index for January 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-03-07",
+      "title": "Employment Situation for February 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-03-11",
+      "title": "Job Openings and Labor Turnover Survey for January 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-03-12",
+      "title": "Consumer Price Index for February 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-03-13",
+      "title": "Producer Price Index for February 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-03-20",
+      "title": "Employment Situation of Veterans for Annual 2024",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Job Openings and Labor Turnover Survey for February 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-04-04",
+      "title": "Employment Situation for March 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-04-10",
+      "title": "Consumer Price Index for March 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-04-11",
+      "title": "Producer Price Index for March 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "Job Openings and Labor Turnover Survey for March 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-04-30",
+      "title": "Employment Cost Index for First Quarter 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-05-02",
+      "title": "Employment Situation for April 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Consumer Price Index for April 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "Producer Price Index for April 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-06-03",
+      "title": "Job Openings and Labor Turnover Survey for April 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Employment Situation for May 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Consumer Price Index for May 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Producer Price Index for May 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "conflict-2025-06-13",
+      "date": "2025-06-13",
+      "title": "以色列空袭伊朗",
+      "category": "war_conflict",
+      "timing_class": "unknown",
+      "schedule_status": "unscheduled",
+      "importance": "high",
+      "source_url": "https://time.com/7293795/israel-strikes-iran-attack-what-to-know/",
+      "evidence_status": "first_version_and_warning_history_pending",
+      "note": "页面当前标题和内容包括后续回应，不能把它全部视为首次袭击报道时已经知道。",
+      "status": "待核首发时间与事前预警；不生成预测"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Job Openings and Labor Turnover Survey for May 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-07-03",
+      "title": "Employment Situation for June 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Consumer Price Index for June 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-07-16",
+      "title": "Producer Price Index for June 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "Job Openings and Labor Turnover Survey for June 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-07-31",
+      "title": "Employment Cost Index for Second Quarter 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-08-01",
+      "title": "Employment Situation for July 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-08-12",
+      "title": "Consumer Price Index for July 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-08-14",
+      "title": "Producer Price Index for July 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-09-03",
+      "title": "Job Openings and Labor Turnover Survey for July 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-09-05",
+      "title": "Employment Situation for August 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-09-10",
+      "title": "Producer Price Index for August 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-09-11",
+      "title": "Consumer Price Index for August 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2025-09-17",
+      "date": "2025-09-17",
+      "time_et": "14:00",
+      "title": "降息25基点",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+      "facts": "目标利率下调25基点至4.00%—4.25%。",
+      "mechanism_tilt": 1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2025-09-30",
+      "title": "Job Openings and Labor Turnover Survey for August 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-10-24",
+      "title": "Consumer Price Index for September 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-11-20",
+      "title": "Employment Situation for September 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-11-25",
+      "title": "Producer Price Index for September 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-12-09",
+      "title": "Job Openings and Labor Turnover Survey for October 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2025-12-10",
+      "title": "Employment Cost Index for Third Quarter 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-12-16",
+      "title": "Employment Situation for November 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2025-12-18",
+      "title": "Consumer Price Index for November 2025",
+      "source_url": "https://www.bls.gov/schedule/2025/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-01-07",
+      "title": "Job Openings and Labor Turnover Survey for November 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-01-09",
+      "title": "Employment Situation for December 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-01-13",
+      "title": "Consumer Price Index for December 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-01-14",
+      "title": "Producer Price Index for November 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-01-30",
+      "title": "Producer Price Index for December 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-02-05",
+      "title": "Job Openings and Labor Turnover Survey for December 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-02-10",
+      "title": "Employment Cost Index for Fourth Quarter 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Employment Situation for January 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-02-13",
+      "title": "Consumer Price Index for January 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-02-27",
+      "title": "Producer Price Index for January 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-03-06",
+      "title": "Employment Situation for February 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-03-11",
+      "title": "Consumer Price Index for February 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-03-13",
+      "title": "Job Openings and Labor Turnover Survey for January 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Producer Price Index for February 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-03-31",
+      "title": "Job Openings and Labor Turnover Survey for February 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-04-03",
+      "title": "Employment Situation for March 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-04-10",
+      "title": "Consumer Price Index for March 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-04-14",
+      "title": "Producer Price Index for March 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-04-28",
+      "title": "Employment Situation of Veterans for Annual 2025",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-04-30",
+      "title": "Employment Cost Index for First Quarter 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-05-05",
+      "title": "Job Openings and Labor Turnover Survey for March 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "Employment Situation for April 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-05-12",
+      "title": "Consumer Price Index for April 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-05-13",
+      "title": "Producer Price Index for April 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-06-02",
+      "title": "Job Openings and Labor Turnover Survey for April 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "Employment Situation for May 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-06-10",
+      "title": "Consumer Price Index for May 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "Producer Price Index for May 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-06-30",
+      "title": "Job Openings and Labor Turnover Survey for May 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-07-02",
+      "title": "Employment Situation for June 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Consumer Price Index for June 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Producer Price Index for June 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Employment Cost Index for Second Quarter 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Job Openings and Labor Turnover Survey for June 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Employment Situation for July 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Consumer Price Index for July 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Producer Price Index for July 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Job Openings and Labor Turnover Survey for July 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Employment Situation for August 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Producer Price Index for August 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Consumer Price Index for August 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    },
+    {
+      "id": "fed-2026-09-16",
+      "date": "2026-09-16",
+      "time_et": "14:00",
+      "title": "加息25基点",
+      "timing_class": "scheduled",
+      "importance": "high",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "facts": "目标利率上调25基点至3.75%—4.00%。",
+      "mechanism_tilt": -1,
+      "tilt_status": "经济机制假设，不是市场预期差；未用事件后行情定分",
+      "consensus": null,
+      "macro_vintage_verified": false,
+      "complete_original_framework": false,
+      "status": "简化政策对照；非完整原模块"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Job Openings and Labor Turnover Survey for August 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "10:00 AM"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Employment Situation for September 2026",
+      "source_url": "https://www.bls.gov/schedule/2026/home.htm",
+      "timing_class": "scheduled",
+      "status": "待核首发事实及事前共识；不生成预测",
+      "time_et": "08:30 AM"
+    }
+  ]
+}

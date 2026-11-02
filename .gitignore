@@ -1,10 +1,26 @@
 # Local/private portfolio data (never publish)
 /private/
+*.zip
 /data/current_portfolio.json
 /data/baseline_portfolios.json
 /data/portfolio_ledger.csv
 /持仓状态和操作流程/
 /outputs/
+/output/
+/tmp/
+/archive/local-temp-2026-11-02/
+/archive/strategy-tools-2026-11-02/
+/archive/2026-10-30-report-merge/
+/archive/baseline1-before-2026-10-30/
+/archive/strategy-research-2026-11-02/
+/archive/strategy-standalone-2026-11-02/
+/基准1/runtime/
+/基准2/runtime/
+/基准源码v1/runtime/
+/基准源码v1/伦敦金K线/
+基准1/output/
+基准2/output/
+基准源码v1/outputs/
 
 # Secrets and local environment
 .env

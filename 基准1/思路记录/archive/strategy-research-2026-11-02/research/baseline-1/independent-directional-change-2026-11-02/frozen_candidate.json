@@ -1,0 +1,49 @@
+{
+  "combination": {
+    "members": [
+      2,
+      6
+    ],
+    "mode": "union"
+  },
+  "modules": [
+    {
+      "method": "fixed_direction",
+      "threshold": 0.04
+    },
+    {
+      "method": "fixed_direction",
+      "threshold": 0.06
+    },
+    {
+      "method": "fixed_direction",
+      "threshold": 0.08
+    },
+    {
+      "method": "atr_direction",
+      "multiple": 3
+    },
+    {
+      "method": "atr_direction",
+      "multiple": 5
+    },
+    {
+      "method": "atr_direction",
+      "multiple": 7
+    },
+    {
+      "method": "range_position",
+      "n": 60
+    },
+    {
+      "method": "range_position",
+      "n": 120
+    },
+    {
+      "method": "range_position",
+      "n": 240
+    }
+  ],
+  "passed": false,
+  "independent": true
+}

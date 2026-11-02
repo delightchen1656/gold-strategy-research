@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "method": "regression_trend",
+    "horizon": 120,
+    "r2": 0.1,
+    "slope": 0.05,
+    "stop": 0.08,
+    "mode": "union"
+  },
+  "training_only": true,
+  "selected_id": 493
+}

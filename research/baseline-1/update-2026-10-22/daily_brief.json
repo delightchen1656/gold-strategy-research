@@ -1,0 +1,37 @@
+{
+  "asof": "2026-10-22",
+  "instrument": "London spot gold XAU/USD (ChartExchange quote feed)",
+  "window_start": "2026-09-23",
+  "window_end": "2026-10-22",
+  "window_days": 30,
+  "colors": "red up, green down; close versus open",
+  "candle_date": "2026-10-21",
+  "ohlc": {
+    "open": 4113.76,
+    "high": 4142.02,
+    "low": 4104.82,
+    "close": 4125.15
+  },
+  "intraday": {
+    "date": "2026-10-22",
+    "ohlc": {
+      "open": 4125.04,
+      "high": 4125.92,
+      "low": 4085.04,
+      "close": 4087.71
+    },
+    "quote_time_beijing": "2026-10-22T13:30:00+08:00",
+    "status": "incomplete; display only, excluded from baseline signal"
+  },
+  "change_pct": 0.2749256169418235,
+  "target_weight": 0.0,
+  "signal_date": "2026-10-21",
+  "valuation_date": "2026-10-21",
+  "actual_weights_pct": {
+    "fund": 0.0,
+    "cmb": 0.0
+  },
+  "source": "https://chartexchange.com/symbol/forex-xauusd/historical/",
+  "fetched_at": "2026-10-22T15:37:46.796087+00:00",
+  "source_timezone": "UTC"
+}

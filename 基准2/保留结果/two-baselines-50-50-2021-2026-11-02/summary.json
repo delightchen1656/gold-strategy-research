@@ -1,0 +1,58 @@
+{
+  "start": "2021-01-03",
+  "end": "2026-10-29",
+  "cost_per_side": 0.003,
+  "results": {
+    "baseline_1": {
+      "return_pct": 145.56556489900413,
+      "cagr_pct": 16.697862728989833,
+      "max_drawdown_pct": 13.96553710022096,
+      "average_weight_pct": 69.00369003690037
+    },
+    "baseline_2": {
+      "return_pct": 131.3818543830902,
+      "cagr_pct": 15.510583282605527,
+      "max_drawdown_pct": 15.289364214123013,
+      "average_weight_pct": 76.99876998769987
+    },
+    "combined_50_50": {
+      "return_pct": 138.4737096410472,
+      "cagr_pct": 16.111533941187005,
+      "max_drawdown_pct": 13.96553710022097,
+      "average_weight_pct": 73.07946601178037
+    },
+    "hold": {
+      "return_pct": 109.75705993445501,
+      "cagr_pct": 13.57883349383715,
+      "max_drawdown_pct": 27.902373892354394,
+      "average_weight_pct": 100.0
+    }
+  },
+  "portfolio": {
+    "name": "基准1与基准2各50%",
+    "baselines": [
+      "config/baseline_1.json",
+      "config/baseline_2.json"
+    ],
+    "initial_allocations": [
+      0.5,
+      0.5
+    ],
+    "rebalance_between_sleeves": false,
+    "within_sleeves": "Each strategy trades independently; fees deducted within its own sleeve.",
+    "cost_per_side": 0.003
+  },
+  "warmup_start": "2003-05-05",
+  "warmup_bars": 5134,
+  "source": "C:\\Users\\22241\\Desktop\\quant\\K线数据\\黄金\\snapshots\\20261101T162434468258Z\\daily.parquet",
+  "source_sha256": "6a7a642d5cb84df7e659e11502d9bd04bc6efb443ccc3b13314ac380b17829f6",
+  "initial_capital": "Total1, allocate .5 to each strategy. Signal states warmed from pre2021 history; fund each sleeve at first observed open.",
+  "final_sleeve_weights": [
+    0.5148692601558295,
+    0.48513073984417043
+  ],
+  "caveat": "No inter-sleeve rebalance. Sleeve capital weights drift; combination gold exposure depends on both signals. No leverage, cash interest, terminal liquidation, FX, or real orders. Previously inspected historical simulation.",
+  "baseline1_unchanged": true,
+  "parameters_unchanged": true,
+  "prefix_checks_passed": true
+}

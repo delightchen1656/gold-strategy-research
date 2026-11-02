@@ -1,0 +1,6 @@
+{
+  "duplicate_quote_dates": [
+    "2026-10-02"
+  ],
+  "policy": "Prefer canonical local-midnight daily bars; discard appended intraday quotes on duplicate dates."
+}

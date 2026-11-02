@@ -1,0 +1,260 @@
+{
+  "configs": [
+    {
+      "method": "ma_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "ma_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "momentum_consensus",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        60,
+        120,
+        240
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": false
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "weekly",
+      "downside_budget": true
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": false
+    },
+    {
+      "method": "normalized_drift",
+      "windows": [
+        120,
+        240,
+        360
+      ],
+      "frequency": "monthly",
+      "downside_budget": true
+    }
+  ],
+  "count": 24,
+  "cost": 0.003,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "hypothesis": "Diversify fixed trend horizons; less frequent execution and downside-risk scaling rather than predictive polynomial fitting.",
+  "fixed_settings": {
+    "ma_buffer": 0.02,
+    "drift_saturation": 2,
+    "downside_vol_window": 60,
+    "downside_vol_budget": 0.12,
+    "position_grid": 0.1,
+    "execution_band": 0.05
+  },
+  "selection": "Report maximum-return candidate and annual chronological selector; selector fits only through previous year, maximizes return among candidates with DD no worse than baseline, else chooses highest return.",
+  "execution": "Only scheduled reviews trade for candidates; baseline retains original daily execution; all use next open and same cost. Hold buys first open. No terminal liquidation.",
+  "rule": "No grid expansion after observing results; no post2020 access. All horizons prewarm on permitted training data only.",
+  "caveat": "Internal walk-forward is a diagnostic; baseline and method design have prior development-period knowledge."
+}

@@ -1,0 +1,147 @@
+{
+  "period": "2018-2020",
+  "warmup": "2017",
+  "product": "CNY gold proxy only",
+  "limitations": [
+    "Calendar is common London/FX dates, not verified China trading dates.",
+    "No fund simulation before inception; no claim of independent out-of-sample.",
+    "Frozen source history; same transaction cost and strict prior-day signals for both."
+  ],
+  "input_sha256": {
+    "research\\baseline-1\\inputs\\gold.csv": "ba370700178ce396b21f12727740bc6828ba90a814c9e528f48afd26d496c7ad",
+    "research\\baseline-1\\inputs\\fx.csv": "e941bdcdcd6495051765747089cc49131d7578c018c940c81eb9951b7eefdbf8"
+  },
+  "future_perturbation_check_passed": true,
+  "results": {
+    "baseline12": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "rules": {
+        "buy_fee": 0.0015,
+        "settle_days": 1,
+        "cmb_halfspread": 2.5,
+        "slippage": 0.0,
+        "delay": 0,
+        "confirmation_delay": 1,
+        "redeem_after_confirmation": 1,
+        "rebalance": true
+      },
+      "full": {
+        "return_pct": 17.172326395248593,
+        "cagr_pct": 5.4283470973841785,
+        "max_drawdown_pct": -16.46481460476281,
+        "average_weight_pct": 68.14007497300972,
+        "max_weight_pct": 99.99998786199433,
+        "final_cny": 58586.16319762429,
+        "fees_cny": 2641.0575000000003,
+        "trade_days": 15
+      },
+      "years": {
+        "2018": {
+          "return_pct": -4.472372441950368,
+          "cagr_pct": -4.487381004071056,
+          "max_drawdown_pct": -5.490966523461105,
+          "average_weight_pct": 41.501957900263484,
+          "max_weight_pct": 99.99995699607517,
+          "final_cny": 47763.813779024815,
+          "fees_cny": 902.222,
+          "trade_days": 2
+        },
+        "2019": {
+          "return_pct": 15.820705101667553,
+          "cagr_pct": 15.926192904571979,
+          "max_drawdown_pct": -6.941592511661443,
+          "average_weight_pct": 92.89389337054575,
+          "max_weight_pct": 99.99998786199433,
+          "final_cny": 55320.38590231398,
+          "fees_cny": 616.56575,
+          "trade_days": 5
+        },
+        "2020": {
+          "return_pct": 5.9033884924033275,
+          "cagr_pct": 5.907549058612438,
+          "max_drawdown_pct": -16.46481460476281,
+          "average_weight_pct": 70.51357954540443,
+          "max_weight_pct": 99.9999813960276,
+          "final_cny": 58586.16319762429,
+          "fees_cny": 1122.26975,
+          "trade_days": 8
+        }
+      }
+    },
+    "cap85": {
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 20,
+        "cap": 0.85,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "rules": {
+        "buy_fee": 0.0015,
+        "settle_days": 1,
+        "cmb_halfspread": 2.5,
+        "slippage": 0.0,
+        "delay": 0,
+        "confirmation_delay": 1,
+        "redeem_after_confirmation": 1,
+        "rebalance": true
+      },
+      "full": {
+        "return_pct": 14.468922136534657,
+        "cagr_pct": 4.610657114816918,
+        "max_drawdown_pct": -14.138557110666905,
+        "average_weight_pct": 57.87083912870775,
+        "max_weight_pct": 86.2977986190803,
+        "final_cny": 57234.46106826732,
+        "fees_cny": 2209.767,
+        "trade_days": 14
+      },
+      "years": {
+        "2018": {
+          "return_pct": -3.8015180627771095,
+          "cagr_pct": -3.814320531280535,
+          "max_drawdown_pct": -4.671534211656758,
+          "average_weight_pct": 35.1508582026298,
+          "max_weight_pct": 85.07668336264267,
+          "final_cny": 48099.24096861145,
+          "fees_cny": 766.889,
+          "trade_days": 2
+        },
+        "2019": {
+          "return_pct": 13.157651229922585,
+          "cagr_pct": 13.244384585450831,
+          "max_drawdown_pct": -5.83394712260138,
+          "average_weight_pct": 78.89338586299377,
+          "max_weight_pct": 86.05083002747969,
+          "final_cny": 54427.97133950138,
+          "fees_cny": 556.35575,
+          "trade_days": 5
+        },
+        "2020": {
+          "return_pct": 5.156337191515203,
+          "cagr_pct": 5.159958519948127,
+          "max_drawdown_pct": -14.138557110666905,
+          "average_weight_pct": 59.98373867097966,
+          "max_weight_pct": 86.2977986190803,
+          "final_cny": 57234.46106826732,
+          "fees_cny": 886.52225,
+          "trade_days": 7
+        }
+      }
+    }
+  }
+}

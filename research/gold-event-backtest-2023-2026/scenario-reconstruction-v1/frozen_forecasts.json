@@ -1,0 +1,2618 @@
+{
+  "version": "structured-subjective-reconstruction-v1",
+  "status": "exploratory_partial_framework_not_blind_not_calibrated",
+  "hindsight_disclosure": "The researcher has already seen some historical outcomes in earlier turns. Input packets exclude future records, but cognitive hindsight contamination cannot be eliminated. This is not a strict blinded backtest or proof of the live module's historical skill.",
+  "probability_meaning": "Subjective policy/market scenario weights, not statistical confidence intervals or independent price-touch probabilities.",
+  "rows": [
+    {
+      "date": "2020-03-03",
+      "month": [
+        [
+          1450,
+          1550,
+          25
+        ],
+        [
+          1550,
+          1680,
+          45
+        ],
+        [
+          1680,
+          1800,
+          30
+        ]
+      ],
+      "year": [
+        [
+          1300,
+          1500,
+          25
+        ],
+        [
+          1500,
+          1800,
+          40
+        ],
+        [
+          1800,
+          2050,
+          35
+        ]
+      ],
+      "reason": "紧急降息支持黄金，但事前VIX约40说明流动性压力不能忽略。以此前60日1464—1682为结构参照，月度以修复震荡为主，不把降息机械等同单边涨。年底宽松传导时间更长，上行权重提高，仍保留危机抛售。",
+      "analogs": [
+        "2008-10-08",
+        "2008-12-16"
+      ],
+      "analogy_difference": "同为金融条件恶化后的政策托底；2020冲击源是疫情，不能直接复制2008信用危机后的价格路径。",
+      "consensus_status": "缺失：不能量化紧急50基点相对市场预期的意外程度",
+      "title": "紧急降息50基点",
+      "published_utc": "2020-03-03T15:00:00+00:00",
+      "published_beijing": "2020-03-03T23:00:00+08:00",
+      "facts": "疫情风险上升，目标利率降至1%—1.25%。",
+      "last_price": {
+        "date": "2020-03-02",
+        "price": 1609.7,
+        "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2020-02-28",
+            "value": 98.12999725341797
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": 97.87000274658203
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2020-02-28",
+            "value": 40.11000061035156
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": 15.489999771118164
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2020-02-28",
+            "value": 50.52000045776367
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": 58.290000915527344
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2020-02-28",
+            "value": 2954.219970703125
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": 3283.659912109375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2020-02-28",
+            "value": -0.28
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": -0.07
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2020-02-28",
+            "value": 1.13
+          },
+          "prior_20_observations": {
+            "date": "2020-01-30",
+            "value": 1.57
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 4,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2008-10-08",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081008a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2008-12-16",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081216b.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2020-04-03",
+      "year_target": "2020-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "663261e33a673d79fa666257a6aaf17389f5b49b4b4b3353bcffd0265503609c"
+    },
+    {
+      "date": "2020-03-15",
+      "month": [
+        [
+          1350,
+          1500,
+          35
+        ],
+        [
+          1500,
+          1700,
+          40
+        ],
+        [
+          1700,
+          1850,
+          25
+        ]
+      ],
+      "year": [
+        [
+          1250,
+          1450,
+          25
+        ],
+        [
+          1450,
+          1800,
+          40
+        ],
+        [
+          1800,
+          2100,
+          35
+        ]
+      ],
+      "reason": "零利率和购债形成中期支撑，但事前VIX接近58、油价跌至34附近，美元现金需求可能先压制黄金。月度加大下行权重，年底则提高宽松有效后的上行权重。月度核心区包容前期1474—1687结构，尾部额外放宽。",
+      "analogs": [
+        "2008-10-08",
+        "2008-12-16"
+      ],
+      "analogy_difference": "政策接近零下限与购债可类比；停工与供应链约束不同于单纯银行信用收缩。",
+      "consensus_status": "缺失；非定时宣布不等于完全无预警",
+      "title": "紧急降息至零附近并扩大购债",
+      "published_utc": "2020-03-15T21:00:00+00:00",
+      "published_beijing": "2020-03-16T05:00:00+08:00",
+      "facts": "目标利率降至0%—0.25%，宣布至少5000亿美元国债及2000亿美元机构MBS购买。",
+      "last_price": {
+        "date": "2020-03-13",
+        "price": 1588.15,
+        "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 98.75
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": 99.06999969482422
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 57.83000183105469
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": 14.149999618530273
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 33.849998474121094
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": 56.34000015258789
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 2711.02001953125
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": 3373.93994140625
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 0.04
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": -0.06
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2020-03-13",
+            "value": 0.94
+          },
+          "prior_20_observations": {
+            "date": "2020-02-13",
+            "value": 1.61
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2008-10-08",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081008a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2008-12-16",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081216b.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2020-04-15",
+      "year_target": "2020-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "db40a49390ab7af56779ebc628a3b7764a186266f613bbf5a1f13ddbfa419b9d"
+    },
+    {
+      "date": "2020-03-23",
+      "month": [
+        [
+          1300,
+          1450,
+          25
+        ],
+        [
+          1450,
+          1650,
+          45
+        ],
+        [
+          1650,
+          1800,
+          30
+        ]
+      ],
+      "year": [
+        [
+          1250,
+          1450,
+          20
+        ],
+        [
+          1450,
+          1800,
+          45
+        ],
+        [
+          1800,
+          2100,
+          35
+        ]
+      ],
+      "reason": "按市场需要购买资产增强托底，黄金此前20个观察日已跌约7.9%，有修复空间。但事前美元约102.8、VIX约66，流动性压力仍高，不把政策承诺当即时恢复的证明。年底与3月15日相比减少下行权重，转向基准，避免过度追认反弹。",
+      "analogs": [
+        "2008-12-16",
+        "2020-03-15"
+      ],
+      "analogy_difference": "资产负债表工具相似；3月15日仅作为已知政策动作参照，不读取其尚未成熟的月度结果。",
+      "consensus_status": "缺失：无限量机制的预期差未获独立调查证据",
+      "title": "按市场需要购买国债和MBS",
+      "published_utc": "2020-03-23T12:00:00+00:00",
+      "published_beijing": "2020-03-23T20:00:00+08:00",
+      "facts": "按支持市场运作需要购买国债和机构MBS，并纳入机构商业MBS。",
+      "last_price": {
+        "date": "2020-03-20",
+        "price": 1504.45,
+        "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 102.81999969482422
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": 99.26000213623047
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 66.04000091552734
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": 17.079999923706055
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 26.979999542236328
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": 58.5
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 2304.919921875
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": 3337.75
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 0.17
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": -0.15
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2020-03-20",
+            "value": 0.92
+          },
+          "prior_20_observations": {
+            "date": "2020-02-21",
+            "value": 1.46
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 3,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2008-12-16",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20081216b.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2020-03-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2020-04-23",
+      "year_target": "2020-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "c420528febbd87c1877e456c48f9ceef98da932204870ca02a83072e993b571e"
+    },
+    {
+      "date": "2021-11-03",
+      "month": [
+        [
+          1650,
+          1740,
+          30
+        ],
+        [
+          1740,
+          1840,
+          45
+        ],
+        [
+          1840,
+          1930,
+          25
+        ]
+      ],
+      "year": [
+        [
+          1600,
+          1720,
+          30
+        ],
+        [
+          1720,
+          1860,
+          45
+        ],
+        [
+          1860,
+          1980,
+          25
+        ]
+      ],
+      "reason": "缩减购债偏紧，但利率仍近零、事前实际收益率约-0.92%，并非立即加息。以60日1730—1824为主要结构，月度基准略留上方空间，偏紧政策令下行比上行多5个百分点。距年底约两月，延长区间但无新增证据调整概率。",
+      "analogs": [
+        "2020-03-15",
+        "2020-03-23"
+      ],
+      "analogy_difference": "是紧急宽松的退出而非新增危机；只对照工具方向，不类推黄金表现。",
+      "consensus_status": "历史事前缩债共识未完整核验",
+      "title": "开始缩减购债",
+      "published_utc": "2021-11-03T18:00:00+00:00",
+      "published_beijing": "2021-11-04T02:00:00+08:00",
+      "facts": "维持0%—0.25%，国债和机构MBS月度净购买分别减少100亿和50亿美元。",
+      "last_price": {
+        "date": "2021-11-02",
+        "price": 1791.5,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2021-11-01",
+            "value": 93.87999725341797
+          },
+          "prior_20_observations": {
+            "date": "2021-10-04",
+            "value": 93.80999755859375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2021-11-01",
+            "value": 16.40999984741211
+          },
+          "prior_20_observations": {
+            "date": "2021-10-04",
+            "value": 22.959999084472656
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2021-11-01",
+            "value": 84.70999908447266
+          },
+          "prior_20_observations": {
+            "date": "2021-10-04",
+            "value": 81.26000213623047
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2021-11-01",
+            "value": 4613.669921875
+          },
+          "prior_20_observations": {
+            "date": "2021-10-04",
+            "value": 4300.4599609375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2021-11-01",
+            "value": -0.92
+          },
+          "prior_20_observations": {
+            "date": "2021-10-01",
+            "value": -0.9
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2021-11-01",
+            "value": 1.58
+          },
+          "prior_20_observations": {
+            "date": "2021-10-01",
+            "value": 1.48
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2020-03-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2020-03-23",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2021-12-03",
+      "year_target": "2021-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "c89459fafbe68e8547144f3261957fd65969d0d9d9bd09644cf61c882e4752a2"
+    },
+    {
+      "date": "2021-12-15",
+      "month": [
+        [
+          1630,
+          1730,
+          30
+        ],
+        [
+          1730,
+          1830,
+          50
+        ],
+        [
+          1830,
+          1920,
+          20
+        ]
+      ],
+      "year": [
+        [
+          1690,
+          1750,
+          25
+        ],
+        [
+          1750,
+          1820,
+          55
+        ],
+        [
+          1820,
+          1870,
+          20
+        ]
+      ],
+      "reason": "加快缩债及2022利率中位数0.9%偏紧，但黄金事前20日已跌约4.8%、实际收益率仍负，不能只依据鹰派标题追空。短期震荡权重最高。年底只剩半月，比一个月范围窄且基准权重更高。",
+      "analogs": [
+        "2020-03-23",
+        "2021-11-03"
+      ],
+      "analogy_difference": "前者是工具方向相反的应急扩张，后者是本轮缩债起点；2021通胀及复苏条件不同。",
+      "sep": {
+        "next_year_rate": 0.9,
+        "previous_next_year_rate": 0.3
+      },
+      "consensus_status": "有2021-12-14路透事前报道线索；未完成历史正文版本审计，未使用数值化市场概率",
+      "title": "加快缩减购债",
+      "published_utc": "2021-12-15T19:00:00+00:00",
+      "published_beijing": "2021-12-16T03:00:00+08:00",
+      "facts": "维持0%—0.25%，国债和机构MBS月度净购买分别减少200亿和100亿美元。",
+      "last_price": {
+        "date": "2021-12-14",
+        "price": 1782.35,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2021-12-13",
+            "value": 96.31999969482422
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": 95.12999725341797
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2021-12-13",
+            "value": 20.309999465942383
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": 16.290000915527344
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2021-12-13",
+            "value": 74.38999938964844
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": 82.16999816894531
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2021-12-13",
+            "value": 4668.97021484375
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": 4682.85009765625
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2021-12-13",
+            "value": -0.98
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": -1.15
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2021-12-13",
+            "value": 1.42
+          },
+          "prior_20_observations": {
+            "date": "2021-11-12",
+            "value": 1.58
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20211215.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2020-03-23",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200323a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2021-11-03",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2022-01-15",
+      "year_target": "2021-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "ea45b902f47d235aa1e296ed7c48c8442efb0f5e9f27d2a07cd3f0225c3827ad"
+    },
+    {
+      "date": "2022-03-16",
+      "month": [
+        [
+          1730,
+          1850,
+          30
+        ],
+        [
+          1850,
+          2000,
+          45
+        ],
+        [
+          2000,
+          2150,
+          25
+        ]
+      ],
+      "year": [
+        [
+          1550,
+          1800,
+          35
+        ],
+        [
+          1800,
+          2050,
+          40
+        ],
+        [
+          2050,
+          2350,
+          25
+        ]
+      ],
+      "reason": "启动加息且预告继续提高利率，压制估值；事前油价约107、VIX约32、实际收益率仍负，风险与通胀对冲使单边下跌也不确定。前期1786—2017提供支撑阻力参考。年底累积紧缩风险高于月度，下行加5个百分点。",
+      "analogs": [
+        "2021-11-03",
+        "2021-12-15"
+      ],
+      "analogy_difference": "从缩债进入实际加息；能源和风险背景更强，不能按上一阶段低波动区间照搬。",
+      "consensus_status": "25基点及后续路径的历史市场共识缺失",
+      "title": "提高目标利率至0.25%—0.50%",
+      "published_utc": "2022-03-16T18:00:00+00:00",
+      "published_beijing": "2022-03-17T02:00:00+08:00",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "last_price": {
+        "date": "2022-03-15",
+        "price": 1928.75,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2022-03-14",
+            "value": 99.05999755859375
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": 96.08000183105469
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2022-03-14",
+            "value": 31.770000457763672
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": 27.360000610351562
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2022-03-14",
+            "value": 106.9000015258789
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": 94.44000244140625
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2022-03-14",
+            "value": 4173.10986328125
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": 4418.64013671875
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2022-03-14",
+            "value": -0.79
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": -0.51
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2022-03-14",
+            "value": 2.14
+          },
+          "prior_20_observations": {
+            "date": "2022-02-11",
+            "value": 1.92
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2021-11-03",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211103a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2021-12-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2022-04-16",
+      "year_target": "2022-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "8070e357202dcbe20cad7f78af3deb2909ea42125595e9643842ab64836842a0"
+    },
+    {
+      "date": "2022-06-15",
+      "month": [
+        [
+          1630,
+          1760,
+          40
+        ],
+        [
+          1760,
+          1870,
+          40
+        ],
+        [
+          1870,
+          1980,
+          20
+        ]
+      ],
+      "year": [
+        [
+          1450,
+          1700,
+          40
+        ],
+        [
+          1700,
+          1950,
+          35
+        ],
+        [
+          1950,
+          2250,
+          25
+        ]
+      ],
+      "reason": "利率升至1.50%—1.75%，事前美元约105、实际收益率转正至0.69%，两个重要压力同时存在。以1824附近为参照、前期1806支撑可能失守，因此下行与基准并重；高油价和风险冲击保留上行尾部。年底更长周期保留政策反转可能，上行从基准转入5个百分点。",
+      "analogs": [
+        "2021-12-15",
+        "2022-03-16"
+      ],
+      "analogy_difference": "已从首次小幅加息进入更快紧缩，实际收益率状态不同；未使用2022年后续结果。",
+      "consensus_status": "会前50/75基点概率转换未完成原文核验",
+      "title": "提高目标利率至1.50%—1.75%",
+      "published_utc": "2022-06-15T18:00:00+00:00",
+      "published_beijing": "2022-06-16T02:00:00+08:00",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "last_price": {
+        "date": "2022-06-14",
+        "price": 1823.65,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 105.08000183105469
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 104.55999755859375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 34.02000045776367
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 28.8700008392334
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 122.2699966430664
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 111.55000305175781
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 3749.6298828125
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 4023.889892578125
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 0.69
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 0.24
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2022-06-13",
+            "value": 3.43
+          },
+          "prior_20_observations": {
+            "date": "2022-05-13",
+            "value": 2.93
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2021-12-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20211215a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2022-03-16",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2022-07-15",
+      "year_target": "2022-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "c236c06a203fb64d007e65f2bf90e096c7373ea5f08c613a9e483867b0443254"
+    },
+    {
+      "date": "2022-09-21",
+      "month": [
+        [
+          1500,
+          1620,
+          40
+        ],
+        [
+          1620,
+          1740,
+          40
+        ],
+        [
+          1740,
+          1840,
+          20
+        ]
+      ],
+      "year": [
+        [
+          1400,
+          1600,
+          40
+        ],
+        [
+          1600,
+          1800,
+          35
+        ],
+        [
+          1800,
+          2000,
+          25
+        ]
+      ],
+      "reason": "利率到3%—3.25%，同期展望年底4.4%、次年4.6%，较6月更高。事前美元约109.7、实际收益率1.15%，趋势偏弱；黄金已靠近60日低点且20日跌4.85%，保留超跌修复。年底衰退及转向可能性增加，但不预设转向会发生。",
+      "analogs": [
+        "2022-03-16",
+        "2022-06-15"
+      ],
+      "analogy_difference": "累积紧缩更深且年内剩余时间变短；前次政策动作只作结构参照。",
+      "sep": {
+        "year_end_rate": 4.4,
+        "next_year_rate": 4.6
+      },
+      "consensus_status": "市场共识缺失；SEP现行HTML有后改脚注，数值需原PDF进一步审计",
+      "title": "提高目标利率至3.00%—3.25%",
+      "published_utc": "2022-09-21T18:00:00+00:00",
+      "published_beijing": "2022-09-22T02:00:00+08:00",
+      "facts": "提高目标利率，并预计继续提高目标区间是合适的。",
+      "last_price": {
+        "date": "2022-09-20",
+        "price": 1667.9,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 109.73999786376953
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 108.16999816894531
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 25.760000228881836
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 20.600000381469727
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 92.0
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 96.72000122070312
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 3899.889892578125
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 4228.47998046875
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 1.15
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 0.43
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2022-09-19",
+            "value": 3.49
+          },
+          "prior_20_observations": {
+            "date": "2022-08-19",
+            "value": 2.98
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20220921.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2022-03-16",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2022-06-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2022-10-21",
+      "year_target": "2022-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "5315d12f8768fb5a5dbbd654a34f91b487b28d224e2daece43839234e400cb47"
+    },
+    {
+      "date": "2023-05-03",
+      "month": [
+        [
+          1800,
+          1920,
+          25
+        ],
+        [
+          1920,
+          2050,
+          45
+        ],
+        [
+          2050,
+          2180,
+          30
+        ]
+      ],
+      "year": [
+        [
+          1650,
+          1900,
+          25
+        ],
+        [
+          1900,
+          2150,
+          40
+        ],
+        [
+          2150,
+          2400,
+          35
+        ]
+      ],
+      "reason": "利率升到5%—5.25%，声明转为监测后续信息，不能直接推断马上降息。金价近1981、此前高点约2036，实际收益率1.36%仍有压力。月度先看高位震荡，若增长与利率下行可突破；更长期上行权重适度提高但不纳入未来具体危机。",
+      "analogs": [
+        "2022-06-15",
+        "2022-09-21"
+      ],
+      "analogy_difference": "仍是紧缩，但政策表述不再简单沿用持续加息的线性外推。",
+      "consensus_status": "暂停与降息的市场概率档案缺失",
+      "title": "提高目标利率至5.00%—5.25%",
+      "published_utc": "2023-05-03T18:00:00+00:00",
+      "published_beijing": "2023-05-04T02:00:00+08:00",
+      "facts": "提高目标利率，将继续监测新信息及其政策含义。",
+      "last_price": {
+        "date": "2023-05-02",
+        "price": 1980.9,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 102.1500015258789
+          },
+          "prior_20_observations": {
+            "date": "2023-03-31",
+            "value": 102.51000213623047
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 16.079999923706055
+          },
+          "prior_20_observations": {
+            "date": "2023-03-31",
+            "value": 18.700000762939453
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 79.30999755859375
+          },
+          "prior_20_observations": {
+            "date": "2023-03-31",
+            "value": 79.7699966430664
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 4167.8701171875
+          },
+          "prior_20_observations": {
+            "date": "2023-03-31",
+            "value": 4109.31005859375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 1.36
+          },
+          "prior_20_observations": {
+            "date": "2023-04-03",
+            "value": 1.14
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2023-05-01",
+            "value": 3.59
+          },
+          "prior_20_observations": {
+            "date": "2023-04-03",
+            "value": 3.43
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2022-06-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2022-09-21",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2023-06-03",
+      "year_target": "2023-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "ab873ce2762a0b1addcf95d5f2e1b1cdbd110b09560449e45c4a1f53313215f2"
+    },
+    {
+      "date": "2023-12-13",
+      "month": [
+        [
+          1830,
+          1950,
+          20
+        ],
+        [
+          1950,
+          2080,
+          45
+        ],
+        [
+          2080,
+          2220,
+          35
+        ]
+      ],
+      "year": [
+        [
+          1900,
+          1970,
+          20
+        ],
+        [
+          1970,
+          2070,
+          50
+        ],
+        [
+          2070,
+          2150,
+          30
+        ]
+      ],
+      "reason": "维持利率，SEP次年利率中位数从9月5.1%降至4.6%，通胀预测也下调，为黄金提供支持；但事前实际收益率约2.04%，不能取消下行风险。月度可测试2067附近历史阻力；年底只剩约半月，收窄目标并提高震荡权重。",
+      "analogs": [
+        "2022-09-21",
+        "2023-05-03"
+      ],
+      "analogy_difference": "由上修利率路径转为下修，是政策方向变化，不是当时已承诺降息。",
+      "sep": {
+        "next_year_rate": 4.6,
+        "previous_next_year_rate": 5.1
+      },
+      "consensus_status": "事前市场降息幅度共识缺失，SEP下修仅相对先前官方预测",
+      "title": "维持5.25%—5.50%",
+      "published_utc": "2023-12-13T19:00:00+00:00",
+      "published_beijing": "2023-12-14T03:00:00+08:00",
+      "facts": "维持目标利率。未将未单独核验的点阵图或记者会内容纳入本次输入。",
+      "last_price": {
+        "date": "2023-12-12",
+        "price": 1986.9,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 104.0999984741211
+          },
+          "prior_20_observations": {
+            "date": "2023-11-10",
+            "value": 105.86000061035156
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 12.630000114440918
+          },
+          "prior_20_observations": {
+            "date": "2023-11-10",
+            "value": 14.170000076293945
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 76.02999877929688
+          },
+          "prior_20_observations": {
+            "date": "2023-11-13",
+            "value": 82.5199966430664
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 4622.43994140625
+          },
+          "prior_20_observations": {
+            "date": "2023-11-10",
+            "value": 4415.240234375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 2.04
+          },
+          "prior_20_observations": {
+            "date": "2023-11-10",
+            "value": 2.29
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2023-12-11",
+            "value": 4.23
+          },
+          "prior_20_observations": {
+            "date": "2023-11-10",
+            "value": 4.61
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20231213.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2022-09-21",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2023-05-03",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230503a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2024-01-13",
+      "year_target": "2023-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "fa78c9ae9b0cbb7eda74b39668b73051f28a740fdeb721f617c88a7a9407d903"
+    },
+    {
+      "date": "2024-09-18",
+      "month": [
+        [
+          2380,
+          2500,
+          25
+        ],
+        [
+          2500,
+          2640,
+          45
+        ],
+        [
+          2640,
+          2800,
+          30
+        ]
+      ],
+      "year": [
+        [
+          2250,
+          2470,
+          25
+        ],
+        [
+          2470,
+          2750,
+          40
+        ],
+        [
+          2750,
+          3000,
+          35
+        ]
+      ],
+      "reason": "降50基点且SEP路径下移支持中期黄金。但9月17日期货已给50基点约65%权重，不能称完全意外；金价已近60日高点2587，存在兑现风险。基准围绕2500—2640，持续宽松才转入上段，年底给予更多上行空间。",
+      "analogs": [
+        "2020-03-03",
+        "2023-12-13"
+      ],
+      "analogy_difference": "与疫情紧急降息不同，本次为有日程会议；与2023年相比是从路径预示变为实际降息。",
+      "sep": {
+        "year_end_rate": 4.4,
+        "next_year_rate": 3.4
+      },
+      "consensus_status": "2024-09-17路透：期货50基点65%、25基点35%；经济学家多数预期25，须区分两类共识",
+      "consensus_url": "https://www.investing.com/news/economy-news/factboxmost-brokerages-expect-25-bps-rate-cut-from-fed-on-wednesday-3619407",
+      "title": "降息50基点",
+      "published_utc": "2024-09-18T18:00:00+00:00",
+      "published_beijing": "2024-09-19T02:00:00+08:00",
+      "facts": "目标利率下调50基点至4.75%—5.00%。",
+      "last_price": {
+        "date": "2024-09-17",
+        "price": 2575.5,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 100.76000213623047
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 102.45999908447266
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 17.139999389648438
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 14.800000190734863
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 72.75
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 79.68000030517578
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 5633.08984375
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 5554.25
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 1.54
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 1.81
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2024-09-16",
+            "value": 3.63
+          },
+          "prior_20_observations": {
+            "date": "2024-08-16",
+            "value": 3.89
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20240918.htm",
+        "https://www.investing.com/news/economy-news/factboxmost-brokerages-expect-25-bps-rate-cut-from-fed-on-wednesday-3619407"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2020-03-03",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200303a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2023-12-13",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2024-10-18",
+      "year_target": "2024-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "3665b18d243d4d4470e4170cdc7cc05e8c9996d5e8ab8518ac67540952589ff1"
+    },
+    {
+      "date": "2024-12-18",
+      "month": [
+        [
+          2400,
+          2550,
+          35
+        ],
+        [
+          2550,
+          2730,
+          45
+        ],
+        [
+          2730,
+          2870,
+          20
+        ]
+      ],
+      "year": [
+        [
+          2500,
+          2580,
+          30
+        ],
+        [
+          2580,
+          2700,
+          50
+        ],
+        [
+          2700,
+          2790,
+          20
+        ]
+      ],
+      "reason": "降25基点同时SEP将次年利率从3.4%上调3.9%、次年PCE从2.1%上调2.5%，属于相对上次官方路径偏紧，而非简单降息利多。事前实际收益率2.07%、美元106.9强化压力。以此前2548—2784结构分区；年底剩余时间更短，提高基准权重。",
+      "analogs": [
+        "2023-12-13",
+        "2024-09-18"
+      ],
+      "analogy_difference": "与两次下修路径相反，本次未来路径上修；不以会后金价下跌作为理由。",
+      "sep": {
+        "next_year_rate": 3.9,
+        "previous_next_year_rate": 3.4,
+        "next_year_pce": 2.5,
+        "previous_next_year_pce": 2.1
+      },
+      "consensus_status": "会前降息预期有报道线索，但未使用未核正文作为严格共识输入",
+      "title": "降息25基点",
+      "published_utc": "2024-12-18T19:00:00+00:00",
+      "published_beijing": "2024-12-19T03:00:00+08:00",
+      "facts": "目标利率下调25基点至4.25%—4.50%。未把后来金价下跌倒填成偏鹰信号。",
+      "last_price": {
+        "date": "2024-12-17",
+        "price": 2641.6,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 106.86000061035156
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 106.69000244140625
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 14.6899995803833
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 16.139999389648438
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 73.91000366210938
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 71.04000091552734
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 6074.080078125
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 5870.6201171875
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 2.07
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 2.1
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2024-12-16",
+            "value": 4.39
+          },
+          "prior_20_observations": {
+            "date": "2024-11-15",
+            "value": 4.43
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20241218.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2023-12-13",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20231213a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2024-09-18",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2025-01-18",
+      "year_target": "2024-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "3f7485e90d178172605a00b1ba8d696655087d10e8f5aad45ec5c47e40a9a73e"
+    },
+    {
+      "date": "2025-09-17",
+      "month": [
+        [
+          3350,
+          3550,
+          30
+        ],
+        [
+          3550,
+          3800,
+          45
+        ],
+        [
+          3800,
+          4050,
+          25
+        ]
+      ],
+      "year": [
+        [
+          3100,
+          3500,
+          25
+        ],
+        [
+          3500,
+          3950,
+          40
+        ],
+        [
+          3950,
+          4400,
+          35
+        ]
+      ],
+      "reason": "降25基点且SEP年底利率3.6%较6月3.9%下调，政策支持仍在。但黄金事前20日已涨约10.4%至3695，利多计价和获利回吐不能忽略；月度下行权重略高于突破。年底宽松传导与趋势延续获得更多时间，增加上行权重，不假设未来关税或冲突。",
+      "analogs": [
+        "2024-09-18",
+        "2024-12-18"
+      ],
+      "analogy_difference": "同时对照实际降息和路径偏紧的反例；本次需防涨幅透支而不是按降息次数推断行情。",
+      "sep": {
+        "year_end_rate": 3.6,
+        "previous_year_end_rate": 3.9
+      },
+      "consensus_status": "会前25基点市场概率未核验",
+      "title": "降息25基点",
+      "published_utc": "2025-09-17T18:00:00+00:00",
+      "published_beijing": "2025-09-18T02:00:00+08:00",
+      "facts": "目标利率下调25基点至4.00%—4.25%。",
+      "last_price": {
+        "date": "2025-09-16",
+        "price": 3695.4,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 97.30000305175781
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 97.8499984741211
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "vix": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 15.6899995803833
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 15.09000015258789
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "oil": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 67.44000244140625
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 65.8499984741211
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "stocks": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 6615.27978515625
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 6449.7998046875
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 1.68
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 1.95
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2025-09-15",
+            "value": 4.05
+          },
+          "prior_20_observations": {
+            "date": "2025-08-15",
+            "value": 4.33
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": false,
+          "age_days": 2,
+          "use": "provisional_current_vintage_background"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20250917.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2024-09-18",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2024-12-18",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2025-10-17",
+      "year_target": "2025-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "d7adfdc145681f943f4824cdb424a1dc0f02c81d261fa86d5e5bc46f8bc4cb69"
+    },
+    {
+      "date": "2026-09-16",
+      "month": [
+        [
+          3850,
+          4100,
+          30
+        ],
+        [
+          4100,
+          4450,
+          45
+        ],
+        [
+          4450,
+          4750,
+          25
+        ]
+      ],
+      "year": [
+        [
+          3650,
+          4050,
+          30
+        ],
+        [
+          4050,
+          4550,
+          40
+        ],
+        [
+          4550,
+          5000,
+          30
+        ]
+      ],
+      "reason": "加25基点、声明强调通胀仍高，黄金此前60日已在3979—4634宽幅波动，20日回落约2.9%，有部分压力释放但无法量化加息计价。宏观缓存过旧，不当作实时确认；月度基准宽震荡，下行略高于上行。年底更长路径不确定性提高上行尾部，不使用10月非农信息。",
+      "analogs": [
+        "2022-06-15",
+        "2022-09-21"
+      ],
+      "analogy_difference": "同是通胀压制下紧缩，但金价水平、结构需求及政策环境不同；不照搬2022后续跌幅。",
+      "consensus_status": "会前加息概率缺失；美元等缓存至少落后9天，实际收益率落后13天，剔除实时确认用途",
+      "title": "加息25基点",
+      "published_utc": "2026-09-16T18:00:00+00:00",
+      "published_beijing": "2026-09-17T02:00:00+08:00",
+      "facts": "目标利率上调25基点至3.75%—4.00%。",
+      "last_price": {
+        "date": "2026-09-15",
+        "price": 4265.5,
+        "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026"
+      },
+      "macro_context": {
+        "dollar": {
+          "last": {
+            "date": "2026-09-07",
+            "value": 98.90599822998047
+          },
+          "prior_20_observations": {
+            "date": "2026-08-10",
+            "value": 99.80999755859375
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_dollar_index.csv",
+          "sha256": "1511648f5dec9aa911e272d3f43d55aa4b7957d135ed3f2427e39b5c8ef3db13",
+          "stale": true,
+          "age_days": 9,
+          "use": "excluded_from_current_confirmation"
+        },
+        "vix": {
+          "last": {
+            "date": "2026-09-07",
+            "value": 15.300000190734863
+          },
+          "prior_20_observations": {
+            "date": "2026-08-10",
+            "value": 15.460000038146973
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_vix.csv",
+          "sha256": "8130cd27d8645dde941bc2dd102e335fe14cea9a8db2821522dbeec7d49fce67",
+          "stale": true,
+          "age_days": 9,
+          "use": "excluded_from_current_confirmation"
+        },
+        "oil": {
+          "last": {
+            "date": "2026-09-07",
+            "value": 96.27999877929688
+          },
+          "prior_20_observations": {
+            "date": "2026-08-10",
+            "value": 87.72000122070312
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_brent.csv",
+          "sha256": "7f7716b68796c009e4f486830912ba7f44f9394e9914c2033492d3d9fe72e21a",
+          "stale": true,
+          "age_days": 9,
+          "use": "excluded_from_current_confirmation"
+        },
+        "stocks": {
+          "last": {
+            "date": "2026-09-04",
+            "value": 7718.60009765625
+          },
+          "prior_20_observations": {
+            "date": "2026-08-07",
+            "value": 7757.64013671875
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\market\\yahoo_sp500.csv",
+          "sha256": "3c31aedf8f113627914432af58655566e4b1743bcba8c2b39c465fa1545c5e63",
+          "stale": true,
+          "age_days": 12,
+          "use": "excluded_from_current_confirmation"
+        },
+        "real_yield": {
+          "last": {
+            "date": "2026-09-03",
+            "value": 2.42
+          },
+          "prior_20_observations": {
+            "date": "2026-08-06",
+            "value": 2.43
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_real_yield.csv",
+          "sha256": "ccc619dee82dab2a6989ad6a9f163bd9e7a8df35216dd5cb4e13ffe60d898fd8",
+          "stale": true,
+          "age_days": 13,
+          "use": "excluded_from_current_confirmation"
+        },
+        "nominal_yield": {
+          "last": {
+            "date": "2026-09-03",
+            "value": 4.77
+          },
+          "prior_20_observations": {
+            "date": "2026-08-06",
+            "value": 4.69
+          },
+          "vintage_verified": false,
+          "source": "C:\\Users\\22241\\Desktop\\gold\\data\\raw\\macro\\fred_us_10y_nominal_yield.csv",
+          "sha256": "0be94e996502be4a90c1d863478ce8010e9e7716bfa5843a56720d3508e2eb96",
+          "stale": true,
+          "age_days": 13,
+          "use": "excluded_from_current_confirmation"
+        }
+      },
+      "sources": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+      ],
+      "historical_analogs": [
+        {
+          "date": "2022-06-15",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220615a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        },
+        {
+          "date": "2022-09-21",
+          "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20220921a.htm",
+          "use": "policy mechanism only; not an analogue-return training sample"
+        }
+      ],
+      "month_target": "2026-10-16",
+      "year_target": "2026-12-31",
+      "forecast_role": "partial_structured_subjective_reconstruction",
+      "evidence_grade": "incomplete_low_reliability",
+      "missing": [
+        "point-in-time macro vintages",
+        "complete ETF/COT/central-bank-flow disclosures",
+        "complete historical consensus except separately sourced cases",
+        "independent blinded analyst"
+      ],
+      "scenario_conditions": {
+        "下行": "紧缩或现金需求继续增强；价格持续跌破基准下界。若政策缓和且价格收复基准区，转向基准。",
+        "基准": "政策动作和既有价格结构相互抵消；维持中间区域。持续突破上下边界则转向对应尾部。",
+        "上行": "宽松传导、实际利率下降或风险对冲增强；价格突破基准上界。若美元利率反向且跌回基准区则失效。"
+      },
+      "interval_method": "Analyst-drawn round-number zones referenced to strictly prior price structure, policy facts and available macro background; not old volatility formula.",
+      "weight_method": "Analyst judgement in five-percentage-point increments; not learned/calibrated probabilities; documented in reason.",
+      "input_sha256": "6134804b3575fe256b4282d812e184a24ae9ae31a1bed64f8b6ba9ef7f040791"
+    }
+  ]
+}

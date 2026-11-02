@@ -1,0 +1,14 @@
+{
+  "name": "基准1与基准2各50%",
+  "baselines": [
+    "config/baseline_1.json",
+    "config/baseline_2.json"
+  ],
+  "initial_allocations": [
+    0.5,
+    0.5
+  ],
+  "rebalance_between_sleeves": false,
+  "within_sleeves": "Each strategy trades independently; fees deducted within its own sleeve.",
+  "cost_per_side": 0.003
+}

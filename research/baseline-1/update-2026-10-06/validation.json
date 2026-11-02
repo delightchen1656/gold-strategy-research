@@ -1,0 +1,9 @@
+{
+  "economic_tests_passed": 8,
+  "historical_replay_matches": true,
+  "all_phase_constraints_passed": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "candidate_status": "research_only_higher_return_higher_drawdown",
+  "notify": true
+}

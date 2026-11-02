@@ -1,0 +1,40 @@
+{
+  "source": "https://www.investing.com/currencies/xau-usd-historical-data",
+  "retrieved_beijing": "2026-11-02T12:30:36.647684+08:00",
+  "source_timezone": "not established; source session dates preserved",
+  "provisional_date": "2026-11-02",
+  "ohlc": {
+    "Open": 3898.36,
+    "High": 3914.97,
+    "Low": 3892.9,
+    "Price": 3904.51
+  },
+  "latest_row_change_pct": 0.15904327772804372,
+  "quote_timestamp": null,
+  "previous_session": "2026-11-01",
+  "previous_ohlc": {
+    "Open": 3881.06,
+    "High": 3902.2,
+    "Low": 3880.55,
+    "Price": 3898.31
+  },
+  "market_closed": false,
+  "latest_completed": false,
+  "window": "30 source trading sessions, including latest provisional session",
+  "session_count": 30,
+  "cached_same_source_snapshots": [
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-23\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-24\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-25\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-26\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-27\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-28\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-29\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-30\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-10-31\\investing_history.raw",
+    "C:\\Users\\22241\\Desktop\\gold\\research\\baseline-1\\update-2026-11-01\\investing_history.raw"
+  ],
+  "note": "Latest row solid only when page reports Closed; otherwise provisional. Retrieval time is not quote time. No mixed-source candles.",
+  "volume_available_sessions": 0,
+  "volume_note": "Source-reported volume only; missing values are not zero. No futures or tick-volume substitution."
+}

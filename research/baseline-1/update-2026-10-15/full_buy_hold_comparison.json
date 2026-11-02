@@ -1,0 +1,53 @@
+{
+  "start": "2021-01-04",
+  "end": "2026-10-14",
+  "initial_cny": 50000,
+  "valuation": "mark to market, no forced terminal redemption",
+  "products": {
+    "fund": {
+      "baseline": {
+        "return_pct": 139.49143028085328,
+        "cagr_pct": 16.328959783891218,
+        "max_drawdown_pct": -8.518624935823782,
+        "average_weight_pct": 47.042069819687576,
+        "max_weight_pct": 99.99998861160225,
+        "final_cny": 119745.71514042665,
+        "fees_cny": 3565.6241065733493,
+        "trade_days": 48
+      },
+      "hold": {
+        "return_pct": 113.62195051700552,
+        "cagr_pct": 14.04865402036961,
+        "max_drawdown_pct": -30.03991482557049,
+        "average_weight_pct": 99.99998476444499,
+        "max_weight_pct": 99.99999357777367,
+        "final_cny": 106810.97525850276,
+        "fees_cny": 74.88766849725653,
+        "trade_days": 1
+      }
+    },
+    "cmb": {
+      "baseline": {
+        "return_pct": 119.73654020318456,
+        "cagr_pct": 14.607438571485766,
+        "max_drawdown_pct": -10.807366558412868,
+        "average_weight_pct": 47.013642641455455,
+        "max_weight_pct": 99.99998623326512,
+        "final_cny": 109868.27010159228,
+        "fees_cny": 5505.308,
+        "trade_days": 48
+      },
+      "hold": {
+        "return_pct": 118.43561122099624,
+        "cagr_pct": 14.489639125155772,
+        "max_drawdown_pct": -29.358157667182994,
+        "average_weight_pct": 99.99993535495155,
+        "max_weight_pct": 99.99997339430627,
+        "final_cny": 109217.80561049812,
+        "fees_cny": 306.38375,
+        "trade_days": 1
+      }
+    }
+  },
+  "london_price_return_pct": 114.52765692977005
+}

@@ -1,0 +1,12 @@
+{
+  "parameters": {
+    "method": "vol_exposure",
+    "buffer": 0.02,
+    "breakout": 90,
+    "stop": 0.08,
+    "vol_target": 0.24
+  },
+  "selected_using": "2009-03-15 to 2020-12-31 ONLY",
+  "training_rank": 1,
+  "cost": 0.0005
+}

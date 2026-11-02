@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-02T12:31:02.221880+08:00",
+  "rule": "v1",
+  "snapshot": "C:\\Users\\22241\\Desktop\\quant\\K线数据\\黄金\\snapshots\\20261101T162434468258Z\\MANIFEST.json",
+  "manifest_sha256": "38eb1b91320b780fff9bc05f89e97f59ddfa86fb05aac15c4db83ea3dd94e27c",
+  "data_sha256": "6a7a642d5cb84df7e659e11502d9bd04bc6efb443ccc3b13314ac380b17829f6",
+  "gold": {
+    "date": "2026-10-29",
+    "close": 4007.8554,
+    "low": 4005.055,
+    "high": 4069.12,
+    "status": "未知：缺10月30日及此后完整日线；截至10月29日未满足",
+    "stale": true,
+    "observed_status": "未满足（最新收盘低于4100，当前无有效回调确认）",
+    "missing_completed_dates": [
+      "2026-10-30",
+      "2026-11-01"
+    ],
+    "missing_note": "伦敦自然日规则保留实际周日短时段；11月1日可见外部交易报价，但不补造本地日线。"
+  },
+  "macro": {
+    "DFII10": {
+      "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFII10&cosd=2026-08-01&coed=2026-11-02",
+      "sha256": "18afdfb068dfda421818fd63b024a942e466afad6078afaa7888d994602456cd",
+      "n": 62,
+      "date": "2026-10-29",
+      "value": 2.63,
+      "last5mean": 2.652,
+      "previous5mean": 2.742,
+      "last20mean": 2.7915,
+      "consecutive_new_observations": 0,
+      "status": "未满足",
+      "last3_tests": [
+        {
+          "date": "2026-10-27",
+          "meets": false
+        },
+        {
+          "date": "2026-10-28",
+          "meets": false
+        },
+        {
+          "date": "2026-10-29",
+          "meets": false
+        }
+      ],
+      "fred_updated": "2026-10-30 15:16 CDT / 2026-10-31 04:16 北京时间",
+      "new_observations_since_previous": 0,
+      "same_sequence_hash_as_previous": true,
+      "publication_note": "FRED页面更新时间，本轮重新核验；非首发时间推定。发布时间延迟不算新观测。"
+    },
+    "DTWEXBGS": {
+      "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTWEXBGS&cosd=2026-08-01&coed=2026-11-02",
+      "sha256": "bda94a6fdad3881b2eea9550cbf67658c0423e1ddc04acbf2a6010f6c6dc10f0",
+      "n": 58,
+      "date": "2026-10-23",
+      "value": 121.3202,
+      "last5mean": 121.29126,
+      "previous5mean": 121.60467999999999,
+      "last20mean": 121.277425,
+      "consecutive_new_observations": 0,
+      "status": "未满足",
+      "last3_tests": [
+        {
+          "date": "2026-10-21",
+          "meets": false
+        },
+        {
+          "date": "2026-10-22",
+          "meets": false
+        },
+        {
+          "date": "2026-10-23",
+          "meets": false
+        }
+      ],
+      "fred_updated": "2026-10-26 15:16 CDT / 2026-10-27 04:16 北京时间",
+      "new_observations_since_previous": 0,
+      "same_sequence_hash_as_previous": true,
+      "publication_note": "FRED页面更新时间，本轮重新核验；非首发时间推定。发布时间延迟不算新观测。"
+    }
+  },
+  "overall": "未确认；宏观两项未满足，最新完整黄金日线未知",
+  "triggered_at": "2026-11-02T12:30:09.939+08:00",
+  "schedule_note": "计划10:30；实际触发12:30、核验12:31，未倒填计划时点。",
+  "snapshot_change": "新增2003—2009早期历史；当前最新日仍10月29日。只读CURRENT指针且manifest/data哈希通过。",
+  "spot": {
+    "source": "https://www.kitco.com/price/precious-metals",
+    "source_timestamp": "2026-11-01 23:17 EST",
+    "beijing_time": "2026-11-02 12:17 +08:00",
+    "bid": 3905.5,
+    "ask": 3907.5,
+    "change_pct": 0.8,
+    "day_low": 3879.4,
+    "day_high": 3915.9,
+    "use": "仅盘中参考，不纳入收盘突破确认"
+  },
+  "news": [
+    {
+      "event_date": "2026-11-01",
+      "publication_date": "2026-11-01",
+      "publication_time": "未知",
+      "source": "https://www.opec.org/pr-detail/2033620-1-november-2026.html",
+      "fact": "七个OPEC+参与国维持12月产量目标，沿用9月要求",
+      "assessment": "与上次消息人士预期一致，预期转官方确认；不等于运输障碍解除，不改变预测权重"
+    }
+  ],
+  "notification": "DONT_NOTIFY",
+  "reason": "联合条件未触发；盘中反弹未收复观察带；OPEC符合旧预期；本地近期数据缺失为既有问题，历史扩展未修复也未造成新的读取失败。"
+}

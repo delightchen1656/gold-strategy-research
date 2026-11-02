@@ -1,0 +1,13 @@
+{
+  "parameters": {
+    "method": "momentum_consensus",
+    "windows": [
+      60,
+      120,
+      240
+    ],
+    "frequency": "monthly",
+    "downside_budget": false
+  },
+  "training_only": true
+}

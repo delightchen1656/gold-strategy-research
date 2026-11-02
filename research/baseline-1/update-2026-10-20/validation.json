@@ -1,0 +1,15 @@
+{
+  "notify": true,
+  "target_changed": false,
+  "common_cutoff": "2026-10-19",
+  "target_weight": 0,
+  "historical_replay_matches": true,
+  "candidate_corrected_data_phase_checks": {
+    "fund": true,
+    "cmb": true
+  },
+  "candidate_promoted": false,
+  "reason": "Candidate restores historical exposure constraint on single-point corrected data but reduces annualized returns; not independent OOS.",
+  "validated_compliance": false,
+  "baseline_replaced": false
+}

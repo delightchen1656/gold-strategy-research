@@ -1,0 +1,26 @@
+{
+  "status": "research_candidate_only",
+  "candidate_id": 1789,
+  "cost_per_side": 0.003,
+  "development_period": [
+    "2009-03-15",
+    "2020-12-31"
+  ],
+  "formal_baseline_changed": false,
+  "training_improvement": {
+    "return_percentage_points": 54.22010259076839,
+    "cagr_percentage_points": 1.8396245453372373,
+    "drawdown_reduction_percentage_points": 4.472633411185832
+  },
+  "positive_evidence": [
+    "All three development subperiod returns exceed baseline",
+    "2x cost and extra execution bar retain higher return and lower drawdown",
+    "9 of 14 grid neighbours beat baseline"
+  ],
+  "negative_evidence": [
+    "2012-only parameter selector fails on 2013-2016; model family and embedded base selected from development history",
+    "2220 grid rows this round plus many prior rounds increase selection bias",
+    "No external-period performance checked in this round"
+  ],
+  "next_step": "Freeze candidate before any 2004-2008 or 2021+ check; do not retune on those results."
+}

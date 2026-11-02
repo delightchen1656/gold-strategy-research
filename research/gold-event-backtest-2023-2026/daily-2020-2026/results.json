@@ -1,0 +1,901 @@
+{
+  "full_backtest_complete": false,
+  "original_module_reconstruction_complete": false,
+  "model_role": "partial_comparator_not_original_module",
+  "cutoff": "2026-10-02",
+  "registered_events": 363,
+  "comparator_cases": 14,
+  "scored_cases": 14,
+  "no_observation_cases": 0,
+  "any_hit_cases": 14,
+  "quote_observations": 97,
+  "quote_points_in_union": 97,
+  "rejected_quotes": [
+    {
+      "date": "2022-07-20",
+      "price": 1,
+      "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+      "reason": "over_20_percent_log_change_from_previous_accepted_observation; excluded_not_corrected"
+    },
+    {
+      "date": "2026-01-02",
+      "price": 1386.85,
+      "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+      "reason": "over_20_percent_log_change_from_previous_accepted_observation; excluded_not_corrected"
+    }
+  ],
+  "prediction_sha256": "77d0f5b0f033318037327822d4fbfd0580dfe40bfcb007746654f9141bbef03d",
+  "results": [
+    {
+      "id": "fed-2020-03-03",
+      "end_exclusive": "2020-03-06",
+      "observations": [
+        {
+          "date": "2020-03-04",
+          "price": 1644.8,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-05",
+          "price": 1647.45,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        }
+      ],
+      "count": 2,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 0,
+        "上行情景": 2,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "上行情景"
+      ],
+      "observed_min": 1644.8,
+      "observed_max": 1647.45,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2020-03-15",
+      "end_exclusive": "2020-03-17",
+      "observations": [
+        {
+          "date": "2020-03-16",
+          "price": 1504.65,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "下行情景"
+        }
+      ],
+      "count": 1,
+      "counts": {
+        "下行情景": 1,
+        "基准情景": 0,
+        "上行情景": 0,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "下行情景"
+      ],
+      "observed_min": 1504.65,
+      "observed_max": 1504.65,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2020-03-23",
+      "end_exclusive": "2020-04-03",
+      "observations": [
+        {
+          "date": "2020-03-24",
+          "price": 1599.5,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-25",
+          "price": 1620.95,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-26",
+          "price": 1620.1,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-27",
+          "price": 1621.2,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-30",
+          "price": 1624.45,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-03-31",
+          "price": 1604.65,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-04-01",
+          "price": 1594.25,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        },
+        {
+          "date": "2020-04-02",
+          "price": 1588.05,
+          "source": "repository raw cache; 2020 web refetch failed; not point-in-time vintage verified",
+          "band": "上行情景"
+        }
+      ],
+      "count": 8,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 0,
+        "上行情景": 8,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "上行情景"
+      ],
+      "observed_min": 1588.05,
+      "observed_max": 1624.45,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2021-11-03",
+      "end_exclusive": "2021-11-05",
+      "observations": [
+        {
+          "date": "2021-11-04",
+          "price": 1778.1,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "下行情景"
+        }
+      ],
+      "count": 1,
+      "counts": {
+        "下行情景": 1,
+        "基准情景": 0,
+        "上行情景": 0,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "下行情景"
+      ],
+      "observed_min": 1778.1,
+      "observed_max": 1778.1,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2021-12-15",
+      "end_exclusive": "2022-01-04",
+      "observations": [
+        {
+          "date": "2021-12-16",
+          "price": 1785.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-17",
+          "price": 1807.5,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-20",
+          "price": 1797.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-21",
+          "price": 1795.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-22",
+          "price": 1789.9,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-23",
+          "price": 1805.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-24",
+          "price": 1786.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-29",
+          "price": 1796.35,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-30",
+          "price": 1799.25,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        },
+        {
+          "date": "2021-12-31",
+          "price": 1820.1,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2021",
+          "band": "上行情景"
+        }
+      ],
+      "count": 10,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 0,
+        "上行情景": 10,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "上行情景"
+      ],
+      "observed_min": 1785.15,
+      "observed_max": 1820.1,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2022-03-16",
+      "end_exclusive": "2022-03-29",
+      "observations": [
+        {
+          "date": "2022-03-17",
+          "price": 1941.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-18",
+          "price": 1932.9,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-21",
+          "price": 1925.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-22",
+          "price": 1929.35,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-23",
+          "price": 1932.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-24",
+          "price": 1945.9,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-03-25",
+          "price": 1956.65,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-03-28",
+          "price": 1927,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        }
+      ],
+      "count": 8,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 7,
+        "上行情景": 1,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 1925.05,
+      "observed_max": 1956.65,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2022-06-15",
+      "end_exclusive": "2022-07-06",
+      "observations": [
+        {
+          "date": "2022-06-16",
+          "price": 1831.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-17",
+          "price": 1849.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-20",
+          "price": 1841.2,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-21",
+          "price": 1836.5,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-22",
+          "price": 1827.3,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-06-23",
+          "price": 1831.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-24",
+          "price": 1826.5,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-06-27",
+          "price": 1838.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-06-28",
+          "price": 1827,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-06-29",
+          "price": 1811.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-06-30",
+          "price": 1813.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-07-01",
+          "price": 1795.65,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-07-04",
+          "price": 1807.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-07-05",
+          "price": 1804.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        }
+      ],
+      "count": 14,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 8,
+        "上行情景": 6,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 1795.65,
+      "observed_max": 1849.85,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2022-09-21",
+      "end_exclusive": "2022-10-04",
+      "observations": [
+        {
+          "date": "2022-09-22",
+          "price": 1671.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-09-23",
+          "price": 1661.45,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        },
+        {
+          "date": "2022-09-26",
+          "price": 1643.35,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-09-27",
+          "price": 1632.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-09-28",
+          "price": 1618.2,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "下行情景"
+        },
+        {
+          "date": "2022-09-29",
+          "price": 1646.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "基准情景"
+        },
+        {
+          "date": "2022-09-30",
+          "price": 1672.75,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2022",
+          "band": "上行情景"
+        }
+      ],
+      "count": 7,
+      "counts": {
+        "下行情景": 1,
+        "基准情景": 3,
+        "上行情景": 3,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "下行情景",
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 1618.2,
+      "observed_max": 1672.75,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2023-05-03",
+      "end_exclusive": "2023-05-05",
+      "observations": [
+        {
+          "date": "2023-05-04",
+          "price": 2036.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        }
+      ],
+      "count": 1,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 0,
+        "上行情景": 1,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "上行情景"
+      ],
+      "observed_min": 2036.05,
+      "observed_max": 2036.05,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2023-12-13",
+      "end_exclusive": "2024-01-03",
+      "observations": [
+        {
+          "date": "2023-12-14",
+          "price": 2034.1,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-15",
+          "price": 2043.65,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-18",
+          "price": 2020.95,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-19",
+          "price": 2026,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-20",
+          "price": 2036.35,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-21",
+          "price": 2034.3,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-22",
+          "price": 2055.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-27",
+          "price": 2061.7,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-28",
+          "price": 2077.8,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2023-12-29",
+          "price": 2062.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2023",
+          "band": "上行情景"
+        },
+        {
+          "date": "2024-01-02",
+          "price": 2074.9,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "上行情景"
+        }
+      ],
+      "count": 11,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 0,
+        "上行情景": 11,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "上行情景"
+      ],
+      "observed_min": 2020.95,
+      "observed_max": 2077.8,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2024-09-18",
+      "end_exclusive": "2024-10-01",
+      "observations": [
+        {
+          "date": "2024-09-19",
+          "price": 2590.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "基准情景"
+        },
+        {
+          "date": "2024-09-20",
+          "price": 2606.45,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "基准情景"
+        },
+        {
+          "date": "2024-09-23",
+          "price": 2617.25,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "基准情景"
+        },
+        {
+          "date": "2024-09-24",
+          "price": 2628.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "基准情景"
+        },
+        {
+          "date": "2024-09-25",
+          "price": 2653.8,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "上行情景"
+        },
+        {
+          "date": "2024-09-26",
+          "price": 2668.9,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "上行情景"
+        },
+        {
+          "date": "2024-09-27",
+          "price": 2660.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "上行情景"
+        },
+        {
+          "date": "2024-09-30",
+          "price": 2650.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "上行情景"
+        }
+      ],
+      "count": 8,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 4,
+        "上行情景": 4,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 2590.6,
+      "observed_max": 2668.9,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2024-12-18",
+      "end_exclusive": "2025-01-07",
+      "observations": [
+        {
+          "date": "2024-12-19",
+          "price": 2621.3,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-20",
+          "price": 2606.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-23",
+          "price": 2620.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-24",
+          "price": 2613.75,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-27",
+          "price": 2625.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-30",
+          "price": 2610.3,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2024-12-31",
+          "price": 2610.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2024",
+          "band": "下行情景"
+        },
+        {
+          "date": "2025-01-02",
+          "price": 2644.6,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-01-03",
+          "price": 2654.3,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-01-06",
+          "price": 2631.8,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "下行情景"
+        }
+      ],
+      "count": 10,
+      "counts": {
+        "下行情景": 8,
+        "基准情景": 2,
+        "上行情景": 0,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "下行情景",
+        "基准情景"
+      ],
+      "observed_min": 2606.15,
+      "observed_max": 2654.3,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2025-09-17",
+      "end_exclusive": "2025-09-30",
+      "observations": [
+        {
+          "date": "2025-09-18",
+          "price": 3672.45,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "下行情景"
+        },
+        {
+          "date": "2025-09-19",
+          "price": 3657.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "下行情景"
+        },
+        {
+          "date": "2025-09-22",
+          "price": 3721.25,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "下行情景"
+        },
+        {
+          "date": "2025-09-23",
+          "price": 3788.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-09-24",
+          "price": 3768.05,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-09-25",
+          "price": 3752.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-09-26",
+          "price": 3748.75,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "基准情景"
+        },
+        {
+          "date": "2025-09-29",
+          "price": 3812.85,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2025",
+          "band": "上行情景"
+        }
+      ],
+      "count": 8,
+      "counts": {
+        "下行情景": 3,
+        "基准情景": 4,
+        "上行情景": 1,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "下行情景",
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 3657.85,
+      "observed_max": 3812.85,
+      "point_coverage": 1.0,
+      "any_hit": true
+    },
+    {
+      "id": "fed-2026-09-16",
+      "end_exclusive": "2026-09-29",
+      "observations": [
+        {
+          "date": "2026-09-17",
+          "price": 4307.25,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-18",
+          "price": 4387,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-21",
+          "price": 4343.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-22",
+          "price": 4313.15,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-23",
+          "price": 4316.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-24",
+          "price": 4255.55,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-25",
+          "price": 4290.75,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "上行情景"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 4144.4,
+          "source": "https://www.westmetall.com/en/markdaten.php?action=table&field=USD_ozt_London&year=2026",
+          "band": "基准情景"
+        }
+      ],
+      "count": 8,
+      "counts": {
+        "下行情景": 0,
+        "基准情景": 1,
+        "上行情景": 7,
+        "三段之外": 0
+      },
+      "hit_bands": [
+        "基准情景",
+        "上行情景"
+      ],
+      "observed_min": 4144.4,
+      "observed_max": 4387,
+      "point_coverage": 1.0,
+      "any_hit": true
+    }
+  ]
+}

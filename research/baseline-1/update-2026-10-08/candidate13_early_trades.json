@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2018-01-02",
+    "side": "buy",
+    "units": 180.4444,
+    "price": 274.59354442723713,
+    "cash_amount": 49999.97836804615,
+    "fee": 451.111,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2018-01-02"
+  },
+  {
+    "date": "2018-06-04",
+    "side": "sell",
+    "units": 180.4444,
+    "price": 267.2008837463006,
+    "cash_amount": 47763.79214707096,
+    "fee": 451.111,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2019-01-03",
+    "side": "buy",
+    "units": 166.6519,
+    "price": 284.10823829566186,
+    "cash_amount": 47763.807467624814,
+    "fee": 416.62975000000006,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2019-01-03"
+  },
+  {
+    "date": "2019-08-02",
+    "side": "sell",
+    "units": 33.3303,
+    "price": 318.4719736887939,
+    "cash_amount": 10531.440674639609,
+    "fee": 83.32575,
+    "target": 0.8,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2019-10-02",
+    "side": "buy",
+    "units": 14.5159,
+    "price": 341.02614615332146,
+    "cash_amount": 4986.591184946999,
+    "fee": 36.28975,
+    "target": 0.9,
+    "information_cutoff_exclusive": "2019-10-02"
+  },
+  {
+    "date": "2019-11-04",
+    "side": "buy",
+    "units": 16.1522,
+    "price": 340.7861053317122,
+    "cash_amount": 5544.825830538882,
+    "fee": 40.3805,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2019-11-04"
+  },
+  {
+    "date": "2020-03-03",
+    "side": "sell",
+    "units": 16.3988,
+    "price": 359.86428752473654,
+    "cash_amount": 5860.3454782606495,
+    "fee": 40.997,
+    "target": 0.9,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2020-04-02",
+    "side": "sell",
+    "units": 73.9093,
+    "price": 362.46890631847606,
+    "cash_amount": 26605.049887764144,
+    "fee": 184.77325000000002,
+    "target": 0.45,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2020-05-04",
+    "side": "sell",
+    "units": 10.0191,
+    "price": 386.79526892899946,
+    "cash_amount": 3850.292728926538,
+    "fee": 25.04775,
+    "target": 0.4,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2020-06-02",
+    "side": "buy",
+    "units": 52.0931,
+    "price": 398.74126044832286,
+    "cash_amount": 20901.901104660526,
+    "fee": 130.23275,
+    "target": 0.75,
+    "information_cutoff_exclusive": "2020-06-02"
+  },
+  {
+    "date": "2020-07-02",
+    "side": "buy",
+    "units": 38.0346,
+    "price": 402.75743015640074,
+    "cash_amount": 15413.80425302664,
+    "fee": 95.0865,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2020-07-02"
+  },
+  {
+    "date": "2020-09-02",
+    "side": "sell",
+    "units": 61.516,
+    "price": 432.2136500543932,
+    "cash_amount": 26434.26489674605,
+    "fee": 153.79,
+    "target": 0.6000000000000001,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2020-10-02",
+    "side": "buy",
+    "units": 9.1215,
+    "price": 416.1371551874145,
+    "cash_amount": 3818.598811042001,
+    "fee": 22.803749999999997,
+    "target": 0.65,
+    "information_cutoff_exclusive": "2020-10-02"
+  },
+  {
+    "date": "2020-11-03",
+    "side": "buy",
+    "units": 55.0102,
+    "price": 408.617559616747,
+    "cash_amount": 22615.659178029175,
+    "fee": 137.5255,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2020-11-03"
+  },
+  {
+    "date": "2020-12-01",
+    "side": "sell",
+    "units": 156.4059,
+    "price": 379.8624851957312,
+    "cash_amount": 59021.71912327501,
+    "fee": 391.01475000000005,
+    "target": 0.0,
+    "under30_units": 0.0
+  }
+]

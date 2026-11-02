@@ -1,0 +1,50 @@
+{
+  "combination": {
+    "members": [
+      0,
+      3,
+      6
+    ],
+    "mode": "majority"
+  },
+  "modules": [
+    {
+      "method": "holt",
+      "alpha": 0.03
+    },
+    {
+      "method": "holt",
+      "alpha": 0.06
+    },
+    {
+      "method": "holt",
+      "alpha": 0.12
+    },
+    {
+      "method": "quantile",
+      "n": 60
+    },
+    {
+      "method": "quantile",
+      "n": 120
+    },
+    {
+      "method": "quantile",
+      "n": 240
+    },
+    {
+      "method": "risk_momentum",
+      "n": 60
+    },
+    {
+      "method": "risk_momentum",
+      "n": 120
+    },
+    {
+      "method": "risk_momentum",
+      "n": 240
+    }
+  ],
+  "passed": false,
+  "independent": true
+}

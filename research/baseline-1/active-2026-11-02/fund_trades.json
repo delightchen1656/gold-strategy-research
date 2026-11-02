@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2021-05-19",
+    "side": "buy",
+    "units": 51864.85,
+    "price": 0.9626,
+    "cash_amount": 49999.99227849726,
+    "fee": 74.88766849725653,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2021-05-19"
+  },
+  {
+    "date": "2021-08-10",
+    "side": "sell",
+    "units": 51864.85,
+    "price": 0.8987,
+    "cash_amount": 46610.940695000005,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2021-11-10",
+    "side": "buy",
+    "units": 50233.27,
+    "price": 0.9265,
+    "cash_amount": 46610.93634746131,
+    "fee": 69.81169246131321,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2021-11-10"
+  },
+  {
+    "date": "2022-05-05",
+    "side": "sell",
+    "units": 50233.27,
+    "price": 0.9883,
+    "cash_amount": 49645.540741,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2022-05-10",
+    "side": "buy",
+    "units": 50392.59,
+    "price": 0.9837,
+    "cash_amount": 49645.54757281528,
+    "fee": 74.35678981528326,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2022-05-10"
+  },
+  {
+    "date": "2022-06-06",
+    "side": "sell",
+    "units": 50392.59,
+    "price": 0.9728,
+    "cash_amount": 48776.80199424,
+    "fee": 245.10955776,
+    "target": 0.0,
+    "under30_units": 50392.59
+  },
+  {
+    "date": "2022-12-02",
+    "side": "buy",
+    "units": 48869.9,
+    "price": 0.9966,
+    "cash_amount": 48776.797956575145,
+    "fee": 73.05561657514045,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2022-12-02"
+  },
+  {
+    "date": "2023-08-25",
+    "side": "sell",
+    "units": 48869.9,
+    "price": 1.1064,
+    "cash_amount": 54069.657360000005,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2023-10-23",
+    "side": "buy",
+    "units": 47333.57,
+    "price": 1.1406,
+    "cash_amount": 54069.65295747679,
+    "fee": 80.98301547679148,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2023-10-23"
+  },
+  {
+    "date": "2023-10-25",
+    "side": "sell",
+    "units": 47333.57,
+    "price": 1.1371,
+    "cash_amount": 53015.657410294996,
+    "fee": 807.345036705,
+    "target": 0.0,
+    "under30_units": 47333.57
+  },
+  {
+    "date": "2023-11-08",
+    "side": "buy",
+    "units": 46738.71,
+    "price": 1.1326,
+    "cash_amount": 53015.667344402405,
+    "fee": 79.40439840240288,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2023-11-08"
+  },
+  {
+    "date": "2025-10-28",
+    "side": "sell",
+    "units": 46738.71,
+    "price": 2.1267,
+    "cash_amount": 99399.214557,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2025-11-03",
+    "side": "buy",
+    "units": 45684.84,
+    "price": 2.1725,
+    "cash_amount": 99399.19040174737,
+    "fee": 148.87550174738863,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2025-11-03"
+  },
+  {
+    "date": "2026-02-02",
+    "side": "sell",
+    "units": 45684.84,
+    "price": 2.3924,
+    "cash_amount": 109296.41121599998,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2026-02-06",
+    "side": "buy",
+    "units": 42483.93,
+    "price": 2.5688,
+    "cash_amount": 109296.41848035547,
+    "fee": 163.69909635547083,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2026-02-06"
+  },
+  {
+    "date": "2026-03-19",
+    "side": "sell",
+    "units": 42483.93,
+    "price": 2.5136,
+    "cash_amount": 106787.60644799999,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  },
+  {
+    "date": "2026-03-25",
+    "side": "buy",
+    "units": 44454.13,
+    "price": 2.3986,
+    "cash_amount": 106787.61773572341,
+    "fee": 159.94151772341866,
+    "target": 1.0,
+    "information_cutoff_exclusive": "2026-03-25"
+  },
+  {
+    "date": "2026-05-15",
+    "side": "sell",
+    "units": 44454.13,
+    "price": 2.3724,
+    "cash_amount": 105462.97801199999,
+    "fee": 0.0,
+    "target": 0.0,
+    "under30_units": 0.0
+  }
+]

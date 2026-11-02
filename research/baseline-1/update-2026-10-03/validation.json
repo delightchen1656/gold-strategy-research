@@ -1,0 +1,10 @@
+{
+  "economic_tests_passed": 8,
+  "historical_replay_matches": true,
+  "fx_duplicate_resolved": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "candidate_rejected": true,
+  "reason": "Lower CAGR, higher drawdown and more trade days for both products.",
+  "notify": true
+}

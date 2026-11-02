@@ -1,0 +1,46 @@
+{
+  "fund": {
+    "基准1": {
+      "return_pct": 139.49143028085328,
+      "cagr_pct": 16.446598981663605,
+      "max_drawdown_pct": -8.518624935823782,
+      "average_weight_pct": 47.21055860844004,
+      "max_weight_pct": 99.99998861160225,
+      "final_cny": 119745.71514042665,
+      "fees_cny": 3565.6241065733493,
+      "trade_days": 48
+    },
+    "全仓买入持有": {
+      "return_pct": 116.57837518100548,
+      "cagr_pct": 14.422746648076078,
+      "max_drawdown_pct": -30.03991482557049,
+      "average_weight_pct": 99.9999847416669,
+      "max_weight_pct": 99.99999357777367,
+      "final_cny": 108289.18759050276,
+      "fees_cny": 74.88766849725653,
+      "trade_days": 1
+    }
+  },
+  "cmb": {
+    "基准1": {
+      "return_pct": 119.73654020318456,
+      "cagr_pct": 14.711907228107734,
+      "max_drawdown_pct": -10.807366558412868,
+      "average_weight_pct": 47.18202961366697,
+      "max_weight_pct": 99.99998623326512,
+      "final_cny": 109868.27010159228,
+      "fees_cny": 5505.307999999999,
+      "trade_days": 48
+    },
+    "全仓买入持有": {
+      "return_pct": 121.25882342971659,
+      "cagr_pct": 14.85006306944432,
+      "max_drawdown_pct": -29.358157667182994,
+      "average_weight_pct": 99.99993525426603,
+      "max_weight_pct": 99.99997339430627,
+      "final_cny": 110629.41171485829,
+      "fees_cny": 306.38375,
+      "trade_days": 1
+    }
+  }
+}

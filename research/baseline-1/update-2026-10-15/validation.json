@@ -1,0 +1,16 @@
+{
+  "historical_replay_matches": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "target_weight": 0.0,
+  "notify": false,
+  "source_dates": {
+    "gold": "2026-10-14",
+    "fund": "2026-10-14",
+    "fx": "2026-10-14",
+    "missing_valuation_dates": []
+  },
+  "common_cutoff": "2026-10-14",
+  "candidate_status": "lower_return_not_adopted",
+  "baseline_config_sha256": "cd3b58dbc6d5d423633e4ab6342ce75475d2c315f54aca5681938ae9f6c2be4b"
+}

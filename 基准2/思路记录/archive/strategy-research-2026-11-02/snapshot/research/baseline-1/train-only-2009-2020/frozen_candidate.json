@@ -1,0 +1,13 @@
+{
+  "parameters": {
+    "method": "daily_ma",
+    "slow": 120,
+    "fast": 20,
+    "buffer": 0.02,
+    "trailing_stop": 0.08,
+    "cooldown": 5
+  },
+  "selected_using": "2009-03-15 to 2020-12-31 ONLY",
+  "training_rank": 1,
+  "cost": 0.0005
+}

@@ -1,0 +1,17 @@
+{
+  "parameters": {
+    "fast": 20,
+    "slow": 120,
+    "buffer": 0.02,
+    "exit_buffer": 0.02,
+    "breakout": 90,
+    "stop": 0.08,
+    "cooldown": 5,
+    "exit_mode": "fixed",
+    "window": 20,
+    "reentry": 0
+  },
+  "id": 16,
+  "selected_using": "2009-03-15 through 2020-12-31 only",
+  "baseline_unchanged": true
+}

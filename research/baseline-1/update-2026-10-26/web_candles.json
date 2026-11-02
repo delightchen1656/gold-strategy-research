@@ -1,0 +1,24 @@
+{
+  "source": "https://www.investing.com/currencies/xau-usd-historical-data",
+  "retrieved_beijing": "2026-10-26T22:37:53.150109+08:00",
+  "source_timezone": "not established; source session dates preserved",
+  "provisional_date": "2026-10-26",
+  "ohlc": {
+    "Open": 3996.86,
+    "High": 4025.52,
+    "Low": 3978.19,
+    "Price": 4002.01
+  },
+  "latest_row_change_pct": 0.11206920273267862,
+  "quote_timestamp": null,
+  "previous_session": "2026-10-25",
+  "previous_ohlc": {
+    "Open": 3999.13,
+    "High": 4004.08,
+    "Low": 3988.06,
+    "Price": 3997.53
+  },
+  "market_closed": false,
+  "latest_completed": false,
+  "note": "Latest row solid only when page reports Closed; otherwise provisional. Retrieval time is not quote time. No mixed-source candles."
+}

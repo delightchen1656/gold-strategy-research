@@ -1,0 +1,19 @@
+{
+  "checked_date": "2026-10-31",
+  "baseline_version": "2026-10-30-spot-breakout",
+  "freeze_start": "2026-10-31",
+  "previous_month": "2026-09",
+  "previous_quarter": "2026-Q3",
+  "monthly_status": "not_applicable_before_current_baseline_adoption",
+  "quarterly_status": "no_forward_observation_period_yet",
+  "note": "新版此前未正式运行，无上月或上季度新增模拟观察；历史重算不能当作前瞻表现。首次月度检查在2026-11首次运行，明确仅有10月31日起的实际观察期。无个人成交记录，不评价实盘偏差。",
+  "daily_check": {
+    "manifest_hash_and_ohlc_structure": "passed_by_update_active_baseline",
+    "source_cutoff": "2026-10-29",
+    "missing_latest_completed_local_session": "2026-10-30",
+    "product_valuation_cutoff": "2026-10-29",
+    "execution_mapping": "searchsorted(side=left)-1 selects strictly earlier London signal date; source code inspected",
+    "parameters_changed": false
+  },
+  "evaluation_dates": ["2027-01-31", "2027-04-30"]
+}

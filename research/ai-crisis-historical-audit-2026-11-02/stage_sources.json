@@ -1,0 +1,42 @@
+{
+  "NASDAQCOM": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=NASDAQCOM&cosd=1999-01-01&coed=2026-11-02",
+    "retrieved_utc": "2026-11-01T19:01:51.307011+00:00",
+    "sha256": "acdd57090a60dcb42134eec6a5f8f398e432e1d76bbf629f9decadc9209127c5",
+    "rows": 7000,
+    "first": "1999-01-04",
+    "last": "2026-10-29"
+  },
+  "DGS10": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10&cosd=1999-01-01&coed=2026-11-02",
+    "retrieved_utc": "2026-11-01T19:01:50.800993+00:00",
+    "sha256": "fb12bdcb7cd3e80f81438f796a76aa09ab61d39c38412432d9b95a96cf833320",
+    "rows": 6961,
+    "first": "1999-01-04",
+    "last": "2026-10-29"
+  },
+  "DFEDTAR": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTAR&cosd=1999-01-01&coed=2026-11-02",
+    "retrieved_utc": "2026-11-01T19:01:50.396476+00:00",
+    "sha256": "7f78a15ab2f3c3d0b5012e5c178ab0334e05d755ef1b157ab962e5dc968921b2",
+    "rows": 3637,
+    "first": "1999-01-01",
+    "last": "2008-12-15"
+  },
+  "DFEDTARL": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTARL&cosd=1999-01-01&coed=2026-11-02",
+    "retrieved_utc": "2026-11-01T19:01:51.246256+00:00",
+    "sha256": "75a07c025381a54d7816442b1160f6f7e4c0efbc8b41422842c882922d0db7ac",
+    "rows": 6530,
+    "first": "2008-12-16",
+    "last": "2026-11-01"
+  },
+  "DFEDTARU": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DFEDTARU&cosd=1999-01-01&coed=2026-11-02",
+    "retrieved_utc": "2026-11-01T19:01:51.321916+00:00",
+    "sha256": "20e6d0fa422555249047ecc2ba6226044b91708bdb6cd31f30e3fbc3c0a6576a",
+    "rows": 6530,
+    "first": "2008-12-16",
+    "last": "2026-11-01"
+  }
+}

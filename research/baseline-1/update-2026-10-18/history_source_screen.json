@@ -1,0 +1,95 @@
+{
+  "method": "Fixed 10% absolute spot/futures close difference and 10% observation-to-observation gold move; flags are not verified errors. No fill or correction.",
+  "limitations": [
+    "AM versus futures close have different timestamps; futures basis/roll and genuine intraday moves can cause flags.",
+    "Unflagged data are not proven correct; missing comparison dates remain unverified."
+  ],
+  "gold_last": "2026-10-16",
+  "matched_start": "2017-01-03",
+  "matched_end": "2026-10-16",
+  "gold_count": 2459,
+  "matched_count": 2403,
+  "unmatched_dates": [
+    "2017-01-16",
+    "2017-02-20",
+    "2017-07-04",
+    "2017-09-04",
+    "2017-11-23",
+    "2018-01-15",
+    "2018-01-29",
+    "2018-02-19",
+    "2018-07-04",
+    "2018-09-03",
+    "2018-11-22",
+    "2018-12-05",
+    "2019-01-21",
+    "2019-02-18",
+    "2019-07-04",
+    "2019-09-02",
+    "2019-11-28",
+    "2020-01-20",
+    "2020-02-17",
+    "2020-07-03",
+    "2020-09-07",
+    "2020-11-26",
+    "2021-01-18",
+    "2021-02-15",
+    "2021-07-05",
+    "2021-09-06",
+    "2021-11-25",
+    "2021-12-24",
+    "2022-01-17",
+    "2022-02-21",
+    "2022-05-30",
+    "2022-06-20",
+    "2022-07-04",
+    "2022-09-05",
+    "2022-11-24",
+    "2023-01-16",
+    "2023-02-20",
+    "2023-06-19",
+    "2023-07-04",
+    "2023-09-04",
+    "2024-01-15",
+    "2024-02-19",
+    "2024-06-19",
+    "2024-07-04",
+    "2024-09-02",
+    "2024-11-28",
+    "2025-01-20",
+    "2025-02-17",
+    "2025-06-19",
+    "2025-09-01",
+    "2025-11-27",
+    "2026-01-19",
+    "2026-02-16",
+    "2026-06-19",
+    "2026-07-03",
+    "2026-09-07"
+  ],
+  "difference_flags": [
+    {
+      "date": "2024-05-17",
+      "gold": 2831.75,
+      "futures_close": 2417.39990234375,
+      "difference_pct": 17.140320774172444
+    }
+  ],
+  "move_flags": [
+    {
+      "date": "2024-05-17",
+      "move_pct": 18.798900845342214,
+      "gold": 2831.75
+    },
+    {
+      "date": "2024-05-20",
+      "move_pct": -13.680586209940849,
+      "gold": 2444.35
+    }
+  ],
+  "input_hashes": {
+    "research\\baseline-1\\inputs\\gold.csv": "ba370700178ce396b21f12727740bc6828ba90a814c9e528f48afd26d496c7ad",
+    "research\\baseline-1\\update-2026-10-18\\futures_screen.raw": "4695a6268c29f16ccfdcddd1c97a97dc58fa0dfdbc62690ab5377bcd66d43641",
+    "research\\baseline-1\\update-2026-10-18\\gold.raw": "997c958fd854f70a772391020282456e286bd1b8e66a608422f7973d7cef0302"
+  }
+}

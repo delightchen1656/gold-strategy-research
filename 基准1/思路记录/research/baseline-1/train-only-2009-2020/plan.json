@@ -1,0 +1,7738 @@
+{
+  "count": 672,
+  "parameters": [
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "channel",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "ensemble",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 20,
+        "exit_days": 10,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 40,
+        "exit_days": 13,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 60,
+        "exit_days": 20,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 90,
+        "exit_days": 30,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 180,
+        "exit_days": 60,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.12,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.14,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "weekly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "engine",
+      "spec": {
+        "family": "dual_momentum",
+        "horizon": 240,
+        "exit_days": 80,
+        "cap": 1.0,
+        "vol_target": 0.3,
+        "stop": 0.25,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "overheat_filter": false
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 30,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 60,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 90,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 120,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 180,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 240,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 1,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 5,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 10,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.01,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.02,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.08,
+      "cooldown": 5
+    },
+    {
+      "method": "daily_ma",
+      "slow": 300,
+      "fast": 20,
+      "buffer": 0.04,
+      "trailing_stop": 0.14,
+      "cooldown": 5
+    }
+  ],
+  "train_only": true,
+  "cost": 0.0005,
+  "no_leverage": true,
+  "no_short": true,
+  "input_hash": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7"
+}

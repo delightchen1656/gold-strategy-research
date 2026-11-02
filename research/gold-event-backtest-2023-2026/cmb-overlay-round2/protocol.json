@@ -1,0 +1,8 @@
+{
+  "round": 2,
+  "reason": "Round1 only one active episode; test rotating existing gold, not just buying extra.",
+  "start": "60% core + cap already invested; remaining cash. Benchmark identical initial holdings.",
+  "rules": "At upper quarter sell one 5%-budget lot; downside failure also sells. Rebuy identical grams only after 15/20/25 CNY/g drop and return to lower half of base zone. No shorting. Later-observation execution.",
+  "limitations": "Same overlapping 13 exploratory episodes; current-vintage synthetic CNY quotes; no China holiday calendar; subjective forecasts static and hindsight contaminated. Not executable historical bank returns.",
+  "selection": "All 72 combinations retained; no final strategy selected; unrecovered gold valued as opportunity cost at terminal bid."
+}

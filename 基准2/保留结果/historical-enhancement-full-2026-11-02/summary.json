@@ -1,0 +1,41 @@
+{
+  "start": "2003-05-05",
+  "end": "2026-10-29",
+  "bars": 6760,
+  "cost_per_side": 0.003,
+  "results": {
+    "enhancement": {
+      "return_pct": 891.0577642909345,
+      "cagr_pct": 10.25892403237172,
+      "max_drawdown_pct": 32.3531476017265,
+      "average_weight_pct": 74.60059171597632,
+      "trade_events": 98,
+      "first_exposure_date": "2003-09-08"
+    },
+    "baseline": {
+      "return_pct": 630.151902120593,
+      "cagr_pct": 8.833854389063745,
+      "max_drawdown_pct": 33.58587089332522,
+      "average_weight_pct": 62.70710059171598,
+      "trade_events": 68,
+      "first_exposure_date": "2003-10-06"
+    },
+    "hold": {
+      "return_pct": 1074.0466568562274,
+      "cagr_pct": 11.057283900580494,
+      "max_drawdown_pct": 44.57001784464107,
+      "average_weight_pct": 100.0,
+      "trade_events": 1,
+      "first_exposure_date": "2003-05-05"
+    }
+  },
+  "source": "C:\\Users\\22241\\Desktop\\quant\\K线数据\\黄金\\snapshots\\20261101T162434468258Z\\daily.parquet",
+  "source_sha256": "6a7a642d5cb84df7e659e11502d9bd04bc6efb443ccc3b13314ac380b17829f6",
+  "frozen_sha256": "e55d1265e0d6df86fc06b31686e25a8fa4fcbd1d71378d42e1bfc46f6cfb20d3",
+  "baseline_sha256": "25aba389f53c6c43f12a2952ac5f051c786c6470e3f82bfc862d93e9a4d7356b",
+  "execution": "Continuous cash=1 at start; no segment resets. Completed-close signals execute next observed open. Indicator warmup from first available row, no invented prehistory. Buy/hold invests first open. Cash earns zero, fractional units, no leverage or terminal liquidation.",
+  "caveat": "Historical whole-period simulation includes development interval and previously inspected history; not unseen OOS or fund/bank actual results. Average weight is arithmetic mean of observed daily closing weights; Sunday sessions retained.",
+  "prefix_checks_passed": true,
+  "training_replay_passed": true,
+  "parameters_unchanged": true
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "conflict-2023-10-07",
+    "date": "2023-10-07",
+    "title": "哈马斯袭击以色列",
+    "category": "war_conflict",
+    "timing_class": "unknown",
+    "schedule_status": "unscheduled",
+    "importance": "high",
+    "source_url": "https://apnews.com/article/11fb98655c256d54ecb5329284fc37d2",
+    "evidence_status": "first_version_and_warning_history_pending",
+    "note": "事件存在的线索已找到，但该页面正文包含后续进展，不能按最早网页时间整体倒填；首次公开时点与当时预警范围需独立核验。"
+  },
+  {
+    "id": "conflict-2024-04-13",
+    "date": "2024-04-13",
+    "title": "伊朗对以色列直接发射无人机与导弹",
+    "category": "war_conflict",
+    "timing_class": "unknown",
+    "schedule_status": "unscheduled",
+    "importance": "high",
+    "source_url": "https://www.investing.com/news/world-news/sirens-blasts-sound-across-israel-after-iran-launches-retaliatory-attack-3377350",
+    "warning_source_url": "https://www.yahoo.com/news/israel-calls-off-school-trips-174350049.html",
+    "evidence_status": "first_version_and_warning_history_pending",
+    "note": "有袭击前戒备报道线索，不能简单标成毫无预警；正文版本及时间核验后再定为unscheduled_warned。"
+  },
+  {
+    "id": "conflict-2025-06-13",
+    "date": "2025-06-13",
+    "title": "以色列空袭伊朗",
+    "category": "war_conflict",
+    "timing_class": "unknown",
+    "schedule_status": "unscheduled",
+    "importance": "high",
+    "source_url": "https://time.com/7293795/israel-strikes-iran-attack-what-to-know/",
+    "evidence_status": "first_version_and_warning_history_pending",
+    "note": "页面当前标题和内容包括后续回应，不能把它全部视为首次袭击报道时已经知道。"
+  }
+]

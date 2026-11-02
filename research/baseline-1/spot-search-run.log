@@ -1,0 +1,316 @@
+{
+  "count": 144,
+  "train_feasible_count": 9,
+  "all_phases_feasible_count": 9,
+  "historical_outperform_count": 0,
+  "constrained_outperform_count": 0,
+  "chosen": {
+    "baseline": {
+      "id": 144,
+      "spec": "baseline1",
+      "metrics": {
+        "full": {
+          "return_pct": 268.7395750406364,
+          "cagr_pct": 7.685434771370381,
+          "max_drawdown_pct": -34.449490373418904,
+          "average_weight_pct": 52.83350921087521,
+          "trades": 115.0
+        },
+        "train": {
+          "return_pct": 63.06453721611616,
+          "cagr_pct": 4.231871908202867,
+          "max_drawdown_pct": -34.449490373418904,
+          "average_weight_pct": 51.838887223236654,
+          "trades": 71.0
+        },
+        "validation": {
+          "return_pct": 33.57144432026331,
+          "cagr_pct": 7.504936132572038,
+          "max_drawdown_pct": -11.369933624228135,
+          "average_weight_pct": 58.1940693283802,
+          "trades": 24.0
+        },
+        "test": {
+          "return_pct": 69.29596471306361,
+          "cagr_pct": 33.41576659446286,
+          "max_drawdown_pct": -7.46198777447783,
+          "average_weight_pct": 47.54555560730173,
+          "trades": 20.0
+        },
+        "phase_2021_2023": {
+          "return_pct": 8.431506241850872,
+          "cagr_pct": 2.74199176978156,
+          "max_drawdown_pct": -11.369933624228135,
+          "average_weight_pct": 49.652913638349965,
+          "trades": 17.0
+        },
+        "phase_2024": {
+          "return_pct": 23.185086096968078,
+          "cagr_pct": 22.993286438671,
+          "max_drawdown_pct": -7.908472696088287,
+          "average_weight_pct": 83.36482496613709,
+          "trades": 7.0
+        }
+      }
+    },
+    "hold": {
+      "id": 145,
+      "spec": "hold",
+      "metrics": {
+        "full": {
+          "return_pct": 330.9221680037778,
+          "cagr_pct": 8.64186963380018,
+          "max_drawdown_pct": -44.57001784464107,
+          "average_weight_pct": 100.0,
+          "trades": 1.0
+        },
+        "train": {
+          "return_pct": 104.06298571884452,
+          "cagr_pct": 6.232400222655765,
+          "max_drawdown_pct": -44.57001784464107,
+          "average_weight_pct": 100.0,
+          "trades": 1.0
+        },
+        "validation": {
+          "return_pct": 38.26493030784262,
+          "cagr_pct": 8.437128790998472,
+          "max_drawdown_pct": -20.623414599774502,
+          "average_weight_pct": 100.0,
+          "trades": 0.0
+        },
+        "test": {
+          "return_pct": 52.72937002577971,
+          "cagr_pct": 26.10032754966305,
+          "max_drawdown_pct": -27.902373892354404,
+          "average_weight_pct": 100.0,
+          "trades": 0.0
+        },
+        "phase_2021_2023": {
+          "return_pct": 8.683726061926823,
+          "cagr_pct": 2.821792296483938,
+          "max_drawdown_pct": -20.623414599774502,
+          "average_weight_pct": 100.0,
+          "trades": 0.0
+        },
+        "phase_2024": {
+          "return_pct": 27.21769423792182,
+          "cagr_pct": 26.989044217466574,
+          "max_drawdown_pct": -7.990031803157905,
+          "average_weight_pct": 100.0,
+          "trades": 0.0
+        }
+      }
+    },
+    "train_selected": {
+      "id": 9,
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 20,
+        "cap": 0.8,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "metrics": {
+        "full": {
+          "return_pct": 196.26899214321244,
+          "cagr_pct": 6.35662471498879,
+          "max_drawdown_pct": -14.321623219111935,
+          "average_weight_pct": 34.5039674738892,
+          "trades": 118.0
+        },
+        "train": {
+          "return_pct": 64.8652541852119,
+          "cagr_pct": 4.328948691134449,
+          "max_drawdown_pct": -14.321623219111935,
+          "average_weight_pct": 34.86585824885932,
+          "trades": 74.0
+        },
+        "validation": {
+          "return_pct": 22.754784021327023,
+          "cagr_pct": 5.2590889226994175,
+          "max_drawdown_pct": -7.571857722104447,
+          "average_weight_pct": 36.20177088018414,
+          "trades": 27.0
+        },
+        "test": {
+          "return_pct": 46.39243581952226,
+          "cagr_pct": 23.207800369294908,
+          "max_drawdown_pct": -5.222476187364123,
+          "average_weight_pct": 28.42193911812722,
+          "trades": 17.0
+        },
+        "phase_2021_2023": {
+          "return_pct": 6.165562053597329,
+          "cagr_pct": 2.019458213447578,
+          "max_drawdown_pct": -7.571857722104447,
+          "average_weight_pct": 28.94202989226856,
+          "trades": 17.0
+        },
+        "phase_2024": {
+          "return_pct": 15.625803364894054,
+          "cagr_pct": 15.500420655879687,
+          "max_drawdown_pct": -6.3379683991824916,
+          "average_weight_pct": 57.59620191877639,
+          "trades": 10.0
+        }
+      }
+    },
+    "historical_best": {
+      "id": 69,
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 120,
+        "exit_days": 40,
+        "cap": 1.0,
+        "vol_target": 0.18,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "metrics": {
+        "full": {
+          "return_pct": 321.6871118437275,
+          "cagr_pct": 8.508402753333154,
+          "max_drawdown_pct": -32.72362743656875,
+          "average_weight_pct": 51.27887877516923,
+          "trades": 65.0
+        },
+        "train": {
+          "return_pct": 70.37112878580582,
+          "cagr_pct": 4.619864674398477,
+          "max_drawdown_pct": -32.72362743656875,
+          "average_weight_pct": 48.0060323286985,
+          "trades": 42.0
+        },
+        "validation": {
+          "return_pct": 32.05471649585252,
+          "cagr_pct": 7.198443441106095,
+          "max_drawdown_pct": -12.062164417105025,
+          "average_weight_pct": 61.476878689143966,
+          "trades": 10.0
+        },
+        "test": {
+          "return_pct": 87.43056301664072,
+          "cagr_pct": 41.06125248194677,
+          "max_drawdown_pct": -6.836605811747076,
+          "average_weight_pct": 50.2082446291852,
+          "trades": 13.0
+        },
+        "phase_2021_2023": {
+          "return_pct": 3.7620863553542216,
+          "cagr_pct": 1.2417592191886317,
+          "max_drawdown_pct": -12.062164417105025,
+          "average_weight_pct": 48.561151079136685,
+          "trades": 9.0
+        },
+        "phase_2024": {
+          "return_pct": 27.2668285057458,
+          "cagr_pct": 27.037723593475317,
+          "max_drawdown_pct": -7.990031803157905,
+          "average_weight_pct": 99.53948231722192,
+          "trades": 1.0
+        }
+      }
+    },
+    "historical_constrained": {
+      "id": 9,
+      "spec": {
+        "family": "vol_trend",
+        "horizon": 40,
+        "exit_days": 20,
+        "cap": 0.8,
+        "vol_target": 0.12,
+        "stop": 0.08,
+        "frequency": "monthly",
+        "band": 0.05,
+        "cooldown": 5
+      },
+      "metrics": {
+        "full": {
+          "return_pct": 196.26899214321244,
+          "cagr_pct": 6.35662471498879,
+          "max_drawdown_pct": -14.321623219111935,
+          "average_weight_pct": 34.5039674738892,
+          "trades": 118.0
+        },
+        "train": {
+          "return_pct": 64.8652541852119,
+          "cagr_pct": 4.328948691134449,
+          "max_drawdown_pct": -14.321623219111935,
+          "average_weight_pct": 34.86585824885932,
+          "trades": 74.0
+        },
+        "validation": {
+          "return_pct": 22.754784021327023,
+          "cagr_pct": 5.2590889226994175,
+          "max_drawdown_pct": -7.571857722104447,
+          "average_weight_pct": 36.20177088018414,
+          "trades": 27.0
+        },
+        "test": {
+          "return_pct": 46.39243581952226,
+          "cagr_pct": 23.207800369294908,
+          "max_drawdown_pct": -5.222476187364123,
+          "average_weight_pct": 28.42193911812722,
+          "trades": 17.0
+        },
+        "phase_2021_2023": {
+          "return_pct": 6.165562053597329,
+          "cagr_pct": 2.019458213447578,
+          "max_drawdown_pct": -7.571857722104447,
+          "average_weight_pct": 28.94202989226856,
+          "trades": 17.0
+        },
+        "phase_2024": {
+          "return_pct": 15.625803364894054,
+          "cagr_pct": 15.500420655879687,
+          "max_drawdown_pct": -6.3379683991824916,
+          "average_weight_pct": 57.59620191877639,
+          "trades": 10.0
+        }
+      }
+    }
+  },
+  "triple_cost_full": {
+    "baseline": {
+      "return_pct": 249.29329094409738,
+      "cagr_pct": 7.35489417449493,
+      "max_drawdown_pct": -35.23290173544209,
+      "average_weight_pct": 52.834986841477814,
+      "trades": 115.0
+    },
+    "hold": {
+      "return_pct": 330.4918912509033,
+      "cagr_pct": 8.635711379824551,
+      "max_drawdown_pct": -44.570017844641086,
+      "average_weight_pct": 100.0,
+      "trades": 1.0
+    },
+    "train_selected": {
+      "return_pct": 180.0364159578678,
+      "cagr_pct": 6.017111410573461,
+      "max_drawdown_pct": -15.455399447544881,
+      "average_weight_pct": 34.499453224895014,
+      "trades": 118.0
+    },
+    "historical_best": {
+      "return_pct": 300.45508999846265,
+      "cagr_pct": 8.190785067989248,
+      "max_drawdown_pct": -34.2820677357899,
+      "average_weight_pct": 51.27888836879028,
+      "trades": 65.0
+    },
+    "historical_constrained": {
+      "return_pct": 180.0364159578678,
+      "cagr_pct": 6.017111410573461,
+      "max_drawdown_pct": -15.455399447544881,
+      "average_weight_pct": 34.499453224895014,
+      "trades": 118.0
+    }
+  }
+}

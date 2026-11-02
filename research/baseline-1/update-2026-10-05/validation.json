@@ -1,0 +1,10 @@
+{
+  "economic_tests_passed": 8,
+  "historical_replay_matches": true,
+  "candidate_parameter_checked": true,
+  "all_phase_constraints_passed": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "candidate_rejected": true,
+  "notify": false
+}

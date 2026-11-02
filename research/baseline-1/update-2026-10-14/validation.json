@@ -1,0 +1,18 @@
+{
+  "historical_replay_matches": true,
+  "candidate_no_improvement": true,
+  "baseline_replaced": false,
+  "target_changed": false,
+  "target_weight": 0,
+  "notify": true,
+  "reason": "Previously reported missing FX bar recovered; full valuation now through October 13.",
+  "source_dates": {
+    "gold": "2026-10-13",
+    "fund": "2026-10-13",
+    "fx": "2026-10-13",
+    "missing_valuation_dates": []
+  },
+  "common_cutoff": "2026-10-13",
+  "initial_failure": "Fund endpoint capped response at 20 rows; frozen overlap disappeared. Fixed with validated pagination and saved raw pages.",
+  "actual_run_note": "Run at about 12:08 Asia/Shanghai, not scheduled 10:00."
+}

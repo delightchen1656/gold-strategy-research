@@ -1,0 +1,66 @@
+{
+  "training_only": true,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "cost": 0.003,
+  "selection": "Max return among candidates with maxDD no worse than baseline; also report raw highest return.",
+  "ridge": "Monthly refit; training-only standardization; labels stop at prediction date; first fit requires 252 labelled samples; 8 fixed features; L2 regularization.",
+  "grid": {
+    "horizon": [
+      10,
+      20,
+      60
+    ],
+    "window": [
+      504,
+      1008
+    ],
+    "penalty": [
+      1,
+      10,
+      100
+    ],
+    "threshold": [
+      0,
+      0.05,
+      0.1
+    ],
+    "stop": [
+      0.08,
+      0.12
+    ],
+    "modes": [
+      "standalone",
+      "filter",
+      "union",
+      "blend"
+    ]
+  },
+  "regression_grid": {
+    "horizon": [
+      90,
+      120,
+      180
+    ],
+    "r2": [
+      0.1,
+      0.3,
+      0.5
+    ],
+    "slope": [
+      0.05,
+      0.1
+    ],
+    "stop": [
+      0.08,
+      0.12
+    ],
+    "modes": [
+      "filter",
+      "union",
+      "blend25",
+      "blend50",
+      "blend75"
+    ]
+  },
+  "note": "No use of post2020 data. Model and trading hyperparameters chosen on whole development period are in-sample, even with causal inner refitting. Signals are delayed to next open. Midprice proxy, 30bp fixed cost; no fund fee change."
+}

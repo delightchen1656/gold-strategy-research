@@ -1,0 +1,3575 @@
+{
+  "parameters": [
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 40,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 60,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 90,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 2,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "daily",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "weekly",
+      "stop": 0.16
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.08
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.12
+    },
+    {
+      "method": "momentum_vote",
+      "horizon": 120,
+      "votes": 3,
+      "frequency": "monthly",
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 40,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 60,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 90,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 120,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.1,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.3,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.02,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.05,
+      "stop": 0.16
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.08
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.12
+    },
+    {
+      "method": "regression_trend",
+      "horizon": 180,
+      "r2": 0.5,
+      "slope": 0.1,
+      "stop": 0.16
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 100,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 150,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 5,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 10,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 30,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 40,
+      "sell": 100,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 65,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 80,
+      "stop": 0.14
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.06
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.1
+    },
+    {
+      "method": "trend_pullback",
+      "trend": 200,
+      "rsi_n": 14,
+      "buy": 50,
+      "sell": 100,
+      "stop": 0.14
+    }
+  ],
+  "count": 474,
+  "training_only": true,
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "ask": 905,
+  "bid": 900,
+  "round_trip_loss": 0.0055248618784530384,
+  "side_cost": 0.002770083102493075,
+  "cost_note": "Constant proportional half-spread around midpoint inferred from one quote; not proven historical spread. Extra fees excluded. Applies to spot proxy, not fund fee schedule.",
+  "selection": "Highest terminal NAV among new families with no worse maxDD than current baseline; also retain unconstrained return winner. No official promotion.",
+  "validation": "Training period only, past-data selected 2013-2016 and 2017-2020 internal checks; future perturbation; 2x spread and extra bar delay."
+}

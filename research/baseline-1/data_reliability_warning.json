@@ -1,0 +1,13 @@
+{
+  "status": "Historical baseline results require data-quality review; do not claim all three phases meet constraints.",
+  "date": "2026-10-16",
+  "affected_observation": "2024-05-17",
+  "frozen": 2831.75,
+  "independent_report": 2381.75,
+  "audit": "update-2026-10-16/source_conflict_audit.json",
+  "baseline_parameters_changed": false,
+  "corrected_2024_average_weight_pct": {
+    "fund": 84.0767,
+    "cmb": 84.213
+  }
+}

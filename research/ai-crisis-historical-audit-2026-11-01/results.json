@@ -1,0 +1,76 @@
+{
+  "method": "Employment: latest revised FRED, not vintage backtest. Gold: supplier daily series; annual event window minima, not intraday lows. Historical credit threshold unavailable; never substitute another series.",
+  "events": [
+    {
+      "episode": "dotcom",
+      "event": "2000-09-22",
+      "event_gold": 273.95,
+      "one_year_min_date": "2001-04-02",
+      "one_year_min_gold": 255.95,
+      "days_to_min": 192,
+      "event_to_min_pct": -6.570542069720753,
+      "employment_trigger_month_revised": "2001-06-01",
+      "payroll_3m_avg_thousands": -150.33333333333334,
+      "unemployment_gap_pp": 0.49999999999999956
+    },
+    {
+      "episode": "gfc",
+      "event": "2008-09-15",
+      "event_gold": 775.0,
+      "one_year_min_date": "2008-10-24",
+      "one_year_min_gold": 712.5,
+      "days_to_min": 39,
+      "event_to_min_pct": -8.064516129032262,
+      "employment_trigger_month_revised": "2008-03-01",
+      "payroll_3m_avg_thousands": -45.333333333333336,
+      "unemployment_gap_pp": 0.5666666666666664
+    },
+    {
+      "episode": "covid",
+      "event": "2020-03-09",
+      "event_gold": 1672.5,
+      "one_year_min_date": "2020-03-19",
+      "one_year_min_gold": 1474.25,
+      "days_to_min": 10,
+      "event_to_min_pct": -11.853512705530644,
+      "employment_trigger_month_revised": "2020-04-01",
+      "payroll_3m_avg_thousands": -7201.666666666667,
+      "unemployment_gap_pp": 4.0
+    }
+  ],
+  "segments": [
+    {
+      "start": "2000-09-21",
+      "end": "2000-09-22",
+      "start_gold": 269.5,
+      "end_gold": 273.95,
+      "calendar_days": 1,
+      "return_pct": 1.6512059369202081
+    },
+    {
+      "start": "2008-09-15",
+      "end": "2008-09-29",
+      "start_gold": 775.0,
+      "end_gold": 905.0,
+      "calendar_days": 14,
+      "return_pct": 16.774193548387096
+    },
+    {
+      "start": "2008-09-29",
+      "end": "2008-10-24",
+      "start_gold": 905.0,
+      "end_gold": 712.5,
+      "calendar_days": 25,
+      "return_pct": -21.270718232044196
+    },
+    {
+      "start": "2020-03-09",
+      "end": "2020-03-19",
+      "start_gold": 1672.5,
+      "end_gold": 1474.25,
+      "calendar_days": 10,
+      "return_pct": -11.853512705530644
+    }
+  ],
+  "gold_source_sha256": "f1c581276eec90ebe893ab6c1ae767d0df18d67e3f492fe96f27d89f7a717ab8"
+}

@@ -1,0 +1,11 @@
+{
+  "historical_replay_matches": true,
+  "candidate_parameter_checked": true,
+  "all_reported_metrics_equal": true,
+  "signal_date": "2026-10-02",
+  "nav_cutoff": "2026-09-30",
+  "target_changed": false,
+  "baseline_replaced": false,
+  "candidate_rejected": true,
+  "notify": false
+}

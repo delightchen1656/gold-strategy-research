@@ -1,0 +1,41 @@
+{
+  "as_of": "2026-10-10",
+  "scope": "CMB only; no real orders",
+  "experiment": "monthly episode prototype, not continuous portfolio",
+  "fixed_capital": 100000,
+  "core": 0.6,
+  "tranche": 0.05,
+  "overlay_caps": [
+    0.1,
+    0.2,
+    0.3
+  ],
+  "thresholds_cny_g": [
+    15,
+    20,
+    25
+  ],
+  "policy_modes": [
+    false,
+    true
+  ],
+  "spread_scenarios": [
+    5,
+    10
+  ],
+  "execution_delays_observations": [
+    1,
+    2
+  ],
+  "limits": [
+    "Only 13 selected mature subjective event forecasts; researcher previously saw outcomes",
+    "Forecast frozen during month, NOT a newly generated daily policy forecast",
+    "London fixing times lagged FX is a synthetic CNY proxy, not bank quotes",
+    "Weekday observation calendar does not model Chinese bank holiday closures",
+    "Episodes overlap and reset cash; means cannot be compounded or annualized",
+    "Fixed 5 CNY/g is a current-cost scenario applied backward, not historical fee reconstruction",
+    "Exposure-matched passive comparator is an ex-post diagnostic, not an executable strategy",
+    "Buying additional gold raises exposure relative to core; overlay profits alone do not prove timing skill"
+  ],
+  "selection": "All 72 combinations retained. Descriptive ranks only; no held-out performance claim."
+}

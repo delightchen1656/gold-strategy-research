@@ -1,0 +1,1684 @@
+{
+  "count": 216,
+  "parameters": [
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 20,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 50,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.25
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.5
+    },
+    {
+      "method": "partial_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "trim_ma": 120,
+      "weak_weight": 0.75
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.01,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 60,
+      "stop": 0.1,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 90,
+      "stop": 0.1,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.06,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.08,
+      "vol_target": 0.24
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.12
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.18
+    },
+    {
+      "method": "vol_exposure",
+      "buffer": 0.02,
+      "breakout": 120,
+      "stop": 0.1,
+      "vol_target": 0.24
+    }
+  ],
+  "train_only": true,
+  "cost": 0.0005,
+  "no_leverage": true,
+  "no_short": true,
+  "input_hash": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7"
+}

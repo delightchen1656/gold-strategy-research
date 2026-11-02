@@ -1,0 +1,16 @@
+{
+  "parameters": {
+    "candidate": "candidate_3",
+    "method": "bayesian",
+    "window": 252,
+    "horizon": 60,
+    "prior_mean": 0.0,
+    "prior_effective_observations": 20,
+    "entry_probability": 0.75,
+    "exit_probability": 0.5,
+    "stop": 0.08,
+    "cooldown": 5
+  },
+  "primary_gate_passed": false,
+  "research_only": true
+}

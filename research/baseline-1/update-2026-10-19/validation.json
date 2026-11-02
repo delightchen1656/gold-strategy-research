@@ -1,0 +1,11 @@
+{
+  "notify": false,
+  "target_changed": false,
+  "common_cutoff": "2026-10-16",
+  "target_weight": 0,
+  "historical_replay_matches": true,
+  "replacement_and_omission_daily_equal": true,
+  "no_same_day_signal_effect": true,
+  "validated_compliance": false,
+  "baseline_replaced": false
+}

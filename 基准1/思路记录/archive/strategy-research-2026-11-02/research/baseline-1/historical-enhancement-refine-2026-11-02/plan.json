@@ -1,0 +1,770 @@
+{
+  "time": "2026-11-01T18:24:26.351760+00:00",
+  "configs": [
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 90,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 120,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 60,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 90,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.3,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.08,
+      "allocation": "both_required"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "union"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "half_single"
+    },
+    {
+      "linear_n": 180,
+      "quad_n": 120,
+      "quad_r2": 0.5,
+      "quad_stop": 0.1,
+      "allocation": "both_required"
+    }
+  ],
+  "count": 108,
+  "cost": 0.003,
+  "fixed": "Baseline unchanged; linear R2>.1, slope>.05, stop.08; quadratic endpoint slope>.05, weekly review, cooldown5, daily stop. Only listed dimensions vary.",
+  "allocation": "Baseline active -> 100%; when baseline off: union=any satellite100%; half_single=one50%,both100%; both_required=both100%,otherwisecash. No global stop in these variants.",
+  "gate": "Return strictly above old199.91204440303187 AND maxDD strictly below old22.016046630525345. Otherwise report diagnostic only.",
+  "scope": "Isolated 2009-2020 input; next observed open; no interest/leverage/terminal liquidation. Prior viewed external periods not loaded; research selection bias persists.",
+  "input_sha256": "6e4c2fae2dbfcdc264b26b04e542c5360569a14a75dc42aa0199b2724cf918a7",
+  "frozen_sha256": "e55d1265e0d6df86fc06b31686e25a8fa4fcbd1d71378d42e1bfc46f6cfb20d3",
+  "code_sha256": "c95ca5a28db0b6fc9b67e983316fef772ab216a25c6efbf410b38b90e7c6f7dc"
+}

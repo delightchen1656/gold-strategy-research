@@ -7,5 +7,5 @@ $fredIds = 'DGS10,DFII10,T10YIE,DFF,DTWEXBGS,DEXCHUS,DCOILBRENTEU,VIXCLS,CPIAUCS
 $fredUrl = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=$fredIds"
 curl.exe -L --fail --silent --show-error --max-time 60 -o $bundlePath $fredUrl
 if ($LASTEXITCODE -ne 0) { throw "FRED download failed with exit code $LASTEXITCODE" }
-python (Join-Path $PSScriptRoot 'collect_market_data.py')
+python (Join-Path $PSScriptRoot 'data/collect_market_data.py')
 if ($LASTEXITCODE -ne 0) { throw "Market collector failed with exit code $LASTEXITCODE" }

@@ -1,0 +1,12 @@
+{
+  "notify": false,
+  "target_changed": false,
+  "target_weight": 0,
+  "common_cutoff": "2026-10-16",
+  "historical_replay_matches": true,
+  "validated_compliance": false,
+  "new_large_source_discrepancy": false,
+  "screen_comparison_end": "2026-09-07",
+  "unmatched_dates_count": 85,
+  "baseline_replaced": false
+}

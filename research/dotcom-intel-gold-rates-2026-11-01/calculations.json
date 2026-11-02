@@ -1,0 +1,34 @@
+{
+  "dotcom_peak": {
+    "anchor": "2000-03-10",
+    "gold_event": 290.25,
+    "gold_min_after": 255.95,
+    "min_date": "2001-04-02",
+    "days_to_min": 388,
+    "end_date": "2003-03-10",
+    "end_gold": 354.45,
+    "end_return_percent": 22.118863049095605,
+    "rows": 1003
+  },
+  "intel_2000": {
+    "anchor": "2000-09-21",
+    "gold_event": 269.5,
+    "gold_min_after": 255.95,
+    "min_date": "2001-04-02",
+    "days_to_min": 193,
+    "end_date": "2003-09-19",
+    "end_gold": 379.75,
+    "end_return_percent": 40.90909090909092,
+    "rows": 1003
+  },
+  "current": {
+    "start": "2025-10-30",
+    "last_complete": "2026-10-29",
+    "last_close": 4007.8554,
+    "max_close": 5512.255,
+    "max_close_date": "2026-01-28",
+    "external_quote": 3874.4,
+    "manifest_sha256": "e8a779a4e91a5859e4ded0e00ccc4aaa8765034fc04490f65e2ff2e3d35bd7c3",
+    "data_sha256": "51d4b31795cc7f84183732ae117aa94360bb9855d52963c9ce1ce70d3cd2fd00"
+  }
+}

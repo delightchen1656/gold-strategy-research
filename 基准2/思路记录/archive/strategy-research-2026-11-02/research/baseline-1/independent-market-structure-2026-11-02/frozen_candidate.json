@@ -1,0 +1,37 @@
+{
+  "combination": {
+    "members": [
+      3,
+      4
+    ],
+    "mode": "union"
+  },
+  "modules": [
+    {
+      "method": "confirmed_structure",
+      "threshold": 0.04
+    },
+    {
+      "method": "confirmed_structure",
+      "threshold": 0.08
+    },
+    {
+      "method": "long_channel",
+      "n": 100
+    },
+    {
+      "method": "long_channel",
+      "n": 200
+    },
+    {
+      "method": "compression_breakout",
+      "n": 20
+    },
+    {
+      "method": "compression_breakout",
+      "n": 40
+    }
+  ],
+  "passed": false,
+  "independent": true
+}

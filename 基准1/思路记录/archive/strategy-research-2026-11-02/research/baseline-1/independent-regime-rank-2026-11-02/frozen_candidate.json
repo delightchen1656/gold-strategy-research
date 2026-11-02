@@ -1,0 +1,49 @@
+{
+  "combination": {
+    "members": [
+      4,
+      8
+    ],
+    "mode": "union"
+  },
+  "modules": [
+    {
+      "method": "hmm",
+      "stay": 0.95
+    },
+    {
+      "method": "hmm",
+      "stay": 0.98
+    },
+    {
+      "method": "hmm",
+      "stay": 0.995
+    },
+    {
+      "method": "rank_trend",
+      "n": 60
+    },
+    {
+      "method": "rank_trend",
+      "n": 120
+    },
+    {
+      "method": "rank_trend",
+      "n": 240
+    },
+    {
+      "method": "sequential",
+      "decay": 0.95
+    },
+    {
+      "method": "sequential",
+      "decay": 0.98
+    },
+    {
+      "method": "sequential",
+      "decay": 0.995
+    }
+  ],
+  "passed": false,
+  "independent": true
+}

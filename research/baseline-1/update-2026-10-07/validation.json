@@ -1,0 +1,10 @@
+{
+  "economic_tests_passed": 8,
+  "same_stress_rules_checked": true,
+  "historical_replay_matches": true,
+  "target_changed": false,
+  "baseline_replaced": false,
+  "download_retry_recovered": true,
+  "notify": true,
+  "candidate_status": "research_only_drawdown_margin_0.67pp"
+}
